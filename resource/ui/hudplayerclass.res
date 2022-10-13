@@ -218,7 +218,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"CarryingLabel"
-			"font"									"m0refont11"
+			"font"									"regular11"
 			"xpos"									"3"
 			"ypos"									"0"
 			"zpos"									"1"
@@ -237,7 +237,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"OwnerLabel"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"xpos"									"3"
 			"ypos"									"10"
 			"zpos"									"0"

@@ -35,7 +35,7 @@
 		"enabled"									"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont32Shadow"
+		"font"										"regular32Shadow"
 		"fgcolor"   								"Ubercharge"
 
 		"pin_to_sibling"							"UberAnchor"
@@ -61,7 +61,7 @@
 		"labelText"									"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"								"center"
 		"fgcolor"									"Ubercharge"
-		"font"										"m0refont32Shadow"
+		"font"										"regular32Shadow"
 
 		"pin_to_sibling"							"ChargeLabel"
 	}

@@ -80,7 +80,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont11"
+			"font"									"regular11"
 			"labelText"								"%blueteamname%"
 			"textAlignment"							"west"
 			"fgcolor"								"White"
@@ -99,7 +99,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont48"
+			"font"									"regular48"
 			"labelText"								"%blueteamscore%"
 			"textAlignment"							"east"
 			"fgcolor"								"White"
@@ -141,7 +141,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont11"
+			"font"									"regular11"
 			"labelText"								"%redteamname%"
 			"textAlignment"							"east"
 			"fgcolor"								"White"
@@ -162,7 +162,7 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"font"									"m0refont48"
+			"font"									"regular48"
 			"labelText"								"%redteamscore%"
 			"textAlignment"							"west"
 			"fgcolor"								"White"
@@ -174,7 +174,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"ArenaStreakLabel"
-			"font"									"m0refont11"
+			"font"									"regular11"
 			"fgcolor"								"White"
 			"xpos"									"cs-0.5"
 			"ypos"									"25"
@@ -256,7 +256,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"	  								"WinningTeamLabel"
-		"font"			    						"m0refont24"
+		"font"			    						"regular24"
 		"fgcolor"       							"White"
 		"xpos"		    							"-12"
 		"ypos"		    							"0"
@@ -276,7 +276,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"WinningTeamLabelDropshadow"
-		"font"			    						"m0refont24"
+		"font"			    						"regular24"
 		"fgcolor"      								"Black"
 		"xpos"		    							"-1"
 		"ypos"		    							"-1"
@@ -295,7 +295,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"LosingTeamLabel"
-		"font"			    						"m0refont24"
+		"font"			    						"regular24"
 		"fgcolor"       							"White"
 		"xpos"		    							"-12"
 		"ypos"		    							"0"
@@ -315,7 +315,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"LosingTeamLabelDropshadow"
-		"font"			    						"m0refont24"
+		"font"			    						"regular24"
 		"fgcolor"      								"Black"
 		"xpos"		    							"-1"
 		"ypos"		    							"-1"
@@ -496,7 +496,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 		}
@@ -510,7 +510,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -528,7 +528,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -546,7 +546,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -564,7 +564,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -582,7 +582,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -601,7 +601,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -619,7 +619,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -637,7 +637,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -655,7 +655,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -673,7 +673,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -691,7 +691,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -710,7 +710,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -728,7 +728,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -746,7 +746,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -764,7 +764,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -782,7 +782,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -800,7 +800,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -854,7 +854,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 		}
@@ -868,7 +868,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -886,7 +886,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -904,7 +904,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -922,7 +922,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -940,7 +940,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -959,7 +959,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -977,7 +977,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -995,7 +995,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1013,7 +1013,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1031,7 +1031,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1049,7 +1049,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1068,7 +1068,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1086,7 +1086,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1104,7 +1104,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1122,7 +1122,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1140,7 +1140,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 
@@ -1158,7 +1158,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"m0refont10"
+			"font"									"regular10"
 			"labelText"								""
 			"textAlignment"							"west"
 

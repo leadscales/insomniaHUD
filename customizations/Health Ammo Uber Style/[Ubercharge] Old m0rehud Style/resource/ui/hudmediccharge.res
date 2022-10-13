@@ -18,7 +18,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont18Shadow"
+		"font"										"regular18Shadow"
 		"fgcolor"   								"Ubercharge"
 	}
 
@@ -59,7 +59,7 @@
 		"labelText"									"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"								"center"
 		"fgcolor"									"Ubercharge"
-		"font"										"m0refont18Shadow"
+		"font"										"regular18Shadow"
 
 		"pin_to_sibling"							"ChargeLabel"
 	}

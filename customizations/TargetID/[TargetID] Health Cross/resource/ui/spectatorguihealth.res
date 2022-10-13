@@ -58,7 +58,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labeltext"									"%Health%"
-		"font"										"m0refont10"
+		"font"										"regular10"
 		"fgcolor"  									"Health Numbers"
 	}
 	"PlayerStatusHealthValueTargetShadow"
@@ -75,7 +75,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labeltext"									"%Health%"
-		"font"										"m0refont10"
+		"font"										"regular10"
 		"fgcolor"  									"Black"
 
 		"pin_to_sibling"							"PlayerStatusHealthValueTarget"

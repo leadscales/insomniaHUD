@@ -74,7 +74,7 @@
 				"tall"								"f0"
 				"visible"							"1"
 				"proportionaltoparent"				"1"
-				"font"								"m0refont11"
+				"font"								"regular11"
 				"labelText"							"%playername%"
 				"textAlignment"						"west"
 				"fgcolor"							"White"
@@ -94,14 +94,14 @@
 				"labelText"							"%respawntime%"
 				"textAlignment"						"center"
 				"fgcolor"							"White"
-				"font"								"m0refont11"
+				"font"								"regular11"
 			}
 
 			"chargeamount"
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"chargeamount"
-				"font"								"m0refont11"
+				"font"								"regular11"
 				"xpos"								"rs1-3"
 				"ypos"								"cs-0.5"
 				"zpos"								"20"
@@ -169,7 +169,7 @@
 		"enabled"									"1"
 		"labelText"									"#game_respawntime_in_secs"
 		"textAlignment"								"center"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"fgcolor"  									"White"
 		"proportionaltoparent"						"1"
 
@@ -191,7 +191,7 @@
 		"enabled"									"1"
 		"labelText"									"#TF_PVE_Buyback"
 		"textAlignment"								"center"
-		"font"										"m0refont14"
+		"font"										"regular14"
 		"wrap"										"1"
 		"centerwrap"								"1"
 		"proportionaltoparent"						"1"
@@ -250,7 +250,7 @@
 			"enabled"								"1"
 			"labelText"								"#FreezePanel_Item"
 			"textAlignment"							"Left"
-			"font"									"m0refont11"
+			"font"									"regular11"
 		}
 
 		"attriblabel"

@@ -25,7 +25,7 @@
 		"enabled"									"1"
 		"labelText"									"#game_respawntime_in_secs"
 		"textAlignment"								"center"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"fgcolor"   								"White"
 		"proportionaltoparent"						"1"
 
@@ -47,7 +47,7 @@
 		"enabled"									"1"
 		"labelText"									""
 		"textAlignment"								"center"
-		"font"										"m0refont16"
+		"font"										"regular16"
 		"wrap"										"1"
 		"centerwrap"								"1"
 	}

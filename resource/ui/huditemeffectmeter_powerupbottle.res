@@ -43,7 +43,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"east"
-		"font"										"m0refont20"
+		"font"										"regular20"
 		"fgcolor"									"White"
 	}
 
@@ -61,7 +61,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"east"
-		"font"										"m0refont20"
+		"font"										"regular20"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"ItemEffectMeterCount"

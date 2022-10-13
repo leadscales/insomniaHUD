@@ -4,8 +4,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"WaveCountLabel"
-		"font"										"m0refont12"
-		"font_minmode"								"m0refont9"
+		"font"										"regular12"
+		"font_minmode"								"regular9"
 		"fgcolor"									"White"
 		"xpos"										"200"
 		"ypos"										"4"
@@ -22,8 +22,8 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"WaveCountLabelShadow"
-		"font"										"m0refont12"
-		"font_minmode"								"m0refont9"
+		"font"										"regular12"
+		"font_minmode"								"regular9"
 		"fgcolor"									"Black"
 		"xpos"										"0"
 		"ypos"										"0"
@@ -71,7 +71,7 @@
 		"AllCaps"									"1"
 		"textAlignment"								"west"
 		"labelText"									"#TF_MVM_Support"
-		"font"										"m0refont12Shadow"
+		"font"										"regular12Shadow"
 		"fgcolor"									"White"
 
 		"if_verbose"

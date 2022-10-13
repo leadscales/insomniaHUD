@@ -17,7 +17,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"m0refont16"
+			"font"									"regular16"
 			"fgcolor"								"White"
 			"xpos"									"cs-0.5"
 			"ypos"									"-2"
@@ -49,7 +49,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"m0refont16"
+			"font"									"regular16"
 			"fgcolor"								"White"
 			"xpos"									"cs-0.5"
 			"ypos"									"-2"

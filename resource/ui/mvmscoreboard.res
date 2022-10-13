@@ -20,7 +20,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"PopFileLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%popfile%"
 		"textAlignment"								"east"
 		"xpos"										"-5"
@@ -55,7 +55,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DifficultyLabel"
-			"font"									"m0refont11"
+			"font"									"regular11"
 			"labelText"								"Difficulty: "
 			"textAlignment"							"west"
 			"xpos"									"0"
@@ -71,7 +71,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"DifficultyValue"
-			"font"									"m0refont11"
+			"font"									"regular11"
 			"labelText"								"%difficultyvalue%"
 			"textAlignment"							"west"
 			"xpos"									"0"

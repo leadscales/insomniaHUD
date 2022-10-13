@@ -191,7 +191,7 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"KillsLabel"
-				"font"								"m0refont11"
+				"font"								"regular11"
 				"xpos"								"12"
 				"ypos"								"2"
 				"wide"								"f15"

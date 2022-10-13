@@ -99,7 +99,7 @@
 		"enabled"									"1"
 		"labelText"									"1"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel1"
@@ -161,7 +161,7 @@
 		"enabled"									"1"
 		"labelText"									"2"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel2"
@@ -223,7 +223,7 @@
 		"enabled"									"1"
 		"labelText"									"3"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel3"
@@ -285,7 +285,7 @@
 		"enabled"									"1"
 		"labelText"									"4"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel4"
@@ -347,7 +347,7 @@
 		"enabled"									"1"
 		"labelText"									"5"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel5"
@@ -409,7 +409,7 @@
 		"enabled"									"1"
 		"labelText"									"6"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel6"
@@ -471,7 +471,7 @@
 		"enabled"									"1"
 		"labelText"									"7"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel7"
@@ -533,7 +533,7 @@
 		"enabled"									"1"
 		"labelText"									"8"
 		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"TauntModelPanel8"

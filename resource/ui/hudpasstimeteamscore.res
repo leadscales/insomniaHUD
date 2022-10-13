@@ -26,7 +26,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%bluescore%"
-		"font"										"m0refont30"
+		"font"										"regular30"
 		"fgcolor"									"m0reblue"
 	}
 	"BlueScoreShadow"
@@ -42,7 +42,7 @@
 		"enabled"									"1"
 		"textAlignment"								"east"
 		"labelText"									"%bluescore%"
-		"font"										"m0refont30"
+		"font"										"regular30"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"BlueScore"
@@ -61,7 +61,7 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%redscore%"
-		"font"										"m0refont30"
+		"font"										"regular30"
 		"fgcolor"									"m0rered"
 	}
 	"RedScoreShadow"
@@ -77,7 +77,7 @@
 		"enabled"									"1"
 		"textAlignment"								"west"
 		"labelText"									"%redscore%"
-		"font"										"m0refont30"
+		"font"										"regular30"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"RedScore"

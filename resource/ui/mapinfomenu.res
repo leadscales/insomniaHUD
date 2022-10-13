@@ -17,7 +17,7 @@
 	{
 		"ControlName"								"CExRichText"
 		"fieldName"									"MapInfoText"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"xpos"										"cs-0.5"
 		"ypos"										"cs-0.5"
 		"zpos"										"3"
@@ -44,7 +44,7 @@
 		"enabled"									"1"
 		"labelText"									"%mapname%"
 		"textAlignment"								"center"
-		"font"										"Coolvetica15"
+		"font"										"bold15"
 		"fgcolor"									"White"
 		"AllCaps"	 								"1"
 
@@ -68,7 +68,7 @@
 		"textAlignment"								"center"
 		"command"									"continue"
 		"default"									"1"
-		"font"										"Coolvetica15"
+		"font"										"bold15"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"
@@ -97,7 +97,7 @@
 		"textAlignment"								"center"
 		"command"									"intro"
 		"default"									"1"
-		"font"										"Coolvetica15"
+		"font"										"bold15"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"

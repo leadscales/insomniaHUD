@@ -4,7 +4,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"StalemateLabel"
-		"font"										"m0refont18Shadow"
+		"font"										"regular18Shadow"
 		"xpos"										"cs-0.5"
 		"ypos"										"60"
 		"zpos"										"1"
@@ -21,7 +21,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ReasonLabel"
-		"font"										"m0refont12Shadow"
+		"font"										"regular12Shadow"
 		"xpos"										"cs-0.5"
 		"ypos"										"80"
 		"zpos"										"1"

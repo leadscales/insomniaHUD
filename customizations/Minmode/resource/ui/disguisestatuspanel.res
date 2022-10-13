@@ -62,7 +62,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"%disguisename%"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"textAlignment"								"West"
 		"fgcolor"   								"White"
 
@@ -83,7 +83,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"%weaponname%"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"textAlignment"								"West"
 		"fgcolor"   								"White"
 

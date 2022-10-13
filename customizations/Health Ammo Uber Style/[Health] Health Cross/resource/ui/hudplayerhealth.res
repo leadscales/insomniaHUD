@@ -105,7 +105,7 @@
 		"enabled"									"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"m0refont26"
+		"font"										"regular26"
 		"fgcolor"									"Health Numbers"
 
 		"pin_to_sibling"							"PlayerStatusHealthImageBG"
@@ -125,7 +125,7 @@
 		"enabled"									"1"
 		"labelText"									"%Health%"
 		"textAlignment"								"center"
-		"font"										"m0refont26"
+		"font"										"regular26"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"

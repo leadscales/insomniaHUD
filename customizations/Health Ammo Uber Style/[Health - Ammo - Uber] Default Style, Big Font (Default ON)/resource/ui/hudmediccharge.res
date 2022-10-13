@@ -18,7 +18,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont18Shadow"
+		"font"										"regular18Shadow"
 		"fgcolor"   								"Ubercharge"
 	}
 
@@ -59,7 +59,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont72"
+		"font"										"regular72"
 		"fgcolor"   								"Ubercharge"
 
 		"pin_to_sibling"							"UberAnchor"
@@ -80,7 +80,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont72"
+		"font"										"regular72"
 		"fgcolor"  									"Black"
 
 		"pin_to_sibling"							"ChargeLabelBig"
@@ -99,7 +99,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"m0refont72"
+		"font"										"regular72"
 		"fgcolor"  									"Black"
 		"alpha"  									"0"
 
@@ -144,7 +144,7 @@
 		"labelText"									"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"								"center"
 		"fgcolor"									"Ubercharge"
-		"font"										"m0refont18Shadow"
+		"font"										"regular18Shadow"
 
 		"pin_to_sibling"							"ChargeLabel"
 	}

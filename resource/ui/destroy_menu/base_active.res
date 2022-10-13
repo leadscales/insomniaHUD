@@ -55,7 +55,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"NotBuiltLabel"
-		"font"										"m0refont9"
+		"font"										"regular9"
 		"xpos"										"cs-0.5"
 		"ypos"										"cs-0.5"
 		"zpos"										"5"
@@ -74,7 +74,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"NumberLabel"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"fgcolor"									"White"
 		"xpos"										"cs-0.5"
 		"ypos"										"rs1"

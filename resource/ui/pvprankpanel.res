@@ -211,7 +211,7 @@
 			"tall"									"14"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"Coolvetica15"
+			"font"									"bold15"
 			"fgcolor"								"White"
 			"textAlignment"							"west"
 			"labelText"								"%name%"
@@ -235,7 +235,7 @@
 			"tall"									"14"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"Coolvetica15"
+			"font"									"bold15"
 			"fgcolor_override"						"White"
 			"textAlignment"							"west"
 			"labelText"								"%desc1%"
@@ -249,9 +249,9 @@
 
 			"fonts"
 			{
-				"0"									"Coolvetica15"
-				"1"									"Coolvetica13"
-				"2"									"Coolvetica11"
+				"0"									"bold15"
+				"1"									"bold13"
+				"2"									"bold11"
 			}
 		}
 
@@ -266,7 +266,7 @@
 			"tall"									"14"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"Coolvetica15"
+			"font"									"bold15"
 			"fgcolor_override"						"White"
 			"textAlignment"							"north-west"
 			"labelText"								"%desc2%"
@@ -280,9 +280,9 @@
 
 			"fonts"
 			{
-				"0"									"Coolvetica15"
-				"1"									"Coolvetica13"
-				"2"									"Coolvetica11"
+				"0"									"bold15"
+				"1"									"bold13"
+				"2"									"bold11"
 			}
 
 			"colors"

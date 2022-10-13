@@ -41,7 +41,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"m0refont16"
+			"font"									"regular16"
 			"fgcolor"								"White"
 			"xpos"									"0"
 			"ypos"									"0"
@@ -54,7 +54,7 @@
 
 			"if_comp"
 			{
-				"font"								"m0refont12"
+				"font"								"regular12"
 			}
 		}
 	}
@@ -63,7 +63,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"StopWatchScoreToBeat"
-		"font"										"m0refont16"
+		"font"										"regular16"
 		"fgcolor"									"White"
 		"labelText"									"%scoretobeat%"
 		"textAlignment"								"center"
@@ -81,7 +81,7 @@
 
 		"if_comp"
 		{
-			"font"									"m0refont12"
+			"font"									"regular12"
 		}
 	}
 
@@ -89,7 +89,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"StopWatchPointsLabel"
-		"font"										"m0refont16"
+		"font"										"regular16"
 		"fgcolor"									"White"
 		"labelText"									"%pointslabel%"
 		"textAlignment"								"west"
@@ -107,7 +107,7 @@
 
 		"if_comp"
 		{
-			"font"									"m0refont12"
+			"font"									"regular12"
 		}
 	}
 
@@ -115,7 +115,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"StopWatchLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"fgcolor"									"White"
 		"labelText"									"%stopwatchlabel%"
 		"textAlignment"								"center"
@@ -133,7 +133,7 @@
 
 		"if_comp"
 		{
-			"font"									"m0refont12"
+			"font"									"regular12"
 		}
 	}
 

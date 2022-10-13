@@ -24,7 +24,7 @@
 		"visible"		  							"0"		//1 to enable
 		"enabled"		  							"1"
 		"textAlignment"	  							"center"
-		"font"			  							"m0refont24"
+		"font"			  							"regular24"
 		"fgcolor"		  							"White"
 		"proportionaltoparent"						"1"
 	}
@@ -126,7 +126,7 @@
 		"mouseinputenabled"							"0"
 		"labelText"		  							"%bluecount%"
 		"textAlignment"	  							"east"
-		"font"			  							"m0refont36"
+		"font"			  							"regular36"
 		"fgcolor"		  							"White"
 
 		"pin_to_sibling"							"BlueButton"
@@ -194,7 +194,7 @@
 		"mouseinputenabled"							"0"
 		"labelText"		  							"%redcount%"
 		"textAlignment"	  							"west"
-		"font"			  							"m0refont36"
+		"font"			  							"regular36"
 		"fgcolor"		  							"White"
 
 		"pin_to_sibling"							"RedButton"
@@ -215,7 +215,7 @@
 		"enabled"									"1"
 		"labelText"		  							"RANDOM"
 		"textAlignment"	  							"center"
-		"font"			  							"m0refont11"
+		"font"			  							"regular11"
 		"command"									"jointeam auto"
 		"use_proportional_insets" 					"1"
 		"default"									"1"
@@ -255,7 +255,7 @@
 		"enabled"									"1"
 		"labelText"		  							"SPECTATE"
 		"textAlignment"	  							"center"
-		"font"			  							"m0refont11"
+		"font"			  							"regular11"
 		"command"									"jointeam spectate"
 		"use_proportional_insets" 					"1"
 		"default"									"1"

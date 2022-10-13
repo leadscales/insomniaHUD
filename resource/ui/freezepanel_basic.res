@@ -104,7 +104,7 @@
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"labelText"								"%killername%"
-			"font"									"m0refont11"
+			"font"									"regular11"
 			"textAlignment"							"west"
 			"fgcolor"  								"White"
 		}

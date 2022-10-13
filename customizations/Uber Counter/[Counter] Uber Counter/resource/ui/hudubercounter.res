@@ -16,7 +16,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter0"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"0"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -35,7 +35,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter1"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"1"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -54,7 +54,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter2"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"2"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -73,7 +73,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter3"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"3"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -92,7 +92,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter4"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"4"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -111,7 +111,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter5"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"5"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -130,7 +130,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter6"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"6"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -149,7 +149,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter7"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"7"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -168,7 +168,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter8"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"8"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -187,7 +187,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter9"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"9"
             "fgcolor"								"White"
             "xpos"									"8"
@@ -206,7 +206,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter10"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"1"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -225,7 +225,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter20"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"2"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -244,7 +244,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter30"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"3"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -263,7 +263,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter40"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"4"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -282,7 +282,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter50"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"5"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -301,7 +301,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter60"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"6"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -320,7 +320,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter70"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"7"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -339,7 +339,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter80"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"8"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -358,7 +358,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter90"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"9"
             "fgcolor"								"White"
             "xpos"									"1"
@@ -377,7 +377,7 @@
         {
             "ControlName"							"CExLabel"
             "fieldName"								"Counter100"
-            "font"									"m0refont16Shadow"
+            "font"									"regular16Shadow"
             "labelText"								"100"
             "fgcolor"								"White"
             "xpos"									"0"

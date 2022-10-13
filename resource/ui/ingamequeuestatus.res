@@ -45,7 +45,7 @@
 		"tall"										"f0"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"m0refont16"
+		"font"										"regular16"
 		"AllCaps"									"1"
 		"fgcolor"									"White"
 		"textAlignment"								"east"

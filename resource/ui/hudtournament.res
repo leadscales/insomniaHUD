@@ -248,7 +248,7 @@
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%bluenamelabel%"
 		"textAlignment"								"west"
 		"fgcolor"   								"White"
@@ -280,7 +280,7 @@
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%bluestate%"
 		"textAlignment"								"east"
 		"fgcolor" 									"White"
@@ -351,7 +351,7 @@
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%rednamelabel%"
 		"textAlignment"								"east"
 		"fgcolor"   								"White"
@@ -385,7 +385,7 @@
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%redstate%"
 		"textAlignment"								"west"
 		"fgcolor" 									"White"
@@ -420,7 +420,7 @@
 		"visible"		              				"1"
 		"enabled"		              				"1"
 		"proportionaltoparent"						"1"
-		"font"			              				"m0refont10"
+		"font"			              				"regular10"
 		"labelText" 	          					"%winconditions%"
 		"textAlignment"		        				"center"
 		"fgcolor"                					"White"
@@ -455,7 +455,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"font"										"m0refont10"
+		"font"										"regular10"
 		"labelText"									"%readylabel%"
 		"textAlignment"								"center"
 		"fgcolor"									"White"
@@ -520,7 +520,7 @@
 		"zpos"										"2"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"m0refont18"
+		"font"										"regular18"
 		"labelText"									"%tournamentstatelabel%"
 		"textAlignment"								"center"
 		"fgcolor"									"White"
@@ -528,11 +528,11 @@
 
 		"if_competitive"
 		{
-			"font"									"m0refont18Shadow"
+			"font"									"regular18Shadow"
 		}
 		"if_readymode"
 		{
-			"font"									"m0refont18Shadow"
+			"font"									"regular18Shadow"
 		}
 	}
 

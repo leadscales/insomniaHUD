@@ -152,7 +152,7 @@
 		"CornerRadius"	  							"0"
 		"RightJustify"	  							"1"
 
-		"TextFont"									"m0refont11"
+		"TextFont"									"regular11"
 
 		"TeamBlue"									"m0reBlue"
 		"TeamRed"									"m0reRed"

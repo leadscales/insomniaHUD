@@ -24,7 +24,7 @@
 		"visible"		  							"0"				//1 to enable
 		"enabled"		  							"1"
 		"textAlignment"	  							"center"
-		"font"			  							"m0refont24"
+		"font"			  							"regular24"
 		"fgcolor"		  							"White"
 		"proportionaltoparent"						"1"
 	}
@@ -79,7 +79,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"use_proportional_insets" 					"1"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"AllCaps"									"1"
 		"labeltext"									"Fight"
 		"textAlignment"								"west"
@@ -124,7 +124,7 @@
 		"enabled"		  							"1"
 		"labelText"		  							"1"
 		"textAlignment"	  							"east"
-		"font"			  							"m0refont36"
+		"font"			  							"regular36"
 		"fgcolor"		  							"White"
 		"mouseinputenabled"							"0"
 
@@ -145,7 +145,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"use_proportional_insets" 					"1"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"AllCaps"									"1"
 		"labeltext"									"Spectate"
 		"textAlignment"								"east"
@@ -190,7 +190,7 @@
 		"enabled"		  							"1"
 		"labelText"		  							"2"
 		"textAlignment"	  							"west"
-		"font"			  							"m0refont36"
+		"font"			  							"regular36"
 		"fgcolor"		  							"White"
 		"mouseinputenabled"							"0"
 

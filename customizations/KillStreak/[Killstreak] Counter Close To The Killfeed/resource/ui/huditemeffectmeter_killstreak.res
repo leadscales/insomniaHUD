@@ -26,7 +26,7 @@
 		"enabled"									"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"east"
-		"font"										"m0refont18"
+		"font"										"regular18"
 		"fgcolor"									"White"
 	}
 	"ItemEffectMeterCountShadow"
@@ -42,7 +42,7 @@
 		"enabled"									"1"
 		"labelText"									"%progresscount%"
 		"textAlignment"								"east"
-		"font"										"m0refont18"
+		"font"										"regular18"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"ItemEffectMeterCount"

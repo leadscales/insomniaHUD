@@ -8,7 +8,7 @@
 		"ypos"										"0"
 		"wide"										"f0"
 		"tall"										"12"
-		"font"										"m0refont10"
+		"font"										"regular10"
 		"labelText"									"%header%"
 		"textAlignment" 							"west"
 		"textinsetx" 								"5"
@@ -37,7 +37,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CreditCollectedTextLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"#TF_PVE_Collected"
 		"textAlignment" 							"west"
 		"xpos"										"3"
@@ -53,7 +53,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CreditCollectedCountLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%creditscollected%"
 		"textAlignment" 							"east"
 		"xpos"										"2"
@@ -72,7 +72,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CreditMissedTextLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"#TF_PVE_Missed"
 		"textAlignment" 							"west"
 		"xpos"										"0"
@@ -92,7 +92,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CreditMissedCountLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%creditsmissed%"
 		"textAlignment" 							"east"
 		"xpos"										"2"
@@ -111,7 +111,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CreditBonusTextLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"#TF_PVE_Bonus"
 		"textAlignment" 							"west"
 		"xpos"										"0"
@@ -131,7 +131,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CreditBonusCountLabel"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"labelText"									"%creditbonus%"
 		"textAlignment" 							"east"
 		"xpos"										"2"
@@ -175,7 +175,7 @@
 		"ypos"										"0"
 		"wide"										"20"
 		"tall"										"12"
-		"font"										"m0refont12"
+		"font"										"regular12"
 		"labelText"									"%rating%"
 		"textAlignment" 							"center"
 		"fgcolor"									"White"

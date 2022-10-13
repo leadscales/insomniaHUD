@@ -192,7 +192,7 @@
 			{
 				"ControlName"						"ContinuousProgressBar"
 				"fieldName"							"Ammo"
-				"font"								"m0refont11"
+				"font"								"regular11"
 				"xpos"								"12"
 				"ypos"								"4"
 				"wide"								"30"

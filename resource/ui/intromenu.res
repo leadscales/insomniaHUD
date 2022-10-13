@@ -43,7 +43,7 @@
 		"enabled"									"1"
 		"labelText"									" "
 		"textAlignment"								"center"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"fgcolor"									"White"
 		"wrap"										"1"
 		"centerwrap"								"1"
@@ -70,7 +70,7 @@
 		"labelText"									"CONTINUE (&E) "
 		"textAlignment"								"center"
 		"command"									"skip"
-		"font"										"Coolvetica15"
+		"font"										"bold15"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"
@@ -98,7 +98,7 @@
 		"labelText"									"BACK (&Q) "
 		"textAlignment"								"center"
 		"command"									"back"
-		"font"										"Coolvetica15"
+		"font"										"bold15"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"

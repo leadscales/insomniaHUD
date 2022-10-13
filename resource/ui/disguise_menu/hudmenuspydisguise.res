@@ -323,7 +323,7 @@
 		"labelText"									"1"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"Center"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"class_item_red_2"
@@ -345,7 +345,7 @@
 		"labelText"									"2"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"Center"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"class_item_red_5"
@@ -367,7 +367,7 @@
 		"labelText"									"3"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"Center"
-		"font"										"m0refont11"
+		"font"										"regular11"
 		"fgcolor"									"White"
 
 		"pin_to_sibling"							"class_item_red_8"

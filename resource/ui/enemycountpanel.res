@@ -72,7 +72,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%enemy_count%"
-		"font"										"m0refont14"
+		"font"										"regular14"
 		"fgcolor"									"White"
 	}
 	"EnemyCountShadow"
@@ -88,7 +88,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%enemy_count%"
-		"font"										"m0refont14"
+		"font"										"regular14"
 		"fgcolor"									"Black"
 		"pin_to_sibling"							"EnemyCount"
 	}

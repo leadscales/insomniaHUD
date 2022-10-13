@@ -61,7 +61,7 @@
 			"proportionaltoparent"					"1"
 			"labelText"								"%activepipes%"
 			"textAlignment"							"center"
-			"font"									"m0refont16"
+			"font"									"regular16"
 			"fgcolor"   							"White"
 		}
 		"NumPipesLabelDropshadow"
@@ -77,7 +77,7 @@
 			"enabled"								"1"
 			"labelText"								"%activepipes%"
 			"textAlignment"							"center"
-			"font"									"m0refont16"
+			"font"									"regular16"
 			"fgcolor"								"Black"
 
 			"pin_to_sibling"						"NumPipesLabel"

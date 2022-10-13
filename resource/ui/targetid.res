@@ -63,7 +63,7 @@
 		"tall"			           					"12"
 		"visible"		           					"1"
 		"enabled"		           					"1"				// 0 to enable color change
-		"font"			           					"m0refont11"
+		"font"			           					"regular11"
 		"labelText"		         					"%targetname%"
 		"textAlignment"		     					"west"
 		"disabledfgcolor2_override"					"White"
@@ -80,7 +80,7 @@
 		"tall"			           					"11"
 		"visible"		          					"1"
 		"enabled"		           					"1"				// 0 to enable color change
-		"font"			           					"m0refont11Shadow"
+		"font"			           					"regular11Shadow"
 		"labelText"		        					"%targetdata%"
 		"textAlignment"		     					"north-west"
 		"disabledfgcolor2_override"					"White"

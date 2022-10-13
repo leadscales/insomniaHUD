@@ -14,7 +14,7 @@
 		"proportionaltoparent" 						"1"
 		"labelText"									"%servertimeleft%"
 		"textAlignment"								"center"
-		"font" 										"m0refont12"
+		"font" 										"regular12"
 		"fgcolor"									"White"
 	}
 

@@ -36,7 +36,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"east"
 		"labelText"									"%bluescore%"
-		"font"										"m0refont36"
+		"font"										"regular36"
 		"fgcolor"									"m0reblue"
 
 		"if_hybrid"
@@ -66,7 +66,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"east"
 		"labelText"									"%bluescore%"
-		"font"										"m0refont36"
+		"font"										"regular36"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"BlueScore"
@@ -134,7 +134,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"west"
 		"labelText"									"%redscore%"
-		"font"										"m0refont36"
+		"font"										"regular36"
 		"fgcolor"									"m0rered"
 
 		"if_hybrid"
@@ -164,7 +164,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"west"
 		"labelText"									"%redscore%"
-		"font"										"m0refont36"
+		"font"										"regular36"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"RedScore"
@@ -326,7 +326,7 @@
 		"enabled"									"1"
 		"textAlignment"								"center"
 		"labelText"									"%redscore%"
-		"font"										"m0refont18Shadow"
+		"font"										"regular18Shadow"
 		"fgcolor"									"White"
 		"proportionaltoparent"						"1"
 	}

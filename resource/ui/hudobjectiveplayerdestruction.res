@@ -105,7 +105,7 @@
 			"enabled"								"1"
 			"textAlignment"							"west"
 			"labelText"								"%flagvalue%"
-			"font"									"m0refont14"
+			"font"									"regular14"
 			"fgcolor"								"White"
 			"proportionalToParent"					"1"
 
@@ -126,7 +126,7 @@
 			"enabled"								"1"
 			"textAlignment"							"west"
 			"labelText"								"%flagvalue%"
-			"font"									"m0refont14"
+			"font"									"regular14"
 			"fgcolor"								"Black"
 			"proportionalToParent"					"1"
 
@@ -214,7 +214,7 @@
 				"enabled"							"1"
 				"textAlignment"						"east"
 				"labelText"							"%blue_escrow%"
-				"font"								"m0refont18"
+				"font"								"regular18"
 				"fgcolor"							"White"
 				"proportionalToParent"				"1"
 
@@ -235,7 +235,7 @@
 				"enabled"							"1"
 				"textAlignment"						"east"
 				"labelText"							"%blue_escrow%"
-				"font"								"m0refont18"
+				"font"								"regular18"
 				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
@@ -271,7 +271,7 @@
 				"enabled"							"1"
 				"textAlignment"						"west"
 				"labelText"							"%red_escrow%"
-				"font"								"m0refont18"
+				"font"								"regular18"
 				"fgcolor"							"White"
 				"proportionalToParent"				"1"
 
@@ -292,7 +292,7 @@
 				"enabled"							"1"
 				"textAlignment"						"west"
 				"labelText"							"%red_escrow%"
-				"font"								"m0refont18"
+				"font"								"regular18"
 				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
@@ -325,7 +325,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"WIN:"
-					"font"							"m0refont12"
+					"font"							"regular12"
 					"fgcolor"						"White"
 					"proportionalToParent"			"1"
 				}
@@ -343,7 +343,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"WIN:"
-					"font"							"m0refont12"
+					"font"							"regular12"
 					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
@@ -363,7 +363,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"%victorytime%"
-					"font"							"m0refont14"
+					"font"							"regular14"
 					"fgcolor"						"White"
 					"proportionalToParent"			"1"
 
@@ -385,7 +385,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"%victorytime%"
-					"font"							"m0refont14"
+					"font"							"regular14"
 					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
@@ -432,7 +432,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"WIN:"
-					"font"							"m0refont12"
+					"font"							"regular12"
 					"fgcolor"						"White"
 					"proportionalToParent"			"1"
 				}
@@ -450,7 +450,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"WIN:"
-					"font"							"m0refont12"
+					"font"							"regular12"
 					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
@@ -470,7 +470,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"%victorytime%"
-					"font"							"m0refont14"
+					"font"							"regular14"
 					"fgcolor"						"White"
 					"proportionalToParent"			"1"
 
@@ -492,7 +492,7 @@
 					"enabled"						"1"
 					"textAlignment"					"center"
 					"labelText"						"%victorytime%"
-					"font"							"m0refont14"
+					"font"							"regular14"
 					"fgcolor"						"Black"
 					"proportionalToParent"			"1"
 
@@ -571,7 +571,7 @@
 				"enabled"							"1"
 				"textAlignment"						"east"
 				"labelText"							"%score%"
-				"font"								"m0refont30"
+				"font"								"regular30"
 				"fgcolor"							"m0reblue"
 				"proportionalToParent"				"1"
 			}
@@ -588,7 +588,7 @@
 				"enabled"							"1"
 				"textAlignment"						"east"
 				"labelText"							"%score%"
-				"font"								"m0refont30"
+				"font"								"regular30"
 				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
@@ -623,7 +623,7 @@
 				"enabled"							"1"
 				"textAlignment"						"west"
 				"labelText"							"%score%"
-				"font"								"m0refont30"
+				"font"								"regular30"
 				"fgcolor"							"m0rered"
 				"proportionalToParent"				"1"
 			}
@@ -640,7 +640,7 @@
 				"enabled"							"1"
 				"textAlignment"						"west"
 				"labelText"							"%score%"
-				"font"								"m0refont30"
+				"font"								"regular30"
 				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
@@ -723,7 +723,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"
 				"labelText"							"%intelvalue%"
-				"font"								"m0refont16"
+				"font"								"regular16"
 				"fgcolor"							"TanLight"
 				"bgcolor_override"					"Blank"
 				"proportionalToParent"				"1"
@@ -742,7 +742,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"
 				"labelText"							"%intelvalue%"
-				"font"								"m0refont16"
+				"font"								"regular16"
 				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
@@ -825,7 +825,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"
 				"labelText"							"%intelvalue%"
-				"font"								"m0refont16"
+				"font"								"regular16"
 				"fgcolor"							"TanLight"
 				"bgcolor_override"					"Blank"
 				"proportionalToParent"				"1"
@@ -844,7 +844,7 @@
 				"enabled"							"1"
 				"textAlignment"						"center"
 				"labelText"							"%intelvalue%"
-				"font"								"m0refont16"
+				"font"								"regular16"
 				"fgcolor"							"Black"
 				"proportionalToParent"				"1"
 
@@ -879,7 +879,7 @@
 			"enabled"								"1"
 			"textAlignment"							"center"
 			"labelText"								"%countdowntime%"
-			"font"									"m0refont18"
+			"font"									"regular18"
 			"fgcolor"								"White"
 			"proportionalToParent"					"1"
 		}
@@ -896,7 +896,7 @@
 			"enabled"								"1"
 			"textAlignment"							"center"
 			"labelText"								"%countdowntime%"
-			"font"									"m0refont18"
+			"font"									"regular18"
 			"fgcolor"								"Black"
 			"proportionalToParent"					"1"
 

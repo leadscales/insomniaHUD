@@ -2,7 +2,7 @@
 {
 	"Fonts"
 	{
-		"m0refont9"
+		"regular9"
 		{
 			"1"
 			{
@@ -11,7 +11,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont10"
+		"regular10"
 		{
 			"1"
 			{
@@ -20,7 +20,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont10Shadow"
+		"regular10Shadow"
 		{
 			"1"
 			{
@@ -30,7 +30,7 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"m0refont11"
+		"regular11"
 		{
 			"1"
 			{
@@ -39,7 +39,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont11Shadow"
+		"regular11Shadow"
 		{
 			"1"
 			{
@@ -49,7 +49,7 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"m0refont12"
+		"regular12"
 		{
 			"1"
 			{
@@ -58,7 +58,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont12Shadow"
+		"regular12Shadow"
 		{
 			"1"
 			{
@@ -68,7 +68,7 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"m0refont14"
+		"regular14"
 		{
 			"1"
 			{
@@ -77,7 +77,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont16"
+		"regular16"
 		{
 			"1"
 			{
@@ -86,7 +86,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont16Shadow"
+		"regular16Shadow"
 		{
 			"1"
 			{
@@ -96,7 +96,7 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"m0refont18"
+		"regular18"
 		{
 			"1"
 			{
@@ -105,7 +105,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont18Shadow"
+		"regular18Shadow"
 		{
 			"1"
 			{
@@ -115,7 +115,7 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"m0refont18Outline"
+		"regular18Outline"
 		{
 			"1"
 			{
@@ -125,7 +125,7 @@
 				"outline" 									"1"
 			}
 		}
-		"m0refont18Numbers"
+		"regular18Numbers"
 		{
 			"1"
 			{
@@ -135,7 +135,7 @@
 				"outline" 									"1"
 			}
 		}
-		"m0refont20"
+		"regular20"
 		{
 			"1"
 			{
@@ -144,7 +144,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont24"
+		"regular24"
 		{
 			"1"
 			{
@@ -153,7 +153,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont24Shadow"
+		"regular24Shadow"
 		{
 			"1"
 			{
@@ -163,7 +163,7 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"m0refont24Outline"
+		"regular24Outline"
 		{
 			"1"
 			{
@@ -173,7 +173,7 @@
 				"outline" 									"1"
 			}
 		}
-		"m0refont24Numbers"
+		"regular24Numbers"
 		{
 			"1"
 			{
@@ -183,7 +183,7 @@
 				"outline" 									"1"
 			}
 		}
-		"m0refont26"
+		"regular26"
 		{
 			"1"
 			{
@@ -192,7 +192,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont30"
+		"regular30"
 		{
 			"1"
 			{
@@ -201,17 +201,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont30Outline"
-		{
-			"1"
-			{
-				"name"										"RockwellRegular"
-				"tall"										"30"
-				"antialias" 								"1"
-				"outline" 									"1"
-			}
-		}
-		"m0refont30Numbers"
+		"regular30Outline"
 		{
 			"1"
 			{
@@ -221,7 +211,17 @@
 				"outline" 									"1"
 			}
 		}
-		"m0refont32"
+		"regular30Numbers"
+		{
+			"1"
+			{
+				"name"										"RockwellRegular"
+				"tall"										"30"
+				"antialias" 								"1"
+				"outline" 									"1"
+			}
+		}
+		"regular32"
 		{
 			"1"
 			{
@@ -230,7 +230,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont32Shadow"
+		"regular32Shadow"
 		{
 			"1"
 			{
@@ -240,7 +240,7 @@
 				"dropshadow" 								"1"
 			}
 		}
-		"m0refont36"
+		"regular36"
 		{
 			"1"
 			{
@@ -249,7 +249,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont48"
+		"regular48"
 		{
 			"1"
 			{
@@ -258,7 +258,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"m0refont72"
+		"regular72"
 		{
 			"1"
 			{
@@ -344,7 +344,7 @@
 			}
 		}
 
-		"Coolvetica11"
+		"bold11"
 		{
 			"1"
 			{
@@ -353,7 +353,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"Coolvetica13"
+		"bold13"
 		{
 			"1"
 			{
@@ -362,7 +362,7 @@
 				"antialias" 								"1"
 			}
 		}
-		"Coolvetica15"
+		"bold15"
 		{
 			"1"
 			{
