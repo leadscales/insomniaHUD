@@ -372,6 +372,69 @@
 			}
 		}
 
+		"icons20"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"20"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+
+		"icons18"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"icons13"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"13"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"icons10"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"class26"
+		{
+			"1"
+			{
+				"name"			"Chars"
+				"tall"			"26"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+		"class16"
+		{
+			"1"
+			{
+				"name"			"Chars"
+				"tall"			"16"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
+
 		"VerdanaMenu"										//Create Server Button
 		{
 			"1"
@@ -520,6 +583,16 @@
 		{
 			"font" 		"resource/scheme/fonts/m0rehud icons.ttf"
 			"name" 		"m0rehud Icons V4"
+		}
+		"13"
+		{
+			"font"		"resource/scheme/fonts/Icons.ttf"
+			"name"		"Icons"
+		}
+		"14"
+		{
+			"font"		"resource/scheme/fonts/Chars.ttf"
+			"name"		"Chars"
 		}
 	}
 }

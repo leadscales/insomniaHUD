@@ -3112,25 +3112,25 @@
 		"ScrollBarButtonDepressedBorder"
 		{
 			"inset" 										"0 0 0 0"
-			"backgroundtype" 								"2"
+			"backgroundtype" 								"0"
 		}
 
 		"ButtonBorder"
 		{
 			"inset" 										"0 0 0 0"
-			"backgroundtype" 								"2"
+			"backgroundtype" 								"0"
 		}
 
 		"ButtonKeyFocusBorder"
 		{
 			"inset" 										"0 0 0 0"
-			"backgroundtype" 								"2"
+			"backgroundtype" 								"0"
 		}
 
 		"ButtonDepressedBorder"
 		{
 			"inset" 										"0 0 0 0"
-			"backgroundtype" 								"2"
+			"backgroundtype" 								"0"
 		}
 
 		"ComboBoxBorder"
