@@ -8,9 +8,7 @@
 		"ypos"										"0"
 		"zpos"										"20"
 		"wide"										"100"
-		"wide_minmode"								"65"
 		"tall"										"65"
-		"tall_minmode"								"42"
 		"visible"									"0"
 		"enabled"									"1"
 	}
