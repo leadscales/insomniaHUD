@@ -1,7 +1,7 @@
 "Resource/UI/HudMedicCharge.res"
 {
 	//==================================================================================================================================================
-	// UNDER CROSSHAIR SMALL UBER PERCENTAGE
+	// UBER LABEL
 	//==================================================================================================================================================
 
 	"ChargeLabel"
@@ -9,101 +9,17 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"ChargeLabel"
 		"xpos"										"cs-0.5"
-		"ypos"										"c36"
+		"ypos"										"c40"
 		"zpos"										"2"
-		"wide"										"100"
+		"wide"										"60"
 		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
-		"font"										"regular18Shadow"
+		"font"										"bold18"
 		"fgcolor"   								"Ubercharge"
-	}
-
-	//==================================================================================================================================================
-	// UBER ANCHOR
-	// Moves all the uber elements at the same time
-	//==================================================================================================================================================
-
-	"UberAnchor"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"UberAnchor"
-		"xpos"										"c175"
-		"ypos"										"c95"
-		"zpos"										"0"
-		"wide"										"2"
-		"tall"										"80"
-		"visible"									"0"
-		"enabled"									"1"
-		"alpha"										"0"
-	}
-
-	//==================================================================================================================================================
-	// MAIN UBER PERCENTAGE
-	//==================================================================================================================================================
-
-	"ChargeLabelBig"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ChargeLabelBig"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"2"
-		"wide"										"200"
-		"tall"										"80"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"labelText"									"#TF_UberchargeMinHUD"
-		"textAlignment"								"center"
-		"font"										"regular72"
-		"fgcolor"   								"Ubercharge"
-
-		"pin_to_sibling"							"UberAnchor"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
-	}
-	"ChargeLabelBigShadow"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ChargeLabelBigShadow"
-		"xpos"										"-2"
-		"ypos"										"-2"
-		"zpos"										"2"
-		"wide"										"200"
-		"tall"										"80"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"labelText"									"#TF_UberchargeMinHUD"
-		"textAlignment"								"center"
-		"font"										"regular72"
-		"fgcolor"  									"Black"
-
-		"pin_to_sibling"							"ChargeLabelBig"
-	}
-	"ChargeLabelBigShadowExtra"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ChargeLabelBigShadowExtra"
-		"xpos"										"-1"
-		"ypos"										"-1"
-		"zpos"										"2"
-		"wide"										"200"
-		"tall"										"80"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"labelText"									"#TF_UberchargeMinHUD"
-		"textAlignment"								"center"
-		"font"										"regular72"
-		"fgcolor"  									"Black"
-		"alpha"  									"0"
-
-		"pin_to_sibling"							"ChargeLabelBigShadow"
 	}
 
 	//==================================================================================================================================================
@@ -115,14 +31,18 @@
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ChargeMeter"
 		"xpos"										"0"
-		"ypos"										"rs1"
+		"ypos"										"5"
 		"zpos"										"2"
-		"wide"										"f0"
-		"tall"										"4"
+		"wide"										"60"
+		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"fgcolor_override"							"Ubercharge"
+
+		"pin_to_sibling"							"ChargeLabel"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -136,7 +56,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"3"
-		"wide"										"100"
+		"wide"										"60"
 		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
@@ -144,7 +64,7 @@
 		"labelText"									"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"								"center"
 		"fgcolor"									"Ubercharge"
-		"font"										"regular18Shadow"
+		"font"										"bold18"
 
 		"pin_to_sibling"							"ChargeLabel"
 	}
@@ -153,22 +73,26 @@
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ChargeMeter1"
-		"xpos"										"c-69"
-		"ypos"										"r88"
+		"xpos"										"0"
+		"ypos"										"5"
 		"zpos"										"2"
-		"wide"										"34"
+		"wide"										"13"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
+
+		"pin_to_sibling"							"IndividualChargesLabel"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 	"ChargeMeter2"
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ChargeMeter2"
-		"xpos"										"1"
+		"xpos"										"2"
 		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"34"
+		"wide"										"13"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
@@ -181,10 +105,10 @@
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ChargeMeter3"
-		"xpos"										"1"
+		"xpos"										"2"
 		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"34"
+		"wide"										"13"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
@@ -197,10 +121,10 @@
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ChargeMeter4"
-		"xpos"										"1"
+		"xpos"										"2"
 		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"35"
+		"wide"										"13"
 		"tall"										"2"
 		"visible"									"1"
 		"enabled"									"1"
@@ -219,7 +143,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"ResistIconAnchor"
 		"xpos"										"cs-0.5"
-		"ypos"										"c58"
+		"ypos"										"c20"
 		"wide"										"0"
 		"tall"										"80"
 		"visible"									"1"
