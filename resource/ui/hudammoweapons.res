@@ -1,62 +1,50 @@
 "Resource/UI/HudAmmoWeapons.res"
 {
 	//==================================================================================================================================================
-	// AMMO ANCHOR
-	// This element can be used to move all the ammo elements at the same time
-	// By increasing the wide, the gap between clip and reserver will also increase
-	//==================================================================================================================================================
-
-	"AmmoAnchor"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"AmmoAnchor"
-		"xpos"										"c175"
-		"ypos"										"c95"
-		"zpos"										"0"
-		"wide"										"5"
-		"tall"										"80"
-		"visible"									"0"
-		"enabled"									"1"
-	}
-
-	//==================================================================================================================================================
 	// AMMO IN CLIP
 	//==================================================================================================================================================
+
+	"AlignmentHelper"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"AlignmentHelper"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5"
+		"wide"										"80"
+		"tall"										"80"
+		"bgcolor_override"							"Blank"
+	}
 
 	"AmmoInClip"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClip"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"c40"
+		"ypos"										"c40"
 		"zpos"										"5"
-		"wide"										"150"
-		"tall"										"80"
+		"wide"										"60"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"regular72"
-		"textAlignment"								"east"
+		"font"										"bold32"
+		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Ammo In Clip"
-
-		"pin_to_sibling"							"AmmoAnchor"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"AmmoInClipShadow"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInClipShadow"
-		"xpos"										"-2"
-		"ypos"										"-2"
+		"xpos"										"-1"
+		"ypos"										"-1"
 		"zpos"										"5"
-		"wide"										"150"
-		"tall"										"80"
+		"wide"										"60"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"regular72"
-		"textAlignment"								"east"
+		"font"										"bold32Blur"
+		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Black"
 
@@ -72,20 +60,21 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"AmmoInReserve"
 		"xpos"										"0"
-		"ypos"										"-4"
+		"ypos"										"0"
 		"zpos"										"7"
-		"wide"										"150"
-		"tall"										"80"
+		"wide"										"60"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"regular24"
-		"textAlignment"								"west"
+		"font"										"bold18"
+		"textAlignment"								"center"
 		"labelText"									"%AmmoInReserve%"
 		"fgcolor"									"Ammo In Reserve"
+		"bgcolor_override"							"Blank"
 
-		"pin_to_sibling"							"AmmoAnchor"
+		"pin_to_sibling"							"AmmoInClip"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	"AmmoInReserveShadow"
@@ -95,12 +84,12 @@
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"7"
-		"wide"										"150"
-		"tall"										"80"
+		"wide"										"60"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"regular24"
-		"textAlignment"								"west"
+		"font"										"bold18Blur"
+		"textAlignment"								"center"
 		"labelText"									"%AmmoInReserve%"
 		"fgcolor"									"Black"
 
@@ -114,44 +103,38 @@
 	"AmmoNoClip"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"AmmonoClip"
-		"xpos"										"0"
-		"ypos"    									"0"
+		"fieldName"									"AmmoNoClip"
+		"xpos"										"c40"
+		"ypos"    									"c40"
 		"zpos"										"5"
-		"wide"										"150"
-		"tall"										"80"
+		"wide"										"60"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"regular72"
+		"font"										"bold32"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Ammo No Clip"
-
-		"pin_to_sibling"							"AmmoAnchor"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 
 	"AmmoNoClipShadow"
 	{
 		"ControlName"								"CExLabel"
-		"fieldName"									"AmmonoClipshadow"
-		"xpos"										"-2"
-		"ypos"										"-2"
+		"fieldName"									"AmmoNoClipShadow"
+		"xpos"										"-1"
+		"ypos"										"-1"
 		"zpos"										"5"
-		"wide"										"150"
-		"tall"										"80"
+		"wide"										"60"
+		"tall"										"20"
 		"visible"									"0"
 		"enabled"									"1"
-		"font"										"regular72"
+		"font"										"bold32Blur"
 		"textAlignment"								"center"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"AmmoNoClip"
 	}
-
-
 
 	//==================================================================================================================================================
 	// REMOVED ELEMENTS

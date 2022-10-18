@@ -24,3 +24,4 @@ tf_contract_progress_show 2
 
 // Configs
 exec aliases
+alias test "map itemtest; sv_cheats 1"

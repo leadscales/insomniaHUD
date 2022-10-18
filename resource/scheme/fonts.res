@@ -371,6 +371,44 @@
 				"antialias" 								"1"
 			}
 		}
+		"bold18"
+		{
+			"1"
+			{
+				"name"										"WSSemi"
+				"tall"										"18"
+				"antialias"									"1"
+			}
+		}
+		"bold18Blur"
+		{
+			"1"
+			{
+				"name"										"WSSemi"
+				"tall"										"18"
+				"antialias"									"1"
+				"blur"										"1"
+			}
+		}
+		"bold32"
+		{
+			"1"
+			{
+				"name"										"WSSemi"
+				"tall"										"32"
+				"antialias"									"1"
+			}
+		}
+		"bold32Blur"
+		{
+			"1"
+			{
+				"name"										"WSSemi"
+				"tall"										"32"
+				"antialias"									"1"
+				"blur"										"1"
+			}
+		}
 
 		"icons20"
 		{

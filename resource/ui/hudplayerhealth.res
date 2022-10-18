@@ -1,5 +1,16 @@
 "Resource/UI/HudPlayerHealth.res"
 {
+	"AlignmentHelper"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"AlignmentHelper"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5"
+		"wide"										"80"
+		"tall"										"80"
+		"bgcolor_override"							"Blank"
+	}
+
 	"HudPlayerHealth"
 	{
 		"ControlName"           					"EditablePanel"
@@ -17,25 +28,6 @@
 	}
 
 	//==================================================================================================================================================
-	// HEALTH ANCHOR
-	// This element can be used to move all the health elements at the same time
-	//==================================================================================================================================================
-
-	"HealthAnchor"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"HealthAnchor"
-		"xpos"										"c-175"
-		"ypos"										"c95"
-		"zpos"										"0"
-		"wide"										"2"
-		"tall"										"80"
-		"visible"									"0"
-		"enabled"									"1"
-		"alpha"										"0"
-	}
-
-	//==================================================================================================================================================
 	// BUFF - HURT CROSS
 	//==================================================================================================================================================
 
@@ -43,13 +35,13 @@
 	{
 		"ControlName"	         				 	"ImagePanel"
 		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
-		"xpos"			         				 	"c-205"
-		"ypos"			         				 	"c107"
-		"zpos"			         				 	"-4"
-		"wide"			         				 	"66"
-		"tall"			         				 	"66"
+		"xpos"			         				 	"9999"
+		"ypos"			         				 	"9999"
+		"zpos"			         				 	"-9999"
+		"wide"			         				 	"0"
+		"tall"			         				 	"0"
 		"visible"		         				 	"0"
-		"enabled"		         				 	"1"
+		"enabled"		         				 	"0"
 		"image"			         				 	"../hud/health_over_bg"
 		"scaleImage"	         				 	"1"
 	}
@@ -62,58 +54,35 @@
 	{
 		"ControlName"	           				 	"CExLabel"
 		"fieldName"	  	         				 	"PlayerStatusHealthValue"
-		"xpos"		    	         				"0"
-		"ypos"		    	         				"0"
+		"xpos"		    	         				"c0-s1-40"
+		"ypos"		    	         				"c40"
 		"zpos"		    	         				"5"
-		"wide"		    	         				"150"
-		"tall"		    	         				"80"
+		"wide"		    	         				"60"
+		"tall"		    	         				"20"
 		"visible"		  	         				"1"
 		"enabled"	  		         				"1"
 		"labelText" 		         				"%Health%"
 		"textAlignment"         				 	"center"
-		"font"                   				 	"regular72"
+		"font"                   				 	"bold32"
 		"fgcolor"	    	         				"Health Numbers"
-
-		"pin_to_sibling"							"HealthAnchor"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	           				 	"CExLabel"
 		"fieldName"	  	         				 	"PlayerStatusHealthValueShadow"
-		"xpos"	    		         				"-2"
-		"ypos"	    		         				"-2"
-		"zpos"	    		         				"5"
-		"wide"		    	         				"150"
-		"tall"		    	         				"80"
-		"visible"	    	         				"1"
-		"enabled"	    	         				"1"
-		"labelText"	  	         				 	"%Health%"
-		"textAlignment"	         				 	"center"
-		"font"                   				 	"regular72"
-		"fgcolor"	     	         				"Black"
-
-		"pin_to_sibling"							"PlayerStatusHealthValue"
-	}
-	"PlayerStatusHealthValueShadowExtra"
-	{
-		"ControlName"	          				 	"CExLabel"
-		"fieldName"	  	         				 	"PlayerStatusHealthValueShadowExtra"
 		"xpos"	    		         				"-1"
 		"ypos"	    		         				"-1"
 		"zpos"	    		         				"5"
-		"wide"		    	         				"150"
-		"tall"		    	         				"80"
+		"wide"		    	         				"60"
+		"tall"		    	         				"20"
 		"visible"	    	         				"1"
 		"enabled"	    	         				"1"
 		"labelText"	  	         				 	"%Health%"
 		"textAlignment"	         				 	"center"
-		"font"                   				 	"regular72"
-		"fgcolor"	     	         				"Extra Shadow"
-		"alpha"	     	         					"0"
+		"font"                   				 	"bold32Blur"
+		"fgcolor"	     	         				"Black"
 
-		"pin_to_sibling"							"PlayerStatusHealthValueShadow"
+		"pin_to_sibling"							"PlayerStatusHealthValue"
 	}
 
 	//==================================================================================================================================================
@@ -125,10 +94,10 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"PlayerStatusAnchor"
-		"xpos"										"-20"
-		"ypos"										"5"
+		"xpos"										"0"
+		"ypos"										"1"
 		"wide"										"0"
-		"tall"										"80"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 
