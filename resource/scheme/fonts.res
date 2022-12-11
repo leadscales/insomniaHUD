@@ -421,7 +421,6 @@
 				"antialias"		"1"
 			}
 		}
-
 		"icons18"
 		{
 			"1"
@@ -452,6 +451,52 @@
 				"antialias"		"1"
 			}
 		}
+		"icons20Blur"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"20"
+				"weight"		"0"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+		"icons18Blur"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+		"icons13Blur"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"13"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+		"icons10Blur"
+		{
+			"1"
+			{
+				"name"			"Icons"
+				"tall"			"10"
+				"additive"		"0"
+				"antialias"		"1"
+				"blur"			"1"
+			}
+		}
+
 		"class26"
 		{
 			"1"

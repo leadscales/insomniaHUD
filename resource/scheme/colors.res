@@ -15,7 +15,7 @@
 		"Health Hurt Killer"								"255 64 64 255"
 
 		"Ammo In Clip"										"255 255 255 255"
-		"Ammo In Reserve"									"255 255 255 160"
+		"Ammo In Reserve"									"255 255 255 255"
 		"Ammo No Clip"										"255 255 255 255"
 
 		"Ammo In Clip Low"									"255 64 64 255"

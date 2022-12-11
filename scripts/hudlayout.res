@@ -168,10 +168,10 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"wide"					"116"
-		"tall"  				"180"
+		"xpos"					"0"	[$WIN32]
+		"ypos"					"0"	[$WIN32]
+		"wide"					"f0"
+		"tall"  				"f0"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
