@@ -654,25 +654,20 @@
 		}
 		"10"
 		{
-			"font" 		"resource/scheme/fonts/WSSemi.ttf"
-			"name" 		"WSSemi"
-		}
-		"11"
-		{
 			"font" 		"resource/scheme/fonts/blocks.ttf"
 			"name" 		"Blocks"
 		}
-		"12"
+		"11"
 		{
 			"font" 		"resource/scheme/fonts/m0rehud icons.ttf"
 			"name" 		"m0rehud Icons V4"
 		}
-		"13"
+		"12"
 		{
 			"font"		"resource/scheme/fonts/Icons.ttf"
 			"name"		"Icons"
 		}
-		"14"
+		"13"
 		{
 			"font"		"resource/scheme/fonts/Chars.ttf"
 			"name"		"Chars"
