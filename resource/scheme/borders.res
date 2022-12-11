@@ -246,5 +246,54 @@
 			"draw_corner_width"		"4"
 			"draw_corner_height" 	"4"
 		}
+
+		"8px_panelo0"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelO0"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_0"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
+		"8px_panelo1"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelO1"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_0"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
+		"8px_panelo2"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelO2"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_0"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
+		"8px_panelo3"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelO3"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_0"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
 	}
 }
