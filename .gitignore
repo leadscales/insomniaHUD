@@ -1,3 +1,6 @@
 *.cache
 *.psd
+*.tga
+.bin
+.venv
 .vscode
