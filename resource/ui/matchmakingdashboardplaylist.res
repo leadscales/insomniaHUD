@@ -60,4 +60,18 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 	}
+
+	"BGPanel"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BGPanel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"f0"
+		"tall"			"f0"
+		"visible"		"1"
+		"proportionaltoparent"	"1"
+		"bgcolor_override"	"PanelO1"
+	}
 }

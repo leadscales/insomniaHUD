@@ -2,11 +2,11 @@
 {
 	"Colors"
 	{
-		"Orange"											"178 82 22 255"
-		"OrangeDim"											"178 82 22 120"
-		"LightOrange"										"188 112 0 128"
+		"Orange"											"255 255 255 255"
+		"OrangeDim"											"255 255 255 128"
+		"LightOrange"										"255 255 255 128"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"145 73 59 255"
+		"TFOrange"											"64 144 255 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
@@ -27,19 +27,19 @@
 		"PartyMember5"										"255 118 108 255"
 		"PartyMember6"										"255 133 255 255"
 
-		"White"												"235 235 235 255"
+		"White"												"255 255 255 255"
 		"Red"												"192 28 0 140"
 		"RedSolid"											"192 28 0 255"
 		"Blue"												"0 28 162 140"
-		"Yellow"											"251 235 202 255"
-		"TransparentYellow"									"251 235 202 140"
+		"Yellow"											"255 255 255 255"
+		"TransparentYellow"									"255 255 255 160"
 		"BrightYellow"										"251 235 0 255"
 		"GreenSolid"										"76 107 34 255"
 
-		"Black"												"46 43 42 255"
+		"Black"												"32 32 32 255"
 		"TransparentBlack"									"0 0 0 196"
 		"TransparentLightBlack"								"0 0 0 90"
-		"FooterBGBlack"										"52 48 55 255"
+		"FooterBGBlack"										"48 48 48 255"
 
 		"HUDBlueTeam"										"104 124 155 127"
 		"HUDRedTeam"										"180 92 77 127"
@@ -48,13 +48,13 @@
 		"HUDRedTeamSolid"									"180 92 77 255"
 		"HUDDeathWarning"									"255 0 0 255"
 		"HudWhite"											"255 255 255 255"
-		"HudOffWhite"										"200 187 161 255"
-		"HudBlack"											"65 65 65 255"
+		"HudOffWhite"										"192 192 192 255"
+		"HudBlack"											"64 64 64 255"
 		"ProgressBarBlue"									"91 122 142 255"
 
 		"CreditsGreen"										"94 150 49 255"
 
-		"Gray"												"178 178 178 255"
+		"Gray"												"160 160 160 255"
 
 		"Blank"												"0 0 0 0"
 		"ForTesting"										"255 0 0 32"
@@ -76,9 +76,9 @@
 
 		"HudTrainingHint"									"212 160 23 255"
 
-		"TanDark"											"117 107 94 255"
-		"TanLight"											"235 226 202 255"
-		"TanDarker"											"46 43 42 255"
+		"TanDark"											"128 128 128 255"
+		"TanLight"											"255 255 255 255"
+		"TanDarker"											"32 32 32 255"
 
 		"StoreDarkTan"										"131 121 104 255"
 		"StoreGreen"										"76 107 34 255"
@@ -90,19 +90,19 @@
 
 		"ProgressOffWhiteTransparent"						"251 235 202 128"
 
-		"LabelDark"											"48 43 42 255"
-		"LabelTransparent"									"109 96 80 180"
+		"LabelDark"											"48 48 48 255"
+		"LabelTransparent"									"128 128 128 192"
 
 		"BuildMenuActive"									"248 231 198 255"
 
 		"DisguiseMenuIconRed"								"192 56 63 255"
 		"DisguiseMenuIconBlue"								"92 128 166 255"
 
- 		"MatchmakingDialogTitleColor"						"200 184 151 255"
- 		"MatchmakingMenuItemBackground"						"46 43 42 255"
- 		"MatchmakingMenuItemBackgroundActive"				"150 71 0 255"
-		"MatchmakingMenuItemTitleColor"						"200 184 151 255"
-		"MatchmakingMenuItemDescriptionColor"				"200 184 151 255"
+ 		"MatchmakingDialogTitleColor"						"255 255 255 255"
+ 		"MatchmakingMenuItemBackground"						"48 48 48 255"
+ 		"MatchmakingMenuItemBackgroundActive"				"64 64 64 255"
+		"MatchmakingMenuItemTitleColor"						"192 192 192 255"
+		"MatchmakingMenuItemDescriptionColor"				"160 160 160 255"
 
 		"HTMLBackground"									"95 92 101 255"
 
@@ -193,8 +193,8 @@
 	{
 		"ReplayBrowser.BgColor"								"DarkBrown"
 		"ReplayBrowser.Details.TitleEdit.Carat.FgColor"		"LightRed"
-		"ReplayBrowser.Button.ArmedBgColor"					"TFOrange"
-		"ReplayBrowser.Button.DepressedBgColor"				"TFOrange"
+		"ReplayBrowser.Button.ArmedBgColor"					"PanelO3"
+		"ReplayBrowser.Button.DepressedBgColor"				"PanelO3"
 		"ReplayBrowser.CollectionTitle.FgColor"				"LightRed"
 		"ReplayBrowser.Warning.FgColor"						"White"
 		"ReplayBrowser.ScrollBar.SliderButton.FgColor"		"TransparentYellow"
@@ -204,12 +204,12 @@
 		"Replay.RenderDialog.BgColor"						"LighterDarkBrown"
 
 		"Econ.Dialog.BgColor"								"Blank"
-		"Econ.Button.BgColor"								"TanDark"
-		"Econ.Button.FgColor"								"TanLight"
-		"Econ.Button.ArmedBgColor"							"TFOrange"
-		"Econ.Button.ArmedFgColor"							"TanLight"
-		"Econ.Button.DepressedBgColor"						"TFOrange"
-		"Econ.Button.DepressedFgColor"						"Black"
+		"Econ.Button.BgColor"								"PanelO2"
+		"Econ.Button.FgColor"								"Text0"
+		"Econ.Button.ArmedBgColor"							"PanelO3"
+		"Econ.Button.ArmedFgColor"							"Text0"
+		"Econ.Button.DepressedBgColor"						"PanelO3"
+		"Econ.Button.DepressedFgColor"						"Text0"
 
 		"Econ.Button.PresetDefaultColorFg"					"TanLight"
 		"Econ.Button.PresetArmedColorFg"					"TanLight"
@@ -223,14 +223,14 @@
 		"Border.Dark"										"Black"
 		"Border.Selection"									"Gray"
 
-		"Button.TextColor"									"TanLight"
-		"Button.BgColor"									"TanDark"
-		"Button.ArmedTextColor"								"TanLight"
-		"Button.ArmedBgColor"								"TFOrange"
-		"Button.SelectedTextColor"							"TanLight"
-		"Button.SelectedBgColor"							"TFOrange"
-		"Button.DepressedTextColor"							"Black"
-		"Button.DepressedBgColor"							"TFOrange"
+		"Button.TextColor"									"Text0"
+		"Button.BgColor"									"PanelO2"
+		"Button.ArmedTextColor"								"Text0"
+		"Button.ArmedBgColor"								"PanelO3"
+		"Button.SelectedTextColor"							"Text0"
+		"Button.SelectedBgColor"							"PanelO3"
+		"Button.DepressedTextColor"							"Text0"
+		"Button.DepressedBgColor"							"PanelO3"
 
 		"CheckButton.TextColor"								"Yellow"
 		"CheckButton.SelectedTextColor"						"Yellow"
@@ -338,11 +338,11 @@
 		"SectionedListPanel.OutOfFocusSelectedTextColor"	"Black"
 		"SectionedListPanel.OutOfFocusSelectedBgColor"		"255 255 255 32"
 
-		"Slider.NobColor"									"108 108 108 255"
-		"Slider.TextColor"									"127 140 127 255"
-		"Slider.TrackColor"									"31 31 31 255"
-		"Slider.DisabledTextColor1"							"117 117 117 255"
-		"Slider.DisabledTextColor2"							"30 30 30 255"
+		"Slider.NobColor"									"255 255 255 255"
+		"Slider.TextColor"									"128 128 128 255"
+		"Slider.TrackColor"									"64 64 64 255"
+		"Slider.DisabledTextColor1"							"96 96 96 255"
+		"Slider.DisabledTextColor2"							"32 32 32 255"
 
 		"TextEntry.TextColor"								"Gray"
 		"TextEntry.BgColor"									"Blank"

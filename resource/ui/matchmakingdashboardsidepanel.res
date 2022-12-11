@@ -59,18 +59,18 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CloseButton"
-		"xpos"			"r20"
+		"xpos"			"r2"
 		"labelText"		">"
 
 		if_left
 		{
 			"xpos"		"0"
-			"labelText"		"<"
+			"labelText"		" "
 		}
 
 		"ypos"			"0"
 		"zpos"			"10000"
-		"wide"			"20"
+		"wide"			"2"
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
@@ -79,8 +79,8 @@
 		"textAlignment"	"center"
 		"font"			"icons13"
 
-		"defaultBgColor_override"	"PanelO2"
-		"armedBgColor_override"		"PanelO3"
+		"defaultBgColor_override"	"Blank"
+		"armedBgColor_override"		"Blank"
 
 		"armedFgColor_override"	"White"
 	}
@@ -95,23 +95,23 @@
 		if_left
 		{
 			"xpos"	"rs1"
-			"labelText"		">"
+			"labelText"		" "
 		}
 
 		"ypos"			"0"
 		"zpos"			"10000"
-		"wide"			"15"
+		"wide"			"2"
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"command"		"nav_to"
-		"labelText"		"<"
+		"labelText"		" "
 
 		"textAlignment"	"center"
 		"font"			"icons13"
 
-		"defaultBgColor_override"	"PanelO2"
-		"armedBgColor_override"		"PanelO3"
+		"defaultBgColor_override"	"Blank"
+		"armedBgColor_override"		"Blank"
 
 		"armedFgColor_override"	"White"
 	}
@@ -127,6 +127,6 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"PanelO1"
+		"bgcolor_override"	"PanelO2"
 	}
 }

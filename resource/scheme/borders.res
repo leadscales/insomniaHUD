@@ -295,5 +295,41 @@
 			"draw_corner_width"		"4"
 			"draw_corner_height" 	"4"
 		}
+		"8px_panelo4"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelO4"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_0"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
+		"8px_panelo5"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelO5"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_0"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
+		"8px_panelo6"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"PanelO5"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_0"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
 	}
 }
