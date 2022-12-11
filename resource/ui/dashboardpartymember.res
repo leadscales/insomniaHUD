@@ -4,11 +4,11 @@
 	{
 		// "ControlName"	"CAvatarImagePanel"
 		"fieldName"		"avatar"
-		"xpos"			"4"
-		"ypos"			"4"
+		"xpos"			"2"
+		"ypos"			"2"
 		"zpos"			"201"
-		"wide"			"f8"
-		"tall"			"f8"
+		"wide"			"f4"
+		"tall"			"f4"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"scaleImage"	"1"
@@ -17,7 +17,7 @@
 
 	"EmptyImage"
 	{
-		"ControlName"	"EditablePanel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"EmptyImage"
 		"xpos"			"0"
 		"ypos"			"0"
@@ -26,10 +26,12 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"Blank"
+		"bgcolor_override"	"PanelO2"
+		"fgcolor_override"	"64 64 64 255"
+		"labeltext"		"+"
+		"font"			"icons13"
+		"textAlignment"	"center"
 		"mouseinputenabled"	"0"
-
-		"border"		"8px_black_2"
 	}
 
 	"LeaderIcon"
@@ -151,10 +153,7 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultBgColor_override"	"Blank"
-		"armedBgColor_override"	"Blank"
-
-		"border_default"		"Blank"
-		"border_armed"			"8px_white_3"
+		"armedBgColor_override"	"255 255 255 8"
 	}
 
 	"Spinner"

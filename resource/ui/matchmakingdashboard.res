@@ -78,18 +78,15 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Text0"
 
-			"defaultBgColor_override"	"Blank"
-			"armedBgColor_override"		"Blank"
-
-			"border_default"			"NoBorder"
-			"border_armed"				"8px_white_3"
+			"defaultBgColor_override"	"PanelO2"
+			"armedBgColor_override"		"PanelO3"
 		}
 
 		"PartySlot0"
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot0"
-			"xpos"			"20"
+			"xpos"			"23"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -110,7 +107,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot1"
-			"xpos"			"0"
+			"xpos"			"1"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -134,7 +131,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot2"
-			"xpos"			"0"
+			"xpos"			"1"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -158,7 +155,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot3"
-			"xpos"			"0"
+			"xpos"			"1"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -182,7 +179,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot4"
-			"xpos"			"0"
+			"xpos"			"1"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -206,7 +203,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot5"
-			"xpos"			"0"
+			"xpos"			"1"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -587,11 +584,8 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Negative"
 
-			"defaultBgColor_override"	"Blank"
-			"armedBgColor_override"		"Blank"
-
-			"border_default"			"NoBorder"
-			"border_armed"				"8px_negative_3"
+			"defaultBgColor_override"	"PanelO2"
+			"armedBgColor_override"		"NegativeT1"
 		}
 
 		"DisconnectButton"
@@ -628,11 +622,8 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Negative"
 
-			"defaultBgColor_override"	"Blank"
-			"armedBgColor_override"		"Blank"
-
-			"border_default"			"NoBorder"
-			"border_armed"				"8px_negative_3"
+			"defaultBgColor_override"	"PanelO2"
+			"armedBgColor_override"		"NegativeT1"
 		}
 
 		"ResumeButton"
@@ -667,13 +658,10 @@
 			"fgcolor_override"			"Text0"
 			"fgcolor"					"Text0"
 			"defaultFgColor_override"	"Text0"
-			"armedFgColor_override"		"AccentMain"
+			"armedFgColor_override"		"Text0"
 
-			"defaultBgColor_override"	"Blank"
-			"armedBgColor_override"		"Blank"
-
-			"border_default"			"NoBorder"
-			"border_armed"				"8px_accent_3"
+			"defaultBgColor_override"	"PanelO2"
+			"armedBgColor_override"		"PanelO3"
 		}
 
 		"FindAGameButton"
@@ -708,13 +696,10 @@
 			"fgcolor_override"			"Text0"
 			"fgcolor"					"Text0"
 			"defaultFgColor_override"	"Text0"
-			"armedFgColor_override"		"Positive"
+			"armedFgColor_override"		"Text0"
 
-			"defaultBgColor_override"	"Blank"
-			"armedBgColor_override"		"Blank"
-
-			"border_default"			"NoBorder"
-			"border_armed"				"8px_positive_3"
+			"defaultBgColor_override"	"PanelO2"
+			"armedBgColor_override"		"PanelO3"
 		}
 	}
 }
