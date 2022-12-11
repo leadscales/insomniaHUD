@@ -331,5 +331,29 @@
 			"draw_corner_width"		"4"
 			"draw_corner_height" 	"4"
 		}
+		"8px_redt3"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"m0reRed"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_3"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
+		"8px_bluet3"
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"m0reBlue"
+			"image"					"replay/thumbnails/panels/rounded_rect/8px_3"
+			
+			"src_corner_height"		"16"
+			"src_corner_width"		"16"
+			"draw_corner_width"		"4"
+			"draw_corner_height" 	"4"
+		}
 	}
 }

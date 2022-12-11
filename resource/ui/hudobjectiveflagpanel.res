@@ -26,18 +26,19 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueScore"
-		"xpos"										"cs-0.5-70"
-		"ypos"										"rs1-8"
+		"xpos"										"c0-s1-1"
+		"ypos"										"rs1-26"
 		"zpos"										"8"
-		"wide"										"50"
-		"tall"										"35"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"textAlignment"								"east"
+		"textAlignment"								"center"
 		"labelText"									"%bluescore%"
-		"font"										"regular36"
+		"font"										"bold32"
 		"fgcolor"									"m0reblue"
+		"border"									"8px_bluet3"
 
 		"if_hybrid"
 		{
@@ -59,14 +60,14 @@
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"7"
-		"wide"										"50"
-		"tall"										"35"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"textAlignment"								"east"
+		"textAlignment"								"center"
 		"labelText"									"%bluescore%"
-		"font"										"regular36"
+		"font"										"bold32Blur"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"BlueScore"
@@ -89,11 +90,11 @@
 	{
 		"ControlName"								"CTFFlagStatus"
 		"fieldName"									"BlueFlag"
-		"xpos"										"c-95"
-		"ypos"										"r65"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"160"
-		"tall"										"90"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 
@@ -103,7 +104,7 @@
 		}
 		"if_hybrid_single"
 		{
-			"xpos"									"c-72"
+			"xpos"									"-63"
 		}
 		"if_no_flags"
 		{
@@ -111,9 +112,13 @@
 		}
 		"if_mvm"
 		{
-			"xpos"									"c-82"
-			"ypos"									"r72"
+			"xpos"									"-63"
+			"ypos"									"0"
 		}
+
+		"pin_to_sibling"							"BlueScore"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -124,18 +129,19 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedScore"
-		"xpos"										"cs-0.5+70"
-		"ypos"										"rs1-8"
+		"xpos"										"c1"
+		"ypos"										"rs1-26"
 		"zpos"										"8"
-		"wide"										"50"
-		"tall"										"35"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"textAlignment"								"west"
+		"textAlignment"								"center"
 		"labelText"									"%redscore%"
-		"font"										"regular36"
+		"font"										"bold32"
 		"fgcolor"									"m0rered"
+		"border"									"8px_redt3"
 
 		"if_hybrid"
 		{
@@ -157,14 +163,14 @@
 		"xpos"										"-1"
 		"ypos"										"-1"
 		"zpos"										"7"
-		"wide"										"50"
-		"tall"										"35"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"textAlignment"								"west"
+		"textAlignment"								"center"
 		"labelText"									"%redscore%"
-		"font"										"regular36"
+		"font"										"bold32Blur"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"RedScore"
@@ -187,11 +193,11 @@
 	{
 		"ControlName"								"CTFFlagStatus"
 		"fieldName"									"RedFlag"
-		"xpos"										"c-55"
-		"ypos"										"r65"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"160"
-		"tall"										"90"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 
@@ -207,6 +213,10 @@
 		{
 			"visible"								"0"
 		}
+
+		"pin_to_sibling"							"RedScore"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
 
 	//==================================================================================================================================================
@@ -216,17 +226,18 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"PlayingTo"
 		"xpos"										"cs-0.5"
-		"ypos"										"rs1"
+		"ypos"										"rs1-5"
 		"zpos"										"4"
-		"wide"										"f0"
-		"tall"										"10"
+		"wide"										"82"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_PlayingTo"
 		"textAlignment"								"center"
-		"font"										"DefaultVerySmall"
+		"font"										"regular14"
 		"fgcolor"									"White"
+		"border"									"8px_black_2"
 
 		"if_hybrid"
 		{
@@ -247,7 +258,7 @@
 		"ControlName"								"CTFArrowPanel"
 		"fieldName"									"CaptureFlag"
 		"xpos"										"cs-0.5"
-		"ypos"										"r45"
+		"ypos"										"rs1-65"
 		"zpos"										"5"
 		"wide"										"40"
 		"tall"										"40"
