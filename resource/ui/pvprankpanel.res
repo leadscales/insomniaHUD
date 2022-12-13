@@ -232,10 +232,10 @@
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
-			"tall"									"10"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"bold15"
+			"font"									"bold18"
 			"fgcolor_override"						"White"
 			"textAlignment"							"west"
 			"labelText"								"%desc1%"
@@ -249,7 +249,7 @@
 
 			"fonts"
 			{
-				"0"									"bold15"
+				"0"									"bold18"
 				"1"									"bold13"
 				"2"									"bold11"
 			}
@@ -260,13 +260,13 @@
 			"ControlName"							"CAutoFittingLabel"
 			"fieldName"								"Desc2MainMenu"
 			"xpos"									"0"
-			"ypos"									"10"
+			"ypos"									"15"
 			"wide"									"f0"
 			"zpos"									"100"
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"regular12"
+			"font"									"regular14"
 			"fgcolor_override"						"White"
 			"textAlignment"							"west"
 			"labelText"								"%desc2%"
@@ -280,9 +280,9 @@
 
 			"fonts"
 			{
-				"0"									"regular12"
-				"1"									"regular12"
-				"2"									"regular12"
+				"0"									"regular14"
+				"1"									"regular14"
+				"2"									"regular14"
 			}
 
 			"colors"
@@ -364,7 +364,7 @@
 			"ControlName"							"EditablePanel"
 			"fieldName"								"StatsContainer"
 			"xpos"									"0"
-			"ypos"									"22"
+			"ypos"									"30"
 			"wide"									"f0"
 			"tall"									"480"
 			"proportionaltoparent"					"1"

@@ -125,24 +125,37 @@
 	// RANK & BADGE
 	//==================================================================================================================================================
 
+	"RankContainer"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"RankContainer"
+		"xpos"										"0"
+		"ypos"										"0"
+		"wide"										"200"
+		"tall"										"40"
+
+		"pin_to_sibling" 							"PrimaryPanel"
+		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
+	}
+
 	"RankPanel"
 	{
 		"ControlName"								"CPvPRankPanel"
 		"fieldName"									"RankPanel"
 		"xpos"										"-10"
-		"ypos"										"-5"
+		"ypos"										"0"
 		"zpos"										"1"
 		"wide"										"180"
-		"tall"										"25"
+		"tall"										"40"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
 		"matchgroup"								"MatchGroup_Casual_12v12"
 		"show_model"								"0"
 		"show_type"									"1"
-		"bgcolor_override"							"Blank"
 
-		"pin_to_sibling" 							"PrimaryPanel"
+		"pin_to_sibling" 							"RankContainer"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
 	}
@@ -210,17 +223,21 @@
 		"pin_to_sibling" 							"RankPanel"
 	}
 
+	//==================================================================================================================================================
+	// SPLITTERS
+	//==================================================================================================================================================
+
 	"Splitter1"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Splitter1"
-		"xpos"										"5"
-		"ypos"										"3"
+		"xpos"										"-5"
+		"ypos"										"0"
 		"wide"										"190"
 		"tall"										"1"
 		"bgcolor_override"							"White"
 
-		"pin_to_sibling"							"RankPanel"
+		"pin_to_sibling"							"RankContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
@@ -230,12 +247,27 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Splitter2"
 		"xpos"										"-5"
-		"ypos"										"3"
+		"ypos"										"0"
 		"wide"										"190"
 		"tall"										"1"
 		"bgcolor_override"							"White"
 
 		"pin_to_sibling"							"Buttons"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+	}
+
+	"Splitter3"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"Splitter3"
+		"xpos"										"-5"
+		"ypos"										"0"
+		"wide"										"190"
+		"tall"										"1"
+		"bgcolor_override"							"White"
+
+		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
@@ -249,10 +281,10 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Buttons"
 		"xpos"										"5"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"10"
 		"wide"										"200"
-		"tall"										"40"
+		"tall"										"46"
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
 
@@ -265,7 +297,7 @@
 			"ControlName"								"CExButton"
 			"fieldname"									"Items"
 			"xpos"										"0"
-			"ypos"										"0"
+			"ypos"										"3"
 			"zpos"										"15"
 			"wide"										"f0"
 			"tall"										"10"
@@ -389,15 +421,253 @@
 		}
 	}
 
+	//==================================================================================================================================================
+	// FRIENDS LIST
+	//==================================================================================================================================================
+
+	"FriendsContainer"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldname"									"FriendsContainer"
+		"xpos"										"5"
+		"ypos"										"0"
+		"zpos"										"11"
+		"wide"										"200"
+		"tall"										"268"
+		"visible"									"1"
+		"proportionaltoparent"						"1"
+		"bgcolor_override"							"255 0 0 0"
+
+		"pin_to_sibling"							"Splitter2"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+
+		"SteamFriendsList"
+		{
+			"ControlName"							"CSteamFriendsListPanel"
+			"fieldname"								"SteamFriendsList"
+			"xpos"									"5"
+			"ypos"									"5"
+			"zpos"									"500"
+			"wide"									"f10"
+			"tall"									"f10"
+			"visible"								"1"
+			"proportionaltoparent"					"1"
+
+			"columns_count"							"1"
+			"inset_x"								"0"
+			"inset_y"								"0"
+			"row_gap"								"2"
+			"column_gap"							"0"
+			"restrict_width"						"0"
+
+			"friendpanel_kv"
+			{
+				"wide"								"190"
+				"tall"								"20"
+			}
+
+			"ScrollBar"
+			{
+				"ControlName"						"ScrollBar"
+				"FieldName"							"ScrollBar"
+				"xpos"								"rs1"
+				"ypos"								"0"
+				"tall"								"f0"
+				"wide"								"0"
+				"zpos"								"1000"
+				"nobuttons"							"1"
+				"proportionaltoparent"				"1"
+
+				"Slider"
+				{
+					"fgcolor_override"				"White"
+				}
+			}
+		}
+	}
+
+	//==================================================================================================================================================
+	// EXTRA BUTTONS
+	//==================================================================================================================================================
+
+	"ExtraButtonsContainer"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldname"									"ExtraButtonsContainer"
+		"xpos"										"5"
+		"ypos"										"0"
+		"zpos"										"11"
+		"wide"										"200"
+		"tall"										"44"
+		"visible"									"1"
+		"proportionaltoparent"						"1"
+		"bgcolor_override"							"Blank"
+
+		"pin_to_sibling"							"Splitter3"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+
+		"InfoButton"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"InfoButton"
+			"xpos"									"5"
+			"ypos"									"5"
+			"wide"									"34"
+			"tall"									"34"
+			"paintbackground"						"0"
+			"actionsignallevel"						"2"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"font"									"icons13"
+			"textalignment"							"center"
+			"labeltext"								"i"
+
+			"command"								"engine showconsole; echo test"
+
+			"defaultfgcolor_override"				"Text0"
+			"armedfgcolor_override"					"Text0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"8px_white_3"
+		}
+
+		"ConsoleButton"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"ConsoleButton"
+			"xpos"									"5"
+			"ypos"									"0"
+			"wide"									"34"
+			"tall"									"34"
+			"paintbackground"						"0"
+			"actionsignallevel"						"2"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"font"									"icons13"
+			"textalignment"							"center"
+			"labeltext"								"$"
+
+			"command"								"engine showconsole"
+
+			"defaultfgcolor_override"				"Text0"
+			"armedfgcolor_override"					"Text0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"8px_white_3"
+
+			"pin_to_sibling"						"InfoButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"DemoUIButton"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"DemoUIButton"
+			"xpos"									"5"
+			"ypos"									"0"
+			"wide"									"34"
+			"tall"									"34"
+			"paintbackground"						"0"
+			"actionsignallevel"						"2"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"font"									"icons13"
+			"textalignment"							"center"
+			"labeltext"								"]"
+
+			"command"								"engine demoui"
+
+			"defaultfgcolor_override"				"Text0"
+			"armedfgcolor_override"					"Text0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"8px_white_3"
+
+			"pin_to_sibling"						"ConsoleButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"AchievementsButton"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"AchievementsButton"
+			"xpos"									"5"
+			"ypos"									"0"
+			"wide"									"34"
+			"tall"									"34"
+			"paintbackground"						"0"
+			"actionsignallevel"						"2"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"font"									"icons13"
+			"textalignment"							"center"
+			"labeltext"								"a"
+
+			"command"								"OpenAchievementsDialog"
+
+			"defaultfgcolor_override"				"Text0"
+			"armedfgcolor_override"					"Text0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"8px_white_3"
+
+			"pin_to_sibling"						"DemoUIButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"ContractsButton"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"ContractsButton"
+			"xpos"									"5"
+			"ypos"									"0"
+			"wide"									"34"
+			"tall"									"34"
+			"paintbackground"						"0"
+			"actionsignallevel"						"2"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+
+			"font"									"icons13"
+			"textalignment"							"center"
+			"labeltext"								"C"
+
+			"command"								"engine show_quest_log"
+
+			"defaultfgcolor_override"				"Text0"
+			"armedfgcolor_override"					"Text0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"8px_white_3"
+
+			"pin_to_sibling"						"AchievementsButton"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+	}
+
+	//==================================================================================================================================================
+	// IN-GAME BUTTONS
+	//==================================================================================================================================================
+
 	"GameButtons"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"GameButtons"
 		"xpos"										"0"
-		"ypos"										"-20"
+		"ypos"										"-10"
 		"zpos"										"10"
-		"wide"										"160"
-		"tall"										"20"
+		"wide"										"175"
+		"tall"										"40"
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
 
@@ -412,8 +682,8 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"20"
-			"tall"			"20"
+			"wide"			"40"
+			"tall"			"40"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -450,7 +720,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_white_3"
+				"border_armed"				"8px_panelo2"
 			}
 		}
 
@@ -458,11 +728,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"MutePlayersButton"
-			"xpos"			"20"
+			"xpos"			"5"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"20"
-			"tall"			"20"
+			"wide"			"40"
+			"tall"			"40"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -503,7 +773,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_white_3"
+				"border_armed"				"8px_panelo2"
 			}
 		}
 
@@ -511,11 +781,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"ReportPlayerButton"
-			"xpos"			"20"
+			"xpos"			"5"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"20"
-			"tall"			"20"
+			"wide"			"40"
+			"tall"			"40"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -557,7 +827,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_white_3"
+				"border_armed"				"8px_panelo2"
 			}
 		}
 
@@ -565,11 +835,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"FixIssuesButton"
-			"xpos"			"20"
+			"xpos"			"5"
 			"ypos"			"0"
 			"zpos"			"12"
-			"wide"			"20"
-			"tall"			"20"
+			"wide"			"40"
+			"tall"			"40"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -610,7 +880,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_white_3"
+				"border_armed"				"8px_panelo2"
 			}
 		}
 	}
@@ -678,72 +948,6 @@
 			"defaultFgColor_override" 				"White"
 			"armedFgColor_override" 				"Menu Labels"
 			"depressedFgColor_override" 			"Menu Labels"
-		}
-	}
-
-	//==================================================================================================================================================
-	// FRIENDS LIST
-	//==================================================================================================================================================
-
-	"FriendsContainer"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldname"									"FriendsContainer"
-		"xpos"										"0"
-		"ypos"										"3"
-		"zpos"										"11"
-		"wide"										"190"
-		"tall"										"311"
-		"visible"									"1"
-		"proportionaltoparent"						"1"
-		"bgcolor_override"							"PanelT4"
-
-		"pin_to_sibling"							"Splitter2"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
-
-		"SteamFriendsList"
-		{
-			"ControlName"							"CSteamFriendsListPanel"
-			"fieldname"								"SteamFriendsList"
-			"xpos"									"5"
-			"ypos"									"5"
-			"zpos"									"500"
-			"wide"									"f10"
-			"tall"									"f10"
-			"visible"								"1"
-			"proportionaltoparent"					"1"
-
-			"columns_count"							"1"
-			"inset_x"								"0"
-			"inset_y"								"0"
-			"row_gap"								"2"
-			"column_gap"							"0"
-			"restrict_width"						"0"
-
-			"friendpanel_kv"
-			{
-				"wide"								"180"
-				"tall"								"20"
-			}
-
-			"ScrollBar"
-			{
-				"ControlName"						"ScrollBar"
-				"FieldName"							"ScrollBar"
-				"xpos"								"rs1"
-				"ypos"								"0"
-				"tall"								"f0"
-				"wide"								"0"
-				"zpos"								"1000"
-				"nobuttons"							"1"
-				"proportionaltoparent"				"1"
-
-				"Slider"
-				{
-					"fgcolor_override"				"White"
-				}
-			}
 		}
 	}
 
