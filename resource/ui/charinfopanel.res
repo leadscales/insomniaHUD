@@ -42,6 +42,23 @@
 		"bgcolor_override"							"PanelO2"
 	}
 
+	"ClassLabel"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"ClassLabel"
+		"font"										"bold18"
+		"labelText"									"#CharInfoAndSetup"
+		"textAlignment"								"center"
+		"xpos"										"0"
+		"ypos"										"20"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+		"allcaps"									"1"
+	}
+
 	"FooterLine"
 	{
 		"ControlName"								"ImagePanel"

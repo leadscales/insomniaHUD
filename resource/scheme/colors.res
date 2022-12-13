@@ -84,8 +84,8 @@
 		"Positive"											"64 255 144 255"
 		"Negative"											"255 64 72 255"
 
-		"AccentMainT1"										"0 128 255 32"
-		"PositiveT1"										"0 255 144 32"
+		"AccentMainT1"										"64 128 255 32"
+		"PositiveT1"										"64 255 144 32"
 		"NegativeT1"										"255 64 72 32"
 	}
 
