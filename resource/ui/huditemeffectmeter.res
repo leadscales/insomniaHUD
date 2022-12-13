@@ -28,7 +28,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_Ball"
 		"textAlignment"								"center"
-		"font"										"ScoreboardVerySmall"
+		"font"										"regular11"
 		"fgcolor"									"White"
 	}
 
