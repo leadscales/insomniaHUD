@@ -41,7 +41,7 @@
 			"wide"			"f0"
 			"tall"			"20"
 			"visible"		"1"
-			"bgcolor_override"	"PanelO1"
+			"bgcolor_override"	"PanelO0"
 		}
 
 		"ToggleChatButton"
@@ -68,7 +68,7 @@
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
-			"PaintBackgroundType" "0"	
+			"PaintBackground" "0"	
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -78,15 +78,15 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Text0"
 
-			"defaultBgColor_override"	"PanelO2"
-			"armedBgColor_override"		"PanelO3"
+			"border_default"	"NoBorder"
+			"border_armed"		"8px_panelo2"
 		}
 
 		"PartySlot0"
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot0"
-			"xpos"			"23"
+			"xpos"			"40"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -574,7 +574,7 @@
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
-			"PaintBackgroundType"	"0"
+			"PaintBackground"	"0"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -584,8 +584,8 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Negative"
 
-			"defaultBgColor_override"	"PanelO2"
-			"armedBgColor_override"		"NegativeT1"
+			"border_default"	"NoBorder"
+			"border_armed"		"8px_negative_3"
 		}
 
 		"DisconnectButton"
@@ -612,7 +612,7 @@
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
-			"PaintBackgroundType"	"0"
+			"PaintBackground"	"0"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -622,8 +622,8 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Negative"
 
-			"defaultBgColor_override"	"PanelO2"
-			"armedBgColor_override"		"NegativeT1"
+			"border_default"	"NoBorder"
+			"border_armed"		"8px_negative_3"
 		}
 
 		"ResumeButton"
@@ -650,7 +650,7 @@
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
-			"PaintBackgroundType"	"0"
+			"PaintBackground"	"0"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -660,8 +660,8 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Text0"
 
-			"defaultBgColor_override"	"PanelO2"
-			"armedBgColor_override"		"PanelO3"
+			"border_default"	"NoBorder"
+			"border_armed"		"8px_panelo2"
 		}
 
 		"FindAGameButton"
@@ -688,7 +688,7 @@
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
-			"PaintBackgroundType"	"0"
+			"PaintBackground"	"0"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -698,8 +698,8 @@
 			"defaultFgColor_override"	"Text0"
 			"armedFgColor_override"		"Text0"
 
-			"defaultBgColor_override"	"PanelO2"
-			"armedBgColor_override"		"PanelO3"
+			"border_default"	"NoBorder"
+			"border_armed"		"8px_panelo2"
 		}
 	}
 }

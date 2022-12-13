@@ -4,10 +4,10 @@
 	{
 		"Health Numbers"									"255 255 255 255"
 
-		"Health Buff"										"64 255 160 255"
-		"Health Buff Target"								"64 255 160 255"
-		"Health Buff Spec"									"64 255 160 255"
-		"Health Buff Killer"								"64 255 160 255"
+		"Health Buff"										"64 255 144 255"
+		"Health Buff Target"								"64 255 144 255"
+		"Health Buff Spec"									"64 255 144 255"
+		"Health Buff Killer"								"64 255 144 255"
 
 		"Health Hurt"										"255 64 64 255"
 		"Health Hurt Target"								"255 64 64 255"
@@ -23,11 +23,11 @@
 		"Ammo No Clip Low"									"255 64 64 255"
 
 		"Ubercharge"										"255 255 255 255"
-		"Ubercharge Full"									"64 255 160 255"
+		"Ubercharge Full"									"64 255 144 255"
 
 		"Extra Shadow"										"0 0 0 255"
 
-		"Heal Numbers"										"64 255 160 255"
+		"Heal Numbers"										"64 255 144 255"
 		"Last Damage Done"									"255 255 255 255"
 
 		"Menu Labels"										"64 144 255 255"
@@ -76,13 +76,16 @@
 		"Text0"												"255 255 255 255"
 		"Text1"												"192 192 192 255"
 		"Text2"												"160 160 160 255"
+		"Text3"												"128 128 128 255"
+		"Text4"												"96 96 96 255"
+		"Text5"												"64 64 64 255"
 
 		"AccentMain"										"64 144 255 255"
-		"Positive"											"64 255 160 255"
+		"Positive"											"64 255 144 255"
 		"Negative"											"255 64 64 255"
 
 		"AccentMainT1"										"0 128 255 32"
-		"PositiveT1"										"0 255 160 32"
+		"PositiveT1"										"0 255 144 32"
 		"NegativeT1"										"255 64 64 32"
 	}
 
