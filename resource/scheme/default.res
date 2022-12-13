@@ -283,10 +283,10 @@
 		"ListPanel.SelectedOutOfFocusBgColor"				"Red"
 		"ListPanel.EmptyListInfoTextColor"					"Orange"
 
-		"Menu.TextColor"									"TanLight"
-		"Menu.BgColor"										"TransparentBlack"
-		"Menu.ArmedTextColor"								"TanDark"
-		"Menu.ArmedBgColor"									"TanLight"
+		"Menu.TextColor"									"Text1"
+		"Menu.BgColor"										"PanelO1"
+		"Menu.ArmedTextColor"								"Text0"
+		"Menu.ArmedBgColor"									"PanelO2"
 		"Menu.TextInset"									"6"
 
 		"Chat.TypingText"									"Orange"
@@ -336,7 +336,7 @@
 		"SectionedListPanel.SelectedTextColor"				"Black"
 		"SectionedListPanel.SelectedBgColor"				"Red"
 		"SectionedListPanel.OutOfFocusSelectedTextColor"	"Black"
-		"SectionedListPanel.OutOfFocusSelectedBgColor"		"255 255 255 32"
+		"SectionedListPanel.OutOfFocusSelectedBgColor"		"PanelO3"
 
 		"Slider.NobColor"									"255 255 255 255"
 		"Slider.TextColor"									"128 128 128 255"
@@ -344,13 +344,13 @@
 		"Slider.DisabledTextColor1"							"96 96 96 255"
 		"Slider.DisabledTextColor2"							"32 32 32 255"
 
-		"TextEntry.TextColor"								"Gray"
+		"TextEntry.TextColor"								"Text0"
 		"TextEntry.BgColor"									"Blank"
-		"TextEntry.CursorColor"								"Gray"
-		"TextEntry.DisabledTextColor"						"Gray"
+		"TextEntry.CursorColor"								"Text1"
+		"TextEntry.DisabledTextColor"						"Text2"
 		"TextEntry.DisabledBgColor"							"Blank"
-		"TextEntry.SelectedTextColor"						"TanLight"
-		"TextEntry.SelectedBgColor"							"Gray"
+		"TextEntry.SelectedTextColor"						"AccentMain"
+		"TextEntry.SelectedBgColor"							"Blank"
 		"TextEntry.OutOfFocusSelectedBgColor"				"Blank"
 		"TextEntry.FocusEdgeColor"							"Blank"
 
@@ -3141,7 +3141,7 @@
 			{
 				"1"
 				{
-					"color"									"TanLight"
+					"color"									"Blank"
 					"offset"								"0 1"
 				}
 			}
@@ -3149,7 +3149,7 @@
 			{
 				"1"
 				{
-					"color" 								"TanLight"
+					"color" 								"Blank"
 					"offset" 								"1 0"
 				}
 			}
@@ -3157,7 +3157,7 @@
 			{
 				"1"
 				{
-					"color" 								"TanLight"
+					"color" 								"Blank"
 					"offset" 								"0 0"
 				}
 			}
@@ -3165,7 +3165,7 @@
 			{
 				"1"
 				{
-					"color" 								"TanLight"
+					"color" 								"Blank"
 					"offset" 								"0 0"
 				}
 			}
@@ -3179,7 +3179,7 @@
 			{
 				"1"
 				{
-					"color" 								"TanDark"
+					"color" 								"Blank"
 					"offset" 								"0 1"
 				}
 			}
@@ -3187,7 +3187,7 @@
 			{
 				"1"
 				{
-					"color" 								"TanDark"
+					"color" 								"Blank"
 					"offset" 								"1 0"
 				}
 			}
@@ -3195,7 +3195,7 @@
 			{
 				"1"
 				{
-					"color" 								"TanDark"
+					"color" 								"Blank"
 					"offset"								"0 0"
 				}
 			}
@@ -3203,7 +3203,7 @@
 			{
 				"1"
 				{
-					"color" 								"TanDark"
+					"color" 								"Blank"
 					"offset" 								"0 0"
 				}
 			}

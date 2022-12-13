@@ -131,7 +131,7 @@
 		"ypos"						"cs-0.5-20"
 		"zpos"						"3"
 		"wide"						"270"
-		"tall"						"334"
+		"tall"						"329"
 		"bgcolor_override"			"Blank"
 	}
 

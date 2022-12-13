@@ -9,18 +9,18 @@
 		"Health Buff Spec"									"64 255 144 255"
 		"Health Buff Killer"								"64 255 144 255"
 
-		"Health Hurt"										"255 64 64 255"
-		"Health Hurt Target"								"255 64 64 255"
-		"Health Hurt Spec"									"255 64 64 255"
-		"Health Hurt Killer"								"255 64 64 255"
+		"Health Hurt"										"255 64 72 255"
+		"Health Hurt Target"								"255 64 72 255"
+		"Health Hurt Spec"									"255 64 72 255"
+		"Health Hurt Killer"								"255 64 72 255"
 
 		"Ammo In Clip"										"255 255 255 255"
 		"Ammo In Reserve"									"255 255 255 255"
 		"Ammo No Clip"										"255 255 255 255"
 
-		"Ammo In Clip Low"									"255 64 64 255"
-		"Ammo In Reserve Low"								"255 64 64 255"
-		"Ammo No Clip Low"									"255 64 64 255"
+		"Ammo In Clip Low"									"255 64 72 255"
+		"Ammo In Reserve Low"								"255 64 72 255"
+		"Ammo No Clip Low"									"255 64 72 255"
 
 		"Ubercharge"										"255 255 255 255"
 		"Ubercharge Full"									"64 255 144 255"
@@ -82,11 +82,11 @@
 
 		"AccentMain"										"64 144 255 255"
 		"Positive"											"64 255 144 255"
-		"Negative"											"255 64 64 255"
+		"Negative"											"255 64 72 255"
 
 		"AccentMainT1"										"0 128 255 32"
 		"PositiveT1"										"0 255 144 32"
-		"NegativeT1"										"255 64 64 32"
+		"NegativeT1"										"255 64 72 32"
 	}
 
 	"BaseSettings"

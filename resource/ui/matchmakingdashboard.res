@@ -579,9 +579,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Text0"
-			"fgcolor"					"Text0"
-			"defaultFgColor_override"	"Text0"
+			"fgcolor_override"			"Negative"
+			"fgcolor"					"Negative"
+			"defaultFgColor_override"	"Negative"
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
@@ -617,9 +617,9 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Text0"
-			"fgcolor"					"Text0"
-			"defaultFgColor_override"	"Text0"
+			"fgcolor_override"			"Negative"
+			"fgcolor"					"Negative"
+			"defaultFgColor_override"	"Negative"
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"

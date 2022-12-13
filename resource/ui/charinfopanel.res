@@ -12,9 +12,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"24 24 24 0"
-		"infocus_bgcolor_override"					"24 24 24 0"
-		"outoffocus_bgcolor_override"				"24 24 24 0"
+		"bgcolor_override"							"PanelO2"
+		"infocus_bgcolor_override"					"PanelO2"
+		"outoffocus_bgcolor_override"				"PanelO2"
 
 		"title"										"#CharInfoAndSetup"
 		"title_font"								"HudFontMediumBold"
