@@ -229,7 +229,7 @@
 		"zpos"										"3"
 		"wide"										"640"
 		"tall"										"20"
-		"labelText"									"HINT: Try using your Number Pad, Number Keys, and WASD Keys to navigate the different menus"
+		"labelText"									"HINT: Try using your Number Pad, Number Keys, and/or WASDQE Keys to navigate the different menus"
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text5"
