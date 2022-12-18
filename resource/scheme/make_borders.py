@@ -22,10 +22,10 @@ for color in COLORS:
                     "background_type": "0",
                     "color": str(color),
                     "image": f"replay/thumbnails/panels/rounded_rect/64_6_12_{corner}_{i}",
-                    "src_corner_width": "24",
-                    "src_corner_height": "24",
-                    "draw_corner_width": "8",
-                    "draw_corner_height": "8",
+                    "src_corner_width": "14",  # 20
+                    "src_corner_height": "14",  # 20
+                    "draw_corner_width": "3",  # 6
+                    "draw_corner_height": "3",  # 6
                 }
             }
             base_dict["Scheme"]["Borders"].update(_d)

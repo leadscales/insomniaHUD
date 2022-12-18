@@ -63,7 +63,7 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CompetitiveEntry"
-		"xpos"			"1"
+		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"50"
 		"wide"			"120"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"MvMEntry"
-		"xpos"			"1"
+		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"50"
 		"wide"			"120"
@@ -115,7 +115,7 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"ServerBrowserEntry"
-		"xpos"			"1"
+		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"50"
 		"wide"			"120"
@@ -140,7 +140,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"CreateServerEntry2"
-		"xpos"				"1"
+		"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"120"
 		"tall"				"50"

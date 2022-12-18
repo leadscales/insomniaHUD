@@ -79,14 +79,14 @@
 			"armedFgColor_override"		"Text0"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TLTRBLBR_PanelO2_0"
+			"border_armed"		"64_6_12_NONE_PanelO2_0"
 		}
 
 		"PartySlot0"
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot0"
-			"xpos"			"40"
+			"xpos"			"20"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -107,7 +107,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot1"
-			"xpos"			"1"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -131,7 +131,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot2"
-			"xpos"			"1"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -155,7 +155,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot3"
-			"xpos"			"1"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -179,7 +179,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot4"
-			"xpos"			"1"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -203,7 +203,7 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot5"
-			"xpos"			"1"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"100"
 			"wide"			"20"
@@ -585,7 +585,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TRBR_Negative_4"
+			"border_armed"		"64_6_12_NONE_Negative_4"
 		}
 
 		"DisconnectButton"
@@ -623,7 +623,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TRBR_Negative_4"
+			"border_armed"		"64_6_12_NONE_Negative_4"
 		}
 
 		"ResumeButton"
@@ -661,7 +661,7 @@
 			"armedFgColor_override"		"Text0"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TLTRBLBR_PanelO2_0"
+			"border_armed"		"64_6_12_NONE_PanelO2_0"
 		}
 
 		"FindAGameButton"
@@ -699,7 +699,7 @@
 			"armedFgColor_override"		"Positive"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TLBL_Positive_4"
+			"border_armed"		"64_6_12_NONE_Positive_4"
 		}
 	}
 }

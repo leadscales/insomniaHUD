@@ -131,7 +131,7 @@
 		"ypos"						"cs-0.5-20"
 		"zpos"						"3"
 		"wide"						"270"
-		"tall"						"329"
+		"tall"						"324"
 		"bgcolor_override"			"Blank"
 	}
 
@@ -172,8 +172,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"64_6_12_BL_PanelO2_0"
-			"border_armed"			"64_6_12_BL_PanelO3_0"
+			"border_default"		"64_6_12_NONE_PanelO2_0"
+			"border_armed"			"64_6_12_NONE_PanelO3_0"
 		}
 
 		"ClassSoldier"
@@ -228,8 +228,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"64_6_12_BR_PanelO2_0"
-			"border_armed"			"64_6_12_BR_PanelO3_0"
+			"border_default"		"64_6_12_NONE_PanelO2_0"
+			"border_armed"			"64_6_12_NONE_PanelO3_0"
 
 			"pin_to_sibling"		"ClassSoldier"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -536,8 +536,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"64_6_12_TLBL_PanelO2_0"
-			"border_armed"			"64_6_12_TLBL_PanelO3_0"
+			"border_default"		"64_6_12_BL_PanelO2_0"
+			"border_armed"			"64_6_12_BL_PanelO3_0"
 		}
 
 		"MenuCrafting"
@@ -682,8 +682,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"64_6_12_TRBR_PanelO2_0"
-			"border_armed"			"64_6_12_TRBR_PanelO3_0"
+			"border_default"		"64_6_12_BR_PanelO2_0"
+			"border_armed"			"64_6_12_BR_PanelO3_0"
 
 			"pin_to_sibling"		"MenuTrading"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"

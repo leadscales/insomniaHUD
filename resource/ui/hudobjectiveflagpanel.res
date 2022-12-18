@@ -27,7 +27,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueScore"
 		"xpos"										"c0-s1"
-		"ypos"										"rs1-26"
+		"ypos"										"rs1-25"
 		"zpos"										"8"
 		"wide"										"40"
 		"tall"										"40"
@@ -68,7 +68,7 @@
 		"textAlignment"								"center"
 		"labelText"									"%bluescore%"
 		"font"										"bold32Blur"
-		"fgcolor"									"Black"
+		"fgcolor"									"Blank"
 
 		"pin_to_sibling"							"BlueScore"
 
@@ -130,7 +130,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedScore"
 		"xpos"										"c0"
-		"ypos"										"rs1-26"
+		"ypos"										"rs1-25"
 		"zpos"										"8"
 		"wide"										"40"
 		"tall"										"40"
@@ -171,7 +171,7 @@
 		"textAlignment"								"center"
 		"labelText"									"%redscore%"
 		"font"										"bold32Blur"
-		"fgcolor"									"Black"
+		"fgcolor"									"Blank"
 
 		"pin_to_sibling"							"RedScore"
 
@@ -226,7 +226,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"PlayingTo"
 		"xpos"										"cs-0.5"
-		"ypos"										"rs1-6"
+		"ypos"										"rs1-5"
 		"zpos"										"4"
 		"wide"										"80"
 		"tall"										"20"

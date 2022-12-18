@@ -495,10 +495,10 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"ExtraButtonsContainer"
-		"xpos"										"5"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"11"
-		"wide"										"200"
+		"wide"										"190"
 		"tall"										"44"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
@@ -512,10 +512,10 @@
 		{
 			"ControlName"							"CExButton"
 			"fieldName"								"InfoButton"
-			"xpos"									"5"
-			"ypos"									"5"
-			"wide"									"34"
-			"tall"									"34"
+			"xpos"									"0"
+			"ypos"									"3"
+			"wide"									"38"
+			"tall"									"38"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -530,7 +530,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
+			"border_default"						"64_6_12_TLBL_Black_3"
 			"border_armed"							"64_6_12_TLBL_White_4"
 		}
 
@@ -538,10 +538,10 @@
 		{
 			"ControlName"							"CExButton"
 			"fieldName"								"ConsoleButton"
-			"xpos"									"5"
+			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"34"
-			"tall"									"34"
+			"wide"									"38"
+			"tall"									"38"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -556,7 +556,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
+			"border_default"						"64_6_12_NONE_Black_3"
 			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"InfoButton"
@@ -568,10 +568,10 @@
 		{
 			"ControlName"							"CExButton"
 			"fieldName"								"DemoUIButton"
-			"xpos"									"5"
+			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"34"
-			"tall"									"34"
+			"wide"									"38"
+			"tall"									"38"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -586,7 +586,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
+			"border_default"						"64_6_12_NONE_Black_3"
 			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"ConsoleButton"
@@ -598,10 +598,10 @@
 		{
 			"ControlName"							"CExButton"
 			"fieldName"								"AchievementsButton"
-			"xpos"									"5"
+			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"34"
-			"tall"									"34"
+			"wide"									"38"
+			"tall"									"38"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -616,7 +616,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
+			"border_default"						"64_6_12_NONE_Black_3"
 			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"DemoUIButton"
@@ -628,10 +628,10 @@
 		{
 			"ControlName"							"CExButton"
 			"fieldName"								"ContractsButton"
-			"xpos"									"5"
+			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"34"
-			"tall"									"34"
+			"wide"									"38"
+			"tall"									"38"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -646,7 +646,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
+			"border_default"						"64_6_12_TRBR_Black_3"
 			"border_armed"							"64_6_12_TRBR_White_4"
 
 			"pin_to_sibling"						"AchievementsButton"
@@ -666,7 +666,7 @@
 		"xpos"										"0"
 		"ypos"										"-10"
 		"zpos"										"10"
-		"wide"										"175"
+		"wide"										"160"
 		"tall"										"40"
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
@@ -719,8 +719,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"64_6_12_TLBL_PanelO2_0"
+				"border_default"			"64_6_12_TLBL_PanelO2_0"
+				"border_armed"				"64_6_12_TLBL_PanelO3_0"
 			}
 		}
 
@@ -728,7 +728,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"MutePlayersButton"
-			"xpos"			"5"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
 			"wide"			"40"
@@ -772,8 +772,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"64_6_12_NONE_PanelO2_0"
+				"border_default"			"64_6_12_NONE_PanelO2_0"
+				"border_armed"				"64_6_12_NONE_PanelO3_0"
 			}
 		}
 
@@ -781,7 +781,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"ReportPlayerButton"
-			"xpos"			"5"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
 			"wide"			"40"
@@ -826,8 +826,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"64_6_12_NONE_PanelO2_0"
+				"border_default"			"64_6_12_NONE_PanelO2_0"
+				"border_armed"				"64_6_12_NONE_PanelO3_0"
 			}
 		}
 
@@ -835,7 +835,7 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldname"		"FixIssuesButton"
-			"xpos"			"5"
+			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"12"
 			"wide"			"40"
@@ -879,8 +879,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"64_6_12_TRBR_PanelO2_0"
+				"border_default"			"64_6_12_TRBR_PanelO2_0"
+				"border_armed"				"64_6_12_TRBR_PanelO3_0"
 			}
 		}
 	}
