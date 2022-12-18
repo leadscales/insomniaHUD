@@ -19,8 +19,8 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CasualEntry"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"tall"			"50"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
@@ -35,6 +35,28 @@
 		{
 			"ypos"			"0"
 		}
+	}
+
+	"CasualEntry2"
+	{
+		"ControlName"		"CExImageButton"
+		"fieldName"			"CasualEntry2"
+		"xpos"				"0"
+		"ypos"				"0"
+		"wide"				"120"
+		"tall"				"50"
+		"labeltext"			"#MMenu_PlayList_Casual_Button"
+		"font"				"regular14"
+		"textAlignment"		"center"
+		"command"			"play_casual"
+		"actionsignallevel"	"1"
+		"paintbackground"	"0"
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+
+		"border_default"	"64_6_12_TLBL_PanelO2_0"
+		"border_armed"		"64_6_12_TLBL_PanelO3_0"
 	}
 
 	"CompetitiveEntry"
@@ -58,7 +80,7 @@
 			"ypos"			"0"
 		}
 
-		"pin_to_sibling"	"CasualEntry"
+		"pin_to_sibling"	"CasualEntry2"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
@@ -129,8 +151,11 @@
 		"actionsignallevel"	"1"
 		"paintbackground"	"0"
 
-		"border_default"	"8px_panelo2"
-		"border_armed"		"8px_panelo3"
+		"border_default"	"64_6_12_TRBR_PanelO2_0"
+		"border_armed"		"64_6_12_TRBR_PanelO3_0"
+
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"pin_to_sibling"	"ServerBrowserEntry"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

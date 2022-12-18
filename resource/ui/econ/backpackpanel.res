@@ -219,7 +219,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"8px_panelo3"
+		"border_armed"								"64_6_12_TLTRBLBR_PanelO3_0"
 
 		"pin_to_sibling"							"CurPageLabel"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -246,7 +246,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"8px_panelo3"
+		"border_armed"								"64_6_12_TLTRBLBR_PanelO3_0"
 
 		"pin_to_sibling" 							"CurPageLabel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -500,8 +500,8 @@
 		"armedFgColor_override"						"Negative"
 		"defaultFgColor_override"					"Negative"
 
-		"border_default"							"8px_panelo2"
-		"border_armed"								"8px_negative_3"
+		"border_default"							"64_6_12_TLTRBLBR_PanelO2_0"
+		"border_armed"								"64_6_12_TLTRBLBR_Negative_4"
 	}
 
 	"ShowExplanationsButton"

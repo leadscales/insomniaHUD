@@ -531,7 +531,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"8px_white_3"
+			"border_armed"							"64_6_12_TLBL_White_4"
 		}
 
 		"ConsoleButton"
@@ -557,7 +557,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"8px_white_3"
+			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -587,7 +587,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"8px_white_3"
+			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -617,7 +617,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"8px_white_3"
+			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -647,7 +647,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"8px_white_3"
+			"border_armed"							"64_6_12_TRBR_White_4"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -720,7 +720,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_panelo2"
+				"border_armed"				"64_6_12_TLBL_PanelO2_0"
 			}
 		}
 
@@ -773,7 +773,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_panelo2"
+				"border_armed"				"64_6_12_NONE_PanelO2_0"
 			}
 		}
 
@@ -827,7 +827,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_panelo2"
+				"border_armed"				"64_6_12_NONE_PanelO2_0"
 			}
 		}
 
@@ -880,7 +880,7 @@
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"8px_panelo2"
+				"border_armed"				"64_6_12_TRBR_PanelO2_0"
 			}
 		}
 	}

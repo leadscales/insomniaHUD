@@ -79,7 +79,7 @@
 			"armedFgColor_override"		"Text0"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"8px_panelo2"
+			"border_armed"		"64_6_12_TLTRBLBR_PanelO2_0"
 		}
 
 		"PartySlot0"
@@ -585,7 +585,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"8px_negative_3"
+			"border_armed"		"64_6_12_TLTRBLBR_Negative_4"
 		}
 
 		"DisconnectButton"
@@ -623,7 +623,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"8px_negative_3"
+			"border_armed"		"64_6_12_TLTRBLBR_Negative_4"
 		}
 
 		"ResumeButton"
@@ -661,7 +661,7 @@
 			"armedFgColor_override"		"Text0"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"8px_panelo2"
+			"border_armed"		"64_6_12_TLTRBLBR_PanelO2_0"
 		}
 
 		"FindAGameButton"
@@ -699,7 +699,7 @@
 			"armedFgColor_override"		"Text0"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"8px_panelo2"
+			"border_armed"		"64_6_12_TLTRBLBR_PanelO2_0"
 		}
 	}
 }
