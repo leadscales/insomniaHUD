@@ -585,7 +585,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TLTRBLBR_Negative_4"
+			"border_armed"		"64_6_12_TRBR_Negative_4"
 		}
 
 		"DisconnectButton"
@@ -623,7 +623,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TLTRBLBR_Negative_4"
+			"border_armed"		"64_6_12_TRBR_Negative_4"
 		}
 
 		"ResumeButton"
@@ -633,8 +633,8 @@
 			"xpos"			"rs1-31-120"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"20"
-			"tall"			"20"
+			"wide"			"0"
+			"tall"			"0"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"0"
@@ -693,13 +693,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Text0"
-			"fgcolor"					"Text0"
-			"defaultFgColor_override"	"Text0"
-			"armedFgColor_override"		"Text0"
+			"fgcolor_override"			"Positive"
+			"fgcolor"					"Positive"
+			"defaultFgColor_override"	"Positive"
+			"armedFgColor_override"		"Positive"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_TLTRBLBR_PanelO2_0"
+			"border_armed"		"64_6_12_TLBL_Positive_4"
 		}
 	}
 }
