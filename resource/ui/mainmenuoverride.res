@@ -496,13 +496,14 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"ExtraButtonsContainer"
 		"xpos"										"0"
-		"ypos"										"0"
+		"ypos"										"3"
 		"zpos"										"11"
 		"wide"										"190"
-		"tall"										"44"
+		"tall"										"38"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"Blank"
+		"border"									"64_6_12_TLTRBLBR_Black_3"
 
 		"pin_to_sibling"							"Splitter3"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -513,7 +514,7 @@
 			"ControlName"							"CExButton"
 			"fieldName"								"InfoButton"
 			"xpos"									"0"
-			"ypos"									"3"
+			"ypos"									"0"
 			"wide"									"38"
 			"tall"									"38"
 			"paintbackground"						"0"
@@ -530,7 +531,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"64_6_12_TLBL_Black_3"
+			"border_default"						"NoBorder"
 			"border_armed"							"64_6_12_TLBL_White_4"
 		}
 
@@ -556,7 +557,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"64_6_12_NONE_Black_3"
+			"border_default"						"NoBorder"
 			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"InfoButton"
@@ -586,7 +587,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"64_6_12_NONE_Black_3"
+			"border_default"						"NoBorder"
 			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"ConsoleButton"
@@ -616,7 +617,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"64_6_12_NONE_Black_3"
+			"border_default"						"NoBorder"
 			"border_armed"							"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"						"DemoUIButton"
@@ -646,7 +647,7 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"64_6_12_TRBR_Black_3"
+			"border_default"						"NoBorder"
 			"border_armed"							"64_6_12_TRBR_White_4"
 
 			"pin_to_sibling"						"AchievementsButton"
