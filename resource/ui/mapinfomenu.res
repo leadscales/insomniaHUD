@@ -11,116 +11,85 @@
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
+		"PaintBackground"							"0"
 	}
 
-	"MapInfoText"
+	"background"
 	{
-		"ControlName"								"CExRichText"
-		"fieldName"									"MapInfoText"
-		"font"										"regular11"
-		"xpos"										"cs-0.5"
-		"ypos"										"cs-0.5"
-		"zpos"										"3"
-		"wide"										"200"
-		"tall"										"200"
-		"visible"									"1"
-		"enabled"									"1"
-		"textAlignment"								"center"
-		"fgcolor"									"White"
-		"paintbackground"							"0"
-		"proportionaltoparent"						"1"
-	}
-
-	"MapInfoTitle"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"MapInfoTitle"
+		"ControlName"								"EditablePanel"
+		"fieldName"									"background"
 		"xpos"										"0"
-		"ypos"										"10"
-		"zpos"										"1"
-		"wide"										"390"
-		"tall"										"20"
+		"ypos"										"0"
+		"wide"										"f0"
+		"tall"										"f0"
+		"bgcolor_override"							"PanelT4"
+		"mouseinputenabled"							"0"
+	}
+
+	"ok2"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"ok2"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"6"
+		"wide"										"f0"
+		"tall"										"f0"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"%mapname%"
 		"textAlignment"								"center"
-		"font"										"bold15"
-		"fgcolor"									"White"
-		"AllCaps"	 								"1"
-
-		"pin_to_sibling"							"MapInfoText"
-		"pin_corner_to_sibling"						"PIN_CENTER_BOTTOM"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
-	}
-
-	"ok"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"ok"
-		"xpos"										"0"
-		"ypos"										"5"
-		"zpos"										"6"
-		"wide"										"100"
-		"tall"										"20"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"CONTINUE (&E) "
-		"textAlignment"								"center"
 		"command"									"continue"
 		"default"									"1"
-		"font"										"bold15"
+		"font"										"bold18"
+		"allcaps"									"1"
 
 		"paintbackground"							"0"
 		"paintborder"								"0"
 
-		"defaultFgColor_override"					"White"
-		"armedFgColor_override" 					"Menu Labels"
-		"depressedFgColor_override" 				"White"
+		"defaultFgColor_override"					"Text0"
+		"armedFgColor_override" 					"Text0"
+		"depressedFgColor_override" 				"Text0"
 
-		"pin_to_sibling"							"MapInfoText"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_released"							"UI/buttonclickrelease.wav"
 	}
 
-	"MapInfoWatchIntro"
+	"KeyOk"
 	{
-		"ControlName"								"CExButton"
-		"fieldName"									"MapInfoWatchIntro"
-		"xpos"										"0"
-		"ypos"										"5"
-		"zpos"										"6"
-		"wide"										"100"
-		"tall"										"20"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"WATCH MOVIE"
-		"textAlignment"								"center"
-		"command"									"intro"
-		"default"									"1"
-		"font"										"bold15"
-
-		"paintbackground"							"0"
-		"paintborder"								"0"
-
-		"defaultFgColor_override"					"White"
-		"armedFgColor_override" 					"Menu Labels"
-		"depressedFgColor_override" 				"White"
-
-		"pin_to_sibling"							"ok"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"ControlName"		 						"CExButton"
+		"fieldName"		 							"KeyOk"
+		"xpos"			 							"9999"
+		"command"									"continue"
+		"labelText"									"&D"
 	}
-
-
 
 	//==================================================================================================================================================
 	// REMOVED ELEMENTS
 	//==================================================================================================================================================
 
+	"MapInfoText"
+	{
+		"ControlName"								"CExRichText"
+		"fieldName"									"MapInfoText"
+		"xpos"										"9999"
+	}
+	"MapInfoTitle"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"MapInfoTitle"
+		"xpos"										"cs-0.5"
+	}	
 	"MapInfoBack"
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"MapInfoBack"
+		"xpos"										"9999"
+	}
+	"MapInfoWatchIntro"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"MapInfoWatchIntro"
 		"xpos"										"9999"
 	}
 	"MapInfoContinue"
@@ -151,6 +120,12 @@
 	{
 		"ControlName"								"ImagePanel"
 		"fieldName"									"ShadedBar"
+		"xpos"										"9999"
+	}
+	"ok"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"ok"
 		"xpos"										"9999"
 	}
 }

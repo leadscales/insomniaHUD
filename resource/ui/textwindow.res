@@ -11,60 +11,19 @@
 		"visible"				  					"1"
 		"enabled"				  					"1"
 		"settitlebarvisible"	  					"0"
+		"paintbackground"							"0"
 	}
 
-	"TFTextMessage"
+	"background"
 	{
-		"ControlName"	 							"CExRichText"
-		"fieldName"		 							"TFTextMessage"
-		"font"			 							"regular11"
-		"xpos"			 							"cs-0.5"
-		"ypos"			 							"cs-0.5"
-		"zpos"			 							"1"
-		"wide"			 							"400"
-		"tall"			 							"200"
-		"visible"		 							"1"
-		"enabled"		 							"1"
-		"textAlignment"	 							"left"
-		"fgcolor"		 							"White"
-		"proportionaltoparent"						"1"
-	}
-
-	"HTMLMessage"
-	{
-		"ControlName"	 							"HTML"
-		"fieldName"		 							"HTMLMessage"
-		"xpos"			 							"cs-0.5"
-		"ypos"			 							"cs-0.5"
-		"zpos"			 							"1"
-		"wide"			 							"400"
-		"tall"			 							"200"
-		"visible"		 							"1"
-		"enabled"		 							"1"
-		"paintborder"	 							"0"
-		"proportionaltoparent"						"1"
-	}
-
-	"TFMessageTitle"
-	{
-		"ControlName"	  							"CExLabel"
-		"fieldName"		 							"TFMessageTitle"
-		"xpos"			 							"0"
-		"ypos"			 							"10"
-		"zpos"			 							"1"
-		"wide"			 							"250"
-		"tall"			 							"20"
-		"visible"		 							"1"
-		"enabled"		 							"1"
-		"labelText"		 							"#TF_WELCOME"
-		"textAlignment"	 							"center"
-		"AllCaps"	 								"1"
-		"font"			 							"bold15"
-		"fgcolor"		 							"White"
-
-		"pin_to_sibling"							"TFTextMessage"
-		"pin_corner_to_sibling"						"PIN_CENTER_BOTTOM"
-		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
+		"ControlName"								"EditablePanel"
+		"fieldName"									"background"
+		"xpos"										"0"
+		"ypos"										"0"
+		"wide"										"f0"
+		"tall"										"f0"
+		"bgcolor_override"							"PanelT4"
+		"mouseinputenabled"							"0"
 	}
 
 	"ok"
@@ -72,35 +31,62 @@
 		"ControlName"		 						"CExButton"
 		"fieldName"		 							"ok"
 		"xpos"			 							"0"
-		"ypos"			 							"5"
-		"zpos"			 							"6"
-		"wide"			 							"100"
-		"tall"			 							"20"
+		"ypos"			 							"0"
+		"zpos"			 							"5"
+		"wide"			 							"f0"
+		"tall"			 							"f0"
 		"visible"		 							"1"
 		"enabled"		 							"1"
-		"labelText"		 							"CONTINUE (&E) "
+		"labelText"		 							"WELCOME"
 		"textAlignment"	 							"center"
 		"command"		 							"okay"
 		"default"		 							"1"
-		"font"										"bold15"
-
+		"font"										"bold18"
 		"paintbackground"							"0"
 		"paintborder"								"0"
 
-		"defaultFgColor_override"					"White"
-		"armedFgColor_override" 					"Menu Labels"
-		"depressedFgColor_override" 				"White"
+		"defaultFgColor_override"					"Text0"
+		"armedFgColor_override" 					"Text0"
+		"depressedFgColor_override" 				"Text0"
 
-		"pin_to_sibling"							"TFTextMessage"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_released"							"UI/buttonclickrelease.wav"
 	}
 
-
+	"KeyOk"
+	{
+		"ControlName"		 						"CExButton"
+		"fieldName"		 							"KeyOk"
+		"xpos"			 							"9999"
+		"command"									"okay"
+		"labelText"									"&D"
+	}
 
 	//==================================================================================================================================================
 	// REMOVED ELEMENTS
 	//==================================================================================================================================================
+
+	"TFTextMessage"
+	{
+		"ControlName"	 							"CExRichText"
+		"fieldName"		 							"TFTextMessage"
+		"font"			 							"regular11"
+		"xpos"			 							"9999"
+	}
+
+	"HTMLMessage"
+	{
+		"ControlName"	 							"HTML"
+		"fieldName"		 							"HTMLMessage"
+		"xpos"			 							"9999"
+	}
+
+	"TFMessageTitle"
+	{
+		"ControlName"	  							"CExLabel"
+		"fieldName"		 							"TFMessageTitle"
+		"xpos"			 							"9999"
+	}
 
 	"TextMessage"
 	{
