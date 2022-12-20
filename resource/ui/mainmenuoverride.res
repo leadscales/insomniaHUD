@@ -526,7 +526,7 @@
 			"textalignment"							"center"
 			"labeltext"								"i"
 
-			"command"								"engine showconsole; echo test"
+			"command"								"engine hud_info"
 
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
@@ -552,7 +552,7 @@
 			"textalignment"							"center"
 			"labeltext"								"$"
 
-			"command"								"engine showconsole"
+			"command"								"engine toggleconsole"
 
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"

@@ -21,7 +21,7 @@
 	"FixIssuesButton"
 	{
 		"label"										"w"
-		"command" 									"engine fix_issues"
+		"command" 									"engine hud_fixissues"
 		"OnlyInGame"								"1"
 	}
 }

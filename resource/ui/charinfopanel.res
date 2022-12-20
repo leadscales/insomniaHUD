@@ -234,4 +234,46 @@
 		"font"										"regular14"
 		"fgcolor"									"Text5"
 	}
+
+	"LeadLogo"
+	{
+		"ControlName"								"CExImageButton"
+		"fieldName"									"LeadLogo"
+		"xpos"										"rs1-2"
+		"ypos"										"rs1-2"
+		"zpos"										"999"
+		"wide"										"16"
+		"tall"										"16"
+		"paintbackground"							"0"
+		"labelText"									""
+
+		"subimage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"subimage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"image"									"replay/thumbnails/lead_logo"
+			"scaleImage"							"1"
+			"drawcolor"								"Text5"
+		}
+	}
+
+	"HudLabel"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"HudLabel"
+		"xpos"										"rs1-5"
+		"ypos"										"20"
+		"wide"										"200"
+		"tall"										"20"
+		"font"										"bold18"
+		"textAlignment"								"east"
+		"labelText"									"insomniaHUD v0.1.0"
+		"mouseinputenabled"							"0"
+		"fgcolor"									"Text0"
+	}
 }
