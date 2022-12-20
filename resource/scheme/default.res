@@ -336,7 +336,7 @@
 		"SectionedListPanel.SelectedTextColor"				"Black"
 		"SectionedListPanel.SelectedBgColor"				"Red"
 		"SectionedListPanel.OutOfFocusSelectedTextColor"	"Black"
-		"SectionedListPanel.OutOfFocusSelectedBgColor"		"PanelO3"
+		"SectionedListPanel.OutOfFocusSelectedBgColor"		"PanelT2"
 
 		"Slider.NobColor"									"255 255 255 255"
 		"Slider.TextColor"									"128 128 128 255"
