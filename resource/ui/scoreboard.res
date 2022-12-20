@@ -74,6 +74,12 @@
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
+
+		"if_mvm"
+		{
+			"tall"									"185"
+			"ypos"									"-60"
+		}
 	}
 
 	//==================================================================================================================================================
@@ -418,6 +424,11 @@
 		"font"										"regular14"
 		"labelText"									"%mapname%"
 		"textAlignment"								"center"
+
+		"if_mvm"
+		{
+			"visible"								"0"
+		}
 	}
 
 	"LocalPlayerStatsPanel"
