@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+	"$basetexture"			"vgui/replay/thumbnails/ui_effects/loading_animation_small"
+	"$vertexcolor"			"1"
+	"$no_fullbright"		"1"
+	"$ignorez"				"1"
+	"%keywords"				"tf"
+	"$translucent"			"1"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar"				"$basetexture"
+			"animatedTextureFrameNumVar"		"$frame"
+			"animatedTextureFrameRate"			"60"
+		}
+	}
+}
