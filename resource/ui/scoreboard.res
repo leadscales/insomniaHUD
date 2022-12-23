@@ -69,7 +69,7 @@
 		"enabled"									"1"
 
 		"paintbackground"							"0"
-		"border"									"64_6_12_TLTRBLBR_Black_2"
+		"border"									"64_6_12_TLTR_Black_1"
 		
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -361,7 +361,7 @@
 		"labelText"		          					"%spectators%"
 		"textAlignment"								"center"
 
-		"border"									"64_6_12_BLBR_Black_4"
+		"border"									"64_6_12_NONE_Black_4"
 
 		"pin_to_sibling"							"ScoreBG"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -462,7 +462,7 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"64_6_12_TLTRBLBR_Black_1"
+			"border"									"64_6_12_BL_Black_1"
 		}
 
 		"KillsWhite"
@@ -480,7 +480,7 @@
 			"fgcolor" 								"Positive"
 			"labelText"								"%kills%"
 			"textAlignment"							"center"
-			"border"								"64_6_12_TLBL_Positive_4"
+			"border"								"NoBorder"
 		}
 
 		"DeathsWhite"
@@ -498,7 +498,7 @@
 			"fgcolor" 								"Negative"
 			"labelText"								"%deaths%"
 			"textAlignment"							"center"
-			"border"								"64_6_12_TRBR_Negative_4"
+			"border"								"NoBorder"
 
 			"pin_to_sibling" 						"KillsWhite"
 			"pin_corner_to_sibling" 				"PIN_TOPLEFT"
@@ -517,7 +517,7 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"64_6_12_TLTRBLBR_Black_4"
+			"border"									"64_6_12_BR_Black_2"
 			"bgcolor_override"							"Blank"
 
 			"pin_to_sibling"							"KDPanel"
@@ -560,7 +560,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_TL_Black_2"
+				"border"									"64_6_12_NONE_Black_2"
 				"paintbackground"							"0"
 			}
 
@@ -676,7 +676,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_BL_Black_3"
+				"border"									"64_6_12_NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S3_Label"
@@ -928,7 +928,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_TR_Black_2"
+				"border"									"64_6_12_NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S1_Label"
@@ -1679,7 +1679,7 @@
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_TLTRBLBR_Black_2"
+		"border"									"64_6_12_BLBR_Black_2"
 
 		"pin_to_sibling"							"LocalPlayerStatsPanel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1774,7 +1774,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Positive"
-				"border"							"64_6_12_TLBL_Positive_4"
+				"border"							"64_6_12_BL_Positive_4"
 			}
 		}
 
@@ -1842,7 +1842,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Negative"
-				"border"							"64_6_12_TRBR_Negative_4"
+				"border"							"64_6_12_BR_Negative_4"
 			}
 		}
 	}

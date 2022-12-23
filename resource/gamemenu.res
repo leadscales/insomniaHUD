@@ -24,4 +24,9 @@
 		"command" 									"engine hud_fixissues"
 		"OnlyInGame"								"1"
 	}
+	"InGamePrimaryPanel"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
 }

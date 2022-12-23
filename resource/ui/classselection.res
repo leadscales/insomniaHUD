@@ -466,11 +466,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"64_6_12_TLTR_Black_2"
+		"border_default"		"64_6_12_TLTR_Black_1"
 		"border_armed"			"64_6_12_TLTR_White_4"
 		"border_selected"		"64_6_12_TLTR_White_4"
 		"border_depressed"		"64_6_12_TLTR_White_4"
-		"border"				"64_6_12_TLTR_Black_2"
+		"border"				"64_6_12_TLTR_Black_1"
 
 		"pin_to_sibling"		"ParentPanel"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -488,7 +488,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_BL_Black_2"
+		"border"				"64_6_12_BL_Black_1"
 
 		"pin_to_sibling"		"scout"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -506,7 +506,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_NONE_Black_2"
+		"border"				"64_6_12_NONE_Black_1"
 
 		"pin_to_sibling"		"soldier"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -524,7 +524,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_BR_Black_2"
+		"border"				"64_6_12_BR_Black_1"
 
 		"pin_to_sibling"		"pyro"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -542,7 +542,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_NONE_Black_2"
+		"border"				"64_6_12_NONE_Black_1"
 
 		"pin_to_sibling"		"demoman"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -560,7 +560,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_NONE_Black_2"
+		"border"				"64_6_12_NONE_Black_1"
 
 		"pin_to_sibling"		"heavyweapons"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -578,7 +578,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_NONE_Black_2"
+		"border"				"64_6_12_NONE_Black_1"
 
 		"pin_to_sibling"		"engineer"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -596,7 +596,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_NONE_Black_2"
+		"border"				"64_6_12_NONE_Black_1"
 
 		"pin_to_sibling"		"medic"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -614,7 +614,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_NONE_Black_2"
+		"border"				"64_6_12_NONE_Black_1"
 
 		"pin_to_sibling"		"sniper"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -632,7 +632,7 @@
 		"tall"					"80"
 		"paintbackground"		"0"
 		"mouseinputenabled"		"0"
-		"border"				"64_6_12_NONE_Black_2"
+		"border"				"64_6_12_NONE_Black_1"
 
 		"pin_to_sibling"		"spy"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"

@@ -1,5 +1,19 @@
 "Resource/UI/MvMCreditSubPanel.res"
 {
+	"BG"
+	{
+		"ControlName"		"EditablePanel"
+		"fieldName"			"BG"
+		"xpos"				"0"
+		"ypos"				"0"
+		"zpos"				"0"
+		"wide"				"250"
+		"tall"				"40"
+		"visible"			"1"
+		"paintbackground"	"0"
+		"border"			"64_6_12_TLTRBLBR_Black_2"
+	}
+
 	"HeaderLabelBG"
 	{
 		"ControlName"		"EditablePanel"

@@ -95,6 +95,19 @@
 		}
 	}
 
+	"InGamePrimaryPanel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"InGamePrimaryPanel"
+		"xpos"										"10"
+		"ypos"										"30"
+		"wide"										"200"
+		"tall"										"f100"
+		"visible"									"1"
+		"enabled"									"1"
+		"border"									"64_6_12_TLTRBLBR_PanelO4_0"
+	}
+
 	"PrimaryPanel"
 	{
 		"ControlName"								"EditablePanel"
@@ -105,7 +118,7 @@
 		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_TLTRBLBR_Black_4"
+		"border"									"64_6_12_TLTRBLBR_Black_3"
 	}
 
 	"BottomButtonsPanel"

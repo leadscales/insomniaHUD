@@ -24,6 +24,23 @@
 		"bgcolor_override"							"PanelT4"
 		"mouseinputenabled"							"0"
 	}
+	
+	"TeamColorDarkener"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"TeamColorDarkener"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"160"
+		"tall"										"80"
+		"visible"									"1"
+		"enabled"									"1"
+		"mouseinputenabled"							"0"
+		"border"									"64_6_12_NONE_Black_2"
+
+		"pin_to_sibling"							"BlueButton"
+	}
 
 	//==================================================================================================================================================
 	// BLUE
@@ -68,12 +85,13 @@
 		"fieldName"									"BlueLabel"
 		"xpos"										"0"
 		"ypos"										"0"
+		"zpos"										"2"
 		"wide"										"80"
 		"tall"										"60"
 		"labeltext"									"BLU"
 		"font"										"bold18"
 		"textalignment"								"center"
-		"fgcolor"									"m0reBlue"
+		"fgcolor"									"Text0"
 		"mouseinputenabled"							"0"
 
 		"pin_to_sibling"							"BlueButton"
@@ -148,12 +166,13 @@
 		"fieldName"									"RedLabel"
 		"xpos"										"0"
 		"ypos"										"0"
+		"zpos"										"2"
 		"wide"										"80"
 		"tall"										"60"
 		"labeltext"									"RED"
 		"font"										"bold18"
 		"textalignment"								"center"
-		"fgcolor"									"m0reRed"
+		"fgcolor"									"Text0"
 		"mouseinputenabled"							"0"
 
 		"pin_to_sibling"							"RedButton"
@@ -210,7 +229,7 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"64_6_12_TLTR_Black_2"
+		"border_default"							"64_6_12_TLTR_Black_1"
 		"border_armed"								"64_6_12_TLTR_White_4"
 
 		"pin_to_sibling"							"BlueButton"
@@ -240,7 +259,7 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"64_6_12_BLBR_Black_2"
+		"border_default"							"64_6_12_BLBR_Black_1"
 		"border_armed"								"64_6_12_BLBR_White_4"
 
 		"pin_to_sibling"							"BlueButton"
