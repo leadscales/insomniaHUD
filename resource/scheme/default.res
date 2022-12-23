@@ -36,7 +36,7 @@
 		"BrightYellow"										"251 235 0 255"
 		"GreenSolid"										"76 107 34 255"
 
-		"Black"												"32 32 32 255"
+		"Black"												"0 0 0 255"
 		"TransparentBlack"									"0 0 0 196"
 		"TransparentLightBlack"								"0 0 0 90"
 		"FooterBGBlack"										"48 48 48 255"
