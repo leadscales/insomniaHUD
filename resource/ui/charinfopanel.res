@@ -270,9 +270,9 @@
 		"ypos"										"20"
 		"wide"										"200"
 		"tall"										"20"
-		"font"										"bold18"
+		"font"										"regular14"
 		"textAlignment"								"east"
-		"labelText"									"insomniaHUD v0.1.0"
+		"labelText"									"insomniaHUD v0.1.1"
 		"mouseinputenabled"							"0"
 		"fgcolor"									"Text0"
 	}

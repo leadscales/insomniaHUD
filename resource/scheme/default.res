@@ -5434,33 +5434,13 @@
 			{
 				"1"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"Positive"
 					"offset" 								"0 1"
 				}
-
-			}
-			Right
-			{
-				"1"
+				"2"
 				{
-					"color" 								"CreditsGreen"
-					"offset" 								"1 0"
-				}
-			}
-			Top
-			{
-				"1"
-				{
-					"color" 								"CreditsGreen"
-					"offset" 								"0 0"
-				}
-			}
-			Bottom
-			{
-				"1"
-				{
-					"color" 								"CreditsGreen"
-					"offset" 								"0 0"
+					"color" 								"Positive"
+					"offset" 								"0 1"
 				}
 			}
 		}

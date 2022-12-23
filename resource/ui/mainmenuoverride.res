@@ -100,12 +100,12 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"PrimaryPanel"
 		"xpos"										"10"
-		"ypos"										"20"
+		"ypos"										"30"
 		"wide"										"200"
-		"tall"										"400"
+		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelT4"
+		"border"									"64_6_12_TLTRBLBR_Black_4"
 	}
 
 	"BottomButtonsPanel"
@@ -134,6 +134,8 @@
 		"wide"										"200"
 		"tall"										"40"
 
+		"border"									"64_6_12_TLTR_Black_4"
+
 		"pin_to_sibling" 							"PrimaryPanel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
@@ -143,11 +145,11 @@
 	{
 		"ControlName"								"CPvPRankPanel"
 		"fieldName"									"RankPanel"
-		"xpos"										"-10"
+		"xpos"										"-5"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"180"
-		"tall"										"40"
+		"wide"										"190"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
@@ -183,8 +185,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"190"
-		"wide"										"180"
-		"tall"										"25"
+		"wide"										"200"
+		"tall"										"40"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
@@ -193,8 +195,9 @@
 		"fgcolor"									"Negative"
 		"labelText"									"!"
 		"textAlignment"								"center"
+		"border"									"64_6_12_TLTR_Negative_4"
 
-		"pin_to_sibling" 							"RankPanel"
+		"pin_to_sibling" 							"RankContainer"
 	}
 
 	"CycleRankTypeButton"
@@ -204,8 +207,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"16"
-		"wide"										"180"
-		"tall"										"25"
+		"wide"										"190"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"command"									"open_rank_type_menu"
@@ -224,55 +227,6 @@
 	}
 
 	//==================================================================================================================================================
-	// SPLITTERS
-	//==================================================================================================================================================
-
-	"Splitter1"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"Splitter1"
-		"xpos"										"-5"
-		"ypos"										"0"
-		"wide"										"190"
-		"tall"										"1"
-		"bgcolor_override"							"White"
-
-		"pin_to_sibling"							"RankContainer"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
-	}
-
-	"Splitter2"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"Splitter2"
-		"xpos"										"-5"
-		"ypos"										"0"
-		"wide"										"190"
-		"tall"										"1"
-		"bgcolor_override"							"White"
-
-		"pin_to_sibling"							"Buttons"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
-	}
-
-	"Splitter3"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"Splitter3"
-		"xpos"										"-5"
-		"ypos"										"0"
-		"wide"										"190"
-		"tall"										"1"
-		"bgcolor_override"							"White"
-
-		"pin_to_sibling"							"FriendsContainer"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
-	}
-
-	//==================================================================================================================================================
 	// MAIN MENU BUTTONS
 	//==================================================================================================================================================
 
@@ -280,15 +234,15 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Buttons"
-		"xpos"										"5"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"10"
 		"wide"										"200"
-		"tall"										"46"
+		"tall"										"80"
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
 
-		"pin_to_sibling"							"Splitter1"
+		"pin_to_sibling"							"RankContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
@@ -297,28 +251,29 @@
 			"ControlName"								"CExButton"
 			"fieldname"									"Items"
 			"xpos"										"0"
-			"ypos"										"3"
+			"ypos"										"0"
 			"zpos"										"15"
 			"wide"										"f0"
-			"tall"										"10"
+			"tall"										"20"
 			"labeltext"									"#MMenu_CharacterSetup"
 			"command"									"engine open_charinfo"
 			"actionsignallevel"							"2"
-			"font"										"regular12"
+			"font"										"regular14"
 			"textAlignment"								"west"
 			"proportionaltoparent"						"1"
 			"sound_depressed"							"UI/buttonclick.wav"
 			"sound_released"							"UI/buttonclickrelease.wav"
 			"AllCaps"									"1"
+			"paintbackground"							"0"
 
 			"use_proportional_insets"					"1"
-			"textinsetx"								"10"
+			"textinsetx"								"5"
 
 			"defaultFgColor_override" 					"White"
 			"armedFgColor_override" 					"White"
 
-			"defaultBgColor_override" 					"Blank"
-			"armedBgColor_override" 					"PanelAT5"
+			"border_default"							"NoBorder"
+			"border_armed"								"64_6_12_NONE_White_4"
 		}
 
 		"Options"
@@ -329,25 +284,26 @@
 			"ypos"										"0"
 			"zpos"										"15"
 			"wide"										"f0"
-			"tall"										"10"
+			"tall"										"20"
 			"labeltext"									"#MMenu_Tooltip_Options"
 			"command"									"OpenOptionsDialog"
 			"actionsignallevel"							"2"
-			"font"										"regular12"
+			"font"										"regular14"
 			"textAlignment"								"west"
 			"proportionaltoparent"						"1"
 			"sound_depressed"							"UI/buttonclick.wav"
 			"sound_released"							"UI/buttonclickrelease.wav"
 			"AllCaps"									"1"
+			"paintbackground"							"0"
 
 			"use_proportional_insets"					"1"
-			"textinsetx"								"10"
+			"textinsetx"								"5"
 
 			"defaultFgColor_override" 					"White"
 			"armedFgColor_override" 					"White"
 
-			"defaultBgColor_override" 					"Blank"
-			"armedBgColor_override" 					"PanelAT5"
+			"border_default"							"NoBorder"
+			"border_armed"								"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"							"Items"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -362,25 +318,26 @@
 			"ypos"										"0"
 			"zpos"										"15"
 			"wide"										"f0"
-			"tall"										"10"
+			"tall"										"20"
 			"labeltext"									"ADVANCED"
 			"command"									"OpenTF2Options"
 			"actionsignallevel"							"2"
-			"font"										"regular12"
+			"font"										"regular14"
 			"textAlignment"								"west"
 			"proportionaltoparent"						"1"
 			"sound_depressed"							"UI/buttonclick.wav"
 			"sound_released"							"UI/buttonclickrelease.wav"
 			"AllCaps"									"1"
+			"paintbackground"							"0"
 
 			"use_proportional_insets"					"1"
-			"textinsetx"								"10"
+			"textinsetx"								"5"
 
 			"defaultFgColor_override" 					"White"
 			"armedFgColor_override" 					"White"
 
-			"defaultBgColor_override" 					"Blank"
-			"armedBgColor_override" 					"PanelAT5"
+			"border_default"							"NoBorder"
+			"border_armed"								"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"							"Options"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -395,25 +352,26 @@
 			"ypos"										"0"
 			"zpos"										"15"
 			"wide"										"f0"
-			"tall"										"10"
+			"tall"										"20"
 			"labeltext"									"STORE"
 			"command"									"engine open_store"
 			"actionsignallevel"							"2"
-			"font"										"regular12"
+			"font"										"regular14"
 			"textAlignment"								"west"
 			"proportionaltoparent"						"1"
 			"sound_depressed"							"UI/buttonclick.wav"
 			"sound_released"							"UI/buttonclickrelease.wav"
 			"AllCaps"									"1"
+			"paintbackground"							"0"
 
 			"use_proportional_insets"					"1"
-			"textinsetx"								"10"
+			"textinsetx"								"5"
 
 			"defaultFgColor_override" 					"White"
 			"armedFgColor_override" 					"White"
 
-			"defaultBgColor_override" 					"Blank"
-			"armedBgColor_override" 					"PanelAT5"
+			"border_default"							"NoBorder"
+			"border_armed"								"64_6_12_NONE_White_4"
 
 			"pin_to_sibling"							"Advanced"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -429,16 +387,17 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"FriendsContainer"
-		"xpos"										"5"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"11"
 		"wide"										"200"
-		"tall"										"268"
+		"tall"										"220"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"255 0 0 0"
+		"paintbackground"							"0"
+		"border"									"64_6_12_NONE_BLACK_4"
 
-		"pin_to_sibling"							"Splitter2"
+		"pin_to_sibling"							"Buttons"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
@@ -474,14 +433,14 @@
 				"xpos"								"rs1"
 				"ypos"								"0"
 				"tall"								"f0"
-				"wide"								"0"
+				"wide"								"2"
 				"zpos"								"1000"
 				"nobuttons"							"1"
 				"proportionaltoparent"				"1"
 
 				"Slider"
 				{
-					"fgcolor_override"				"White"
+					"fgcolor_override"				"PanelAT5"
 				}
 			}
 		}
@@ -496,16 +455,16 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"ExtraButtonsContainer"
 		"xpos"										"0"
-		"ypos"										"3"
+		"ypos"										"0"
 		"zpos"										"11"
-		"wide"										"190"
-		"tall"										"38"
+		"wide"										"200"
+		"tall"										"40"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"Blank"
-		"border"									"64_6_12_TLTRBLBR_Black_3"
+		"border"									"64_6_12_BLBR_Black_3"
 
-		"pin_to_sibling"							"Splitter3"
+		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
@@ -515,8 +474,8 @@
 			"fieldName"								"InfoButton"
 			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"38"
-			"tall"									"38"
+			"wide"									"40"
+			"tall"									"40"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -532,7 +491,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"64_6_12_TLBL_White_4"
+			"border_armed"							"64_6_12_BL_White_4"
 		}
 
 		"ConsoleButton"
@@ -541,8 +500,8 @@
 			"fieldName"								"ConsoleButton"
 			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"38"
-			"tall"									"38"
+			"wide"									"40"
+			"tall"									"40"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -571,8 +530,8 @@
 			"fieldName"								"DemoUIButton"
 			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"38"
-			"tall"									"38"
+			"wide"									"40"
+			"tall"									"40"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -601,8 +560,8 @@
 			"fieldName"								"AchievementsButton"
 			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"38"
-			"tall"									"38"
+			"wide"									"40"
+			"tall"									"40"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -631,8 +590,8 @@
 			"fieldName"								"ContractsButton"
 			"xpos"									"0"
 			"ypos"									"0"
-			"wide"									"38"
-			"tall"									"38"
+			"wide"									"40"
+			"tall"									"40"
 			"paintbackground"						"0"
 			"actionsignallevel"						"2"
 			"sound_depressed"						"UI/buttonclick.wav"
@@ -648,7 +607,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"64_6_12_TRBR_White_4"
+			"border_armed"							"64_6_12_BR_White_4"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -894,32 +853,22 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Notifications_ShowButtonPanel"
-		"xpos"										"0"
-		"ypos"										"3"
+		"xpos"										"10"
+		"ypos"										"0"
 		"zpos"										"15"
-		"wide"										"150"
-		"tall"										"14"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 
-		"pin_to_sibling" 							"QuitGame"
+		"pin_to_sibling" 							"PrimaryPanel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
 
 		"Notifications_CountLabel"
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"Notifications_CountLabel"
-			"font"									"bold15"
-			"labelText"								"%noticount%"
-			"textAlignment"							"east"
-			"xpos"									"0"
-			"ypos"									"0"
-			"zpos"									"4"
-			"wide"									"95"
-			"tall"									"14"
-			"visible"								"1"
-			"enabled"								"1"
-			"fgcolor"								"255 200 0 255"
+			"xpos"									"9999"
 		}
 
 		"Notifications_ShowButtonPanel_SB"
@@ -929,14 +878,14 @@
 			"xpos"									"0"
 			"ypos"									"0"
 			"zpos"									"15"
-			"wide"									"150"
-			"tall"									"14"
+			"wide"									"40"
+			"tall"									"40"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"bold15"
-			"labeltext"								"Notification"
+			"font"									"icons13"
+			"labeltext"								"~"
 			"AllCaps"								"1"
-			"textAlignment"							"west"
+			"textAlignment"							"center"
 			"default"								"1"
 			"command"								"noti_show"
 			"actionsignallevel" 					"2"
@@ -944,11 +893,12 @@
 			"sound_released"						"UI/buttonclickrelease.wav"
 
 			"paintbackground"						"0"
-			"paintborder"							"0"
+			"paintborder"							"1"
 
-			"defaultFgColor_override" 				"White"
-			"armedFgColor_override" 				"Menu Labels"
-			"depressedFgColor_override" 			"Menu Labels"
+			"defaultFgColor_override" 				"Text0"
+
+			"border_default"						"64_6_12_TLTRBLBR_Black_4"
+			"border_armed"							"64_6_12_TLTRBLBR_White_4"
 		}
 	}
 
@@ -960,8 +910,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Notifications_Panel"
-		"xpos"										"c-290"
-		"ypos"										"40"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"17"
 		"wide"										"210"
 		"tall"										"80"
@@ -969,6 +919,10 @@
 		"PaintBackgroundType"						"2"
 		"paintbackground"							"0"
 		"border"									"MainMenuHighlightBorder"
+
+		"pin_to_sibling"							"Notifications_ShowButtonPanel"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
 		"Notifications_CloseButton"
 		{
