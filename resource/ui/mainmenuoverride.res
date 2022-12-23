@@ -105,7 +105,20 @@
 		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_TLTRBLBR_PanelO4_0"
+		"border"									"64_6_12_TLTRBLBR_PanelO2_0"
+	}
+
+	"AtMenuPrimaryPanel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"AtMenuPrimaryPanel"
+		"xpos"										"10"
+		"ypos"										"30"
+		"wide"										"200"
+		"tall"										"f100"
+		"visible"									"1"
+		"enabled"									"1"
+		"border"									"64_6_12_TLTRBLBR_Black_3"
 	}
 
 	"PrimaryPanel"
@@ -118,7 +131,7 @@
 		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_TLTRBLBR_Black_3"
+		"border"									"NoBorder"
 	}
 
 	"BottomButtonsPanel"
@@ -429,7 +442,7 @@
 			"columns_count"							"1"
 			"inset_x"								"0"
 			"inset_y"								"0"
-			"row_gap"								"2"
+			"row_gap"								"0"
 			"column_gap"							"0"
 			"restrict_width"						"0"
 

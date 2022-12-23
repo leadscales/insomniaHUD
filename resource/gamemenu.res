@@ -29,4 +29,9 @@
 		"command"									"engine"
 		"OnlyInGame"								"1"
 	}
+	"AtMenuPrimaryPanel"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
 }
