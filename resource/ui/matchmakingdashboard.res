@@ -530,7 +530,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_Negative_4"
+			"border_armed"		"64_6_12_NONE_PanelO2_0"
 		}
 
 		"DisconnectButton"
@@ -568,7 +568,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_Negative_4"
+			"border_armed"		"64_6_12_NONE_PanelO2_0"
 		}
 
 		"ResumeButton"
@@ -629,7 +629,7 @@
 			"brighttext"	"0"
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
-			"labeltext"		"+"
+			"labeltext"		"<"
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
@@ -644,7 +644,7 @@
 			"armedFgColor_override"		"Positive"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_Positive_4"
+			"border_armed"		"64_6_12_NONE_PanelO2_0"
 		}
 	}
 }
