@@ -441,26 +441,26 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r640"	[$WIN32]
-		"ypos"	 "18"	[$WIN32]
-		"wide"	 "628"
-		"tall"	 "468"
+		"ypos"	 "40"	[$WIN32]
+		"wide"	 "620"
+		"tall"	 "460"
 
-		"MaxDeathNotices" "4"
+		"MaxDeathNotices" "6"
 		"IconScale"	  "0.35"
-		"LineHeight"	  "16"
-		"LineSpacing"	  "4"
-		"CornerRadius"	  "3"
+		"LineHeight"	  "10"
+		"LineSpacing"	  "0"
+		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"Default"
 		
-		"TeamBlue"		"HUDBlueTeamSolid"
-		"TeamRed"		"HUDRedTeamSolid"
-		"IconColor"		"HudWhite"
-		"LocalPlayerColor"	"HUDBlack"
+		"TeamBlue"		"m0reBlue"
+		"TeamRed"		"m0reRed"
+		"IconColor"		"Text0"
+		"LocalPlayerColor"	"Black"
 
-		"BaseBackgroundColor"	"46 43 42 220"		[$WIN32]
-		"LocalBackgroundColor"	"245 229 196 200"	[$WIN32]
+		"BaseBackgroundColor"	"PanelT2"		[$WIN32]
+		"LocalBackgroundColor"	"PanelAT4"	[$WIN32]
 	}
 
 	HudVehicle
