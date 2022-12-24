@@ -21,7 +21,7 @@
 		"ypos"										"0"
 		"wide"										"f0"
 		"tall"										"f0"
-		"bgcolor_override"							"PanelT4"
+		"bgcolor_override"							"PanelT1"
 		"mouseinputenabled"							"0"
 	}
 	
