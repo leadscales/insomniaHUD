@@ -77,11 +77,11 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
+		"xpos"			"0"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"tall"			"8"
+		"wide"			"f0"
+		"tall"			"f0"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -94,8 +94,8 @@
 		"xpos"			"r80"	[$WIN32]
 		"ypos"			"r21"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"tall"			"8"
+		"wide"			"0"
+		"tall"			"0"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -978,10 +978,10 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
-		"wide"			"100"
-		"tall"			"50"
+		"xpos"			"0"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
+		"wide"			"f0"
+		"tall"			"480"
 	}	
 
 	HudTeamGoal
@@ -1430,15 +1430,15 @@
 		"fieldName"				"QueueHUDStatus"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"rs1-5"
-		"ypos"					"1"
+		"xpos"					"5"
+		"ypos"					"5"
 		"zpos"					"1001"
-		"wide"					"200"
-		"tall"					"18"
+		"wide"					"20"
+		"tall"					"20"
 		"proportionaltoparent"	"1"
 		"keyboardinputenabled"	"1"
 		"mouseinputenabled"		"0"
-		"alpha"					"100"
+		"alpha"					"255"
 	}
 }
 
