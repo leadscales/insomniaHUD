@@ -3489,12 +3489,13 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"Color"											"PanelO0"
 
-			"image"											"loadout_rect"
-			"src_corner_height"								"24"
-			"src_corner_width"								"24"
-			"draw_corner_width"								"11"
-			"draw_corner_height" 							"11"
+			"image"											"replay/thumbnails/panels/rounded_rect/64_6_12_NONE_0"
+			"src_corner_height"								"14"
+			"src_corner_width"								"14"
+			"draw_corner_width"								"3"
+			"draw_corner_height" 							"3"
 		}
 
 		"StoreFreeTrialBorder"
@@ -3513,7 +3514,7 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"color"											"PanelO1"
+			"color"											"PanelO0"
 
 			"image"											"replay/thumbnails/panels/rounded_rect/64_6_12_NONE_0"
 			"src_corner_height"								"14"
