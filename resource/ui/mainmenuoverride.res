@@ -160,7 +160,7 @@
 		"wide"										"200"
 		"tall"										"40"
 
-		"border"									"64_6_12_TLTR_Black_4"
+		"border"									"64_6_12_TLTR_Black_1"
 
 		"pin_to_sibling" 							"PrimaryPanel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -421,7 +421,7 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"64_6_12_NONE_BLACK_4"
+		"border"									"64_6_12_NONE_BLACK_2"
 
 		"pin_to_sibling"							"Buttons"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -488,7 +488,7 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"Blank"
-		"border"									"64_6_12_BLBR_Black_3"
+		"border"									"64_6_12_BLBR_Black_1"
 
 		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

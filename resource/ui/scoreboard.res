@@ -1679,7 +1679,7 @@
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_BLBR_Black_2"
+		"border"									"64_6_12_BLBR_Black_1"
 
 		"pin_to_sibling"							"LocalPlayerStatsPanel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1774,7 +1774,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Positive"
-				"border"							"64_6_12_BL_Positive_4"
+				"border"							"64_6_12_BL_Black_4"
 			}
 		}
 
@@ -1842,7 +1842,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Negative"
-				"border"							"64_6_12_BR_Negative_4"
+				"border"							"64_6_12_BR_Black_4"
 			}
 		}
 	}

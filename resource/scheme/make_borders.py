@@ -24,8 +24,8 @@ for color in COLORS:
                     "image": f"replay/thumbnails/panels/rounded_rect/64_6_12_{corner}_{i}",
                     "src_corner_width": "14",  # 20
                     "src_corner_height": "14",  # 20
-                    "draw_corner_width": "3",  # 6
-                    "draw_corner_height": "3",  # 6
+                    "draw_corner_width": "2",  # 6
+                    "draw_corner_height": "2",  # 6
                 }
             }
             base_dict["Scheme"]["Borders"].update(_d)
