@@ -246,7 +246,7 @@
 		"ypos"										"rs1-10"
 		"wide"										"180"
 		"tall"										"80"
-		"border"									"64_6_12_TLTRBLBR_Black_4"
+		"border"									"64_6_12_TLTRBLBR_Black_1"
 	}
 
 	"ScoresLabel"
