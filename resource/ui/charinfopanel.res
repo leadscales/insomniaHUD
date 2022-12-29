@@ -137,8 +137,8 @@
 		"paintbackground"							"0"
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
-		"border_default"							"64_6_12_NONE_PanelO3_0"
-		"border_armed"								"64_6_12_NONE_PanelO4_0"
+		"border_default"							"NONE_PanelO3_0"
+		"border_armed"								"NONE_PanelO4_0"
 	}
 
 	"CloseButton"
@@ -161,8 +161,8 @@
 		"paintbackground"							"0"
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
-		"border_default"							"64_6_12_NONE_PanelO3_0"
-		"border_armed"								"64_6_12_NONE_PanelO4_0"
+		"border_default"							"NONE_PanelO3_0"
+		"border_armed"								"NONE_PanelO4_0"
 
 		"pin_to_sibling"							"BackButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

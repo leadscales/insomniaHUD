@@ -69,7 +69,7 @@
 		"enabled"									"1"
 
 		"paintbackground"							"0"
-		"border"									"64_6_12_TLTR_Black_1"
+		"border"									"TLTR_Black_1"
 		
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -99,7 +99,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"64_6_12_TL_m0reBlue_3"
+		"border"									"TL_m0reBlue_3"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -155,7 +155,7 @@
 		"textAlignment"								"center"
 
 		"paintbackground"							"0"
-		"border"									"64_6_12_TL_m0reBlue_3"
+		"border"									"TL_m0reBlue_3"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -210,7 +210,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"64_6_12_TR_m0reRed_3"
+		"border"									"TR_m0reRed_3"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -265,7 +265,7 @@
 		"textAlignment"								"center"
 
 		"paintbackground"							"0"
-		"border"									"64_6_12_TR_m0reRed_3"
+		"border"									"TR_m0reRed_3"
 
 		"pin_to_sibling"							"RedScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -361,7 +361,7 @@
 		"labelText"		          					"%spectators%"
 		"textAlignment"								"center"
 
-		"border"									"64_6_12_NONE_Black_4"
+		"border"									"NONE_Black_4"
 
 		"pin_to_sibling"							"ScoreBG"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -462,7 +462,7 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"64_6_12_BL_Black_1"
+			"border"									"BL_Black_1"
 		}
 
 		"KillsWhite"
@@ -517,7 +517,7 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"64_6_12_BR_Black_2"
+			"border"									"BR_Black_2"
 			"bgcolor_override"							"Blank"
 
 			"pin_to_sibling"							"KDPanel"
@@ -560,7 +560,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 			}
 
@@ -576,7 +576,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S1_Label"
@@ -596,7 +596,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S1_Label"
@@ -616,7 +616,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S2_Label"
@@ -636,7 +636,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S2_Label"
@@ -656,7 +656,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S3_Label"
@@ -676,7 +676,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S3_Label"
@@ -696,7 +696,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S4_Label"
@@ -736,7 +736,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 			}
 
@@ -752,7 +752,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S1_Label"
@@ -772,7 +772,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S1_Label"
@@ -792,7 +792,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S2_Label"
@@ -812,7 +812,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S2_Label"
@@ -832,7 +832,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S3_Label"
@@ -852,7 +852,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S3_Label"
@@ -872,7 +872,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S4_Label"
@@ -912,7 +912,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 			}
 
@@ -928,7 +928,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S1_Label"
@@ -948,7 +948,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S1_Label"
@@ -968,7 +968,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S2_Label"
@@ -988,7 +988,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S2_Label"
@@ -1008,7 +1008,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_2"
+				"border"									"NONE_Black_2"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S3_Label"
@@ -1028,7 +1028,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_NONE_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S3_Label"
@@ -1048,7 +1048,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"64_6_12_BR_Black_3"
+				"border"									"BR_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S4_Label"
@@ -1679,7 +1679,7 @@
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_BLBR_Black_1"
+		"border"									"BLBR_Black_1"
 
 		"pin_to_sibling"							"LocalPlayerStatsPanel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1774,7 +1774,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Positive"
-				"border"							"64_6_12_BL_Black_4"
+				"border"							"BL_Black_4"
 			}
 		}
 
@@ -1842,7 +1842,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Negative"
-				"border"							"64_6_12_BR_Black_4"
+				"border"							"BR_Black_4"
 			}
 		}
 	}

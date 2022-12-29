@@ -12,7 +12,7 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"painbackground"		    				"0"
-		"border"									"64_6_12_TLTR_m0reRed_3"
+		"border"									"TLTR_m0reRed_3"
 
 		"MVMLabel"
 		{
@@ -26,7 +26,7 @@
 			"font"									"bold18"
 			"textalignment"							"center"
 			"proportionaltoparent"					"1"
-			"border"								"64_6_12_NONE_m0reRed_4"
+			"border"								"NONE_m0reRed_4"
 		}
 	}
 
@@ -137,7 +137,7 @@
 		"enabled"									"1"
 		"paintbackground"							"0"
 		"proportionaltoparent"						"1"
-		"border"									"64_6_12_TLTRBLBR_Black_4"
+		"border"									"TLTRBLBR_Black_4"
 
 		"pin_to_sibling"							"MvMPlayerList"
 	}

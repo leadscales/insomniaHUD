@@ -83,7 +83,7 @@
 				"mouseinputenabled"				 	"0"
 				"paintbackground"					"0"
 				"proportionaltoparent"				"1"
-				"border"							"64_6_12_NONE_AccentMain_0"
+				"border"							"NONE_AccentMain_0"
 				"fgcolor"							"0 0 0 255"
 			}
 		}
@@ -137,7 +137,7 @@
 				"mouseinputenabled" 				"0"
 				"paintbackground"					"0"
 				"proportionaltoparent"				"1"
-				"border"							"64_6_12_NONE_AccentMain_0"
+				"border"							"NONE_AccentMain_0"
 				"fgcolor"							"0 0 0 255"
 			}
 
@@ -220,7 +220,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"64_6_12_TLBL_PanelO3_0"
+		"border_armed"								"TLBL_PanelO3_0"
 	}
 
 	"NextPageButton"
@@ -243,7 +243,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"64_6_12_TRBR_PanelO3_0"
+		"border_armed"								"TRBR_PanelO3_0"
 	}
 
 	"ShowRarityComboBox"
@@ -496,8 +496,8 @@
 		"armedFgColor_override"						"Negative"
 		"defaultFgColor_override"					"Negative"
 
-		"border_default"							"64_6_12_TLTRBLBR_PanelO2_0"
-		"border_armed"								"64_6_12_TLTRBLBR_Negative_4"
+		"border_default"							"TLTRBLBR_PanelO2_0"
+		"border_armed"								"TLTRBLBR_Negative_4"
 	}
 
 	"ShowExplanationsButton"

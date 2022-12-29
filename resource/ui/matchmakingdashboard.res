@@ -79,7 +79,7 @@
 			"armedFgColor_override"		"Text0"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_PanelO2_0"
+			"border_armed"		"NONE_PanelO2_0"
 		}
 
 		"PartySlot0"
@@ -254,7 +254,7 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"64_6_12_NONE_PanelO1_0"
+				"border"		"NONE_PanelO1_0"
 			}
 
 			"QueueLogoButton"
@@ -348,8 +348,8 @@
 			
 				"paintbackground"	"0"
 			
-				"border_default"	"64_6_12_NONE_PanelO1_0"
-				"border_armed"		"64_6_12_NONE_PanelO3_0"
+				"border_default"	"NONE_PanelO1_0"
+				"border_armed"		"NONE_PanelO3_0"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -384,8 +384,8 @@
 			
 				"paintbackground"	"0"
 			
-				"border_default"	"64_6_12_NONE_PanelO1_0"
-				"border_armed"		"64_6_12_NONE_PanelO3_0"
+				"border_default"	"NONE_PanelO1_0"
+				"border_armed"		"NONE_PanelO3_0"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -530,7 +530,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_PanelO2_0"
+			"border_armed"		"NONE_PanelO2_0"
 		}
 
 		"DisconnectButton"
@@ -568,7 +568,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_PanelO2_0"
+			"border_armed"		"NONE_PanelO2_0"
 		}
 
 		"ResumeButton"
@@ -606,7 +606,7 @@
 			"armedFgColor_override"		"Text0"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_PanelO2_0"
+			"border_armed"		"NONE_PanelO2_0"
 		}
 
 		"FindAGameButton"
@@ -644,7 +644,7 @@
 			"armedFgColor_override"		"Positive"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"64_6_12_NONE_PanelO2_0"
+			"border_armed"		"NONE_PanelO2_0"
 		}
 	}
 }

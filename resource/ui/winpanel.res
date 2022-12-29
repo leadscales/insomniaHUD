@@ -246,7 +246,7 @@
 		"ypos"										"rs1-10"
 		"wide"										"180"
 		"tall"										"80"
-		"border"									"64_6_12_TLTRBLBR_Black_1"
+		"border"									"TLTRBLBR_Black_1"
 	}
 
 	"ScoresLabel"
@@ -261,7 +261,7 @@
 		"textalignment"								"center"
 		"font"										"bold18"
 
-		"border"									"64_6_12_TLTR_Black_2"
+		"border"									"TLTR_Black_2"
 
 		"pin_to_sibling"							"ScoresBG"
 	}
@@ -298,7 +298,7 @@
 		"labelText"	  								""
 		"textAlignment"								"center"
 
-		"border"									"64_6_12_NONE_black_3"
+		"border"									"NONE_black_3"
 
 		"pin_to_sibling"							"Player1Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -326,7 +326,7 @@
 		"textAlignment"								"west"
 		"textinsetx"								"5"
 		"useproportionalinsets"						"1"
-		"border"									"64_6_12_NONE_Black_2"
+		"border"									"NONE_Black_2"
 
 		"pin_to_sibling"							"ScoresBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -352,7 +352,7 @@
 		"labelText"	  								""
 		"textAlignment"								"center"
 
-		"border"									"64_6_12_NONE_black_3"
+		"border"									"NONE_black_3"
 
 		"pin_to_sibling"							"Player2Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -380,7 +380,7 @@
 		"textAlignment"								"west"
 		"textinsetx"								"5"
 		"useproportionalinsets"						"1"
-		"border"									"64_6_12_NONE_Black_2"
+		"border"									"NONE_Black_2"
 
 		"pin_to_sibling"							"Player1Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -406,7 +406,7 @@
 		"labelText"	  								""
 		"textAlignment"								"center"
 
-		"border"									"64_6_12_BR_black_3"
+		"border"									"BR_black_3"
 
 		"pin_to_sibling"							"Player3Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -434,7 +434,7 @@
 		"textAlignment"								"west"
 		"textinsetx"								"5"
 		"useproportionalinsets"						"1"
-		"border"									"64_6_12_BL_Black_2"
+		"border"									"BL_Black_2"
 
 		"pin_to_sibling"							"Player2Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

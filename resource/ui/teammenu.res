@@ -37,7 +37,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
-		"border"									"64_6_12_NONE_Black_2"
+		"border"									"NONE_Black_2"
 
 		"pin_to_sibling"							"BlueButton"
 	}
@@ -69,8 +69,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"64_6_12_NONE_m0reBlue_4"
-		"border_armed"								"64_6_12_NONE_m0reBlue_3"
+		"border_default"							"NONE_m0reBlue_4"
+		"border_armed"								"NONE_m0reBlue_3"
 
 		"defaultfgcolor_override"					"m0reBlue"
 		"armedfgcolor_override"						"m0reBlue"
@@ -117,7 +117,7 @@
 		"font"			  							"regular14"
 		"fgcolor"		  							"Text0"
 
-		"border"									"64_6_12_NONE_m0reBlue_4"
+		"border"									"NONE_m0reBlue_4"
 
 		"pin_to_sibling"							"BlueButton"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -151,8 +151,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"64_6_12_NONE_m0reRed_4"
-		"border_armed"								"64_6_12_NONE_m0reRed_3"
+		"border_default"							"NONE_m0reRed_4"
+		"border_armed"								"NONE_m0reRed_3"
 
 		"defaultfgcolor_override"					"m0reRed"
 		"armedfgcolor_override"						"m0reRed"
@@ -198,7 +198,7 @@
 		"font"			  							"regular14"
 		"fgcolor"		  							"Text0"
 
-		"border"									"64_6_12_NONE_m0reRed_4"
+		"border"									"NONE_m0reRed_4"
 
 		"pin_to_sibling"							"RedButton"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -229,8 +229,8 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"64_6_12_TLTR_Black_1"
-		"border_armed"								"64_6_12_TLTR_White_4"
+		"border_default"							"TLTR_Black_1"
+		"border_armed"								"TLTR_White_4"
 
 		"pin_to_sibling"							"BlueButton"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -259,8 +259,8 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"64_6_12_BLBR_Black_1"
-		"border_armed"								"64_6_12_BLBR_White_4"
+		"border_default"							"BLBR_Black_1"
+		"border_armed"								"BLBR_White_4"
 
 		"pin_to_sibling"							"BlueButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

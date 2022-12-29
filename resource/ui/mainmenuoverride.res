@@ -105,7 +105,7 @@
 		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_TLTRBLBR_PanelO2_0"
+		"border"									"TLTRBLBR_PanelO2_0"
 	}
 
 	"AtMenuPrimaryPanel"
@@ -118,7 +118,7 @@
 		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"64_6_12_TLTRBLBR_Black_3"
+		"border"									"TLTRBLBR_Black_3"
 	}
 
 	"PrimaryPanel"
@@ -160,7 +160,7 @@
 		"wide"										"200"
 		"tall"										"40"
 
-		"border"									"64_6_12_TLTR_Black_1"
+		"border"									"TLTR_Black_1"
 
 		"pin_to_sibling" 							"PrimaryPanel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -221,7 +221,7 @@
 		"fgcolor"									"Negative"
 		"labelText"									"!"
 		"textAlignment"								"center"
-		"border"									"64_6_12_TLTR_Negative_4"
+		"border"									"TLTR_Negative_4"
 
 		"pin_to_sibling" 							"RankContainer"
 	}
@@ -299,7 +299,7 @@
 			"armedFgColor_override" 					"White"
 
 			"border_default"							"NoBorder"
-			"border_armed"								"64_6_12_NONE_White_4"
+			"border_armed"								"NONE_White_4"
 		}
 
 		"Options"
@@ -329,7 +329,7 @@
 			"armedFgColor_override" 					"White"
 
 			"border_default"							"NoBorder"
-			"border_armed"								"64_6_12_NONE_White_4"
+			"border_armed"								"NONE_White_4"
 
 			"pin_to_sibling"							"Items"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -363,7 +363,7 @@
 			"armedFgColor_override" 					"White"
 
 			"border_default"							"NoBorder"
-			"border_armed"								"64_6_12_NONE_White_4"
+			"border_armed"								"NONE_White_4"
 
 			"pin_to_sibling"							"Options"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -397,7 +397,7 @@
 			"armedFgColor_override" 					"White"
 
 			"border_default"							"NoBorder"
-			"border_armed"								"64_6_12_NONE_White_4"
+			"border_armed"								"NONE_White_4"
 
 			"pin_to_sibling"							"Advanced"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -421,7 +421,7 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"64_6_12_NONE_BLACK_2"
+		"border"									"NONE_BLACK_2"
 
 		"pin_to_sibling"							"Buttons"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -488,7 +488,7 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"Blank"
-		"border"									"64_6_12_BLBR_Black_1"
+		"border"									"BLBR_Black_1"
 
 		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -517,7 +517,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"64_6_12_BL_White_4"
+			"border_armed"							"BL_White_4"
 		}
 
 		"ConsoleButton"
@@ -543,7 +543,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"64_6_12_NONE_White_4"
+			"border_armed"							"NONE_White_4"
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -573,7 +573,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"64_6_12_NONE_White_4"
+			"border_armed"							"NONE_White_4"
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -603,7 +603,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"64_6_12_NONE_White_4"
+			"border_armed"							"NONE_White_4"
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -633,7 +633,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"64_6_12_BR_White_4"
+			"border_armed"							"BR_White_4"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -705,8 +705,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"64_6_12_TLBL_PanelO2_0"
-				"border_armed"				"64_6_12_TLBL_PanelO3_0"
+				"border_default"			"TLBL_PanelO2_0"
+				"border_armed"				"TLBL_PanelO3_0"
 			}
 		}
 
@@ -758,8 +758,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"64_6_12_NONE_PanelO2_0"
-				"border_armed"				"64_6_12_NONE_PanelO3_0"
+				"border_default"			"NONE_PanelO2_0"
+				"border_armed"				"NONE_PanelO3_0"
 			}
 		}
 
@@ -812,8 +812,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"64_6_12_NONE_PanelO2_0"
-				"border_armed"				"64_6_12_NONE_PanelO3_0"
+				"border_default"			"NONE_PanelO2_0"
+				"border_armed"				"NONE_PanelO3_0"
 			}
 		}
 
@@ -865,8 +865,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"64_6_12_TRBR_PanelO2_0"
-				"border_armed"				"64_6_12_TRBR_PanelO3_0"
+				"border_default"			"TRBR_PanelO2_0"
+				"border_armed"				"TRBR_PanelO3_0"
 			}
 		}
 	}
@@ -923,8 +923,8 @@
 
 			"defaultFgColor_override" 				"Text0"
 
-			"border_default"						"64_6_12_TLTRBLBR_Black_4"
-			"border_armed"							"64_6_12_TLTRBLBR_White_4"
+			"border_default"						"TLTRBLBR_Black_4"
+			"border_armed"							"TLTRBLBR_White_4"
 		}
 	}
 

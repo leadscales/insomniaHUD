@@ -78,8 +78,8 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
-			"border_default"	"64_6_12_TLBL_PanelO3_0"
-			"border_armed"		"64_6_12_TLBL_PanelO4_0"
+			"border_default"	"TLBL_PanelO3_0"
+			"border_armed"		"TLBL_PanelO4_0"
 		}
 
 		"SaveCasualSearchCriteria"
@@ -108,8 +108,8 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
-			"border_default"	"64_6_12_TRBR_PanelO3_0"
-			"border_armed"		"64_6_12_TRBR_PanelO4_0"
+			"border_default"	"TRBR_PanelO3_0"
+			"border_armed"		"TRBR_PanelO4_0"
 		}
 
 		"ShowExplanationsButton"

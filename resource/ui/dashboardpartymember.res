@@ -157,7 +157,7 @@
 		"armedFgColor_override"		"Text0"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"64_6_12_NONE_PanelO2_0"
+		"border_armed"		"NONE_PanelO2_0"
 	}
 
 	"Spinner"

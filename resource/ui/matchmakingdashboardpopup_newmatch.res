@@ -35,7 +35,7 @@
 			"tall"						"f0"
 			"visible"					"1"
 			"paintbackground"			"0"
-			"border"					"64_6_12_BLBR_PanelO1_0"
+			"border"					"BLBR_PanelO1_0"
 			"proportionaltoparent"		"1"
 			"pinCorner"					"3"
 
@@ -109,8 +109,8 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"border_default"			"64_6_12_BR_PanelO1_0"
-				"border_armed"				"64_6_12_BR_PanelO2_0"
+				"border_default"			"BR_PanelO1_0"
+				"border_armed"				"BR_PanelO2_0"
 
 				"fgcolor"					"Negative"
 				"defaultfgcolor_override"	"Negative"
@@ -144,8 +144,8 @@
 				"sound_depressed"				"UI/buttonclick.wav"
 				"sound_released"				"UI/buttonclickrelease.wav"
 
-				"border_default"			"64_6_12_BL_PanelO1_0"
-				"border_armed"				"64_6_12_BL_PanelO2_0"
+				"border_default"			"BL_PanelO1_0"
+				"border_armed"				"BL_PanelO2_0"
 
 				"fgcolor"					"Positive"
 				"defaultfgcolor_override"	"Positive"
@@ -179,8 +179,8 @@
 				"sound_depressed"				"UI/buttonclick.wav"
 				"sound_released"				"UI/buttonclickrelease.wav"
 
-				"border_default"			"64_6_12_BLBR_PanelO1_0"
-				"border_armed"				"64_6_12_BLBR_PanelO2_0"
+				"border_default"			"BLBR_PanelO1_0"
+				"border_armed"				"BLBR_PanelO2_0"
 
 				"fgcolor"					"Positive"
 				"defaultfgcolor_override"	"Positive"

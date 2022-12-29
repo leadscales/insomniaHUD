@@ -38,7 +38,7 @@
 		"labelText"									"%bluescore%"
 		"font"										"bold32"
 		"fgcolor"									"Text0"
-		"border"									"64_6_12_TL_m0reBlue_3"
+		"border"									"TL_m0reBlue_3"
 
 		"if_hybrid"
 		{
@@ -141,7 +141,7 @@
 		"labelText"									"%redscore%"
 		"font"										"bold32"
 		"fgcolor"									"Text0"
-		"border"									"64_6_12_TR_m0reRed_3"
+		"border"									"TR_m0reRed_3"
 
 		"if_hybrid"
 		{
@@ -237,7 +237,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"64_6_12_BLBR_Black_1"
+		"border"									"BLBR_Black_1"
 
 		"if_hybrid"
 		{

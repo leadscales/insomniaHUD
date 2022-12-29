@@ -384,8 +384,8 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 
-		"border_default"							"64_6_12_TL_PanelO2_0"
-		"border_armed"								"64_6_12_TL_PanelO3_0"
+		"border_default"							"TL_PanelO2_0"
+		"border_armed"								"TL_PanelO3_0"
 
 		"defaultFgColor_override" 					"Text0"
 		"armedFgColor_override" 					"Text0"
@@ -411,8 +411,8 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 
-		"border_default"							"64_6_12_TR_PanelO2_0"
-		"border_armed"								"64_6_12_TR_PanelO3_0"
+		"border_default"							"TR_PanelO2_0"
+		"border_armed"								"TR_PanelO3_0"
 
 		"defaultFgColor_override" 					"Text0"
 		"armedFgColor_override" 					"Text0"
@@ -440,8 +440,8 @@
 
 		"paintbackground"							"0"
 		
-		"border_default"							"64_6_12_BL_m0reBlue_1"
-		"border_armed"								"64_6_12_BL_m0reBlue_0"
+		"border_default"							"BL_m0reBlue_1"
+		"border_armed"								"BL_m0reBlue_0"
 	}
 
 	"RedButton"
@@ -465,8 +465,8 @@
 
 		"paintbackground"							"0"
 		
-		"border_default"							"64_6_12_BR_m0reRed_1"
-		"border_armed"								"64_6_12_BR_m0reRed_0"
+		"border_default"							"BR_m0reRed_1"
+		"border_armed"								"BR_m0reRed_0"
 	}
 
 	"TauntsExplanation"
