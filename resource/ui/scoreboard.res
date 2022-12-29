@@ -1384,7 +1384,7 @@
 			"tall"									"10"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"regular14"
+			"font"									"regular12"
 			"fgcolor" 								"Text0"
 			"labelText"								"%invulns%"
 			"textAlignment"							"center"
