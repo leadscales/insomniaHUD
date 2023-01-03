@@ -3860,8 +3860,8 @@
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"
-			"draw_corner_width"			"2"
-			"draw_corner_height"		"2"
+			"draw_corner_width"			"4"
+			"draw_corner_height"		"4"
 		}
 		"TLTRBLBR_PanelO2_1"
 		{
