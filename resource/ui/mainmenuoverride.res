@@ -459,7 +459,7 @@
 				"xpos"								"rs1"
 				"ypos"								"0"
 				"tall"								"f0"
-				"wide"								"2"
+				"wide"								"3"
 				"zpos"								"1000"
 				"nobuttons"							"1"
 				"proportionaltoparent"				"1"
@@ -1052,9 +1052,11 @@
 		"wide"										"140"
 		"tall"										"20"
 		"visible"									"0"
-		"PaintBackground"							"1"
+		"PaintBackground"							"0"
 		"PaintBackgroundType"						"0"
 		"bgcolor_override"							"0 0 0 100"
+		"fgcolor"									"Text0"
+		"fgcolor_override"							"Text0"
 
 		"TipSubLabel"
 		{
@@ -1072,7 +1074,8 @@
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"AllCaps"								"1"
-			"fgcolor"								"White"
+			"fgcolor"								"Text0"
+			"fgcolor_override"						"Text0"
 		}
 
 		"TipLabel"
@@ -1091,7 +1094,8 @@
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
 			"AllCaps"								"1"
-			"fgcolor"								"White"
+			"fgcolor"								"Text0"
+			"fgcolor_override"						"Text0"
 		}
 	}
 

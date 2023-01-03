@@ -172,8 +172,8 @@
 
 		"SaleGreen"											"76 107 34 255"
 
-		"LightRed"											"200 80 60 255"
-		"LighterRed"										"220 100 80 255"
+		"LightRed"											"64 144 255 255"
+		"LighterRed"										"64 144 255 255"
 		"LighterDarkBrown"									"59 54 48 255"
 		"DarkBrown"											"41 37 38 255"
 
@@ -3514,7 +3514,7 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"color"											"PanelO0"
+			"color"											"PanelO1"
 
 			"image"											"replay/thumbnails/panels/rounded_rect/NONE_0"
 			"src_corner_height"								"14"
@@ -3552,11 +3552,11 @@
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
 			"color"					"PanelO2"
-			"image"					"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"image"					"replay/thumbnails/panels/misc/modal"
+			"src_corner_height"		"52"				
+			"src_corner_width"		"52"
+			"draw_corner_width"		"8"					
+			"draw_corner_height" 	"8"
 		}
 
 		BackpackItemGrayedOut
@@ -4822,13 +4822,13 @@
 		"MainMenuBGBorder"
 		{
 			"bordertype"									"scalable_image"
-			"backgroundtype"								"2"
-
-			"image"											"button_holder_central"
-			"src_corner_height"								"32"
-			"src_corner_width"								"32"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"backgroundtype"								"0"
+			"color"											"PanelO2"
+			"image"											"replay/thumbnails/panels/misc/modal"
+			"src_corner_height"								"52"
+			"src_corner_width"								"52"
+			"draw_corner_width"								"8"
+			"draw_corner_height" 							"8"
 		}
 
 		"MainMenuBGBorderAlpha"

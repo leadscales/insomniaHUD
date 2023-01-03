@@ -21,6 +21,7 @@
 //=========================================================
 
 #base "../resource/scheme/borders.res"
+#base "../resource/scheme/borders_extra.res"
 
 //=========================================================
 // DEFAULT TF2 SCHEME
