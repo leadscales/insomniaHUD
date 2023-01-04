@@ -205,7 +205,7 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"PrevPageButton"
 		"xpos"										"c0-s1"
-		"ypos"										"40"
+		"ypos"										"380"
 		"zpos"										"1"
 		"wide"										"20"
 		"tall"										"20"
@@ -228,7 +228,7 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"NextPageButton"
 		"xpos"										"c0"
-		"ypos"										"40"
+		"ypos"										"380"
 		"zpos"										"1"
 		"wide"										"20"
 		"tall"										"20"
@@ -244,6 +244,19 @@
 
 		"border_default"							"NoBorder"
 		"border_armed"								"TRBR_PanelO3_0"
+	}
+
+	"PageButtonBackground"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldname"									"PageButtonBackground"
+		"xpos"										"cs-0.5"
+		"ypos"										"380"
+		"zpos"										"0"
+		"wide"										"40"
+		"tall"										"20"
+		"border"									"TLTRBLBR_PanelO2_0"
+		"mouseinputenabled"							"0"
 	}
 
 	"ShowRarityComboBox"
@@ -497,7 +510,7 @@
 		"defaultFgColor_override"					"Negative"
 
 		"border_default"							"TLTRBLBR_PanelO2_0"
-		"border_armed"								"TLTRBLBR_Negative_4"
+		"border_armed"								"TLTRBLBR_PanelO3_0"
 	}
 
 	"ShowExplanationsButton"

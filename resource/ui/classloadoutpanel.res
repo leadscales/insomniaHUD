@@ -15,8 +15,8 @@
 		"infocus_bgcolor_override" 					"PanelO0"
 		"outoffocus_bgcolor_override"				"PanelO0"
 
-		"item_xpos_offcenter_a"						"-310"
-		"item_xpos_offcenter_b"						"165"
+		"item_xpos_offcenter_a"						"-315"
+		"item_xpos_offcenter_b"						"155"
 		"item_ypos"									"40"
 		"item_ydelta"								"80"
 		"item_mod_wide"								"40"
@@ -35,7 +35,7 @@
 			"ControlName"							"CItemModelPanel"
 			"xpos"									"c-70"
 			"ypos"									"270"
-			"wide"									"140"
+			"wide"									"160"
 			"tall"									"80"
 			"visible"								"0"
 			"bgcolor_override"						"0 0 0 0"
@@ -201,6 +201,271 @@
 			"fgcolor"								"117 107 94 255"
 			"centerwrap"							"1"
 		}
+	}
+
+	"ClassQuickSelectPanel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldname"									"ClassQuickSelectPanel"
+		"xpos"										"cs-0.5"
+		"ypos"										"380"
+		"zpos"										"20"
+		"wide"										"180"
+		"tall"										"20"
+		"border"									"NONE_PanelO2_0"
+		"mouseinputenabled"							"1"
+
+		"Scout"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Scout"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"1"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout scout"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+		}
+
+		"Soldier"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Soldier"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"2"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout soldier"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Scout"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"Pyro"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Pyro"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"3"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout pyro"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Soldier"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"Demoman"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Demoman"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"4"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout demoman"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Pyro"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"Heavyweapons"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Heavyweapons"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"5"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout heavyweapons"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Demoman"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"Engineer"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Engineer"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"6"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout engineer"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Heavyweapons"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"Medic"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Medic"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"7"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout medic"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Engineer"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"Sniper"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Sniper"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"8"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout sniper"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Medic"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+
+		"Spy"
+		{
+			"ControlName"							"CExButton"
+			"fieldName"								"Spy"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"20"
+			"tall"									"f0"
+			"zpos"									"21"
+			"proportionaltoparent"					"1"
+			"labelText"								"9"
+			"font"									"class16"
+			"textAlignment"							"center"
+			"command"								"loadout spy"
+			"actionsignallevel"						"3"
+			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_released"						"UI/buttonclickrelease.wav"
+			"paintbackground"						"0"
+
+			"border_default"						"NoBorder"
+			"border_armed"							"NONE_PanelO3_0"
+
+			"pin_to_sibling"						"Sniper"
+			"pin_corner_to_sibling"					"PIN_TOPLEFT"
+			"pin_to_sibling_corner"					"PIN_TOPRIGHT"
+		}
+	}
+
+	"AlignmentHelper"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"AlignmentHelper"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5"
+		"wide"										"640"
+		"tall"										"480"
+		"visible"									"0"
+		"bgcolor_override"							"255 0 0 128"
+		"mouseinputenabled"							"0"
 	}
 
 	"PassiveAttribsLabel"
@@ -369,11 +634,11 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"CharacterLoadoutButton"
-		"xpos"										"c0-s1"
-		"ypos"										"c80"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"40"
-		"tall"										"30"
+		"wide"										"90"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"textAlignment"								"center"
@@ -384,23 +649,27 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 
-		"border_default"							"TL_PanelO2_0"
-		"border_armed"								"TL_PanelO3_0"
+		"border_default"							"NONE_PanelO2_0"
+		"border_armed"								"NONE_PanelO3_0"
 
 		"defaultFgColor_override" 					"Text0"
 		"armedFgColor_override" 					"Text0"
 		"depressedFgColor_override" 				"Text0"
+
+		"pin_to_sibling"							"ClassQuickSelectPanel"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"TauntLoadoutButton"
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"TauntLoadoutButton"
-		"xpos"										"c0"
-		"ypos"										"c80"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"40"
-		"tall"										"30"
+		"wide"										"90"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"textAlignment"								"center"
@@ -411,23 +680,27 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 
-		"border_default"							"TR_PanelO2_0"
-		"border_armed"								"TR_PanelO3_0"
+		"border_default"							"NONE_PanelO2_0"
+		"border_armed"								"NONE_PanelO3_0"
 
 		"defaultFgColor_override" 					"Text0"
 		"armedFgColor_override" 					"Text0"
 		"depressedFgColor_override" 				"Text0"
+
+		"pin_to_sibling"							"ClassQuickSelectPanel"
+		"pin_corner_to_sibling"						"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
 
 	"BlueButton"
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"BlueButton"
-		"xpos"										"c0-s1"
-		"ypos"										"c110"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"20"
-		"wide"										"40"
-		"tall"										"10"
+		"wide"										"20"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									""
@@ -440,19 +713,23 @@
 
 		"paintbackground"							"0"
 		
-		"border_default"							"BL_m0reBlue_1"
-		"border_armed"								"BL_m0reBlue_0"
+		"border_default"							"TLBL_m0reBlue_2"
+		"border_armed"								"TLBL_m0reBlue_0"
+
+		"pin_to_sibling"							"ClassQuickSelectPanel"
+		"pin_corner_to_sibling"						"PIN_BOTTOMRIGHT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	"RedButton"
 	{
 		"ControlName"								"CExImageButton"
 		"fieldName"									"RedButton"
-		"xpos"										"c0"
-		"ypos"										"c110"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"20"
-		"wide"										"40"
-		"tall"										"10"
+		"wide"										"20"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									""
@@ -465,8 +742,12 @@
 
 		"paintbackground"							"0"
 		
-		"border_default"							"BR_m0reRed_1"
-		"border_armed"								"BR_m0reRed_0"
+		"border_default"							"TRBR_m0reRed_2"
+		"border_armed"								"TRBR_m0reRed_0"
+
+		"pin_to_sibling"							"ClassQuickSelectPanel"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMRIGHT"
 	}
 
 	"TauntsExplanation"

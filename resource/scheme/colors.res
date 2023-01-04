@@ -30,8 +30,8 @@
 		"Heal Numbers"										"64 192 255 255"
 		"Last Damage Done"									"255 255 255 255"
 
-		"Menu Labels"										"64 144 255 255"
-		"Class Selection"									"64 144 255 255"
+		"Menu Labels"										"96 32 255 255"
+		"Class Selection"									"96 32 255 255"
 
 		"m0reBlue"											"96 160 255 255"
 		"m0reRed"											"255 64 64 255"
@@ -83,13 +83,9 @@
 		"Text4"												"96 96 96 255"
 		"Text5"												"64 64 64 255"
 
-		"AccentMain"										"64 144 255 255"
+		"AccentMain"										"96 32 255 255"
 		"Positive"											"64 192 255 255"
 		"Negative"											"255 64 96 255"
-
-		"AccentMainT1"										"64 128 255 32"
-		"PositiveT1"										"64 192 255 32"
-		"NegativeT1"										"255 64 96 32"
 	}
 
 	"BaseSettings"

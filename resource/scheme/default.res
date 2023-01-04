@@ -6,7 +6,7 @@
 		"OrangeDim"											"255 255 255 128"
 		"LightOrange"										"255 255 255 128"
 		"GoalOrange"										"255 133 0"
-		"TFOrange"											"64 144 255 255"
+		"TFOrange"											"96 32 255 255"
 		"Purple"											"137 69 99 255"
 
 		"QuestGold"											"208 147 75 255"
@@ -172,8 +172,8 @@
 
 		"SaleGreen"											"76 107 34 255"
 
-		"LightRed"											"64 144 255 255"
-		"LighterRed"										"64 144 255 255"
+		"LightRed"											"96 32 255 255"
+		"LighterRed"										"96 32 255 255"
 		"LighterDarkBrown"									"59 54 48 255"
 		"DarkBrown"											"41 37 38 255"
 

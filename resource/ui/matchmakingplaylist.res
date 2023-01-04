@@ -39,12 +39,12 @@
 
 	"CasualEntry2"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"CasualEntry2"
 		"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"120"
-		"tall"				"50"
+		"tall"				"40"
 		"labeltext"			"#MMenu_PlayList_Casual_Button"
 		"font"				"regular14"
 		"textAlignment"		"center"
@@ -65,7 +65,7 @@
 		"fieldName"		"CompetitiveEntry"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"50"
+		"tall"			"40"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -91,7 +91,7 @@
 		"fieldName"		"MvMEntry"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"50"
+		"tall"			"40"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -117,7 +117,7 @@
 		"fieldName"		"ServerBrowserEntry"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"50"
+		"tall"			"40"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -138,12 +138,12 @@
 
 	"CreateServerEntry2"
 	{
-		"ControlName"		"CExImageButton"
+		"ControlName"		"CExButton"
 		"fieldName"			"CreateServerEntry2"
 		"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"120"
-		"tall"				"50"
+		"tall"				"40"
 		"labeltext"			"+"
 		"font"				"icons13"
 		"textAlignment"		"center"
@@ -212,10 +212,10 @@
 	{
 		"ControlName"	"ScrollBar"
 		"FieldName"		"ScrollBar"
-		"xpos"			"rs1-1"
+		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"f0"
-		"wide"			"5" // This gets slammed from client schme.  GG.
+		"tall"			"0"
+		"wide"			"0" // This gets slammed from client schme.  GG.
 		"zpos"			"1000"
 		"nobuttons"		"1"
 		"proportionaltoparent"	"1"

@@ -18,7 +18,7 @@
 
 		"title"										"#CharInfoAndSetup"
 		"title_font"								"HudFontMediumBold"
-		"titletextinsetX"							"40"
+		"titletextinsetX"							"0"
 		"titletextinsetY"							"0"
 		"titlebarfgcolor_override"					"White"
 		"titlebardisabledfgcolor_override"			"White"
@@ -247,10 +247,10 @@
 		"paintbackground"							"0"
 		"labelText"									""
 
-		"subimage"
+		"SubImage"
 		{
 			"ControlName"							"CTFImagePanel"
-			"fieldName"								"subimage"
+			"fieldName"								"SubImage"
 			"xpos"									"0"
 			"ypos"									"0"
 			"wide"									"f0"
@@ -272,7 +272,7 @@
 		"tall"										"20"
 		"font"										"regular14"
 		"textAlignment"								"east"
-		"labelText"									"insomniaHUD v0.1.2"
+		"labelText"									"insomniaHUD v0.1.3"
 		"mouseinputenabled"							"0"
 		"fgcolor"									"Text0"
 	}
