@@ -1,4 +1,5 @@
 #base "../../scripts/preload.res"
+#base "../../ext/pop_up_panel.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -194,6 +195,7 @@
 		"fieldName"									"BottomButtonsPanel"
 		"xpos"										"0"
 		"ypos"										"rs1"
+		"zpos"										"9"
 		"wide"										"f0"
 		"tall"										"60"
 		"visible"									"1"
@@ -1197,12 +1199,6 @@
 	// REMOVED ELEMENTS
 	//==================================================================================================================================================
 
-	"MOTD_Panel"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"MOTD_Panel"
-		"xpos"										"9999"
-	}
 	"MenuThumbMissingFix"
 	{
 		"ControlName"								"ImagePanel"

@@ -24,3 +24,5 @@ tf_contract_progress_show 2
 
 // Configs
 exec aliases
+exec bookmarks
+exec favorite_servers
