@@ -96,39 +96,12 @@
 		}
 	}
 
-	"MenuDarkener"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"MenuDarkener"
-		"xpos"										"0"
-		"ypos"										"rs1-60"
-		"wide"										"f0"
-		"tall"										"480"
-		"visible"									"1"
-		"enabled"									"1"
-		"mouseinputenabled"							"0"
-
-		"SubImage"
-		{
-			"ControlName"							"CTFImagePanel"
-			"fieldName"								"SubImage"
-			"xpos"									"0"
-			"ypos"									"0"
-			"wide"									"f0"
-			"tall"									"f0"
-			"proportionaltoparent"					"1"
-			"scaleImage"							"1"
-			"image"									"replay/thumbnails/ui_effects/main_menu_colorizer"
-			"drawcolor"								"0 0 0 255"
-		}
-	}
-
 	"MenuColorizer"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"MenuColorizer"
 		"xpos"										"0"
-		"ypos"										"rs1-60"
+		"ypos"										"rs1"
 		"wide"										"f0"
 		"tall"										"480"
 		"visible"									"1"
@@ -145,7 +118,7 @@
 			"tall"									"f0"
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
-			"image"									"replay/thumbnails/ui_effects/main_menu_colorizer"
+			"image"									"replay/thumbnails/ui_effects/menu_glow"
 			"drawcolor"								"AccentMain"
 		}
 	}

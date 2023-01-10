@@ -34,11 +34,6 @@
 		"command"									"engine"
 		"OnlyAtMenu"								"1"
 	}
-	"MenuDarkener"
-	{
-		"command"									"engine"
-		"OnlyAtMenu"								"1"
-	}
 	"MenuColorizer"
 	{
 		"command"									"engine"
