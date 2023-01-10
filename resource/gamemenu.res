@@ -39,4 +39,9 @@
 		"command"									"engine"
 		"OnlyAtMenu"								"1"
 	}
+	"MenuColorizer2"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
 }
