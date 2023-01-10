@@ -8,10 +8,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Black_1"
 		{
@@ -19,10 +19,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Black_2"
 		{
@@ -30,10 +30,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Black_3"
 		{
@@ -41,10 +41,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Black_4"
 		{
@@ -52,10 +52,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Black_0"
 		{
@@ -63,10 +63,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Black_1"
 		{
@@ -74,10 +74,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Black_2"
 		{
@@ -85,10 +85,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Black_3"
 		{
@@ -96,10 +96,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Black_4"
 		{
@@ -107,10 +107,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Black_0"
 		{
@@ -118,10 +118,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Black_1"
 		{
@@ -129,10 +129,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Black_2"
 		{
@@ -140,10 +140,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Black_3"
 		{
@@ -151,10 +151,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Black_4"
 		{
@@ -162,10 +162,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Black_0"
 		{
@@ -173,10 +173,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Black_1"
 		{
@@ -184,10 +184,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Black_2"
 		{
@@ -195,10 +195,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Black_3"
 		{
@@ -206,10 +206,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Black_4"
 		{
@@ -217,10 +217,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Black_0"
 		{
@@ -228,10 +228,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Black_1"
 		{
@@ -239,10 +239,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Black_2"
 		{
@@ -250,10 +250,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Black_3"
 		{
@@ -261,10 +261,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Black_4"
 		{
@@ -272,10 +272,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Black_0"
 		{
@@ -283,10 +283,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Black_1"
 		{
@@ -294,10 +294,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Black_2"
 		{
@@ -305,10 +305,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Black_3"
 		{
@@ -316,10 +316,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Black_4"
 		{
@@ -327,10 +327,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Black_0"
 		{
@@ -338,10 +338,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Black_1"
 		{
@@ -349,10 +349,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Black_2"
 		{
@@ -360,10 +360,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Black_3"
 		{
@@ -371,10 +371,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Black_4"
 		{
@@ -382,10 +382,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Black_0"
 		{
@@ -393,10 +393,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Black_1"
 		{
@@ -404,10 +404,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Black_2"
 		{
@@ -415,10 +415,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Black_3"
 		{
@@ -426,10 +426,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Black_4"
 		{
@@ -437,10 +437,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Black_0"
 		{
@@ -448,10 +448,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Black_1"
 		{
@@ -459,10 +459,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Black_2"
 		{
@@ -470,10 +470,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Black_3"
 		{
@@ -481,10 +481,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Black_4"
 		{
@@ -492,10 +492,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Black_0"
 		{
@@ -503,10 +503,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Black_1"
 		{
@@ -514,10 +514,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Black_2"
 		{
@@ -525,10 +525,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Black_3"
 		{
@@ -536,10 +536,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Black_4"
 		{
@@ -547,10 +547,10 @@
 			"background_type"			"0"
 			"color"						"Black"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_White_0"
 		{
@@ -558,10 +558,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_White_1"
 		{
@@ -569,10 +569,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_White_2"
 		{
@@ -580,10 +580,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_White_3"
 		{
@@ -591,10 +591,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_White_4"
 		{
@@ -602,10 +602,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_White_0"
 		{
@@ -613,10 +613,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_White_1"
 		{
@@ -624,10 +624,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_White_2"
 		{
@@ -635,10 +635,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_White_3"
 		{
@@ -646,10 +646,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_White_4"
 		{
@@ -657,10 +657,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_White_0"
 		{
@@ -668,10 +668,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_White_1"
 		{
@@ -679,10 +679,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_White_2"
 		{
@@ -690,10 +690,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_White_3"
 		{
@@ -701,10 +701,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_White_4"
 		{
@@ -712,10 +712,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_White_0"
 		{
@@ -723,10 +723,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_White_1"
 		{
@@ -734,10 +734,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_White_2"
 		{
@@ -745,10 +745,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_White_3"
 		{
@@ -756,10 +756,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_White_4"
 		{
@@ -767,10 +767,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_White_0"
 		{
@@ -778,10 +778,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_White_1"
 		{
@@ -789,10 +789,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_White_2"
 		{
@@ -800,10 +800,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_White_3"
 		{
@@ -811,10 +811,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_White_4"
 		{
@@ -822,10 +822,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_White_0"
 		{
@@ -833,10 +833,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_White_1"
 		{
@@ -844,10 +844,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_White_2"
 		{
@@ -855,10 +855,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_White_3"
 		{
@@ -866,10 +866,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_White_4"
 		{
@@ -877,10 +877,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_White_0"
 		{
@@ -888,10 +888,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_White_1"
 		{
@@ -899,10 +899,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_White_2"
 		{
@@ -910,10 +910,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_White_3"
 		{
@@ -921,10 +921,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_White_4"
 		{
@@ -932,10 +932,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_White_0"
 		{
@@ -943,10 +943,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_White_1"
 		{
@@ -954,10 +954,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_White_2"
 		{
@@ -965,10 +965,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_White_3"
 		{
@@ -976,10 +976,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_White_4"
 		{
@@ -987,10 +987,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_White_0"
 		{
@@ -998,10 +998,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_White_1"
 		{
@@ -1009,10 +1009,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_White_2"
 		{
@@ -1020,10 +1020,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_White_3"
 		{
@@ -1031,10 +1031,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_White_4"
 		{
@@ -1042,10 +1042,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_White_0"
 		{
@@ -1053,10 +1053,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_White_1"
 		{
@@ -1064,10 +1064,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_White_2"
 		{
@@ -1075,10 +1075,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_White_3"
 		{
@@ -1086,10 +1086,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_White_4"
 		{
@@ -1097,10 +1097,10 @@
 			"background_type"			"0"
 			"color"						"White"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_AccentMain_0"
 		{
@@ -1108,10 +1108,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_AccentMain_1"
 		{
@@ -1119,10 +1119,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_AccentMain_2"
 		{
@@ -1130,10 +1130,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_AccentMain_3"
 		{
@@ -1141,10 +1141,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_AccentMain_4"
 		{
@@ -1152,10 +1152,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_AccentMain_0"
 		{
@@ -1163,10 +1163,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_AccentMain_1"
 		{
@@ -1174,10 +1174,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_AccentMain_2"
 		{
@@ -1185,10 +1185,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_AccentMain_3"
 		{
@@ -1196,10 +1196,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_AccentMain_4"
 		{
@@ -1207,10 +1207,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_AccentMain_0"
 		{
@@ -1218,10 +1218,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_AccentMain_1"
 		{
@@ -1229,10 +1229,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_AccentMain_2"
 		{
@@ -1240,10 +1240,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_AccentMain_3"
 		{
@@ -1251,10 +1251,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_AccentMain_4"
 		{
@@ -1262,10 +1262,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_AccentMain_0"
 		{
@@ -1273,10 +1273,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_AccentMain_1"
 		{
@@ -1284,10 +1284,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_AccentMain_2"
 		{
@@ -1295,10 +1295,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_AccentMain_3"
 		{
@@ -1306,10 +1306,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_AccentMain_4"
 		{
@@ -1317,10 +1317,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_AccentMain_0"
 		{
@@ -1328,10 +1328,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_AccentMain_1"
 		{
@@ -1339,10 +1339,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_AccentMain_2"
 		{
@@ -1350,10 +1350,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_AccentMain_3"
 		{
@@ -1361,10 +1361,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_AccentMain_4"
 		{
@@ -1372,10 +1372,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_AccentMain_0"
 		{
@@ -1383,10 +1383,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_AccentMain_1"
 		{
@@ -1394,10 +1394,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_AccentMain_2"
 		{
@@ -1405,10 +1405,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_AccentMain_3"
 		{
@@ -1416,10 +1416,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_AccentMain_4"
 		{
@@ -1427,10 +1427,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_AccentMain_0"
 		{
@@ -1438,10 +1438,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_AccentMain_1"
 		{
@@ -1449,10 +1449,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_AccentMain_2"
 		{
@@ -1460,10 +1460,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_AccentMain_3"
 		{
@@ -1471,10 +1471,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_AccentMain_4"
 		{
@@ -1482,10 +1482,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_AccentMain_0"
 		{
@@ -1493,10 +1493,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_AccentMain_1"
 		{
@@ -1504,10 +1504,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_AccentMain_2"
 		{
@@ -1515,10 +1515,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_AccentMain_3"
 		{
@@ -1526,10 +1526,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_AccentMain_4"
 		{
@@ -1537,10 +1537,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_AccentMain_0"
 		{
@@ -1548,10 +1548,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_AccentMain_1"
 		{
@@ -1559,10 +1559,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_AccentMain_2"
 		{
@@ -1570,10 +1570,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_AccentMain_3"
 		{
@@ -1581,10 +1581,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_AccentMain_4"
 		{
@@ -1592,10 +1592,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_AccentMain_0"
 		{
@@ -1603,10 +1603,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_AccentMain_1"
 		{
@@ -1614,10 +1614,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_AccentMain_2"
 		{
@@ -1625,10 +1625,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_AccentMain_3"
 		{
@@ -1636,10 +1636,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_AccentMain_4"
 		{
@@ -1647,10 +1647,10 @@
 			"background_type"			"0"
 			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Positive_0"
 		{
@@ -1658,10 +1658,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Positive_1"
 		{
@@ -1669,10 +1669,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Positive_2"
 		{
@@ -1680,10 +1680,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Positive_3"
 		{
@@ -1691,10 +1691,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Positive_4"
 		{
@@ -1702,10 +1702,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Positive_0"
 		{
@@ -1713,10 +1713,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Positive_1"
 		{
@@ -1724,10 +1724,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Positive_2"
 		{
@@ -1735,10 +1735,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Positive_3"
 		{
@@ -1746,10 +1746,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Positive_4"
 		{
@@ -1757,10 +1757,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Positive_0"
 		{
@@ -1768,10 +1768,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Positive_1"
 		{
@@ -1779,10 +1779,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Positive_2"
 		{
@@ -1790,10 +1790,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Positive_3"
 		{
@@ -1801,10 +1801,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Positive_4"
 		{
@@ -1812,10 +1812,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Positive_0"
 		{
@@ -1823,10 +1823,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Positive_1"
 		{
@@ -1834,10 +1834,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Positive_2"
 		{
@@ -1845,10 +1845,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Positive_3"
 		{
@@ -1856,10 +1856,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Positive_4"
 		{
@@ -1867,10 +1867,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Positive_0"
 		{
@@ -1878,10 +1878,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Positive_1"
 		{
@@ -1889,10 +1889,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Positive_2"
 		{
@@ -1900,10 +1900,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Positive_3"
 		{
@@ -1911,10 +1911,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Positive_4"
 		{
@@ -1922,10 +1922,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Positive_0"
 		{
@@ -1933,10 +1933,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Positive_1"
 		{
@@ -1944,10 +1944,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Positive_2"
 		{
@@ -1955,10 +1955,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Positive_3"
 		{
@@ -1966,10 +1966,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Positive_4"
 		{
@@ -1977,10 +1977,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Positive_0"
 		{
@@ -1988,10 +1988,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Positive_1"
 		{
@@ -1999,10 +1999,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Positive_2"
 		{
@@ -2010,10 +2010,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Positive_3"
 		{
@@ -2021,10 +2021,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Positive_4"
 		{
@@ -2032,10 +2032,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Positive_0"
 		{
@@ -2043,10 +2043,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Positive_1"
 		{
@@ -2054,10 +2054,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Positive_2"
 		{
@@ -2065,10 +2065,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Positive_3"
 		{
@@ -2076,10 +2076,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Positive_4"
 		{
@@ -2087,10 +2087,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Positive_0"
 		{
@@ -2098,10 +2098,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Positive_1"
 		{
@@ -2109,10 +2109,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Positive_2"
 		{
@@ -2120,10 +2120,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Positive_3"
 		{
@@ -2131,10 +2131,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Positive_4"
 		{
@@ -2142,10 +2142,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Positive_0"
 		{
@@ -2153,10 +2153,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Positive_1"
 		{
@@ -2164,10 +2164,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Positive_2"
 		{
@@ -2175,10 +2175,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Positive_3"
 		{
@@ -2186,10 +2186,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Positive_4"
 		{
@@ -2197,10 +2197,10 @@
 			"background_type"			"0"
 			"color"						"Positive"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Negative_0"
 		{
@@ -2208,10 +2208,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Negative_1"
 		{
@@ -2219,10 +2219,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Negative_2"
 		{
@@ -2230,10 +2230,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Negative_3"
 		{
@@ -2241,10 +2241,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_Negative_4"
 		{
@@ -2252,10 +2252,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Negative_0"
 		{
@@ -2263,10 +2263,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Negative_1"
 		{
@@ -2274,10 +2274,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Negative_2"
 		{
@@ -2285,10 +2285,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Negative_3"
 		{
@@ -2296,10 +2296,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_Negative_4"
 		{
@@ -2307,10 +2307,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Negative_0"
 		{
@@ -2318,10 +2318,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Negative_1"
 		{
@@ -2329,10 +2329,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Negative_2"
 		{
@@ -2340,10 +2340,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Negative_3"
 		{
@@ -2351,10 +2351,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_Negative_4"
 		{
@@ -2362,10 +2362,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Negative_0"
 		{
@@ -2373,10 +2373,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Negative_1"
 		{
@@ -2384,10 +2384,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Negative_2"
 		{
@@ -2395,10 +2395,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Negative_3"
 		{
@@ -2406,10 +2406,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_Negative_4"
 		{
@@ -2417,10 +2417,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Negative_0"
 		{
@@ -2428,10 +2428,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Negative_1"
 		{
@@ -2439,10 +2439,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Negative_2"
 		{
@@ -2450,10 +2450,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Negative_3"
 		{
@@ -2461,10 +2461,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_Negative_4"
 		{
@@ -2472,10 +2472,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Negative_0"
 		{
@@ -2483,10 +2483,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Negative_1"
 		{
@@ -2494,10 +2494,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Negative_2"
 		{
@@ -2505,10 +2505,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Negative_3"
 		{
@@ -2516,10 +2516,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_Negative_4"
 		{
@@ -2527,10 +2527,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Negative_0"
 		{
@@ -2538,10 +2538,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Negative_1"
 		{
@@ -2549,10 +2549,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Negative_2"
 		{
@@ -2560,10 +2560,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Negative_3"
 		{
@@ -2571,10 +2571,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_Negative_4"
 		{
@@ -2582,10 +2582,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Negative_0"
 		{
@@ -2593,10 +2593,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Negative_1"
 		{
@@ -2604,10 +2604,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Negative_2"
 		{
@@ -2615,10 +2615,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Negative_3"
 		{
@@ -2626,10 +2626,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_Negative_4"
 		{
@@ -2637,10 +2637,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Negative_0"
 		{
@@ -2648,10 +2648,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Negative_1"
 		{
@@ -2659,10 +2659,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Negative_2"
 		{
@@ -2670,10 +2670,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Negative_3"
 		{
@@ -2681,10 +2681,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_Negative_4"
 		{
@@ -2692,10 +2692,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Negative_0"
 		{
@@ -2703,10 +2703,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Negative_1"
 		{
@@ -2714,10 +2714,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Negative_2"
 		{
@@ -2725,10 +2725,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Negative_3"
 		{
@@ -2736,10 +2736,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_Negative_4"
 		{
@@ -2747,10 +2747,10 @@
 			"background_type"			"0"
 			"color"						"Negative"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO0_0"
 		{
@@ -2758,10 +2758,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO0_1"
 		{
@@ -2769,10 +2769,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO0_2"
 		{
@@ -2780,10 +2780,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO0_3"
 		{
@@ -2791,10 +2791,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO0_4"
 		{
@@ -2802,10 +2802,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO0_0"
 		{
@@ -2813,10 +2813,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO0_1"
 		{
@@ -2824,10 +2824,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO0_2"
 		{
@@ -2835,10 +2835,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO0_3"
 		{
@@ -2846,10 +2846,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO0_4"
 		{
@@ -2857,10 +2857,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO0_0"
 		{
@@ -2868,10 +2868,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO0_1"
 		{
@@ -2879,10 +2879,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO0_2"
 		{
@@ -2890,10 +2890,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO0_3"
 		{
@@ -2901,10 +2901,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO0_4"
 		{
@@ -2912,10 +2912,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO0_0"
 		{
@@ -2923,10 +2923,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO0_1"
 		{
@@ -2934,10 +2934,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO0_2"
 		{
@@ -2945,10 +2945,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO0_3"
 		{
@@ -2956,10 +2956,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO0_4"
 		{
@@ -2967,10 +2967,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO0_0"
 		{
@@ -2978,10 +2978,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO0_1"
 		{
@@ -2989,10 +2989,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO0_2"
 		{
@@ -3000,10 +3000,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO0_3"
 		{
@@ -3011,10 +3011,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO0_4"
 		{
@@ -3022,10 +3022,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO0_0"
 		{
@@ -3033,10 +3033,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO0_1"
 		{
@@ -3044,10 +3044,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO0_2"
 		{
@@ -3055,10 +3055,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO0_3"
 		{
@@ -3066,10 +3066,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO0_4"
 		{
@@ -3077,10 +3077,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO0_0"
 		{
@@ -3088,10 +3088,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO0_1"
 		{
@@ -3099,10 +3099,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO0_2"
 		{
@@ -3110,10 +3110,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO0_3"
 		{
@@ -3121,10 +3121,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO0_4"
 		{
@@ -3132,10 +3132,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO0_0"
 		{
@@ -3143,10 +3143,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO0_1"
 		{
@@ -3154,10 +3154,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO0_2"
 		{
@@ -3165,10 +3165,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO0_3"
 		{
@@ -3176,10 +3176,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO0_4"
 		{
@@ -3187,10 +3187,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO0_0"
 		{
@@ -3198,10 +3198,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO0_1"
 		{
@@ -3209,10 +3209,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO0_2"
 		{
@@ -3220,10 +3220,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO0_3"
 		{
@@ -3231,10 +3231,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO0_4"
 		{
@@ -3242,10 +3242,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO0_0"
 		{
@@ -3253,10 +3253,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO0_1"
 		{
@@ -3264,10 +3264,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO0_2"
 		{
@@ -3275,10 +3275,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO0_3"
 		{
@@ -3286,10 +3286,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO0_4"
 		{
@@ -3297,10 +3297,10 @@
 			"background_type"			"0"
 			"color"						"PanelO0"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO1_0"
 		{
@@ -3308,10 +3308,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO1_1"
 		{
@@ -3319,10 +3319,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO1_2"
 		{
@@ -3330,10 +3330,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO1_3"
 		{
@@ -3341,10 +3341,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO1_4"
 		{
@@ -3352,10 +3352,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO1_0"
 		{
@@ -3363,10 +3363,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO1_1"
 		{
@@ -3374,10 +3374,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO1_2"
 		{
@@ -3385,10 +3385,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO1_3"
 		{
@@ -3396,10 +3396,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO1_4"
 		{
@@ -3407,10 +3407,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO1_0"
 		{
@@ -3418,10 +3418,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO1_1"
 		{
@@ -3429,10 +3429,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO1_2"
 		{
@@ -3440,10 +3440,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO1_3"
 		{
@@ -3451,10 +3451,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO1_4"
 		{
@@ -3462,10 +3462,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO1_0"
 		{
@@ -3473,10 +3473,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO1_1"
 		{
@@ -3484,10 +3484,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO1_2"
 		{
@@ -3495,10 +3495,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO1_3"
 		{
@@ -3506,10 +3506,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO1_4"
 		{
@@ -3517,10 +3517,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO1_0"
 		{
@@ -3528,10 +3528,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO1_1"
 		{
@@ -3539,10 +3539,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO1_2"
 		{
@@ -3550,10 +3550,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO1_3"
 		{
@@ -3561,10 +3561,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO1_4"
 		{
@@ -3572,10 +3572,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO1_0"
 		{
@@ -3583,10 +3583,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO1_1"
 		{
@@ -3594,10 +3594,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO1_2"
 		{
@@ -3605,10 +3605,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO1_3"
 		{
@@ -3616,10 +3616,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO1_4"
 		{
@@ -3627,10 +3627,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO1_0"
 		{
@@ -3638,10 +3638,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO1_1"
 		{
@@ -3649,10 +3649,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO1_2"
 		{
@@ -3660,10 +3660,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO1_3"
 		{
@@ -3671,10 +3671,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO1_4"
 		{
@@ -3682,10 +3682,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO1_0"
 		{
@@ -3693,10 +3693,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO1_1"
 		{
@@ -3704,10 +3704,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO1_2"
 		{
@@ -3715,10 +3715,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO1_3"
 		{
@@ -3726,10 +3726,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO1_4"
 		{
@@ -3737,10 +3737,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO1_0"
 		{
@@ -3748,10 +3748,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO1_1"
 		{
@@ -3759,10 +3759,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO1_2"
 		{
@@ -3770,10 +3770,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO1_3"
 		{
@@ -3781,10 +3781,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO1_4"
 		{
@@ -3792,10 +3792,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO1_0"
 		{
@@ -3803,10 +3803,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO1_1"
 		{
@@ -3814,10 +3814,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO1_2"
 		{
@@ -3825,10 +3825,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO1_3"
 		{
@@ -3836,10 +3836,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO1_4"
 		{
@@ -3847,10 +3847,10 @@
 			"background_type"			"0"
 			"color"						"PanelO1"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO2_0"
 		{
@@ -3858,10 +3858,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO2_1"
 		{
@@ -3869,10 +3869,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO2_2"
 		{
@@ -3880,10 +3880,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO2_3"
 		{
@@ -3891,10 +3891,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO2_4"
 		{
@@ -3902,10 +3902,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO2_0"
 		{
@@ -3913,10 +3913,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO2_1"
 		{
@@ -3924,10 +3924,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO2_2"
 		{
@@ -3935,10 +3935,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO2_3"
 		{
@@ -3946,10 +3946,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO2_4"
 		{
@@ -3957,10 +3957,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO2_0"
 		{
@@ -3968,10 +3968,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO2_1"
 		{
@@ -3979,10 +3979,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO2_2"
 		{
@@ -3990,10 +3990,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO2_3"
 		{
@@ -4001,10 +4001,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO2_4"
 		{
@@ -4012,10 +4012,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO2_0"
 		{
@@ -4023,10 +4023,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO2_1"
 		{
@@ -4034,10 +4034,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO2_2"
 		{
@@ -4045,10 +4045,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO2_3"
 		{
@@ -4056,10 +4056,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO2_4"
 		{
@@ -4067,10 +4067,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO2_0"
 		{
@@ -4078,10 +4078,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO2_1"
 		{
@@ -4089,10 +4089,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO2_2"
 		{
@@ -4100,10 +4100,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO2_3"
 		{
@@ -4111,10 +4111,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO2_4"
 		{
@@ -4122,10 +4122,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO2_0"
 		{
@@ -4133,10 +4133,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO2_1"
 		{
@@ -4144,10 +4144,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO2_2"
 		{
@@ -4155,10 +4155,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO2_3"
 		{
@@ -4166,10 +4166,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO2_4"
 		{
@@ -4177,10 +4177,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO2_0"
 		{
@@ -4188,10 +4188,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO2_1"
 		{
@@ -4199,10 +4199,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO2_2"
 		{
@@ -4210,10 +4210,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO2_3"
 		{
@@ -4221,10 +4221,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO2_4"
 		{
@@ -4232,10 +4232,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO2_0"
 		{
@@ -4243,10 +4243,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO2_1"
 		{
@@ -4254,10 +4254,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO2_2"
 		{
@@ -4265,10 +4265,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO2_3"
 		{
@@ -4276,10 +4276,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO2_4"
 		{
@@ -4287,10 +4287,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO2_0"
 		{
@@ -4298,10 +4298,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO2_1"
 		{
@@ -4309,10 +4309,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO2_2"
 		{
@@ -4320,10 +4320,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO2_3"
 		{
@@ -4331,10 +4331,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO2_4"
 		{
@@ -4342,10 +4342,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO2_0"
 		{
@@ -4353,10 +4353,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO2_1"
 		{
@@ -4364,10 +4364,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO2_2"
 		{
@@ -4375,10 +4375,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO2_3"
 		{
@@ -4386,10 +4386,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO2_4"
 		{
@@ -4397,10 +4397,10 @@
 			"background_type"			"0"
 			"color"						"PanelO2"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO3_0"
 		{
@@ -4408,10 +4408,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO3_1"
 		{
@@ -4419,10 +4419,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO3_2"
 		{
@@ -4430,10 +4430,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO3_3"
 		{
@@ -4441,10 +4441,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO3_4"
 		{
@@ -4452,10 +4452,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO3_0"
 		{
@@ -4463,10 +4463,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO3_1"
 		{
@@ -4474,10 +4474,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO3_2"
 		{
@@ -4485,10 +4485,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO3_3"
 		{
@@ -4496,10 +4496,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO3_4"
 		{
@@ -4507,10 +4507,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO3_0"
 		{
@@ -4518,10 +4518,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO3_1"
 		{
@@ -4529,10 +4529,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO3_2"
 		{
@@ -4540,10 +4540,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO3_3"
 		{
@@ -4551,10 +4551,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO3_4"
 		{
@@ -4562,10 +4562,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO3_0"
 		{
@@ -4573,10 +4573,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO3_1"
 		{
@@ -4584,10 +4584,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO3_2"
 		{
@@ -4595,10 +4595,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO3_3"
 		{
@@ -4606,10 +4606,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO3_4"
 		{
@@ -4617,10 +4617,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO3_0"
 		{
@@ -4628,10 +4628,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO3_1"
 		{
@@ -4639,10 +4639,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO3_2"
 		{
@@ -4650,10 +4650,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO3_3"
 		{
@@ -4661,10 +4661,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO3_4"
 		{
@@ -4672,10 +4672,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO3_0"
 		{
@@ -4683,10 +4683,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO3_1"
 		{
@@ -4694,10 +4694,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO3_2"
 		{
@@ -4705,10 +4705,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO3_3"
 		{
@@ -4716,10 +4716,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO3_4"
 		{
@@ -4727,10 +4727,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO3_0"
 		{
@@ -4738,10 +4738,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO3_1"
 		{
@@ -4749,10 +4749,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO3_2"
 		{
@@ -4760,10 +4760,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO3_3"
 		{
@@ -4771,10 +4771,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO3_4"
 		{
@@ -4782,10 +4782,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO3_0"
 		{
@@ -4793,10 +4793,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO3_1"
 		{
@@ -4804,10 +4804,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO3_2"
 		{
@@ -4815,10 +4815,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO3_3"
 		{
@@ -4826,10 +4826,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO3_4"
 		{
@@ -4837,10 +4837,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO3_0"
 		{
@@ -4848,10 +4848,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO3_1"
 		{
@@ -4859,10 +4859,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO3_2"
 		{
@@ -4870,10 +4870,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO3_3"
 		{
@@ -4881,10 +4881,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO3_4"
 		{
@@ -4892,10 +4892,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO3_0"
 		{
@@ -4903,10 +4903,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO3_1"
 		{
@@ -4914,10 +4914,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO3_2"
 		{
@@ -4925,10 +4925,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO3_3"
 		{
@@ -4936,10 +4936,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO3_4"
 		{
@@ -4947,10 +4947,10 @@
 			"background_type"			"0"
 			"color"						"PanelO3"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO4_0"
 		{
@@ -4958,10 +4958,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO4_1"
 		{
@@ -4969,10 +4969,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO4_2"
 		{
@@ -4980,10 +4980,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO4_3"
 		{
@@ -4991,10 +4991,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO4_4"
 		{
@@ -5002,10 +5002,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO4_0"
 		{
@@ -5013,10 +5013,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO4_1"
 		{
@@ -5024,10 +5024,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO4_2"
 		{
@@ -5035,10 +5035,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO4_3"
 		{
@@ -5046,10 +5046,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO4_4"
 		{
@@ -5057,10 +5057,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO4_0"
 		{
@@ -5068,10 +5068,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO4_1"
 		{
@@ -5079,10 +5079,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO4_2"
 		{
@@ -5090,10 +5090,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO4_3"
 		{
@@ -5101,10 +5101,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO4_4"
 		{
@@ -5112,10 +5112,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO4_0"
 		{
@@ -5123,10 +5123,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO4_1"
 		{
@@ -5134,10 +5134,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO4_2"
 		{
@@ -5145,10 +5145,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO4_3"
 		{
@@ -5156,10 +5156,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO4_4"
 		{
@@ -5167,10 +5167,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO4_0"
 		{
@@ -5178,10 +5178,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO4_1"
 		{
@@ -5189,10 +5189,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO4_2"
 		{
@@ -5200,10 +5200,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO4_3"
 		{
@@ -5211,10 +5211,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO4_4"
 		{
@@ -5222,10 +5222,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO4_0"
 		{
@@ -5233,10 +5233,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO4_1"
 		{
@@ -5244,10 +5244,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO4_2"
 		{
@@ -5255,10 +5255,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO4_3"
 		{
@@ -5266,10 +5266,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO4_4"
 		{
@@ -5277,10 +5277,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO4_0"
 		{
@@ -5288,10 +5288,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO4_1"
 		{
@@ -5299,10 +5299,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO4_2"
 		{
@@ -5310,10 +5310,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO4_3"
 		{
@@ -5321,10 +5321,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO4_4"
 		{
@@ -5332,10 +5332,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO4_0"
 		{
@@ -5343,10 +5343,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO4_1"
 		{
@@ -5354,10 +5354,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO4_2"
 		{
@@ -5365,10 +5365,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO4_3"
 		{
@@ -5376,10 +5376,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO4_4"
 		{
@@ -5387,10 +5387,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO4_0"
 		{
@@ -5398,10 +5398,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO4_1"
 		{
@@ -5409,10 +5409,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO4_2"
 		{
@@ -5420,10 +5420,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO4_3"
 		{
@@ -5431,10 +5431,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO4_4"
 		{
@@ -5442,10 +5442,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO4_0"
 		{
@@ -5453,10 +5453,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO4_1"
 		{
@@ -5464,10 +5464,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO4_2"
 		{
@@ -5475,10 +5475,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO4_3"
 		{
@@ -5486,10 +5486,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO4_4"
 		{
@@ -5497,10 +5497,10 @@
 			"background_type"			"0"
 			"color"						"PanelO4"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO5_0"
 		{
@@ -5508,10 +5508,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO5_1"
 		{
@@ -5519,10 +5519,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO5_2"
 		{
@@ -5530,10 +5530,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO5_3"
 		{
@@ -5541,10 +5541,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO5_4"
 		{
@@ -5552,10 +5552,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO5_0"
 		{
@@ -5563,10 +5563,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO5_1"
 		{
@@ -5574,10 +5574,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO5_2"
 		{
@@ -5585,10 +5585,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO5_3"
 		{
@@ -5596,10 +5596,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO5_4"
 		{
@@ -5607,10 +5607,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO5_0"
 		{
@@ -5618,10 +5618,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO5_1"
 		{
@@ -5629,10 +5629,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO5_2"
 		{
@@ -5640,10 +5640,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO5_3"
 		{
@@ -5651,10 +5651,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO5_4"
 		{
@@ -5662,10 +5662,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO5_0"
 		{
@@ -5673,10 +5673,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO5_1"
 		{
@@ -5684,10 +5684,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO5_2"
 		{
@@ -5695,10 +5695,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO5_3"
 		{
@@ -5706,10 +5706,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO5_4"
 		{
@@ -5717,10 +5717,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO5_0"
 		{
@@ -5728,10 +5728,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO5_1"
 		{
@@ -5739,10 +5739,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO5_2"
 		{
@@ -5750,10 +5750,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO5_3"
 		{
@@ -5761,10 +5761,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO5_4"
 		{
@@ -5772,10 +5772,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO5_0"
 		{
@@ -5783,10 +5783,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO5_1"
 		{
@@ -5794,10 +5794,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO5_2"
 		{
@@ -5805,10 +5805,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO5_3"
 		{
@@ -5816,10 +5816,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO5_4"
 		{
@@ -5827,10 +5827,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO5_0"
 		{
@@ -5838,10 +5838,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO5_1"
 		{
@@ -5849,10 +5849,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO5_2"
 		{
@@ -5860,10 +5860,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO5_3"
 		{
@@ -5871,10 +5871,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO5_4"
 		{
@@ -5882,10 +5882,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO5_0"
 		{
@@ -5893,10 +5893,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO5_1"
 		{
@@ -5904,10 +5904,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO5_2"
 		{
@@ -5915,10 +5915,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO5_3"
 		{
@@ -5926,10 +5926,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO5_4"
 		{
@@ -5937,10 +5937,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO5_0"
 		{
@@ -5948,10 +5948,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO5_1"
 		{
@@ -5959,10 +5959,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO5_2"
 		{
@@ -5970,10 +5970,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO5_3"
 		{
@@ -5981,10 +5981,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO5_4"
 		{
@@ -5992,10 +5992,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO5_0"
 		{
@@ -6003,10 +6003,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO5_1"
 		{
@@ -6014,10 +6014,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO5_2"
 		{
@@ -6025,10 +6025,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO5_3"
 		{
@@ -6036,10 +6036,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO5_4"
 		{
@@ -6047,10 +6047,10 @@
 			"background_type"			"0"
 			"color"						"PanelO5"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO6_0"
 		{
@@ -6058,10 +6058,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO6_1"
 		{
@@ -6069,10 +6069,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO6_2"
 		{
@@ -6080,10 +6080,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO6_3"
 		{
@@ -6091,10 +6091,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_PanelO6_4"
 		{
@@ -6102,10 +6102,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO6_0"
 		{
@@ -6113,10 +6113,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO6_1"
 		{
@@ -6124,10 +6124,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO6_2"
 		{
@@ -6135,10 +6135,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO6_3"
 		{
@@ -6146,10 +6146,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_PanelO6_4"
 		{
@@ -6157,10 +6157,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO6_0"
 		{
@@ -6168,10 +6168,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO6_1"
 		{
@@ -6179,10 +6179,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO6_2"
 		{
@@ -6190,10 +6190,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO6_3"
 		{
@@ -6201,10 +6201,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_PanelO6_4"
 		{
@@ -6212,10 +6212,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO6_0"
 		{
@@ -6223,10 +6223,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO6_1"
 		{
@@ -6234,10 +6234,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO6_2"
 		{
@@ -6245,10 +6245,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO6_3"
 		{
@@ -6256,10 +6256,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_PanelO6_4"
 		{
@@ -6267,10 +6267,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO6_0"
 		{
@@ -6278,10 +6278,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO6_1"
 		{
@@ -6289,10 +6289,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO6_2"
 		{
@@ -6300,10 +6300,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO6_3"
 		{
@@ -6311,10 +6311,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_PanelO6_4"
 		{
@@ -6322,10 +6322,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO6_0"
 		{
@@ -6333,10 +6333,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO6_1"
 		{
@@ -6344,10 +6344,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO6_2"
 		{
@@ -6355,10 +6355,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO6_3"
 		{
@@ -6366,10 +6366,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_PanelO6_4"
 		{
@@ -6377,10 +6377,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO6_0"
 		{
@@ -6388,10 +6388,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO6_1"
 		{
@@ -6399,10 +6399,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO6_2"
 		{
@@ -6410,10 +6410,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO6_3"
 		{
@@ -6421,10 +6421,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_PanelO6_4"
 		{
@@ -6432,10 +6432,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO6_0"
 		{
@@ -6443,10 +6443,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO6_1"
 		{
@@ -6454,10 +6454,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO6_2"
 		{
@@ -6465,10 +6465,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO6_3"
 		{
@@ -6476,10 +6476,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_PanelO6_4"
 		{
@@ -6487,10 +6487,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO6_0"
 		{
@@ -6498,10 +6498,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO6_1"
 		{
@@ -6509,10 +6509,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO6_2"
 		{
@@ -6520,10 +6520,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO6_3"
 		{
@@ -6531,10 +6531,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_PanelO6_4"
 		{
@@ -6542,10 +6542,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO6_0"
 		{
@@ -6553,10 +6553,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO6_1"
 		{
@@ -6564,10 +6564,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO6_2"
 		{
@@ -6575,10 +6575,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO6_3"
 		{
@@ -6586,10 +6586,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_PanelO6_4"
 		{
@@ -6597,10 +6597,10 @@
 			"background_type"			"0"
 			"color"						"PanelO6"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reRed_0"
 		{
@@ -6608,10 +6608,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reRed_1"
 		{
@@ -6619,10 +6619,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reRed_2"
 		{
@@ -6630,10 +6630,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reRed_3"
 		{
@@ -6641,10 +6641,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reRed_4"
 		{
@@ -6652,10 +6652,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reRed_0"
 		{
@@ -6663,10 +6663,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reRed_1"
 		{
@@ -6674,10 +6674,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reRed_2"
 		{
@@ -6685,10 +6685,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reRed_3"
 		{
@@ -6696,10 +6696,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reRed_4"
 		{
@@ -6707,10 +6707,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reRed_0"
 		{
@@ -6718,10 +6718,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reRed_1"
 		{
@@ -6729,10 +6729,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reRed_2"
 		{
@@ -6740,10 +6740,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reRed_3"
 		{
@@ -6751,10 +6751,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reRed_4"
 		{
@@ -6762,10 +6762,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reRed_0"
 		{
@@ -6773,10 +6773,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reRed_1"
 		{
@@ -6784,10 +6784,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reRed_2"
 		{
@@ -6795,10 +6795,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reRed_3"
 		{
@@ -6806,10 +6806,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reRed_4"
 		{
@@ -6817,10 +6817,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reRed_0"
 		{
@@ -6828,10 +6828,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reRed_1"
 		{
@@ -6839,10 +6839,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reRed_2"
 		{
@@ -6850,10 +6850,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reRed_3"
 		{
@@ -6861,10 +6861,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reRed_4"
 		{
@@ -6872,10 +6872,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reRed_0"
 		{
@@ -6883,10 +6883,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reRed_1"
 		{
@@ -6894,10 +6894,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reRed_2"
 		{
@@ -6905,10 +6905,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reRed_3"
 		{
@@ -6916,10 +6916,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reRed_4"
 		{
@@ -6927,10 +6927,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reRed_0"
 		{
@@ -6938,10 +6938,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reRed_1"
 		{
@@ -6949,10 +6949,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reRed_2"
 		{
@@ -6960,10 +6960,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reRed_3"
 		{
@@ -6971,10 +6971,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reRed_4"
 		{
@@ -6982,10 +6982,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reRed_0"
 		{
@@ -6993,10 +6993,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reRed_1"
 		{
@@ -7004,10 +7004,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reRed_2"
 		{
@@ -7015,10 +7015,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reRed_3"
 		{
@@ -7026,10 +7026,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reRed_4"
 		{
@@ -7037,10 +7037,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reRed_0"
 		{
@@ -7048,10 +7048,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reRed_1"
 		{
@@ -7059,10 +7059,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reRed_2"
 		{
@@ -7070,10 +7070,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reRed_3"
 		{
@@ -7081,10 +7081,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reRed_4"
 		{
@@ -7092,10 +7092,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reRed_0"
 		{
@@ -7103,10 +7103,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reRed_1"
 		{
@@ -7114,10 +7114,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reRed_2"
 		{
@@ -7125,10 +7125,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reRed_3"
 		{
@@ -7136,10 +7136,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reRed_4"
 		{
@@ -7147,10 +7147,10 @@
 			"background_type"			"0"
 			"color"						"m0reRed"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reBlue_0"
 		{
@@ -7158,10 +7158,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reBlue_1"
 		{
@@ -7169,10 +7169,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reBlue_2"
 		{
@@ -7180,10 +7180,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reBlue_3"
 		{
@@ -7191,10 +7191,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTRBLBR_m0reBlue_4"
 		{
@@ -7202,10 +7202,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTRBLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reBlue_0"
 		{
@@ -7213,10 +7213,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reBlue_1"
 		{
@@ -7224,10 +7224,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reBlue_2"
 		{
@@ -7235,10 +7235,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reBlue_3"
 		{
@@ -7246,10 +7246,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TL_m0reBlue_4"
 		{
@@ -7257,10 +7257,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reBlue_0"
 		{
@@ -7268,10 +7268,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reBlue_1"
 		{
@@ -7279,10 +7279,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reBlue_2"
 		{
@@ -7290,10 +7290,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reBlue_3"
 		{
@@ -7301,10 +7301,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TR_m0reBlue_4"
 		{
@@ -7312,10 +7312,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reBlue_0"
 		{
@@ -7323,10 +7323,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reBlue_1"
 		{
@@ -7334,10 +7334,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reBlue_2"
 		{
@@ -7345,10 +7345,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reBlue_3"
 		{
@@ -7356,10 +7356,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BL_m0reBlue_4"
 		{
@@ -7367,10 +7367,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reBlue_0"
 		{
@@ -7378,10 +7378,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reBlue_1"
 		{
@@ -7389,10 +7389,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reBlue_2"
 		{
@@ -7400,10 +7400,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reBlue_3"
 		{
@@ -7411,10 +7411,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BR_m0reBlue_4"
 		{
@@ -7422,10 +7422,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reBlue_0"
 		{
@@ -7433,10 +7433,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reBlue_1"
 		{
@@ -7444,10 +7444,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reBlue_2"
 		{
@@ -7455,10 +7455,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reBlue_3"
 		{
@@ -7466,10 +7466,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLBL_m0reBlue_4"
 		{
@@ -7477,10 +7477,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLBL_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reBlue_0"
 		{
@@ -7488,10 +7488,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reBlue_1"
 		{
@@ -7499,10 +7499,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reBlue_2"
 		{
@@ -7510,10 +7510,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reBlue_3"
 		{
@@ -7521,10 +7521,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TLTR_m0reBlue_4"
 		{
@@ -7532,10 +7532,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TLTR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reBlue_0"
 		{
@@ -7543,10 +7543,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reBlue_1"
 		{
@@ -7554,10 +7554,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reBlue_2"
 		{
@@ -7565,10 +7565,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reBlue_3"
 		{
@@ -7576,10 +7576,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"TRBR_m0reBlue_4"
 		{
@@ -7587,10 +7587,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/TRBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reBlue_0"
 		{
@@ -7598,10 +7598,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reBlue_1"
 		{
@@ -7609,10 +7609,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reBlue_2"
 		{
@@ -7620,10 +7620,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reBlue_3"
 		{
@@ -7631,10 +7631,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"BLBR_m0reBlue_4"
 		{
@@ -7642,10 +7642,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/BLBR_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reBlue_0"
 		{
@@ -7653,10 +7653,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_0"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reBlue_1"
 		{
@@ -7664,10 +7664,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_1"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reBlue_2"
 		{
@@ -7675,10 +7675,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_2"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reBlue_3"
 		{
@@ -7686,10 +7686,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_3"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 		"NONE_m0reBlue_4"
 		{
@@ -7697,10 +7697,10 @@
 			"background_type"			"0"
 			"color"						"m0reBlue"
 			"image"						"replay/thumbnails/panels/rounded_rect/NONE_4"
-			"src_corner_width"			"20"
-			"src_corner_height"			"20"
-			"draw_corner_width"			"4"
-			"draw_corner_height"		"4"
+			"src_corner_width"			"16"
+			"src_corner_height"			"16"
+			"draw_corner_width"			"3"
+			"draw_corner_height"		"3"
 		}
 	}
 }

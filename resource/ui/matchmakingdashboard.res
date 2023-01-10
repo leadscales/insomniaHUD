@@ -530,7 +530,7 @@
 			"armedFgColor_override"		"Negative"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"NONE_PanelO2_0"
+			"border_armed"		"NONE_Negative_4"
 		}
 
 		"DisconnectButton"

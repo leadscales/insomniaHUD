@@ -113,12 +113,44 @@
 		}
 	}
 
+	"BGFrame"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BGFrame"
+		"xpos"										"cs-0.5"
+		"ypos"										"-5"
+		"zpos"										"0"
+		"wide"										"360"
+		"tall"										"25"
+		"visible"									"0"
+		"border"									"TLTRBLBR_Black_2"
+
+		"if_match"
+		{
+			"visible"									"1"
+		}
+
+		"Colors"
+		{
+			"ControlName"								"CTFImagePanel"
+			"fieldName"									"Colors"
+			"xpos"										"cs-0.5"
+			"ypos"										"5"
+			"zpos"										"0"
+			"wide"										"600"
+			"tall"										"200"
+			"proportionaltoparent"						"1"
+			"scaleImage"								"1"
+			"image"										"replay/thumbnails/ui_effects/matchstatus_glow"
+		}
+	}
+
 	"ObjectiveStatusTimePanel"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"ObjectiveStatusTimePanel"
 		"xpos"										"c-25"
-		"ypos"										"5"
+		"ypos"										"0"
 		"zpos"										"5"
 		"wide"										"50"
 		"tall"										"20"
@@ -132,7 +164,8 @@
 		"delta_lifetime"							"1"
 		"delta_item_font"							"regular14"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"PanelT3"
+		"paintbackground"							"0"
+		"bgcolor_override"							"Blank"
 
 		if_match
 		{
@@ -170,7 +203,7 @@
 		"ControlName"								"CTFTeamStatus"
 		"fieldName"									"TeamStatus"
 		"xpos"										"0"
-		"ypos"										"5"
+		"ypos"										"0"
 		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"20"
@@ -184,17 +217,17 @@
 
 		"team1_grow_dir" 							"west"
 		"team1_base_x"								"c-27"
-		"team1_max_expand"							"180"
+		"team1_max_expand"							"150"
 
 		"team2_grow_dir" 							"east"
 		"team2_base_x"								"c27"
-		"team2_max_expand"							"180"
+		"team2_max_expand"							"150"
 
 		"playerpanels_kv"
 		{
 			"visible"								"0"
 			"wide"									"f0"
-			"tall"									"f0"
+			"tall"									"f2"
 			"zpos"									"1"
 			"proportionaltoparent"					"1"
 
@@ -234,7 +267,7 @@
 				"ypos"								"0"
 				"zpos"								"2"
 				"wide"								"f0"
-				"tall"								"f1"
+				"tall"								"0"
 				"visible"							"1"
 				"enabled"							"1"
 				"PaintBackgroundType"				"0"
@@ -246,13 +279,14 @@
 				"ControlName"						"ContinuousProgressBar"
 				"fieldName"							"healthbar"
 				"xpos"								"0"
-				"ypos"								"18"
+				"ypos"								"17"
 				"zpos"								"7"
 				"wide"								"f0"
-				"tall"								"f0"
+				"tall"								"1"
 				"visible"							"1"
 				"enabled"							"1"
-				"bgcolor_override"	  				"PanelT1"
+				"bgcolor_override"	  				"PanelT2"
+				"alpha"								"128"
 				"proportionaltoparent"				"1"
 			}
 
@@ -261,10 +295,10 @@
 				"ControlName"						"ContinuousProgressBar"
 				"fieldName"							"overhealbar"
 				"xpos"								"0"
-				"ypos"								"18"
+				"ypos"								"17"
 				"zpos"								"8"
 				"wide"								"f0"
-				"tall"								"f0"
+				"tall"								"1"
 				"visible"							"1"
 				"enabled"							"1"
 				"bgcolor_override"	   				"Blank"
@@ -610,12 +644,6 @@
 	// REMOVED ELEMENTS
 	//==================================================================================================================================================
 
-	"BGFrame"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"BGFrame"
-		"xpos"										"9999"
-	}
 	"RoundCounter"
 	{
 		"fieldName"									"RoundCounter"
