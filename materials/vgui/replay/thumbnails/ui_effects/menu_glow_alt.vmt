@@ -7,22 +7,22 @@
 	"$no_fullbright" "1"
 	"$ignorez" "1"
 	"%keywords" "tf"
-	"$baseTexture" "vgui/replay/thumbnails/ui_effects/menu_glow"
+	"$baseTexture" "vgui/replay/thumbnails/ui_effects/menu_glow_alt"
 
 	"Proxies"
 	{
 		"Sine"
 		{
 			"resultVar" "$alpha"
-			"sineperiod" "10"
-			"sinemin" "0.2"
+			"sineperiod" "4"
+			"sinemin" "0.4"
 			"sinemax" "0.6"
 		}
 		"TextureScroll"
 		{
 			"texturescrollvar" "$baseTextureTransform"
-			"texturescrollrate" "0.05"
-			"texturescrollangle" "200"
+			"texturescrollrate" "0.09"
+			"texturescrollangle" "20"
 		}
 	}
 }

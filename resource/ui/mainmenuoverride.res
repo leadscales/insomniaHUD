@@ -50,8 +50,8 @@
 				"paintborder"						"0"
 
 				"defaultFgColor_override" 			"White"
-				"armedFgColor_override" 			"Menu Labels"
-				"depressedFgColor_override" 		"Menu Labels"
+				"armedFgColor_override" 			"AccentMain"
+				"depressedFgColor_override" 		"AccentMain"
 			}
 		}
 
@@ -101,9 +101,9 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"MenuColorizer"
 		"xpos"										"0"
-		"ypos"										"rs1"
+		"ypos"										"rs1-60"
 		"wide"										"f0"
-		"tall"										"480"
+		"tall"										"400"
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
@@ -119,6 +119,33 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow"
+			"drawcolor"								"AccentMain"
+		}
+	}
+
+	"MenuColorizer2"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"MenuColorizer2"
+		"xpos"										"0"
+		"ypos"										"rs1-60"
+		"wide"										"f0"
+		"tall"										"400"
+		"visible"									"1"
+		"enabled"									"1"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"scaleImage"							"1"
+			"image"									"replay/thumbnails/ui_effects/menu_glow_alt"
 			"drawcolor"								"AccentMain"
 		}
 	}

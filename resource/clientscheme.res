@@ -3,6 +3,7 @@
 //=========================================================
 
 #base "../resource/scheme/colors.res"
+#base "../customization/custom_colors.res"
 
 //=========================================================
 // FONTS SCHEME

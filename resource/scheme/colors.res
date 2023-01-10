@@ -2,37 +2,6 @@
 {
 	"Colors"
 	{
-		"Health Numbers"									"255 255 255 255"
-
-		"Health Buff"										"64 192 255 255"
-		"Health Buff Target"								"64 192 255 255"
-		"Health Buff Spec"									"64 192 255 255"
-		"Health Buff Killer"								"64 192 255 255"
-
-		"Health Hurt"										"255 64 96 255"
-		"Health Hurt Target"								"255 64 96 255"
-		"Health Hurt Spec"									"255 64 96 255"
-		"Health Hurt Killer"								"255 64 96 255"
-
-		"Ammo In Clip"										"255 255 255 255"
-		"Ammo In Reserve"									"255 255 255 255"
-		"Ammo No Clip"										"255 255 255 255"
-
-		"Ammo In Clip Low"									"255 64 96 255"
-		"Ammo In Reserve Low"								"255 64 96 255"
-		"Ammo No Clip Low"									"255 64 96 255"
-
-		"Ubercharge"										"255 255 255 255"
-		"Ubercharge Full"									"64 192 255 255"
-
-		"Extra Shadow"										"0 0 0 255"
-
-		"Heal Numbers"										"64 192 255 255"
-		"Last Damage Done"									"255 255 255 255"
-
-		"Menu Labels"										"96 32 255 255"
-		"Class Selection"									"96 32 255 255"
-
 		"m0reBlue"											"96 160 255 255"
 		"m0reRed"											"255 64 64 255"
 
@@ -46,9 +15,6 @@
 
 		"White"												"255 255 255 255"
 		"Black"												"0 0 0 255"
-
-		"Crosshair"											"255 255 255 255"
-		"Crosshair Flash"									"255 0 0 255"
 
 		"PanelT0"											"0 0 0 255"
 		"PanelT1"											"0 0 0 160"
@@ -82,15 +48,11 @@
 		"Text3"												"128 128 128 255"
 		"Text4"												"96 96 96 255"
 		"Text5"												"64 64 64 255"
-
-		"AccentMain"										"64 128 255 255"
-		"Positive"											"64 192 255 255"
-		"Negative"											"255 64 96 255"
 	}
 
 	"BaseSettings"
 	{
 		ProgressBar.FgColor									"255 255 255 255"
-		ProgressBar.BgColor									"0 0 0 50"
+		ProgressBar.BgColor									"0 0 0 64"
 	}
 }
