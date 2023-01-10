@@ -24,16 +24,6 @@
 		"command" 									"engine hud_fixissues"
 		"OnlyInGame"								"1"
 	}
-	"InGamePrimaryPanel"
-	{
-		"command"									"engine"
-		"OnlyInGame"								"1"
-	}
-	"AtMenuPrimaryPanel"
-	{
-		"command"									"engine"
-		"OnlyAtMenu"								"1"
-	}
 	"MenuColorizer"
 	{
 		"command"									"engine"

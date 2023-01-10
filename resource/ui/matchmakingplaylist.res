@@ -55,8 +55,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"border_default"	"TLBL_PanelO2_0"
-		"border_armed"		"TLBL_PanelO3_0"
+		"border_default"	"TLBL_PanelO1_0"
+		"border_armed"		"TLBL_PanelO2_0"
 	}
 
 	"CompetitiveEntry"
@@ -151,8 +151,8 @@
 		"actionsignallevel"	"1"
 		"paintbackground"	"0"
 
-		"border_default"	"TRBR_PanelO2_0"
-		"border_armed"		"TRBR_PanelO3_0"
+		"border_default"	"TRBR_PanelO1_0"
+		"border_armed"		"TRBR_PanelO2_0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

@@ -23,8 +23,8 @@
 		
 			"paintbackground"		"0"
 
-			"border_default"		"TLTR_Black_1"
-			"border_armed"			"TLTR_White_4"
+			"border_default"		"TLTR_Black_2"
+			"border_armed"			"TLTR_PanelO6_0"
 		}
 
 		"MOTD_Panel"
@@ -38,7 +38,7 @@
 			"tall"				"40"
 			"visible"			"0"
 			"paintbackground"	"0"
-			"border"			"TLTR_PanelO2_0"
+			"border"			"TLTR_Black_3"
 
 			"Bookmarks"
 			{
@@ -268,8 +268,8 @@
 			
 				"paintbackground"		"0"
 
-				"border_default"		"NONE_PanelO3_0"
-				"border_armed"			"NONE_White_4"
+				"border_default"		"NONE_PanelO0_0"
+				"border_armed"			"NONE_PanelO6_0"
 			}
 		}
 	}

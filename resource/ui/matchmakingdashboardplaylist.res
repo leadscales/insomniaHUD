@@ -72,6 +72,6 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"PanelO1"
+		"bgcolor_override"	"PanelO0"
 	}
 }

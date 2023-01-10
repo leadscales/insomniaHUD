@@ -40,7 +40,6 @@
 		"scaleImage"	"1"
 	}
 
-
 	"MapInfo"
 	{
 		"ControlName"	"EditablePanel"
@@ -68,14 +67,14 @@
 
 	"LoadingImage"
 	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"LoadingImage"
-		"xpos"										"cs-0.5"
-		"ypos"										"cs-0.5"
-		"wide"										"100"
-		"tall"										"100"
-		"image"										"replay/thumbnails/ui_effects/loading_animation"
-		"scaleImage"								"0"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"LoadingImage"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
+		"wide"			"80"
+		"tall"			"80"
+		"image"			"replay/thumbnails/ui_effects/loading_animation"
+		"scaleImage"	"1"
 	}
 
 	"MapLabel"

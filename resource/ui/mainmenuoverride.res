@@ -102,6 +102,7 @@
 		"fieldName"									"MenuColorizer"
 		"xpos"										"0"
 		"ypos"										"rs1-60"
+		"zpos"										"1"
 		"wide"										"f0"
 		"tall"										"400"
 		"visible"									"1"
@@ -129,6 +130,7 @@
 		"fieldName"									"MenuColorizer2"
 		"xpos"										"0"
 		"ypos"										"rs1-60"
+		"zpos"										"1"
 		"wide"										"f0"
 		"tall"										"400"
 		"visible"									"1"
@@ -146,34 +148,51 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow_alt"
-			"drawcolor"								"AccentMain"
+			"drawcolor"								"AccentSecondary"
 		}
 	}
 
-	"InGamePrimaryPanel"
+	"PrimaryPanelFX"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"InGamePrimaryPanel"
+		"fieldName"									"PrimaryPanelFX"
 		"xpos"										"10"
 		"ypos"										"30"
+		"zpos"										"49"
 		"wide"										"200"
 		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"TLTRBLBR_PanelO2_0"
-	}
+		"border"									"TLTRBLBR_Black_2"
 
-	"AtMenuPrimaryPanel"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"AtMenuPrimaryPanel"
-		"xpos"										"10"
-		"ypos"										"30"
-		"wide"										"200"
-		"tall"										"f100"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"									"TLTRBLBR_Black_3"
+		"PanelColorizer"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"PanelColorizer"
+			"xpos"										"0"
+			"ypos"										"0"
+			"zpos"										"50"
+			"wide"										"f0"
+			"tall"										"f0"
+			"visible"									"1"
+			"enabled"									"1"
+			"alpha"										"255"
+			"mouseinputenabled"							"0"
+
+			"SubImage"
+			{
+				"ControlName"							"CTFImagePanel"
+				"fieldName"								"SubImage"
+				"xpos"									"0"
+				"ypos"									"0"
+				"wide"									"f0"
+				"tall"									"f0"
+				"proportionaltoparent"					"1"
+				"scaleImage"							"1"
+				"image"									"replay/thumbnails/ui_effects/panel_glow"
+				"drawcolor"								"AccentMain"
+			}
+		}
 	}
 
 	"PrimaryPanel"
@@ -182,6 +201,7 @@
 		"fieldName"									"PrimaryPanel"
 		"xpos"										"10"
 		"ypos"										"30"
+		"zpos"										"50"
 		"wide"										"200"
 		"tall"										"f100"
 		"visible"									"1"
@@ -200,7 +220,7 @@
 		"tall"										"60"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelO1"
+		"bgcolor_override"							"PanelO0"
 	}
 
 	//==================================================================================================================================================
@@ -213,10 +233,11 @@
 		"fieldName"									"RankContainer"
 		"xpos"										"0"
 		"ypos"										"0"
+		"zpos"										"51"
 		"wide"										"200"
 		"tall"										"40"
 
-		"border"									"TLTR_Black_1"
+		"border"									"TLTR_Black_2"
 
 		"pin_to_sibling" 							"PrimaryPanel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -229,7 +250,7 @@
 		"fieldName"									"RankPanel"
 		"xpos"										"-5"
 		"ypos"										"0"
-		"zpos"										"1"
+		"zpos"										"52"
 		"wide"										"190"
 		"tall"										"60"
 		"visible"									"0"
@@ -266,7 +287,7 @@
 		"fieldName"									"NoGCMessage"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"190"
+		"zpos"										"53"
 		"wide"										"200"
 		"tall"										"40"
 		"visible"									"1"
@@ -288,7 +309,7 @@
 		"fieldName"									"CycleRankTypeButton"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"16"
+		"zpos"										"54"
 		"wide"										"190"
 		"tall"										"40"
 		"visible"									"1"
@@ -318,7 +339,7 @@
 		"fieldName"									"Buttons"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"10"
+		"zpos"										"51"
 		"wide"										"200"
 		"tall"										"80"
 		"bgcolor_override"							"Blank"
@@ -471,13 +492,13 @@
 		"fieldname"									"FriendsContainer"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"11"
+		"zpos"										"51"
 		"wide"										"200"
 		"tall"										"220"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"NONE_BLACK_2"
+		"border"									"NONE_Black_3"
 
 		"pin_to_sibling"							"Buttons"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -538,13 +559,13 @@
 		"fieldname"									"ExtraButtonsContainer"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"11"
+		"zpos"										"51"
 		"wide"										"200"
 		"tall"										"40"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"Blank"
-		"border"									"BLBR_Black_1"
+		"border"									"BLBR_Black_2"
 
 		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -761,8 +782,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"TLBL_PanelO2_0"
-				"border_armed"				"TLBL_PanelO3_0"
+				"border_default"			"TLBL_PanelO1_0"
+				"border_armed"				"TLBL_PanelO2_0"
 			}
 		}
 
@@ -814,8 +835,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NONE_PanelO2_0"
-				"border_armed"				"NONE_PanelO3_0"
+				"border_default"			"NONE_PanelO1_0"
+				"border_armed"				"NONE_PanelO2_0"
 			}
 		}
 
@@ -868,8 +889,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NONE_PanelO2_0"
-				"border_armed"				"NONE_PanelO3_0"
+				"border_default"			"NONE_PanelO1_0"
+				"border_armed"				"NONE_PanelO2_0"
 			}
 		}
 
@@ -921,8 +942,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"TRBR_PanelO2_0"
-				"border_armed"				"TRBR_PanelO3_0"
+				"border_default"			"TRBR_PanelO1_0"
+				"border_armed"				"TRBR_PanelO2_0"
 			}
 		}
 	}
