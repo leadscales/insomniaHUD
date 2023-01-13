@@ -7,8 +7,7 @@
 	{
 		// Misc
 
-		"AccentMain"										"96 160 255 255"
-		"AccentSecondary"									"160 96 255 255"
+		"AccentMain"										"80 160 255 255"
 		"Positive"											"64 192 255 255"
 		"Negative"											"255 64 96 255"
 

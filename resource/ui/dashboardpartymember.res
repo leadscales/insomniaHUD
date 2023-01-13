@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
-		"fgcolor_override"	"Text5"
+		"fgcolor_override"	"Text0"
 		"labeltext"		"+"
 		"font"			"icons13"
 		"textAlignment"	"center"
@@ -157,7 +157,7 @@
 		"armedFgColor_override"		"Text0"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NONE_PanelO2_0"
+		"border_armed"		"TLTRBLBR_PanelO3_0"
 	}
 
 	"Spinner"

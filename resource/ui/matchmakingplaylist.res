@@ -43,7 +43,7 @@
 		"fieldName"			"CasualEntry2"
 		"xpos"				"0"
 		"ypos"				"0"
-		"wide"				"120"
+		"wide"				"124"
 		"tall"				"40"
 		"labeltext"			"#MMenu_PlayList_Casual_Button"
 		"font"				"regular14"
@@ -55,8 +55,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"border_default"	"TLBL_PanelO1_0"
-		"border_armed"		"TLBL_PanelO2_0"
+		"border_default"	"TLBL_PanelO2_0"
+		"border_armed"		"TLBL_PanelO3_0"
 	}
 
 	"CompetitiveEntry"
@@ -66,7 +66,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"40"
-		"wide"			"120"
+		"wide"			"124"
 		"proportionaltoparent"	"1"
 
 		"image_name"		"main_menu/main_menu_button_competitive"
@@ -92,7 +92,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"40"
-		"wide"			"120"
+		"wide"			"124"
 		"proportionaltoparent"	"1"
 
 		"image_name"		"main_menu/main_menu_button_mvm"
@@ -118,7 +118,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"tall"			"40"
-		"wide"			"120"
+		"wide"			"124"
 		"proportionaltoparent"	"1"
 
 		"image_name"		"main_menu/main_menu_button_community_server"
@@ -142,7 +142,7 @@
 		"fieldName"			"CreateServerEntry2"
 		"xpos"				"0"
 		"ypos"				"0"
-		"wide"				"120"
+		"wide"				"124"
 		"tall"				"40"
 		"labeltext"			"+"
 		"font"				"icons13"
@@ -151,8 +151,8 @@
 		"actionsignallevel"	"1"
 		"paintbackground"	"0"
 
-		"border_default"	"TRBR_PanelO1_0"
-		"border_armed"		"TRBR_PanelO2_0"
+		"border_default"	"TRBR_PanelO2_0"
+		"border_armed"		"TRBR_PanelO3_0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
