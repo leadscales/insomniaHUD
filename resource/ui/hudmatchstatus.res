@@ -130,18 +130,28 @@
 			"visible"									"1"
 		}
 
-		"Colors"
+		"Glow"
 		{
 			"ControlName"								"CTFImagePanel"
-			"fieldName"									"Colors"
+			"fieldName"									"Glow"
 			"xpos"										"cs-0.5"
-			"ypos"										"5"
+			"ypos"										"-300"
 			"zpos"										"0"
-			"wide"										"600"
-			"tall"										"200"
+			"wide"										"400"
+			"tall"										"400"
 			"proportionaltoparent"						"1"
 			"scaleImage"								"1"
-			"image"										"replay/thumbnails/ui_effects/matchstatus_glow"
+			"alpha"										"96"
+			"image"										"replay/thumbnails/ui_effects/point_glow_white"
+
+			"teambg_0"									"replay/thumbnails/ui_effects/point_glow_white"
+			"teambg_0_lodef"							"replay/thumbnails/ui_effects/point_glow_white"
+			"teambg_1"									"replay/thumbnails/ui_effects/point_glow_white"
+			"teambg_1_lodef"							"replay/thumbnails/ui_effects/point_glow_white"
+			"teambg_2"									"replay/thumbnails/ui_effects/point_glow_red"
+			"teambg_2_lodef"							"replay/thumbnails/ui_effects/point_glow_red"
+			"teambg_3"									"replay/thumbnails/ui_effects/point_glow_blu"
+			"teambg_3_lodef"							"replay/thumbnails/ui_effects/point_glow_blu"
 		}
 	}
 

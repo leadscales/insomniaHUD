@@ -1,11 +1,44 @@
 "Resource/UI/MvMScoreboard.res"
 {
+
+	"MVMScoreBG"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"MVMScoreBG"
+		"xpos"										"cs-0.5"
+		"ypos"										"100"
+		"zpos"										"4"
+		"wide"										"500"
+		"tall"										"185"
+		"visible"									"1"
+		"enabled"									"1"
+
+		"paintbackground"							"0"
+		"border"									"TLTR_Black_1"
+
+		"RedPointGlow"
+		{
+			"ControlName"								"CTFImagePanel"
+			"fieldName"									"RedPointGlow"
+			"xpos"										"cs-0.5"
+			"ypos"										"50"
+			"wide"										"400"
+			"tall"										"600"
+			"proportionaltoparent"						"1"
+			"alpha"										"96"
+			"image"										"replay/thumbnails/ui_effects/point_glow_white"
+			"scaleImage"								"1"
+			"drawcolor"									"m0reRed"
+		}
+	}
+
 	"RedBar"
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"RedBar"
 		"xpos"										"cs-0.5"
 		"ypos"										"100"
+		"zpos"										"0"
 		"wide"										"500"
 		"tall"										"40"
 		"visible"									"1"
@@ -13,21 +46,22 @@
 		"proportionaltoparent"						"1"
 		"painbackground"		    				"0"
 		"border"									"TLTR_m0reRed_3"
+	}
 
-		"MVMLabel"
-		{
-			"ControlName"							"CExLabel"
-			"fieldName"								"MVMLabel"
-			"xpos"									"cs-0.5"
-			"ypos"									"0"
-			"wide"									"200"
-			"tall"									"40"
-			"labeltext"								"#Gametype_MVM"
-			"font"									"bold18"
-			"textalignment"							"center"
-			"proportionaltoparent"					"1"
-			"border"								"NONE_m0reRed_4"
-		}
+	"MVMLabel"
+	{
+		"ControlName"							"CExLabel"
+		"fieldName"								"MVMLabel"
+		"xpos"									"cs-0.5"
+		"ypos"									"100"
+		"zpos"									"5"
+		"wide"									"200"
+		"tall"									"40"
+		"labeltext"								"#Gametype_MVM"
+		"font"									"bold18"
+		"fgcolor"								"m0reRed"
+		"textalignment"							"center"
+		"border"								"NoBorder"
 	}
 
 	"PopFileLabel"
@@ -149,7 +183,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"CreditStatsContainer"
 		"xpos"										"cs-0.5"
-		"ypos"										"345" //325
+		"ypos"										"325"
 		"wide"										"500"
 		"tall"										"40"
 		"visible"									"1"

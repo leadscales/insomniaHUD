@@ -63,6 +63,7 @@
 		"fieldName"									"ScoreBG"
 		"xpos"										"0"
 		"ypos"										"0"
+		"zpos"										"4"
 		"wide"										"500"
 		"tall"										"315"
 		"visible"									"1"
@@ -77,8 +78,63 @@
 
 		"if_mvm"
 		{
+			"border"								"NoBorder"
 			"tall"									"185"
 			"ypos"									"-60"
+		}
+
+		"GlowContainer"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"GlowContainer"
+			"xpos"										"0"
+			"ypos"										"40"
+			"zpos"										"4"
+			"wide"										"f0"
+			"tall"										"f40"
+			"proportionaltoparent"						"1"
+			"visible"									"1"
+			"enabled"									"1"
+
+			"BluePointGlow"
+			{
+				"ControlName"								"CTFImagePanel"
+				"fieldName"									"BluePointGlow"
+				"xpos"										"cs-0.5-250"
+				"ypos"										"s+0.2"
+				"wide"										"400"
+				"tall"										"600"
+				"proportionaltoparent"						"1"
+				"alpha"										"96"
+				"image"										"replay/thumbnails/ui_effects/point_glow_white"
+				"scaleImage"								"1"
+				"drawcolor"									"m0reBlue"
+
+				"if_mvm"
+				{
+					"visible"								"0"
+				}
+			}
+
+			"RedPointGlow"
+			{
+				"ControlName"								"CTFImagePanel"
+				"fieldName"									"RedPointGlow"
+				"xpos"										"cs-0.5+250"
+				"ypos"										"s+0.2"
+				"wide"										"400"
+				"tall"										"600"
+				"proportionaltoparent"						"1"
+				"alpha"										"96"
+				"image"										"replay/thumbnails/ui_effects/point_glow_white"
+				"scaleImage"								"1"
+				"drawcolor"									"m0reRed"
+
+				"if_mvm"
+				{
+					"visible"								"0"
+				}
+			}
 		}
 	}
 
@@ -92,6 +148,7 @@
 		"fieldName"									"BlueScoreBG"
 		"xpos"										"c0-s1"
 		"ypos"										"40"
+		"zpos"										"3"
 		"wide"										"250"
 		"tall"										"40"
 		"visible"									"1"
@@ -124,9 +181,12 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"font"										"bold18"
-		"fgcolor"   								"Text0"
+		"fgcolor"   								"m0reBlue"
 		"labelText"									"%blueteamname%"
 		"textAlignment"								"center"
+
+		"paintbackground"							"0"
+		"border"									"NONE_Black_4"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -144,18 +204,18 @@
 		"fieldName"									"BlueTeamScore"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"4"
+		"zpos"										"5"
 		"wide"										"40"
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"font"										"bold18"
-		"fgcolor"  									"Text0"
+		"fgcolor"  									"m0reBlue"
 		"labelText"									"%blueteamscore%"
 		"textAlignment"								"center"
 
 		"paintbackground"							"0"
-		"border"									"TL_m0reBlue_3"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -203,6 +263,7 @@
 		"fieldName"									"RedScoreBG"
 		"xpos"										"0"
 		"ypos"										"0"
+		"zpos"										"3"
 		"wide"										"250"
 		"tall"										"40"
 		"visible"									"1"
@@ -226,7 +287,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedTeamName"
-		"xpos"										"-5"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
 		"wide"										"210"
@@ -234,9 +295,12 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"font"										"bold18"
-		"fgcolor"   								"Text0"
+		"fgcolor"   								"m0reRed"
 		"labelText"									"%redteamname%"
 		"textAlignment"								"center"
+
+		"paintbackground"							"0"
+		"border"									"NONE_Black_4"
 
 		"pin_to_sibling"							"RedScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -254,18 +318,18 @@
 		"fieldName"									"RedTeamScore"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"4"
+		"zpos"										"5"
 		"wide"										"40"
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"font"										"bold18"
-		"fgcolor"  									"Text0"
+		"fgcolor"  									"m0reRed"
 		"labelText"									"%redteamscore%"
 		"textAlignment"								"center"
 
 		"paintbackground"							"0"
-		"border"									"TR_m0reRed_3"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"RedScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -463,6 +527,11 @@
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
 			"border"									"BL_Black_1"
+
+			"if_mvm"
+			{
+				"border"								"NONE_Black_1"
+			}
 		}
 
 		"KillsWhite"
@@ -523,6 +592,11 @@
 			"pin_to_sibling"							"KDPanel"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
 			"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+
+			"if_mvm"
+			{
+				"border"								"NONE_Black_2"
+			}
 		}
 
 		// G1: Assists, Damage, Dom, Revenge
@@ -1054,6 +1128,11 @@
 				"pin_to_sibling"							"S4_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
 				"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+
+				"if_mvm"
+				{
+					"border"								"NONE_Black_3"
+				}
 			}
 		}
 

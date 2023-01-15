@@ -11,7 +11,7 @@
 		"tall"				"40"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"TLTRBLBR_Black_2"
+		"border"			"BLBR_Black_2"
 	}
 
 	"HeaderLabelBG"
@@ -25,7 +25,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"TLTR_Black_2"
+		"border"			"NONE_Black_2"
 	}
 
 	"HeaderLabel"
