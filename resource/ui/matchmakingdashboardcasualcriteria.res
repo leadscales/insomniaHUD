@@ -6,12 +6,13 @@
 	{
 		"fieldName"		"CasualCriteria"
 		"xpos"			"r0"
-		"ypos"			"20"
+		"ypos"			"30"
 		"zpos"			"1002"
-		"wide"			"300"
-		"tall"			"f80"
+		"wide"			"210"
+		"tall"			"f100"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
+		"paintbackground"	"0"
 	}
 
 	"Title"
@@ -21,13 +22,16 @@
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"99"
-		"wide"		"f0"
+		"wide"		"f10"
 		"tall"		"20"
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderCasual"
 		"textAlignment"	"center"
 		"font"			"bold18"
 		"fgcolor_override"	"Text0"
+		"allcaps"			"1"
+		"bgcolor_override"	"Blank"
+		"border"	"NoBorder"
 		
 		"mouseinputenabled"	"0"
 	}
@@ -36,16 +40,16 @@
 	{
 		"ControlName"	"CCasualCriteriaPanel"
 		"fieldName"		"criteria"
-		"xpos"			"5"
+		"xpos"			"0"
 		"ypos"			"20"
 		"zpos"			"100"
 		"wide"			"f10"
-		"tall"			"f50"
+		"tall"			"f65"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
 		"border"		"NoBorder"
-		"bgcolor_override"		"PanelO2"
+		"bgcolor_override"		"Blank"
 	}
 
 	"ToolTipButtonHack"
@@ -69,32 +73,35 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"QueueButton"
-		"xpos"			"5"
-		"ypos"			"rs1-5"
+		"xpos"			"0"
+		"ypos"			"rs1"
 		"zpos"			"100"
 		"wide"			"f10"
-		"tall"			"20"
+		"tall"			"40"
 		"autoResize"	"0"
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"font"			"regular14"
+		"font"			"icons13"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"
-		"labeltext"		"#TF_Matchmaking_StartSearch"
+		"labeltext"		"]"
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
-		"paintbackground"	"1"
+		"paintbackground"	"0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultBgColor_override" 	"PanelO3"
-		"armedBgColor_override"		"PanelO4"
+		"defaultFgColor_override"	"Text0"
+		"armedFgColor_override"		"Text0"
+
+		"border_default"	"BLBR_PanelO3_0"
+		"border_armed"		"BLBR_PanelO4_0"
 	}
 }

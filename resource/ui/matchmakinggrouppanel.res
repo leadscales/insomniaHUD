@@ -21,14 +21,14 @@
 
 		"proportionaltoparent"	"1"
 		"border"		"NoBorder"
-        "bgcolor_override"  "PanelO1"
+        "bgcolor_override"  "Blank"
 	}
 
 	"Checkbutton"
 	{
 		"ControlName"		"CExCheckButton"
 		"fieldName"		"Checkbutton"
-		"xpos"		"5"
+		"xpos"		"2"
 		"ypos"		"0"
 		"zpos"		"3"
 		"wide"		"f0"

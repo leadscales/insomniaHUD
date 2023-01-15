@@ -6,10 +6,10 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
-		"tall"					"50"
+		"tall"					"20"
 		"proportionaltoparent"	"1"
 
-		"collapsed_height"	"50"
+		"collapsed_height"	"20"
 		"resize_time"	"0.1"
 	
 	}
@@ -53,7 +53,7 @@
 			"zpos"			"0"
 			"wide"			"o4"
 			"tall"			"f0"
-			"visible"		"1"
+			"visible"		"0"
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"proportionaltoparent"	"1"
@@ -77,14 +77,12 @@
 			"font"	"regular14"
 			"textinsetx"	"0"
 
+			"paintbackground"	"0"
+
 			"stay_armed_on_click"	"1"
 
-			"border_default"	"NoBorder"
-			"defaultBgColor_override"	"Blank"
-
-			"border_armed"		"NoBorder"
-			"armedBgColor_override"	"255 255 255 4"
-			"selectedBGColor_override" "NoBorder"
+			"border_default"	"NONE_PanelO2_0"
+			"border_armed"		"NONE_PanelO3_0"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -110,11 +108,11 @@
 		{
 			"ControlName"		"CExCheckButton"
 			"fieldName"		"Checkbutton"
-			"xpos"		"5"
-			"ypos"		"5"
+			"xpos"		"2"
+			"ypos"		"2"
 			"zpos"		"101"
-			"wide"		"15"
-			"tall"		"15"
+			"wide"		"16"
+			"tall"		"16"
 			"proportionaltoparent"	"1"
 			"labeltext"		""
 			"smallcheckimage"	"1"
@@ -129,7 +127,7 @@
 			"fieldName"		"Title"
 			"xpos"			"0"
 			"ypos"			"0"
-			"zpos"			"3"
+			"zpos"			"101"
 			"wide"			"f0"
 			"tall"			"f0"
 			"visible"		"1"

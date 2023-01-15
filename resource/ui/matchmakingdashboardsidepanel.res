@@ -123,10 +123,11 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"f0"
+		"wide"			"f10"
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"bgcolor_override"	"PanelO2"
+		"bgcolor_override"	"Blank"
+		"border"		"TLTRBLBR_PanelO1_0"
 	}
 }

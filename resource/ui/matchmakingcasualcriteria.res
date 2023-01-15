@@ -52,21 +52,37 @@
 			"show_name"		"0"
 		}
 
+		"CriteriaButtons"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"CriteriaButtons"
+			"xpos"										"rs1-2-5"
+			"ypos"										"2"
+			"zpos"										"99"
+			"wide"										"32"
+			"tall"										"16"
+			"proportionaltoparent"						"1"
+			"visible"									"1"
+			"enabled"									"1"
+			"border"									"TLTRBLBR_PanelO3_0"
+			"mouseinputenabled"							"0"
+		}
+
 		"RestoreCasualSearchCriteria"
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"RestoreCasualSearchCriteria"
-			"xpos"			"rs2"
-			"ypos"			"0"
+			"xpos"			"rs2-2-5"
+			"ypos"			"2"
 			"zpos"			"100"
-			"wide"			"20"
-			"tall"			"20"
+			"wide"			"16"
+			"tall"			"16"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		"^"
+			"labelText"		"U"
 			"font"			"icons13"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -78,7 +94,7 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
-			"border_default"	"TLBL_PanelO3_0"
+			"border_default"	"NoBorder"
 			"border_armed"		"TLBL_PanelO4_0"
 		}
 
@@ -86,17 +102,17 @@
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"SaveCasualSearchCriteria"
-			"xpos"			"r20"
-			"ypos"			"0"
+			"xpos"			"rs1-2-5"
+			"ypos"			"2"
 			"zpos"			"100"
-			"wide"			"20"
-			"tall"			"20"
+			"wide"			"16"
+			"tall"			"16"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		"v"
+			"labelText"		"D"
 			"font"			"icons13"
 			"textAlignment"	"center"
 			"dulltext"		"0"
@@ -108,7 +124,7 @@
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
-			"border_default"	"TRBR_PanelO3_0"
+			"border_default"	"NoBorder"
 			"border_armed"		"TRBR_PanelO4_0"
 		}
 
@@ -169,7 +185,8 @@
 			"labeltext"		"%selected_maps_count%"
 			"textAlignment"	"center"
 			"font"			"regular14"
-			"fgcolor_override"	"Text1"
+			"fgcolor_override"	"Text0"
+			"border"		"NoBorder"
 		
 			"mouseinputenabled"	"1"
 		}
@@ -214,13 +231,14 @@
 		{
 			"ControlName"	"CScrollableList"
 			"fieldName"		"GameModesList"
-			"xpos"			"0"
+			"xpos"			"5"
 			"ypos"			"25"
-			"wide"			"f0"
+			"wide"			"f10"
 			"tall"			"f25"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"
+			"bgcolor_override"	"PanelO1"
 
 			"border"		"NoBorder"
 

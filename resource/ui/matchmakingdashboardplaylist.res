@@ -39,7 +39,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"10"
 		"zpos"			"100"
-		"wide"			"620"
+		"wide"			"600"
 		"tall"			"40"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
