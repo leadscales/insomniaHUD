@@ -87,25 +87,27 @@
 		{
 			"ControlName"								"EditablePanel"
 			"fieldName"									"GlowContainer"
-			"xpos"										"0"
-			"ypos"										"40"
+			"xpos"										"2"
+			"ypos"										"2"
 			"zpos"										"4"
-			"wide"										"f0"
-			"tall"										"f40"
+			"wide"										"f4"
+			"tall"										"f23"
 			"proportionaltoparent"						"1"
 			"visible"									"1"
 			"enabled"									"1"
+
+			"bgcolor_override"							"Blank"
 
 			"BluePointGlow"
 			{
 				"ControlName"								"CTFImagePanel"
 				"fieldName"									"BluePointGlow"
 				"xpos"										"cs-0.5-250"
-				"ypos"										"s+0.2"
-				"wide"										"400"
-				"tall"										"600"
+				"ypos"										"-500"
+				"wide"										"600"
+				"tall"										"800"
 				"proportionaltoparent"						"1"
-				"alpha"										"96"
+				"alpha"										"48"
 				"image"										"replay/thumbnails/ui_effects/point_glow_white"
 				"scaleImage"								"1"
 				"drawcolor"									"m0reBlue"
@@ -121,11 +123,11 @@
 				"ControlName"								"CTFImagePanel"
 				"fieldName"									"RedPointGlow"
 				"xpos"										"cs-0.5+250"
-				"ypos"										"s+0.2"
-				"wide"										"400"
-				"tall"										"600"
+				"ypos"										"-500"
+				"wide"										"600"
+				"tall"										"800"
 				"proportionaltoparent"						"1"
-				"alpha"										"96"
+				"alpha"										"48"
 				"image"										"replay/thumbnails/ui_effects/point_glow_white"
 				"scaleImage"								"1"
 				"drawcolor"									"m0reRed"
@@ -156,7 +158,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"TL_m0reBlue_3"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"WhiteBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -175,7 +177,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"210"
+		"wide"										"230"
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
@@ -186,7 +188,7 @@
 		"textAlignment"								"center"
 
 		"paintbackground"							"0"
-		"border"									"NONE_Black_4"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
@@ -271,7 +273,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"TR_m0reRed_3"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -290,7 +292,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"210"
+		"wide"										"230"
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
@@ -300,7 +302,7 @@
 		"textAlignment"								"center"
 
 		"paintbackground"							"0"
-		"border"									"NONE_Black_4"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"RedScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -415,7 +417,7 @@
 		"fieldName"	    	      					"Spectators"
 		"xpos"          							"0"
 		"ypos" 		     							"0"
-		"zpos"		      	     					"4"
+		"zpos"		      	     					"6"
 		"wide"		      	      					"500"
 		"tall"		      	      					"20"
 		"visible"		           					"1"
@@ -425,7 +427,7 @@
 		"labelText"		          					"%spectators%"
 		"textAlignment"								"center"
 
-		"border"									"NONE_Black_4"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"ScoreBG"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"

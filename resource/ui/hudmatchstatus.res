@@ -130,28 +130,52 @@
 			"visible"									"1"
 		}
 
-		"Glow"
+		"GlowContainer"
 		{
-			"ControlName"								"CTFImagePanel"
-			"fieldName"									"Glow"
-			"xpos"										"cs-0.5"
-			"ypos"										"-300"
-			"zpos"										"0"
-			"wide"										"400"
-			"tall"										"400"
+			"ControlName"								"EditablePanel"
+			"fieldName"									"GlowContainer"
+			"xpos"										"2"
+			"ypos"										"2"
+			"zpos"										"4"
+			"wide"										"f4"
+			"tall"										"f4"
 			"proportionaltoparent"						"1"
-			"scaleImage"								"1"
-			"alpha"										"96"
-			"image"										"replay/thumbnails/ui_effects/point_glow_white"
+			"visible"									"1"
+			"enabled"									"1"
 
-			"teambg_0"									"replay/thumbnails/ui_effects/point_glow_white"
-			"teambg_0_lodef"							"replay/thumbnails/ui_effects/point_glow_white"
-			"teambg_1"									"replay/thumbnails/ui_effects/point_glow_white"
-			"teambg_1_lodef"							"replay/thumbnails/ui_effects/point_glow_white"
-			"teambg_2"									"replay/thumbnails/ui_effects/point_glow_red"
-			"teambg_2_lodef"							"replay/thumbnails/ui_effects/point_glow_red"
-			"teambg_3"									"replay/thumbnails/ui_effects/point_glow_blu"
-			"teambg_3_lodef"							"replay/thumbnails/ui_effects/point_glow_blu"
+			"bgcolor_override"							"Blank"
+
+			"GlowBlu"
+			{
+				"ControlName"								"CTFImagePanel"
+				"fieldName"									"GlowBlu"
+				"xpos"										"cs-0.5-200"
+				"ypos"										"-300"
+				"zpos"										"0"
+				"wide"										"300"
+				"tall"										"400"
+				"proportionaltoparent"						"1"
+				"scaleImage"								"1"
+				"alpha"										"96"
+				"image"										"replay/thumbnails/ui_effects/point_glow_white"
+				"drawcolor"									"m0reBlue"
+			}
+
+			"GlowRed"
+			{
+				"ControlName"								"CTFImagePanel"
+				"fieldName"									"GlowRed"
+				"xpos"										"cs-0.5+200"
+				"ypos"										"-300"
+				"zpos"										"0"
+				"wide"										"300"
+				"tall"										"400"
+				"proportionaltoparent"						"1"
+				"scaleImage"								"1"
+				"alpha"										"96"
+				"image"										"replay/thumbnails/ui_effects/point_glow_white"
+				"drawcolor"									"m0reRed"
+			}
 		}
 	}
 
@@ -320,7 +344,7 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"respawntime"
-				"font"								"regular12Shadow"
+				"font"								"regular12"
 				"xpos"								"cs-0.5"
 				"ypos"								"cs-0.5"
 				"zpos"								"10"

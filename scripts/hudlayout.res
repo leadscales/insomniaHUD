@@ -445,7 +445,7 @@
 		"wide"	 "620"
 		"tall"	 "460"
 
-		"MaxDeathNotices" "6"
+		"MaxDeathNotices" "8"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "10"
 		"LineSpacing"	  "0"
@@ -460,7 +460,7 @@
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"PanelT2"		[$WIN32]
-		"LocalBackgroundColor"	"PanelAT4"	[$WIN32]
+		"LocalBackgroundColor"	"PanelAT5"	[$WIN32]
 	}
 
 	HudVehicle

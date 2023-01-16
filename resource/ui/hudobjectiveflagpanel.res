@@ -37,8 +37,8 @@
 		"textAlignment"								"center"
 		"labelText"									"%bluescore%"
 		"font"										"bold32"
-		"fgcolor"									"Text0"
-		"border"									"TL_m0reBlue_3"
+		"fgcolor"									"m0reBlue"
+		"border"									"NoBorder"
 
 		"if_hybrid"
 		{
@@ -140,8 +140,8 @@
 		"textAlignment"								"center"
 		"labelText"									"%redscore%"
 		"font"										"bold32"
-		"fgcolor"									"Text0"
-		"border"									"TR_m0reRed_3"
+		"fgcolor"									"m0reRed"
+		"border"									"NoBorder"
 
 		"if_hybrid"
 		{
@@ -221,6 +221,119 @@
 
 	//==================================================================================================================================================
 
+	"PlayingToBG"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"PlayingToBG"
+		"xpos"										"cs-0.5"
+		"ypos"										"rs1-5"
+		"zpos"										"3"
+		"wide"										"80"
+		"tall"										"60"
+		"proportionaltoparent"						"1"
+		"visible"									"1"
+		"enabled"									"1"
+		"border"									"TLTRBLBR_Black_2"
+
+		"GlowContainer"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"GlowContainer"
+			"xpos"										"2"
+			"ypos"										"2"
+			"zpos"										"4"
+			"wide"										"f4"
+			"tall"										"f4"
+			"proportionaltoparent"						"1"
+			"visible"									"1"
+			"enabled"									"1"
+
+			"bgcolor_override"							"Blank"
+
+			"BluePointGlow"
+			{
+				"ControlName"								"CTFImagePanel"
+				"fieldName"									"BluePointGlow"
+				"xpos"										"cs-0.5-80"
+				"ypos"										"-5"
+				"wide"										"200"
+				"tall"										"200"
+				"proportionaltoparent"						"1"
+				"alpha"										"128"
+				"image"										"replay/thumbnails/ui_effects/point_glow_white"
+				"scaleImage"								"1"
+				"drawcolor"									"m0reBlue"
+
+				"if_hybrid"
+				{
+					"visible"								"0"
+				}
+				"if_mvm"
+				{
+					"visible"								"0"
+				}
+				"if_specialdelivery"
+				{
+					"visible"								"0"
+				}
+			}
+
+			"RedPointGlow"
+			{
+				"ControlName"								"CTFImagePanel"
+				"fieldName"									"RedPointGlow"
+				"xpos"										"cs-0.5+80"
+				"ypos"										"-5"
+				"wide"										"200"
+				"tall"										"200"
+				"proportionaltoparent"						"1"
+				"alpha"										"128"
+				"image"										"replay/thumbnails/ui_effects/point_glow_white"
+				"scaleImage"								"1"
+				"drawcolor"									"m0reRed"
+
+				"if_hybrid"
+				{
+					"visible"								"0"
+				}
+				"if_mvm"
+				{
+					"visible"								"0"
+				}
+				"if_specialdelivery"
+				{
+					"visible"								"0"
+				}
+			}
+
+			"if_hybrid"
+			{
+				"visible"								"0"
+			}
+			"if_mvm"
+			{
+				"visible"								"0"
+			}
+			"if_specialdelivery"
+			{
+				"visible"								"0"
+			}
+		}
+
+		"if_hybrid"
+		{
+			"visible"								"0"
+		}
+		"if_mvm"
+		{
+			"visible"								"0"
+		}
+		"if_specialdelivery"
+		{
+			"visible"								"0"
+		}
+	}
+
 	"PlayingTo"
 	{
 		"ControlName"								"CExLabel"
@@ -237,7 +350,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"BLBR_Black_1"
+		"border"									"NoBorder"
 
 		"if_hybrid"
 		{
@@ -370,12 +483,6 @@
 	{
 		"ControlName"								"CTFImagePanel"
 		"fieldName"									"OutlineImage"
-		"xpos"										"9999"
-	}
-	"PlayingToBG"
-	{
-		"ControlName"								"CTFImagePanel"
-		"fieldName"									"PlayingToBG"
 		"xpos"										"9999"
 	}
 }
