@@ -1,11 +1,12 @@
 "UnlitGeneric"
 {
 	"$translucent"		"1"
-	"$baseTexture"		"vgui\replay\thumbnails\obj_icons\icon_obj_neutral_locked"
-	"$alpha"			"1"
+	"$baseTexture"		"vgui\replay\thumbnails\obj_icons\cp_icon_locked"
 	"$vertexalpha"		"1"
 	"$vertexcolor"		"1"
 	"$no_fullbright"	"1"
 	"$ignorez"			"1"
+	"$color"			"{0 0 0}"
+	"$alpha"			"0.8"
 	"%keywords"			"tf"
 }
