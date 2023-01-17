@@ -1,0 +1,8 @@
+# This is for the dev scripts, chances are you probably don't need to worry about this
+
+autopep8==2.0.1
+mypy==0.991
+mypy-extensions==0.4.3
+pycodestyle==2.10.0
+typing_extensions==4.4.0
+vdf==3.4
