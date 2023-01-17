@@ -4,3 +4,4 @@
 .bin
 .venv
 .vscode
+.mypy_cache
