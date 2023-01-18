@@ -39,7 +39,7 @@
 		"tall"										"f0"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelO0"
+		"bgcolor_override"							"PanelO2"
 	}
 
 	"ClassLabel"
@@ -78,7 +78,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Sheet"
-		"tabxindent"								"45"
+		"tabxindent"								"40"
 		"tabyindent"								"5"
 		"tabxdelta"									"5"
 		"tabwidth"									"240"
@@ -138,7 +138,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"TLBL_PanelO3_0"
+		"border_armed"								"TLBL_PanelO5_0"
 	}
 
 	"CloseButton"
@@ -162,7 +162,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"TRBR_PanelO3_0"
+		"border_armed"								"TRBR_PanelO5_0"
 
 		"pin_to_sibling"							"BackButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -180,7 +180,7 @@
 		"tall"										"16"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"TLTRBLBR_PanelO2_0"
+		"border"									"TLTRBLBR_PanelO4_0"
 		"mouseinputenabled"							"0"
 	}
 
@@ -287,7 +287,7 @@
 		"tall"										"20"
 		"font"										"regular14"
 		"textAlignment"								"east"
-		"labelText"									"insomniaHUD v0.2.0"
+		"labelText"									"insomniaHUD v0.2.1"
 		"mouseinputenabled"							"0"
 		"fgcolor"									"Text0"
 	}

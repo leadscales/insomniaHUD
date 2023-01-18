@@ -460,7 +460,7 @@
 		"LocalPlayerColor"	"Black"
 
 		"BaseBackgroundColor"	"PanelT2"		[$WIN32]
-		"LocalBackgroundColor"	"PanelAT5"	[$WIN32]
+		"LocalBackgroundColor"	"PanelAT4"	[$WIN32]
 	}
 
 	HudVehicle

@@ -544,7 +544,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"				"PanelAT5"
+					"fgcolor_override"				"PanelAT4"
 				}
 			}
 		}

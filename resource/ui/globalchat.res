@@ -61,7 +61,7 @@
 
 			"Slider"
 			{
-				"fgcolor_override"	"PanelAO0"
+				"fgcolor_override"	"PanelAT4"
 			}
 
 			"UpButton"
