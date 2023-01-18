@@ -160,10 +160,10 @@
 		"ypos"										"30"
 		"zpos"										"49"
 		"wide"										"200"
-		"tall"										"f100"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"TLTRBLBR_Black_2"
+		"border"									"NoBorder"
 
 		"PanelColorizer"
 		{
@@ -177,8 +177,8 @@
 			"proportionaltoparent"						"1"
 			"visible"									"1"
 			"enabled"									"1"
-			"alpha"										"255"
 			"mouseinputenabled"							"0"
+			"bgcolor_overrride"							"Blank"
 
 			"SubImage"
 			{
@@ -207,7 +207,7 @@
 		"tall"										"f100"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"NoBorder"
+		"border"									"TLTRBLBR_Black_2"
 	}
 
 	"BottomButtonsPanel"

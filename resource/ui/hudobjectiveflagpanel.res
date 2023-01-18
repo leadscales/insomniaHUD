@@ -235,6 +235,34 @@
 		"enabled"									"1"
 		"border"									"TLTRBLBR_Black_2"
 
+		"TopDarken"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"TopDarken"
+			"xpos"										"0"
+			"ypos"										"0"
+			"zpos"										"3"
+			"wide"										"f0"
+			"tall"										"40"
+			"proportionaltoparent"						"1"
+			"visible"									"1"
+			"enabled"									"1"
+			"border"									"TLTR_Black_2"
+
+			"if_hybrid"
+			{
+				"visible"								"0"
+			}
+			"if_mvm"
+			{
+				"visible"								"0"
+			}
+			"if_specialdelivery"
+			{
+				"visible"								"0"
+			}
+		}
+
 		"GlowContainer"
 		{
 			"ControlName"								"EditablePanel"
@@ -243,7 +271,7 @@
 			"ypos"										"2"
 			"zpos"										"4"
 			"wide"										"f4"
-			"tall"										"f4"
+			"tall"										"36"
 			"proportionaltoparent"						"1"
 			"visible"									"1"
 			"enabled"									"1"
@@ -255,11 +283,11 @@
 				"ControlName"								"CTFImagePanel"
 				"fieldName"									"BluePointGlow"
 				"xpos"										"cs-0.5-80"
-				"ypos"										"-5"
+				"ypos"										"-20"
 				"wide"										"200"
 				"tall"										"200"
 				"proportionaltoparent"						"1"
-				"alpha"										"128"
+				"alpha"										"160"
 				"image"										"replay/thumbnails/ui_effects/point_glow_white"
 				"scaleImage"								"1"
 				"drawcolor"									"m0reBlue"
@@ -283,11 +311,11 @@
 				"ControlName"								"CTFImagePanel"
 				"fieldName"									"RedPointGlow"
 				"xpos"										"cs-0.5+80"
-				"ypos"										"-5"
+				"ypos"										"-20"
 				"wide"										"200"
 				"tall"										"200"
 				"proportionaltoparent"						"1"
-				"alpha"										"128"
+				"alpha"										"160"
 				"image"										"replay/thumbnails/ui_effects/point_glow_white"
 				"scaleImage"								"1"
 				"drawcolor"									"m0reRed"

@@ -15,14 +15,14 @@
 		{
 			"resultVar" "$alpha"
 			"sineperiod" "4"
-			"sinemin" "0.4"
-			"sinemax" "0.5"
+			"sinemin" "0.8"
+			"sinemax" "1.0"
 		}
 		"TextureScroll"
 		{
 			"texturescrollvar" "$baseTextureTransform"
-			"texturescrollrate" "0.2"
-			"texturescrollangle" "60"
+			"texturescrollrate" "0.3"
+			"texturescrollangle" "65"
 		}
 	}
 }
