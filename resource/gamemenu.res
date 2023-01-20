@@ -21,7 +21,7 @@
 	"FixIssuesButton"
 	{
 		"label"										"w"
-		"command" 									"engine hud_fixissues"
+		"command" 									"engine ih_fix"
 		"OnlyInGame"								"1"
 	}
 	"MenuColorizer"

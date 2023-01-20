@@ -517,6 +517,16 @@
 				"antialias"		"1"
 			}
 		}
+		"class12"
+		{
+			"1"
+			{
+				"name"			"Chars"
+				"tall"			"12"
+				"additive"		"0"
+				"antialias"		"1"
+			}
+		}
 
 		"VerdanaMenu"										//Create Server Button
 		{

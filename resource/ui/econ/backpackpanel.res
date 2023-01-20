@@ -211,10 +211,10 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"PrevPageButton"
 		"xpos"										"c0-s1"
-		"ypos"										"380"
+		"ypos"										"382"
 		"zpos"										"1"
-		"wide"										"20"
-		"tall"										"20"
+		"wide"										"16"
+		"tall"										"16"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"<"
@@ -226,7 +226,10 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"TLBL_PanelO3_0"
+		"border_armed"								"NoBorder"
+
+		"defaultFgColor_override"					"Text2"
+		"armedFgColor_override"						"Text0"
 	}
 
 	"NextPageButton"
@@ -234,10 +237,10 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"NextPageButton"
 		"xpos"										"c0"
-		"ypos"										"380"
+		"ypos"										"382"
 		"zpos"										"1"
-		"wide"										"20"
-		"tall"										"20"
+		"wide"										"16"
+		"tall"										"16"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									">"
@@ -249,7 +252,10 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"TRBR_PanelO3_0"
+		"border_armed"								"NoBorder"
+
+		"defaultFgColor_override"					"Text2"
+		"armedFgColor_override"						"Text0"
 	}
 
 	"PageButtonBackground"
@@ -257,11 +263,11 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"PageButtonBackground"
 		"xpos"										"cs-0.5"
-		"ypos"										"380"
+		"ypos"										"382"
 		"zpos"										"0"
-		"wide"										"40"
-		"tall"										"20"
-		"border"									"TLTRBLBR_PanelO2_0"
+		"wide"										"32"
+		"tall"										"16"
+		"border"									"NoBorder"
 		"mouseinputenabled"							"0"
 	}
 

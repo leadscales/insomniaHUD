@@ -66,7 +66,7 @@
 					"font"					"icons13"
 					"textalignment"			"center"
 
-					"command"				"engine bookmark1"
+					"command"				"engine ih_bookmark1"
 					"actionsignallevel"		"3"
 
 					"sound_depressed"		"UI/buttonclick.wav"
@@ -93,7 +93,7 @@
 					"font"					"icons13"
 					"textalignment"			"center"
 
-					"command"				"engine bookmark2"
+					"command"				"engine ih_bookmark2"
 					"actionsignallevel"		"3"
 
 					"sound_depressed"		"UI/buttonclick.wav"
@@ -124,7 +124,7 @@
 					"font"					"icons13"
 					"textalignment"			"center"
 
-					"command"				"engine bookmark3"
+					"command"				"engine ih_bookmark3"
 					"actionsignallevel"		"3"
 
 					"sound_depressed"		"UI/buttonclick.wav"
@@ -171,7 +171,7 @@
 					"font"					"icons13"
 					"textalignment"			"center"
 
-					"command"				"engine server1"
+					"command"				"engine ih_server1"
 					"actionsignallevel"		"3"
 
 					"sound_depressed"		"UI/buttonclick.wav"
@@ -198,7 +198,7 @@
 					"font"					"icons13"
 					"textalignment"			"center"
 
-					"command"				"engine server2"
+					"command"				"engine ih_server2"
 					"actionsignallevel"		"3"
 
 					"sound_depressed"		"UI/buttonclick.wav"
@@ -229,7 +229,7 @@
 					"font"					"icons13"
 					"textalignment"			"center"
 
-					"command"				"engine server3"
+					"command"				"engine ih_server3"
 					"actionsignallevel"		"3"
 
 					"sound_depressed"		"UI/buttonclick.wav"

@@ -23,6 +23,6 @@ vgui_cache_res_files 0
 tf_contract_progress_show 2
 
 // Configs
-exec aliases
-exec bookmarks
-exec favorite_servers
+exec ih_aliases
+exec ih_bookmarks
+exec ih_servers

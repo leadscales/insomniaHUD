@@ -13,8 +13,8 @@
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
 		"bgcolor_override"							"PanelO1"
-		"infocus_bgcolor_override" 					"PanelO0"
-		"outoffocus_bgcolor_override"				"PanelO0"
+		"infocus_bgcolor_override" 					"PanelO1"
+		"outoffocus_bgcolor_override"				"PanelO1"
 
 		"selectlabely_default"						"25"
 		"selectlabely_onchanges"					"15"
@@ -2261,5 +2261,323 @@
 		"visible"									"0"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"30 25 25 245"
+	}
+
+	"BottomNavigationBar"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BottomNavigationBar"
+		"xpos"										"0"
+		"ypos"										"420"
+		"wide"										"f0"
+		"tall"										"20"
+		"proportionaltoparent"						"1"
+		"bgcolor_override"							"PanelO2"
+
+		"ClassButtons"
+		{
+			"ControlName"							"EditablePanel"
+			"fieldName"								"ClassButtons"
+			"xpos"									"cs-0.5"
+			"ypos"									"2"
+			"wide"									"144"
+			"tall"									"f4"
+			"proportionaltoparent"					"1"
+			"border"								"NoBorder"
+
+			"Scout"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Scout"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout scout"
+
+				"labelText"					"1"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+			}
+
+			"Soldier"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Soldier"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout soldier"
+
+				"labelText"					"2"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Scout"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+
+			"Pyro"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Pyro"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout pyro"
+
+				"labelText"					"3"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Soldier"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+
+			"Demoman"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Demoman"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout demoman"
+
+				"labelText"					"4"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Pyro"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+
+			"Heavyweapons"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Heavyweapons"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout heavyweapons"
+
+				"labelText"					"5"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Demoman"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+
+			"Engineer"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Engineer"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout engineer"
+
+				"labelText"					"6"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Heavyweapons"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+
+			"Medic"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Medic"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout medic"
+
+				"labelText"					"7"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Engineer"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+
+			"Sniper"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Sniper"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout sniper"
+
+				"labelText"					"8"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Medic"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+
+			"Spy"
+			{
+				"ControlName"				"CExButton"
+				"fieldName"					"Spy"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"5"
+				"wide"						"16"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"actionsignallevel"			"3"
+
+				"command"					"loadout spy"
+
+				"labelText"					"9"
+				"font"						"class12"
+				"textAlignment"				"center"
+
+				"sound_depressed"			"UI/buttonclick.wav"
+				"sound_released"			"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override"	"Text2"
+				"armedFgColor_override"		"Text0"
+
+				"pin_to_sibling"			"Sniper"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+			}
+		}
+
+		"LeadLogo"
+		{
+			"ControlName"					"CTFImagePanel"
+			"fieldName"						"LeadLogo"
+			"xpos"							"rs1-4"
+			"ypos"							"4"
+			"wide"							"12"
+			"tall"							"12"
+			"proportionaltoparent"			"1"
+			"image"							"replay/thumbnails/lead_logo"
+			"scaleimage"					"1"
+			"drawcolor"						"Text2"
+		}
+
+		"TheButton"
+		{
+			"ControlName"					"CExButton"
+			"fieldName"						"TheButton"
+			"xpos"							"2"
+			"ypos"							"2"
+			"wide"							"16"
+			"tall"							"16"
+			"alpha"							"0"
+			"sound_released"				"UI/funny.mp3"
+
+			"pin_to_sibling"				"LeadLogo"
+		}
 	}
 }
