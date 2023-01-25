@@ -27,7 +27,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"bold32"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Ammo In Clip"
 	}
@@ -44,7 +44,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"bold32Blur"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Black"
 
@@ -67,7 +67,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"bold18"
-		"textAlignment"								"west"
+		"textAlignment"								"east"
 		"labelText"									"%AmmoInReserve%"
 		"fgcolor"									"Ammo In Reserve"
 
@@ -88,7 +88,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"bold18Blur"
-		"textAlignment"								"west"
+		"textAlignment"								"east"
 		"labelText"									"%AmmoInReserve%"
 		"fgcolor"									"Black"
 
@@ -111,7 +111,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"bold32"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Ammo No Clip"
 	}
@@ -128,7 +128,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"font"										"bold32Blur"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
 		"fgcolor"									"Black"
 

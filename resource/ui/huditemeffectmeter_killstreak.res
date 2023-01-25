@@ -1,14 +1,31 @@
-"Resource/UI/HudItemEffectMeter_KillStreak.res"
+#base "huditemeffectmeter_demoman.res"
+
+"Resource/UI/HudItemEffectMeter_Demoman.res"
 {
 	"HudItemEffectMeter"
 	{
-		"fieldName"									"HudItemEffectMeter"
-		"xpos"										"9999"
+		"xpos"			"c0-s1-110"
 	}
 
-	"ItemEffectMeter"								//its here just to remove the console error :)
+	"ItemEffectMeterIcon"
 	{
-		"ControlName"								"ContinuousProgressBar"
-		"fieldName"									"ItemEffectMeter"
+		"xpos"			"15"
+		"labeltext"		"*"
+	}
+
+	"ItemEffectMeterIconShadow"
+	{
+		"labeltext"		"*"
+	}
+
+	"ItemEffectMeterCount"
+	{
+		"xpos"			"0"
+		"textAlignment" "east"
+	}
+
+	"ItemEffectMeterCountShadow"
+	{
+		"textAlignment" "east"
 	}
 }

@@ -62,7 +62,7 @@
 		"visible"		  	         				"1"
 		"enabled"	  		         				"1"
 		"labelText" 		         				"%Health%"
-		"textAlignment"         				 	"center"
+		"textAlignment"         				 	"west"
 		"font"                   				 	"bold32"
 		"fgcolor"	    	         				"Health Numbers"
 	}
@@ -78,7 +78,7 @@
 		"visible"	    	         				"1"
 		"enabled"	    	         				"1"
 		"labelText"	  	         				 	"%Health%"
-		"textAlignment"	         				 	"center"
+		"textAlignment"	         				 	"west"
 		"font"                   				 	"bold32Blur"
 		"fgcolor"	     	         				"Black"
 
@@ -94,7 +94,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"PlayerStatusAnchor"
-		"xpos"										"0"
+		"xpos"										"5"
 		"ypos"										"1"
 		"wide"										"0"
 		"tall"										"20"
@@ -102,8 +102,8 @@
 		"enabled"									"1"
 
 		"pin_to_sibling"							"PlayerStatusHealthValue"
-		"pin_corner_to_sibling"						"PIN_CENTER_RIGHT"
-		"pin_to_sibling_corner"						"PIN_CENTER_LEFT"
+		"pin_corner_to_sibling"						"PIN_CENTER_LEFT"
+		"pin_to_sibling_corner"						"PIN_CENTER_RIGHT"
 	}
 
 	//==================================================================================================================================================

@@ -12,7 +12,7 @@
 		"Negative"											"255 64 96 255"
 
 		"Heal Numbers"										"64 192 255 255"
-		"Last Damage Done"									"255 255 255 255"
+		"Last Damage Done"									"255 64 96 255"
 
 		// Health
 
