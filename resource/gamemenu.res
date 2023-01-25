@@ -24,19 +24,9 @@
 		"command" 									"engine ih_fix"
 		"OnlyInGame"								"1"
 	}
-	"MenuColorizer"
+	"InGameDarkener"
 	{
-		"command"									"engine"
-		"OnlyAtMenu"								"1"
-	}
-	"MenuColorizer2"
-	{
-		"command"									"engine"
-		"OnlyAtMenu"								"1"
-	}
-	"StaticTFLogo"
-	{
-		"command"									"engine"
-		"OnlyAtMenu"								"1"
+		"command" 									"engine"
+		"OnlyInGame"								"1"
 	}
 }

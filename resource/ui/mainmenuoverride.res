@@ -152,6 +152,21 @@
 		}
 	}
 
+	"InGameDarkener"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"InGameDarkener"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"f0"
+		"visible"									"1"
+		"enabled"									"1"
+		"mouseinputenabled"							"0"
+		"bgcolor_override"							"PanelT1"
+	}
+
 	"PrimaryPanel"
 	{
 		"ControlName"								"EditablePanel"
