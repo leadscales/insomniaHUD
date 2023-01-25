@@ -1,0 +1,22 @@
+"UnlitGeneric"
+{
+	"$translucent"			"1"
+	"$baseTexture"			"vgui/replay/thumbnails/ui_effects/loading_animation"
+	"$alpha"				"0"
+	"$vertexalpha"			"1"
+	"$vertexcolor"			"1"
+	"$no_fullbright"		"1"
+	"$ignorez"				"1"
+	"$basetexturetransform"	"center .5 .5 scale 1 1 rotate -5 translate 0 0"
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar" "$alpha"
+			"sineperiod" "60"
+			"sinemin" "0.1"
+			"sinemax" "0.2"
+		}
+	}
+}

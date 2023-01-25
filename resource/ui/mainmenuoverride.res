@@ -194,6 +194,36 @@
 		"bgcolor_override"							"PanelO0"
 	}
 
+	"StaticTFLogo"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"StaticTFLogo"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5-20"
+		"zpos"										"10"
+		"wide"										"100"
+		"tall"										"100"
+		"visible"									"1"
+		"enabled"									"1"
+		"bgcolor_override"							"Blank"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"10"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"image"									"replay/thumbnails/ui_effects/menu_logo"
+			"scaleimage"							"1"
+			"drawcolor"								"AccentMain"
+		}
+	}
+
 	//==================================================================================================================================================
 	// RANK & BADGE
 	//==================================================================================================================================================
@@ -528,7 +558,7 @@
 					"actionsignallevel"						"4"
 					"font"									"icons10"
 					"textalignment"							"center"
-					"command"								"url https://steamcommunity.com/market/search?appid=440"
+					"command"								"reloadscheme"
 					"sound_depressed"						"UI/buttonclick.wav"
 					"sound_released"						"UI/buttonclickrelease.wav"
 

@@ -9,6 +9,9 @@ IF %1==169 (
 IF %1==1610 (
 	SET /a width=1728
 )
+IF %1==219 (
+	SET /a width=2560
+)
 TASKKILL /IM "hl2.exe" /FI "STATUS eq RUNNING"
 CD "C:\Program Files (x86)\Steam"
 steam -applaunch 440 -w %width% -h %height%

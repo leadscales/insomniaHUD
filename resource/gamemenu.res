@@ -34,4 +34,9 @@
 		"command"									"engine"
 		"OnlyAtMenu"								"1"
 	}
+	"StaticTFLogo"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
 }
