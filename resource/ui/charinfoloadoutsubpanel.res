@@ -128,7 +128,7 @@
 		"ControlName"				"EditablePanel"
 		"fieldName"					"ParentPanel"
 		"xpos"						"cs-0.5"
-		"ypos"						"cs-0.5-20"
+		"ypos"						"cs-0.5-40"
 		"zpos"						"3"
 		"wide"						"240"
 		"tall"						"288"

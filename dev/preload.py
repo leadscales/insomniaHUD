@@ -20,7 +20,7 @@ PRELOAD_ELEMENT_TEMPLATE = {
 
 def main():
 
-    preload_dict: dict = {  # type: ignore
+    preload_dict: dict[str, dict] = {  # type: ignore
         "Resource/UI/MainMenuOverride.res": {
 
         }
