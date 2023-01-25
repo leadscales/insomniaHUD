@@ -573,7 +573,7 @@
 					"actionsignallevel"						"4"
 					"font"									"icons10"
 					"textalignment"							"center"
-					"command"								"reloadscheme"
+					"command"								"url https://steamcommunity.com/market/search?appid=440"
 					"sound_depressed"						"UI/buttonclick.wav"
 					"sound_released"						"UI/buttonclickrelease.wav"
 
