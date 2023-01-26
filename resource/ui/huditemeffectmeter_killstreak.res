@@ -9,7 +9,7 @@
 
 	"ItemEffectMeterIcon"
 	{
-		"xpos"			"15"
+		"xpos"			"25"
 		"labeltext"		"*"
 	}
 
