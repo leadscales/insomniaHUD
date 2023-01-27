@@ -2,8 +2,8 @@
 
 "Resource/UI/Disguise_Menu/Scout_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_scout_blu"
+		"fgcolor"									"m0reBlue"
 	}
 }

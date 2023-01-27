@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Soldier_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_soldier_blu"
+		"labelText"									"2"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NewNumberLabel"

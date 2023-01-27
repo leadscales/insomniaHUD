@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Spy_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_spy_blu"
+		"labelText"									"9"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NewNumberLabel"

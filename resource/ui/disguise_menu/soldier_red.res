@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Soldier_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_soldier_red"
+		"labelText"									"2"
 	}
 
 	"NewNumberLabel"

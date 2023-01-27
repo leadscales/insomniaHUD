@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Engineer_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_engineer_blu"
+		"labelText"									"6"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NewNumberLabel"

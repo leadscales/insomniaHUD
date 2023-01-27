@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Pyro_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_pyro_red"
+		"labelText"									"3"
 	}
 
 	"NewNumberLabel"

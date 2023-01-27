@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Heavy_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_heavy_red"
+		"labelText"									"5"
 	}
 
 	"NewNumberLabel"

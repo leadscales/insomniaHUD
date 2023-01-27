@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Sniper_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_sniper_red"
+		"labelText"									"8"
 	}
 
 	"NewNumberLabel"

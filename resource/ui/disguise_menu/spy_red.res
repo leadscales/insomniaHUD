@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Spy_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_spy_red"
+		"labelText"									"9"
 	}
 
 	"NewNumberLabel"

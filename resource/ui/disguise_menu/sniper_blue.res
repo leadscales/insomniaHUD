@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Sniper_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_sniper_blu"
+		"labelText"									"8"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NewNumberLabel"

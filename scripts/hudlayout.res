@@ -266,10 +266,10 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"10"	[$WIN32]
-		"ypos"		"r70"	[$WIN32]
-		"wide"		"500"
-		"tall"		"200"
+		"xpos"		"9999"	[$WIN32]
+		"ypos"		"9999"	[$WIN32]
+		"wide"		"0"
+		"tall"		"0"
 	}
 
 	CMainTargetID
@@ -1023,12 +1023,10 @@
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-235"
-		"ypos"			"c-52"
-		"ypos_hidef"	"c-42"
-		"ypos_lodef"	"c-42"
-		"wide"			"470"
-		"tall"			"200"	[$WIN32]
+		"xpos"			"c0-140"
+		"ypos"			"c120"
+		"wide"			"280"
+		"tall"			"40"
 		"PaintBackgroundType"	"0"
 	}	
 	

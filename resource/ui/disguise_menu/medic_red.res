@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Medic_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_medic_red"
+		"labelText"									"7"
 	}
 
 	"NumberLabel"

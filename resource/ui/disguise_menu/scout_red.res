@@ -1,19 +1,21 @@
 "Resource/UI/Disguise_Menu/Scout_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"ControlName"								"CIconPanel"
-		"fieldName"									"ClassIcon"
+		"ControlName"								"CExLabel"
+		"fieldName"									"ClassIconLabel"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"1"
-		"wide"										"20"
-		"tall"										"40"
+		"zpos"										"10"
+		"wide"										"30"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
+		"labelText"									"1"
 		"proportionaltoparent"						"1"
-		"scaleImage"								"1"
-		"icon"										"hud_menu_scout_red"
+		"textAlignment"								"Center"
+		"font"										"class26"
+		"fgcolor"									"m0reRed"
 	}
 
 	"NewNumberLabel"
@@ -21,17 +23,17 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"NewNumberLabel"
 		"xpos"										"0"
-		"ypos"										"rs1"
+		"ypos"										"20"
 		"zpos"										"10"
 		"wide"										"f0"
-		"tall"										"12"
+		"tall"										"15"
 		"visible"									"0"
 		"enabled"									"1"
 		"labelText"									"1"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"Center"
-		"font"										"regular11"
-		"fgcolor"									"White"
+		"font"										"regular14"
+		"fgcolor"									"Text0"
 	}
 
 	"NumberLabel"
@@ -39,17 +41,17 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"NumberLabel"
 		"xpos"										"0"
-		"ypos"										"rs1"
+		"ypos"										"20"
 		"zpos"										"10"
 		"wide"										"f0"
-		"tall"										"12"
+		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"1"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"Center"
-		"font"										"regular11"
-		"fgcolor"									"White"
+		"font"										"regular14"
+		"fgcolor"									"Text0"
 	}
 
 
@@ -69,5 +71,12 @@
 		"ControlName"								"CIconPanel"
 		"fieldName"									"NumberBg"
 		"xpos"										"9999"
+	}
+
+	"ClassIcon"
+	{
+		"ControlName"								"CIconPanel"
+		"fieldName"									"ClassIcon"
+		"xpos"										"999"
 	}
 }

@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Pyro_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_pyro_blu"
+		"labelText"									"3"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NewNumberLabel"

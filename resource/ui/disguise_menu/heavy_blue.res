@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Heavy_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_heavy_blu"
+		"labelText"									"5"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NewNumberLabel"

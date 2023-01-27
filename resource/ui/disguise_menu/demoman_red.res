@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Demoman_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_demoman_red"
+		"labelText"									"4"
 	}
 
 	"NumberLabel"

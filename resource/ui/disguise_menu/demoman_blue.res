@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Demoman_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_demoman_blu"
+		"labelText"									"4"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NumberLabel"

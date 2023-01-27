@@ -2,9 +2,9 @@
 
 "Resource/UI/Disguise_Menu/Engineer_Red.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_engineer_red"
+		"labelText"									"6"
 	}
 
 	"NewNumberLabel"

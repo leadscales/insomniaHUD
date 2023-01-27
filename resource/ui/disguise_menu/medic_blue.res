@@ -2,9 +2,10 @@
 
 "Resource/UI/Disguise_Menu/Medic_Blue.res"
 {
-	"ClassIcon"
+	"ClassIconLabel"
 	{
-		"icon"										"hud_menu_medic_blu"
+		"labelText"									"7"
+		"fgcolor"									"m0reBlue"
 	}
 
 	"NumberLabel"
