@@ -9,6 +9,7 @@
 
 		"AccentMain"										"64 144 255 255"
 		"Positive"											"64 160 255 255"
+		"Warning"											"255 176 64 255"
 		"Negative"											"255 64 64 255"
 
 		"Heal Numbers"										"64 160 255 255"
