@@ -410,7 +410,7 @@
 			}
 		}
 
-		"icons20"
+		"iconsLarge"
 		{
 			"1"
 			{
@@ -421,37 +421,27 @@
 				"antialias"		"1"
 			}
 		}
-		"icons18"
+		"iconsMedium"
 		{
 			"1"
 			{
 				"name"			"Icons"
-				"tall"			"18"
+				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"icons13"
+		"iconsSmall"
 		{
 			"1"
 			{
 				"name"			"Icons"
-				"tall"			"13"
+				"tall"			"11"
 				"additive"		"0"
 				"antialias"		"1"
 			}
 		}
-		"icons10"
-		{
-			"1"
-			{
-				"name"			"Icons"
-				"tall"			"10"
-				"additive"		"0"
-				"antialias"		"1"
-			}
-		}
-		"icons20Blur"
+		"iconsLargeBlur"
 		{
 			"1"
 			{
@@ -463,34 +453,23 @@
 				"blur"			"1"
 			}
 		}
-		"icons18Blur"
+		"iconsMediumBlur"
 		{
 			"1"
 			{
 				"name"			"Icons"
-				"tall"			"18"
+				"tall"			"14"
 				"additive"		"0"
 				"antialias"		"1"
 				"blur"			"1"
 			}
 		}
-		"icons13Blur"
+		"iconsSmallBlur"
 		{
 			"1"
 			{
 				"name"			"Icons"
-				"tall"			"13"
-				"additive"		"0"
-				"antialias"		"1"
-				"blur"			"1"
-			}
-		}
-		"icons10Blur"
-		{
-			"1"
-			{
-				"name"			"Icons"
-				"tall"			"10"
+				"tall"			"11"
 				"additive"		"0"
 				"antialias"		"1"
 				"blur"			"1"

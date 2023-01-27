@@ -77,7 +77,7 @@
 		"command"		"nav_close"
 
 		"textAlignment"	"center"
-		"font"			"icons13"
+		"font"			"iconsSmall"
 
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"Blank"
@@ -108,7 +108,7 @@
 		"labelText"		" "
 
 		"textAlignment"	"center"
-		"font"			"icons13"
+		"font"			"iconsSmall"
 
 		"defaultBgColor_override"	"Blank"
 		"armedBgColor_override"		"Blank"

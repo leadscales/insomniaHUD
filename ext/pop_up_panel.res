@@ -12,7 +12,7 @@
 			"wide"					"120"
 			"tall"					"20"
 			"labelText"				"^"
-			"font"					"icons10"
+			"font"					"iconsSmall"
 			"textAlignment"			"north"
 
 			"actionsignallevel"		"1"
@@ -63,7 +63,7 @@
 					"proportionaltoparent"	"1"
 
 					"labelText"				"B"
-					"font"					"icons13"
+					"font"					"iconsSmall"
 					"textalignment"			"center"
 
 					"command"				"engine ih_bookmark1"
@@ -90,7 +90,7 @@
 					"proportionaltoparent"	"1"
 
 					"labelText"				"B"
-					"font"					"icons13"
+					"font"					"iconsSmall"
 					"textalignment"			"center"
 
 					"command"				"engine ih_bookmark2"
@@ -121,7 +121,7 @@
 					"proportionaltoparent"	"1"
 
 					"labelText"				"B"
-					"font"					"icons13"
+					"font"					"iconsSmall"
 					"textalignment"			"center"
 
 					"command"				"engine ih_bookmark3"
@@ -168,7 +168,7 @@
 					"proportionaltoparent"	"1"
 
 					"labelText"				"*"
-					"font"					"icons13"
+					"font"					"iconsSmall"
 					"textalignment"			"center"
 
 					"command"				"engine ih_server1"
@@ -195,7 +195,7 @@
 					"proportionaltoparent"	"1"
 
 					"labelText"				"*"
-					"font"					"icons13"
+					"font"					"iconsSmall"
 					"textalignment"			"center"
 
 					"command"				"engine ih_server2"
@@ -226,7 +226,7 @@
 					"proportionaltoparent"	"1"
 
 					"labelText"				"*"
-					"font"					"icons13"
+					"font"					"iconsSmall"
 					"textalignment"			"center"
 
 					"command"				"engine ih_server3"
@@ -257,7 +257,7 @@
 				"tall"					"20"
 				"proportionaltoparent"	"1"
 				"labelText"				"v"
-				"font"					"icons10"
+				"font"					"iconsSmall"
 				"textAlignment"			"north"
 
 				"actionsignallevel"		"2"

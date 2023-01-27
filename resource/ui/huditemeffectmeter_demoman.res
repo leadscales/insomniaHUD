@@ -45,7 +45,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"Z"
 		"textAlignment"								"center"
-		"font"										"icons10"
+		"font"										"iconsSmall"
 		"fgcolor" 									"AccentMain"
 	}
 
@@ -63,7 +63,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"Z"
 		"textAlignment"								"center"
-		"font"										"icons10Blur"
+		"font"										"iconsSmallBlur"
 		"fgcolor" 									"Black"
 
 		"pin_to_sibling"							"ItemEffectMeterIcon"

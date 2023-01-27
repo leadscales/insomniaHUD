@@ -28,7 +28,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"CantAffordIcon"
-		"font"										"icons13"
+		"font"										"iconsSmall"
 		"fgcolor"									"Warning"
 		"xpos"										"0"
 		"ypos"										"0"

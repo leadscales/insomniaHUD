@@ -530,7 +530,7 @@
 			"command"				"backpack"
 
 			"labelText"				"b"
-			"font"					"icons13"
+			"font"					"iconsSmall"
 			"textAlignment"			"center"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -556,7 +556,7 @@
 			"command"				"crafting"
 
 			"labelText"				"X"
-			"font"					"icons13"
+			"font"					"iconsSmall"
 			"textAlignment"			"center"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -586,7 +586,7 @@
 			"command"				"crafting"
 
 			"labelText"				"X"
-			"font"					"icons13"
+			"font"					"iconsSmall"
 			"textAlignment"			"center"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -616,7 +616,7 @@
 			"command"				"armory"
 
 			"labelText"				"S"
-			"font"					"icons13"
+			"font"					"iconsSmall"
 			"textAlignment"			"center"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -646,7 +646,7 @@
 			"command"				"trading"
 
 			"labelText"				"t"
-			"font"					"icons13"
+			"font"					"iconsSmall"
 			"textAlignment"			"center"
 
 			"sound_depressed"		"UI/buttonclick.wav"
@@ -676,7 +676,7 @@
 			"command"				"paintkit_preview"
 
 			"labelText"				"P"
-			"font"					"icons13"
+			"font"					"iconsSmall"
 			"textAlignment"			"center"
 
 			"sound_depressed"		"UI/buttonclick.wav"

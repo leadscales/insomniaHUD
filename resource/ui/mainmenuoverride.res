@@ -310,7 +310,7 @@
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
 
-		"font"										"icons20"
+		"font"										"iconsLarge"
 		"fgcolor"									"Negative"
 		"labelText"									"!"
 		"textAlignment"								"center"
@@ -331,7 +331,7 @@
 		"proportionaltoparent"						"1"
 
 		"labelText"									"."
-		"font"										"icons10"
+		"font"										"iconsSmall"
 		"textalignment"								"center"
 		"visible"									"1"
 		"enabled"									"1"
@@ -435,7 +435,7 @@
 					
 					"labelText"								">"
 					"actionsignallevel"						"4"
-					"font"									"icons10"
+					"font"									"iconsSmall"
 					"textalignment"							"center"
 					"command"								"engine open_charinfo_backpack"
 					"sound_depressed"						"UI/buttonclick.wav"
@@ -503,7 +503,7 @@
 					
 					"labelText"								"+"
 					"actionsignallevel"						"4"
-					"font"									"icons10"
+					"font"									"iconsSmall"
 					"textalignment"							"center"
 					"command"								"engine opentf2options "
 					"sound_depressed"						"UI/buttonclick.wav"
@@ -571,7 +571,7 @@
 					
 					"labelText"								"t"
 					"actionsignallevel"						"4"
-					"font"									"icons10"
+					"font"									"iconsSmall"
 					"textalignment"							"center"
 					"command"								"url https://steamcommunity.com/market/search?appid=440"
 					"sound_depressed"						"UI/buttonclick.wav"
@@ -687,7 +687,7 @@
 			"sound_depressed"						"UI/buttonclick.wav"
 			"sound_released"						"UI/buttonclickrelease.wav"
 
-			"font"									"icons13"
+			"font"									"iconsMedium"
 			"textalignment"							"center"
 			"labeltext"								"i"
 
@@ -713,7 +713,7 @@
 			"sound_depressed"						"UI/buttonclick.wav"
 			"sound_released"						"UI/buttonclickrelease.wav"
 
-			"font"									"icons13"
+			"font"									"iconsMedium"
 			"textalignment"							"center"
 			"labeltext"								"$"
 
@@ -743,7 +743,7 @@
 			"sound_depressed"						"UI/buttonclick.wav"
 			"sound_released"						"UI/buttonclickrelease.wav"
 
-			"font"									"icons13"
+			"font"									"iconsMedium"
 			"textalignment"							"center"
 			"labeltext"								"]"
 
@@ -773,7 +773,7 @@
 			"sound_depressed"						"UI/buttonclick.wav"
 			"sound_released"						"UI/buttonclickrelease.wav"
 
-			"font"									"icons13"
+			"font"									"iconsMedium"
 			"textalignment"							"center"
 			"labeltext"								"a"
 
@@ -803,7 +803,7 @@
 			"sound_depressed"						"UI/buttonclick.wav"
 			"sound_released"						"UI/buttonclickrelease.wav"
 
-			"font"									"icons13"
+			"font"									"iconsMedium"
 			"textalignment"							"center"
 			"labeltext"								"C"
 
@@ -866,7 +866,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"icons13"
+				"font"			"iconsSmall"
 				"textAlignment"	"center"
 				"labelText"		"c"
 				"use_proportional_insets" "1"
@@ -919,7 +919,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"icons13"
+				"font"			"iconsSmall"
 				"textAlignment"	"center"
 				"labelText"		"M"
 				"use_proportional_insets" "1"
@@ -972,7 +972,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"icons13"
+				"font"			"iconsSmall"
 				"textAlignment"	"center"
 				"labelText"		"!"
 				"use_proportional_insets" "1"
@@ -1026,7 +1026,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"font"			"icons13"
+				"font"			"iconsSmall"
 				"textAlignment"	"center"
 				"labelText"		"w"
 				"use_proportional_insets" "1"
@@ -1088,7 +1088,7 @@
 			"tall"									"40"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"icons13"
+			"font"									"iconsSmall"
 			"labeltext"								"~"
 			"AllCaps"								"1"
 			"textAlignment"							"center"

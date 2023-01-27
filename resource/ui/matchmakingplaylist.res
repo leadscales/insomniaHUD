@@ -145,7 +145,7 @@
 		"wide"				"120"
 		"tall"				"40"
 		"labeltext"			"+"
-		"font"				"icons13"
+		"font"				"iconsSmall"
 		"textAlignment"		"center"
 		"command"			"create_server"
 		"actionsignallevel"	"1"

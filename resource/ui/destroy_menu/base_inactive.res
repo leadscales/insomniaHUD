@@ -26,7 +26,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"NotBuiltIcon"
-		"font"										"icons13"
+		"font"										"iconsSmall"
 		"fgcolor"									"Negative"
 		"xpos"										"0"
 		"ypos"										"0"
