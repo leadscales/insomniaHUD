@@ -1,5 +1,64 @@
 "Resource/HudLayout.res"
 {
+	"AlignmentHelper"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"AlignmentHelper"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5"
+		"wide"										"f0"
+		"tall"										"f0"
+		"visible"									"0"
+		
+		"HealthAndAmmo"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"HealthAndAmmo"
+			"xpos"										"cs-0.5"
+			"ypos"										"c40"
+			"wide"										"200"
+			"tall"										"20"
+			"proportionaltoparent"						"1"
+			"bgcolor_override"							"255 0 0 32"
+		}
+
+		"HealthAndAmmoExt"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"HealthAndAmmoExt"
+			"xpos"										"cs-0.5"
+			"ypos"										"c40"
+			"wide"										"280"
+			"tall"										"20"
+			"proportionaltoparent"						"1"
+			"bgcolor_override"							"255 255 0 32"
+		}
+
+		"ItemEffectMeters"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"ItemEffectMeters"
+			"xpos"										"cs-0.5"
+			"ypos"										"c60"
+			"wide"										"80"
+			"tall"										"30"
+			"proportionaltoparent"						"1"
+			"bgcolor_override"							"0 255 0 32"
+		}
+
+		"TargetIDS"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"ItemEffectMeters"
+			"xpos"										"cs-0.5"
+			"ypos"										"c20"
+			"wide"										"80"
+			"tall"										"100"
+			"proportionaltoparent"						"1"
+			"bgcolor_override"							"0 255 255 32"
+		}
+	}
+
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -219,9 +278,9 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"255"
+		"ypos"		"c20"
 		"wide"	 	"252"
-		"tall"	 	"35"
+		"tall"	 	"40"
 		"priority"	"40"
 		"priority_lodef"	"5"
 
@@ -238,14 +297,14 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"250"
+		"ypos"		"c20"
 		"wide"	 	"252"
-		"tall"	 	"35"
+		"tall"	 	"40"
 		"priority"	"40"
 		"priority_lodef" "35"
 		
-		"x_offset" "20"
-		"y_offset" "20"
+		"x_offset" "0"
+		"y_offset" "0"
 	}
 	
 	CSecondaryTargetID
@@ -254,7 +313,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"335"
+		"ypos"		"c100"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"priority"	"35"
