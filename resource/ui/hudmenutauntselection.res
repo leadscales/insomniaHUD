@@ -12,13 +12,169 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"0"
-		"wide"										"250"
-		"tall"										"40"
+		"wide"										"480"
+		"tall"										"60"
 		"visible"		        					"1"
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"TLTRBLBR_Black_1"
+		"border"									"TLTRBLBR_Black_3"
+	}
+
+	"Taunt1"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt1"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"TLBL_Black_1"
+	}
+
+	"Taunt2"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt2"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"NONE_Black_1"
+
+		"pin_to_sibling"							"Taunt1"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+	}
+
+	"Taunt3"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt3"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"NONE_Black_1"
+
+		"pin_to_sibling"							"Taunt2"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+	}
+
+	"Taunt4"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt4"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"NONE_Black_1"
+
+		"pin_to_sibling"							"Taunt3"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+	}
+
+	"Taunt5"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt5"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"NONE_Black_1"
+
+		"pin_to_sibling"							"Taunt4"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+	}
+
+	"Taunt6"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt6"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"NONE_Black_1"
+
+		"pin_to_sibling"							"Taunt5"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+	}
+
+	"Taunt7"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt7"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"NONE_Black_1"
+
+		"pin_to_sibling"							"Taunt6"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+	}
+
+	"Taunt8"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Taunt8"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"0"
+		"wide"										"60"
+		"tall"										"60"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"TRBR_Black_1"
+
+		"pin_to_sibling"							"Taunt7"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
 
 	//==================================================================================================================================================
@@ -32,8 +188,8 @@
 		"xpos"										"-5"
 		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -58,7 +214,7 @@
 			"allow_rot"								"0"
 		}
 
-		"pin_to_sibling"							"Background"
+		"pin_to_sibling"							"Taunt1"
 	}
 	"NumberLabel1"
 	{
@@ -67,7 +223,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -75,10 +231,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"BL_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel1"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt1"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -89,11 +246,11 @@
 	{
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"TauntModelPanel2"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-5"
+		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -106,9 +263,7 @@
 		"text_forcesize"							"3"
 		"model_only"								"1"
 
-		"pin_to_sibling"							"TauntModelPanel1"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"Taunt2"
 
 		"attriblabel"
 		{
@@ -129,7 +284,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -137,10 +292,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"NONE_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel2"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt2"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -151,11 +307,11 @@
 	{
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"TauntModelPanel3"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-5"
+		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -168,9 +324,7 @@
 		"text_forcesize"							"3"
 		"model_only"								"1"
 
-		"pin_to_sibling"							"TauntModelPanel2"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"Taunt3"
 
 		"attriblabel"
 		{
@@ -191,7 +345,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -199,10 +353,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"NONE_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel3"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt3"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -213,11 +368,11 @@
 	{
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"TauntModelPanel4"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-5"
+		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -230,9 +385,7 @@
 		"text_forcesize"							"3"
 		"model_only"								"1"
 
-		"pin_to_sibling"							"TauntModelPanel3"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"Taunt4"
 
 		"attriblabel"
 		{
@@ -253,7 +406,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -261,10 +414,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"NONE_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel4"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt4"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -275,11 +429,11 @@
 	{
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"TauntModelPanel5"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-5"
+		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -292,9 +446,7 @@
 		"text_forcesize"							"3"
 		"model_only"								"1"
 
-		"pin_to_sibling"							"TauntModelPanel4"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"Taunt5"
 
 		"attriblabel"
 		{
@@ -315,7 +467,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -323,10 +475,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"NONE_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel5"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt5"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -337,11 +490,11 @@
 	{
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"TauntModelPanel6"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-5"
+		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -354,9 +507,7 @@
 		"text_forcesize"							"3"
 		"model_only"								"1"
 
-		"pin_to_sibling"							"TauntModelPanel5"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"Taunt6"
 
 		"attriblabel"
 		{
@@ -377,7 +528,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -385,10 +536,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"NONE_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel6"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt6"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -399,11 +551,11 @@
 	{
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"TauntModelPanel7"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-5"
+		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -416,9 +568,7 @@
 		"text_forcesize"							"3"
 		"model_only"								"1"
 
-		"pin_to_sibling"							"TauntModelPanel6"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"Taunt7"
 
 		"attriblabel"
 		{
@@ -439,7 +589,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -447,10 +597,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"NONE_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel7"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt7"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -461,11 +612,11 @@
 	{
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"TauntModelPanel8"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"-5"
+		"ypos"										"-5"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"50"
+		"tall"										"35"
 		"visible"									"1"
 		"noitem_textcolor"							"117 107 94 255"
 		"paintbackground"							"0"
@@ -478,9 +629,7 @@
 		"text_forcesize"							"3"
 		"model_only"								"1"
 
-		"pin_to_sibling"							"TauntModelPanel7"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling"							"Taunt8"
 
 		"attriblabel"
 		{
@@ -501,7 +650,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"115"
-		"wide"										"30"
+		"wide"										"60"
 		"tall"										"15"
 		"visible"									"1"
 		"enabled"									"1"
@@ -509,10 +658,11 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"BR_Black_2"
 
-		"pin_to_sibling"							"TauntModelPanel8"
-		"pin_corner_to_sibling"						"PIN_CENTER_TOP"
-		"pin_to_sibling_corner"						"PIN_CENTER_BOTTOM"
+		"pin_to_sibling"							"Taunt8"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 	}
 
 

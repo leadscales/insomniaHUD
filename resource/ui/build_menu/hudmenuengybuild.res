@@ -13,7 +13,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"NoBorder"
+		"border"									"TLTRBLBR_Black_3"
 	}
 
 	"active_item_1"
