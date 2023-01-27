@@ -1,17 +1,19 @@
 "Resource/UI/Destroy_Menu/HudMenuEngyDestroy.res"
 {
-	"ItemsAnchor"
+	"Background"
 	{
 		"ControlName"		     					"EditablePanel"
-		"fieldName"									"ItemsAnchor"
-		"xpos"										"cs-0.5"
-		"ypos"										"r120"
+		"fieldName"									"Background"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"0"
-		"wide"										"145"
-		"tall"										"40"
+		"wide"										"240"
+		"tall"										"60"
 		"visible"		        					"1"
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
+		"paintbackground"							"0"
+		"border"									"TLTRBLBR_Black_3"
 	}
 
 	"active_item_1"
@@ -21,24 +23,26 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
+		"border"									"TLBL_Black_1"
 
-		"pin_to_sibling"							"ItemsAnchor"
+		"pin_to_sibling"							"Background"
 	}
 
 	"active_item_2"
 	{
 		"ControlName"								"CEngyDestroyMenuItem"
-		"xpos"										"2"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"active_item_1"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -49,13 +53,14 @@
 	{
 		"ControlName"								"CEngyDestroyMenuItem"
 		"fieldName"									"active_item_3"
-		"xpos"										"2"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"active_item_2"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -66,13 +71,14 @@
 	{
 		"ControlName"								"CEngyDestroyMenuItem"
 		"fieldName"									"active_item_4"
-		"xpos"										"2"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
+		"border"									"TRBR_Black_1"
 
 		"pin_to_sibling"							"active_item_3"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -86,10 +92,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"TLBL_Black_1"
 
 		"pin_to_sibling"							"active_item_1"
 	}
@@ -101,10 +108,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"active_item_2"
 	}
@@ -116,10 +124,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"active_item_3"
 	}
@@ -131,10 +140,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"TRBR_Black_1"
 
 		"pin_to_sibling"							"active_item_4"
 	}
@@ -146,10 +156,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"TLBL_Black_1"
 
 		"pin_to_sibling"							"active_item_1"
 	}
@@ -161,10 +172,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"active_item_2"
 	}
@@ -176,10 +188,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"active_item_3"
 	}
@@ -191,10 +204,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"1"
-		"wide"										"35"
-		"tall"										"40"
+		"wide"										"60"
+		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"TRBR_Black_1"
 
 		"pin_to_sibling"							"active_item_4"
 	}

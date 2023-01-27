@@ -6,4 +6,9 @@
 	{
 		"icon"										"obj_status_tele_entrance"
 	}
+
+	"ObjectLabel"
+	{
+		"labelText"									"#TF_Teleporter_Mode_Entrance"
+	}
 }

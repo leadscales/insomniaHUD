@@ -11,5 +11,6 @@
 	"NumberLabel"
 	{
 		"labelText"									"1"
+		"border"									"TL_Black_2"
 	}
 }

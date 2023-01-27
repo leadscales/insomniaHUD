@@ -2,13 +2,24 @@
 
 "Resource/UI/Destroy_Menu/Tele_Exit_Active.res"
 {
-	"BuildingIcon"
+	"BuildingIcon"	
 	{
 		"icon"										"obj_status_tele_exit"
+		"xpos"										"cs-0.5"
+		"ypos"										"15"
+		"zpos"										"1"
+		"wide"										"40"
+		"tall"										"40"
+	}
+
+	"ObjectLabel"
+	{
+		"labelText"									"#TF_Teleporter_Mode_Exit"
 	}
 
 	"NumberLabel"
 	{
 		"labelText"									"4"
+		"border"									"TR_Black_2"
 	}
 }

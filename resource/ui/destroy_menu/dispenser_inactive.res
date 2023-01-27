@@ -8,6 +8,11 @@
 		"icon"										"obj_status_dispenser"
 	}
 
+	"ObjectLabel"
+	{
+		"labelText"									"#TF_Object_Dispenser"
+	}
+
 	"NumberLabel"
 	{
 		"labelText"									"2"
