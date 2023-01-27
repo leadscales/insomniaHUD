@@ -7,8 +7,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"10"
-		"wide"										"30"
-		"tall"										"20"
+		"wide"										"60"
+		"tall"										"45"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"1"
@@ -23,7 +23,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"NewNumberLabel"
 		"xpos"										"0"
-		"ypos"										"20"
+		"ypos"										"45"
 		"zpos"										"10"
 		"wide"										"f0"
 		"tall"										"15"
@@ -34,6 +34,7 @@
 		"textAlignment"								"Center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"BL_Black_2"
 	}
 
 	"NumberLabel"
@@ -41,7 +42,7 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"NumberLabel"
 		"xpos"										"0"
-		"ypos"										"20"
+		"ypos"										"45"
 		"zpos"										"10"
 		"wide"										"f0"
 		"tall"										"15"
@@ -52,6 +53,7 @@
 		"textAlignment"								"Center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
+		"border"									"BL_Black_2"
 	}
 
 

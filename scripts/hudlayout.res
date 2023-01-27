@@ -1023,10 +1023,10 @@
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c0-140"
+		"xpos"			"c0-270"
 		"ypos"			"c120"
-		"wide"			"280"
-		"tall"			"40"
+		"wide"			"540"
+		"tall"			"60"
 		"PaintBackgroundType"	"0"
 	}	
 	

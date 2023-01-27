@@ -10,5 +10,6 @@
 	"NumberLabel"
 	{
 		"labelText"									"7"
+		"border"									"NONE_Black_2"
 	}
 }
