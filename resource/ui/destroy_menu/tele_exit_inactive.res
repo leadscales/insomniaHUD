@@ -10,11 +10,7 @@
 	"ObjectLabel"
 	{
 		"labelText"									"#TF_Teleporter_Mode_Exit"
-	}
-
-	"NotBuiltIcon"
-	{
-		"border"									"TR_Negative_4"
+		"border"									"TL_Black_3"
 	}
 
 	"NumberLabel"

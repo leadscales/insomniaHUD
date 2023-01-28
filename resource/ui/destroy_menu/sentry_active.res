@@ -8,6 +8,11 @@
 		"icon"										"obj_status_sentrygun_1"
 	}
 
+	"ObjectLabel"
+	{
+		"border"									"TL_Black_3"
+	}
+
 	"NumberLabel"
 	{
 		"labelText"									"1"
