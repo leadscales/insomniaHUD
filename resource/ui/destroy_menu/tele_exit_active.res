@@ -15,6 +15,7 @@
 	"ObjectLabel"
 	{
 		"labelText"									"#TF_Teleporter_Mode_Exit"
+		"border"									"TL_Black_3"
 	}
 
 	"NumberLabel"

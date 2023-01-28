@@ -6,4 +6,12 @@
 	{
 		"fgcolor"									"m0reBlue"
 	}
+
+	"GlowEffect"
+	{
+		"SubImage"
+		{
+			"drawcolor"									"m0reBlue"
+		}
+	}
 }
