@@ -37,18 +37,18 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"NotBuiltLabel"
-		"font"										"regular14"
+		"font"										"regular12"
 		"xpos"										"cs-0.5"
-		"ypos"										"rs1-3"
+		"ypos"										"rs1"
 		"zpos"										"5"
-		"wide"										"f16"
-		"tall"										"f15"
+		"wide"										"f10"
+		"tall"										"f20"
 		"visible"									"0"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_NotBuilt"
-		"wrap"										"1"
-		"textAlignment"								"south-west"
+		"wrap"										"0"
+		"textAlignment"								"center"
 		"fgcolor"									"Negative"
 	}
 
@@ -69,6 +69,54 @@
 		"labelText"									"#TF_Object_Sentry_360"
 		"textAlignment"								"Center"
 		"border"									"NONE_Black_3"
+	}
+
+	"CantDestroyIcon"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"CantDestroyIcon"
+		"font"										"iconsSmall"
+		"fgcolor"									"Negative"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"6"
+		"wide"										"f0"
+		"tall"										"20"
+		"visible"									"0"
+		"enabled"									"1"
+		"proportionaltoparent"						"1"
+		"labelText"									"~"
+		"textAlignment"								"center"
+		"border"									"NoBorder"
+	}
+
+	"CantDestroyGlow"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"CantDestroyGlow"
+		"xpos"										"2"
+		"ypos"										"2"
+		"zpos"										"6"
+		"wide"										"f4"
+		"tall"										"f4"
+		"visible"									"0"
+		"enabled"									"1"
+		"proportionaltoparent"						"1"
+		
+		"SubImage"
+		{
+			"ControlName"								"CTFImagePanel"
+			"fieldName"									"SubImage"
+			"xpos"										"cs-0.5"
+			"ypos"										"-110"
+			"wide"										"150"
+			"tall"										"150"
+			"proportionaltoparent"						"1"
+			"alpha"										"96"
+			"image"										"replay/thumbnails/ui_effects/point_glow_white"
+			"scaleImage"								"1"
+			"drawcolor"									"Negative"
+		}
 	}
 
 	"NumberLabel"
