@@ -1,5 +1,6 @@
 #base "../../scripts/preload.res"
 #base "../../ext/pop_up_panel.res"
+#base "../../customization/dev/customization_menu.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -238,6 +239,41 @@
 			"drawcolor"								"AccentMain"
 		}
 	}
+
+	"CustomizeButton"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"CustomizeButton"
+		"xpos"										"rs1-10"
+		"ypos"										"rs1-70"
+		"wide"										"200"
+		"tall"										"20"
+		"proportionaltoparent"						"1"
+		"visible"									"1"
+		"enabled"									"1"
+		"border"									"TLTRBLBR_Black_2"
+
+		"URL"
+		{
+			"ControlName"				"URLLabel"
+			"fieldName"					"URL"
+			"xpos"						"0"
+			"ypos"						"0"
+			"wide"						"f0"
+			"tall"						"f0"
+			"proportionaltoparent"		"1"
+			"paintbackground"			"0"
+			"font"						"regular14"
+			"fgcolor"					"AccentMain"
+			"fgcolor_override"			"AccentMain"
+			"textalignment"				"center"
+			"labeltext"					"CUSTOMIZE HUD (WILL RESTART TF2)"
+			"border"					"TLTRBLBR_AccentMain_4"
+			"urltext"					"tf\custom\insomniaHUD\customization\dev\activate_customizer.bat"
+		}
+	}
+
+	
 
 	//==================================================================================================================================================
 	// RANK & BADGE

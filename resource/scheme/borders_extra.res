@@ -25,5 +25,53 @@
 			"draw_corner_width"			"8"
 			"draw_corner_height"		"8"
 		}
+		
+		"ColorHoverBorder"
+		{
+			Left
+			{
+				"1"
+				{
+					"color" "White"
+				}
+				"2"
+				{
+					"color" "White"
+				}
+			}
+			Right
+			{
+				"1"
+				{
+					"color" "White"
+				}
+				"2"
+				{
+					"color" "White"
+				}
+			}
+			Top
+			{
+				"1"
+				{
+					"color" "White"
+				}
+				"2"
+				{
+					"color" "White"
+				}
+			}
+			Bottom
+			{
+				"1"
+				{
+					"color" "White"
+				}
+				"2"
+				{
+					"color" "White"
+				}
+			}
+		}
 	}
 }
