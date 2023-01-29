@@ -741,11 +741,11 @@
 			"proportionaltoparent"		"1"
 			"paintbackground"			"0"
 			"font"						"regular14"
-			"fgcolor"					"Text2"
-			"fgcolor_override"			"Text2"
+			"fgcolor"					"AccentMain"
+			"fgcolor_override"			"AccentMain"
 			"textalignment"				"center"
 			"labeltext"					"CUSTOMIZE HUD (WILL RESTART TF2)"
-			"border"					"NoBorder"
+			"alpha"						"32"
 		}
 	}
 
