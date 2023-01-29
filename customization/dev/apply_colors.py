@@ -8,9 +8,27 @@ CWD = pathlib.Path(os.getcwd()).resolve()
 LOG_FILE = pathlib.Path(CWD.parents[2], "ih_outcolor.log")
 COLOR_FILE = pathlib.Path(CWD.parents[1], "customization/custom_colors.res")
 
-APPLYCOLOR_COMMAND_LIST = [
-    "IH_APPLYCOLOR_AccentMain"
+COLOR_LIST = [
+    "AccentMain",
+    "Positive",
+    "Warning",
+    "Negative",
+    "HealNumbers",
+    "DamageNumbers",
+    "HealthNormal",
+    "HealthBuff",
+    "HealthHurt",
+    "AmmoClip",
+    "AmmoReserve",
+    "AmmoNoclip",
+    "AmmoClipLow",
+    "AmmoReserveLow",
+    "AmmoNoclipLow",
+    "Ubercharge",
+    "UberchargeFull"
 ]
+
+APPLYCOLOR_COMMAND_LIST = ["IH_APPLYCOLOR_"+i for i in COLOR_LIST]
 
 HUE_REGEX = re.compile(r'"(sixense_weapon_select_sensitivity)" = "(\d*.\d+)"')
 
@@ -87,7 +105,8 @@ def main():
     commands = get_commands()
     updated_colors = modify_colors(commands)
     with open(COLOR_FILE, "w") as file:
-        vdf.dump(updated_colors, file)
+        vdf.dump(updated_colors, file, True)
+    os.remove(LOG_FILE)
 
 
 if __name__ == "__main__":

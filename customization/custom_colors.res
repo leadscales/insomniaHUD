@@ -11,7 +11,6 @@
 		"Positive"											"64 160 255 255"
 		"Warning"											"255 160 64 255"
 		"Negative"											"255 64 64 255"
-
 		"HealNumbers"										"64 160 255 255"
 		"DamageNumbers"										"255 64 64 255"
 
