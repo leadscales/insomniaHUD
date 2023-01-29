@@ -240,6 +240,23 @@
 		}
 	}
 
+	"BetaLabel"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"BetaLabel"
+		"xpos"										"rs1-10"
+		"ypos"										"rs1-65"
+		"wide"										"f10"
+		"tall"										"20"
+		"proportionaltoparent"						"1"	
+		"mouseinputenabled"							"0"
+		"labeltext"									"BETA"
+		"font"										"bold18"
+		"fgcolor"									"AccentMain"
+		"textalignment"								"south-east"
+		"alpha"										"128"
+	}
+
 	//==================================================================================================================================================
 	// RANK & BADGE
 	//==================================================================================================================================================
