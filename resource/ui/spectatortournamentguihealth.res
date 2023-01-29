@@ -15,7 +15,7 @@
 		"textAlignment"								"center"
 		"labeltext"		 							"%Health%"
 		"font"										"regular11"
-		"fgcolor"		    						"Health Numbers"
+		"fgcolor"		    						"HealthNormal"
 	}
 
 	"PlayerStatusHealthValueSpecguiShadow"

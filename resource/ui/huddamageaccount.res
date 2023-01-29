@@ -8,7 +8,7 @@
 		"text_x"									"0"
 		"text_y"									"0"
 		"delta_item_end_y"							"0"
-		"PositiveColor"								"Heal Numbers"
+		"PositiveColor"								"HealNumbers"
 		"NegativeColor"								"Damage Numbers"
 		"delta_lifetime"							"2"
 		"delta_item_font"							"bold18"
@@ -28,6 +28,6 @@
 		"labelText"									"%metal%"
 		"textAlignment"								"west"
 		"font"										"bold18"
-		"fgcolor"									"Last Damage Done"
+		"fgcolor"									"DamageNumbers"
 	}
 }

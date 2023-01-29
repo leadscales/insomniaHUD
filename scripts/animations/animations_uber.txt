@@ -2,9 +2,9 @@
 
 event HudMedicCharged
 {
-	Animate ChargeLabel 							FgColor 	"Ubercharge Full" 					Linear 	0.0 	0.0
+	Animate ChargeLabel 							FgColor 	"UberchargeFull" 					Linear 	0.0 	0.0
 
-	Animate ChargeMeter 							FgColor 	"Ubercharge Full" 					Linear 	0.0 	0.0
+	Animate ChargeMeter 							FgColor 	"UberchargeFull" 					Linear 	0.0 	0.0
 
 	RunEvent HudMedicChargedLoop					0.6
 }

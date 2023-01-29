@@ -7,46 +7,33 @@
 	{
 		// Misc
 
-		"AccentMain"										"64 144 255 255"
+		"AccentMain"										"64 160 255 255"
 		"Positive"											"64 160 255 255"
-		"Warning"											"255 176 64 255"
+		"Warning"											"255 160 64 255"
 		"Negative"											"255 64 64 255"
 
-		"Heal Numbers"										"64 160 255 255"
-		"Last Damage Done"									"255 64 64 255"
+		"HealNumbers"										"64 160 255 255"
+		"DamageNumbers"										"255 64 64 255"
 
 		// Health
 
-		"Health Numbers"									"255 255 255 255"
-
-		"Health Buff"										"64 160 255 255"
-		"Health Buff Target"								"64 160 255 255"
-		"Health Buff Spec"									"64 160 255 255"
-		"Health Buff Killer"								"64 160 255 255"
-
-		"Health Hurt"										"255 64 64 255"
-		"Health Hurt Target"								"255 64 64 255"
-		"Health Hurt Spec"									"255 64 64 255"
-		"Health Hurt Killer"								"255 64 64 255"
+		"HealthNormal"										"255 255 255 255"
+		"HealthBuff"										"64 160 255 255"
+		"HealthHurt"										"255 64 64 255"
 
 		// Ammo
 
-		"Ammo In Clip"										"255 255 255 255"
-		"Ammo In Reserve"									"255 255 255 255"
-		"Ammo No Clip"										"255 255 255 255"
+		"AmmoClip"											"255 255 255 255"
+		"AmmoReserve"										"255 255 255 255"
+		"AmmoNoclip"										"255 255 255 255"
 
-		"Ammo In Clip Low"									"255 64 64 255"
-		"Ammo In Reserve Low"								"255 64 64 255"
-		"Ammo No Clip Low"									"255 64 64 255"
+		"AmmoClipLow"										"255 64 64 255"
+		"AmmoReserveLow"									"255 64 64 255"
+		"AmmoNoclipLow"										"255 64 64 255"
 
 		// Uber
 
 		"Ubercharge"										"255 255 255 255"
-		"Ubercharge Full"									"64 160 255 255"
-
-		// Crosshair
-
-		"Crosshair"											"255 255 255 255"
-		"Crosshair Flash"									"255 64 64 255"
+		"UberchargeFull"									"64 160 255 255"
 	}
 }
