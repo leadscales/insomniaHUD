@@ -79,13 +79,14 @@
 									"proportionaltoparent"		"1"
 									"labelText"					"<"
 									"font"						"iconsSmall"
+									"textalignment"				"center"
 									"command"					"engine incrementvar sixense_weapon_select_sensitivity 0 360 -10"
 									"actionsignallevel"			"7"
 									"sound_depressed"			"UI/buttonclick.wav"
 									"sound_released"			"UI/buttonclickrelease.wav"
 									"paintbackground"			"0"
 									"border_default"			"NoBorder"
-									"border_armed"				"NONE_PanelO4_0"
+									"border_armed"				"TLBL_PanelO4_0"
 								}
 								"Increment"
 								{
@@ -98,6 +99,7 @@
 									"proportionaltoparent"		"1"
 									"labelText"					">"
 									"font"						"iconsSmall"
+									"textalignment"				"center"
 									"command"					"engine incrementvar sixense_weapon_select_sensitivity 0 360 10"
 									"actionsignallevel"			"7"
 									"sound_depressed"			"UI/buttonclick.wav"
@@ -148,7 +150,7 @@
 							"xpos"						"0"
 							"ypos"						"5"
 							"wide"						"f10"
-							"tall"						"320"
+							"tall"						"340"
 							"proportionaltoparent"		"1"
 							"border"					"TLTRBLBR_PanelO2_0"
 							"pin_to_sibling"			"ColorSelection"
@@ -177,7 +179,7 @@
 								"xpos"						"0"
 								"ypos"						"0"
 								"wide"						"f0"
-								"tall"						"300"
+								"tall"						"315"
 								"proportionaltoparent"		"1"
 								"pin_to_sibling"			"Title"
 								"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -464,7 +466,6 @@
 										"armedfgcolor_override"			"Text0"
 									}
 								}
-
 								"Ammo"
 								{
 									"ControlName"				"EditablePanel"
@@ -625,7 +626,6 @@
 										"armedfgcolor_override"			"Text0"
 									}
 								}
-
 								"Medic"
 								{
 									"ControlName"				"EditablePanel"
@@ -696,6 +696,45 @@
 										"paintbackground"				"0"
 										"defaultfgcolor_override"		"Text1"
 										"armedfgcolor_override"			"Text0"
+									}
+								}
+								"Reset"
+								{
+									"ControlName"				"EditablePanel"
+									"fieldName"					"Reset"
+									"xpos"						"5"
+									"ypos"						"300"
+									"wide"						"f10"
+									"tall"						"15"
+									"proportionaltoparent"		"1"
+									"border"					"TLTRBLBR_PanelO1_0"
+									"Button"
+									{
+										"ControlName"				"URLLabel"
+										"fieldName"					"Button"
+										"xpos"						"0"
+										"ypos"						"0"
+										"wide"						"f0"
+										"tall"						"f0"
+										"proportionaltoparent"		"1"
+										"font"						"regular14"
+										"textAlignment"				"center"
+										"labelText"					"RESET"
+										"urltext"					"tf\custom\insomniaHUD\customization\dev\reset_colors.bat"
+									}
+									"Icon"
+									{
+										"ControlName"				"CExLabel"
+										"fieldName"					"Icon"
+										"xpos"						"0"
+										"ypos"						"0"
+										"wide"						"15"
+										"tall"						"f0"
+										"proportionaltoparent"		"1"
+										"font"						"iconsSmall"
+										"textAlignment"				"center"
+										"labelText"					"r"
+										"mouseinputenabled"			"0"
 									}
 								}
 							}
