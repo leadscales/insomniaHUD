@@ -240,41 +240,6 @@
 		}
 	}
 
-	"CustomizeButton"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"CustomizeButton"
-		"xpos"										"rs1-10"
-		"ypos"										"rs1-70"
-		"wide"										"200"
-		"tall"										"20"
-		"proportionaltoparent"						"1"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"									"TLTRBLBR_Black_2"
-
-		"URL"
-		{
-			"ControlName"				"URLLabel"
-			"fieldName"					"URL"
-			"xpos"						"0"
-			"ypos"						"0"
-			"wide"						"f0"
-			"tall"						"f0"
-			"proportionaltoparent"		"1"
-			"paintbackground"			"0"
-			"font"						"regular14"
-			"fgcolor"					"Text0"
-			"fgcolor_override"			"Text0"
-			"textalignment"				"center"
-			"labeltext"					"CUSTOMIZE HUD (WILL RESTART TF2)"
-			"border"					"TLTRBLBR_AccentMain_4"
-			"urltext"					"tf\custom\insomniaHUD\customization\dev\activate_customizer.bat"
-		}
-	}
-
-	
-
 	//==================================================================================================================================================
 	// RANK & BADGE
 	//==================================================================================================================================================
@@ -633,7 +598,7 @@
 		"ypos"										"0"
 		"zpos"										"51"
 		"wide"										"200"
-		"tall"										"240"
+		"tall"										"220"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
@@ -689,6 +654,85 @@
 	}
 
 	//==================================================================================================================================================
+	// CUSTOMIZE HUD
+	//==================================================================================================================================================
+
+	"CustomizeButton"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"CustomizeButton"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"53"
+		"wide"										"200"
+		"tall"										"20"
+		"proportionaltoparent"						"1"
+		"visible"									"1"
+		"enabled"									"1"
+		"border"									"NONE_Black_2"
+		
+		"pin_to_sibling"							"FriendsContainer"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+
+		"URL"
+		{
+			"ControlName"				"URLLabel"
+			"fieldName"					"URL"
+			"xpos"						"0"
+			"ypos"						"0"
+			"wide"						"f0"
+			"tall"						"f0"
+			"proportionaltoparent"		"1"
+			"paintbackground"			"0"
+			"font"						"regular14"
+			"fgcolor"					"Text0"
+			"fgcolor_override"			"Text0"
+			"textalignment"				"center"
+			"labeltext"					"CUSTOMIZE HUD (WILL RESTART TF2)"
+			"border"					"NoBorder"
+			"urltext"					"tf\custom\insomniaHUD\customization\dev\activate_customizer.bat"
+		}
+	}
+
+	"CustomizeButtonInGame"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"CustomizeButtonInGame"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"53"
+		"wide"										"200"
+		"tall"										"20"
+		"proportionaltoparent"						"1"
+		"visible"									"1"
+		"enabled"									"1"
+		"border"									"NONE_Black_2"
+		
+		"pin_to_sibling"							"FriendsContainer"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+
+		"URL"
+		{
+			"ControlName"				"CExLabel"
+			"fieldName"					"URL"
+			"xpos"						"0"
+			"ypos"						"0"
+			"wide"						"f0"
+			"tall"						"f0"
+			"proportionaltoparent"		"1"
+			"paintbackground"			"0"
+			"font"						"regular14"
+			"fgcolor"					"Text2"
+			"fgcolor_override"			"Text2"
+			"textalignment"				"center"
+			"labeltext"					"CUSTOMIZE HUD (WILL RESTART TF2)"
+			"border"					"NoBorder"
+		}
+	}
+
+	//==================================================================================================================================================
 	// EXTRA BUTTONS
 	//==================================================================================================================================================
 
@@ -706,7 +750,7 @@
 		"bgcolor_override"							"Blank"
 		"border"									"BLBR_Black_2"
 
-		"pin_to_sibling"							"FriendsContainer"
+		"pin_to_sibling"							"CustomizeButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 

@@ -34,4 +34,9 @@
 		"command"									"engine"
 		"OnlyAtMenu"								"1"
 	}
+	"CustomizeButtonInGame"
+	{
+		"command"									"engine"
+		"OnlyInGame"								"1"
+	}
 }
