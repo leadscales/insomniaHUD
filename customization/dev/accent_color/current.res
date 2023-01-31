@@ -1,1 +1,1 @@
-#base "../../../../cfg/ih_accent.txt"
+#base "../../../../../cfg/ih_accent.txt"

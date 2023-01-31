@@ -1,3 +1,4 @@
+#base "dev/accent_color/custom.res"
 #base "dev/accent_color/current.res"
 #base "dev/accent_color/_default.res"
 

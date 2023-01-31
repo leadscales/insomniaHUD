@@ -247,7 +247,7 @@
 		"labelText"									"HINT: Try using your Number Pad/Keys and WASDQE Keys to navigate the different menus, including in-game menus"
 		"textAlignment"								"center"
 		"font"										"regular14"
-		"fgcolor"									"Text5"
+		"fgcolor"									"Text4"
 	}
 
 	"HudLabel"

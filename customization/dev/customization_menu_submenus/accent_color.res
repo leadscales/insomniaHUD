@@ -15,9 +15,9 @@
 						"xpos"						"5"
 						"ypos"						"5"
 						"wide"						"190"
-						"tall"						"90"
+						"tall"						"105"
 						"proportionaltoparent"		"1"
-						"border"					"TLTRBLBR_PanelO1_0"
+						"border"					"TLTRBLBR_Black_2"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -29,7 +29,7 @@
 							"proportionaltoparent"		"1"
 							"font"						"regular14"
 							"labelText"					"Accent Color"
-							"fgcolor"					"Text4"
+							"fgcolor"					"TextT4"
 							"textAlignment"				"center"
 							"border"					"NoBorder"
 						}
@@ -40,7 +40,7 @@
 							"xpos"						"5"
 							"ypos"						"25"
 							"wide"						"180"
-							"tall"						"60"
+							"tall"						"75"
 							"proportionaltoparent"		"1"
 							"border"					"TLTRBLBR_PanelO0_0"
 							"C0"
@@ -291,6 +291,26 @@
 								"pin_to_sibling"			"C300"
 								"pin_corner_to_sibling"		"PIN_TOPLEFT"
 								"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+							}
+							"Reset"
+							{
+								"ControlName"				"CExButton"
+								"fieldName"					"Reset"
+								"xpos"						"0"
+								"ypos"						"rs1"
+								"wide"						"180"
+								"tall"						"15"
+								"proportionaltoparent"		"1"
+								"labelText"					"RESET"
+								"textAlignment"				"center"
+								"font"						"regular14"
+								"paintbackground"			"0"
+								"command"					"engine ih_accent_clear"
+								"actionsignallevel"			"6"
+								"sound_depressed"			"UI/buttonclick.wav"
+								"sound_released"			"UI/buttonclickrelease.wav"
+								"border_default"			"BL_Black_3"
+								"border_armed"				"BL_White_4"
 							}
 						}
 					}

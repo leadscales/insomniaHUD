@@ -69,11 +69,12 @@
 				"fieldName"					"MainPanel"
 				"xpos"						"cs-0.5"
 				"ypos"						"20"
+				"zpos"						"50"
 				"wide"						"600"
 				"tall"						"440"
 				"proportionaltoparent"		"1"
 				"paintbackground"			"0"
-				"border"					"TLTRBLBR_PanelO3_0"
+				"border"					"TLTRBLBR_Black_2"
 				"Title"
 				{
 					"ControlName"				"CExLabel"
@@ -87,7 +88,7 @@
 					"labelText"					"CUSTOMIZE"
 					"textAlignment"				"center"
 					"fgcolor"					"Text0"
-					"border"					"TLTR_PanelO1_0"
+					"border"					"TLTR_Black_2"
 				}
 				"RestartWarning"
 				{
@@ -101,7 +102,7 @@
 					"font"						"regular14"
 					"labelText"					"NOTICE: Some changes (such as color related ones) require game restart in order to take effect."
 					"textAlignment"				"center"
-					"fgcolor"					"Text4"
+					"fgcolor"					"TextT4"
 					"border"					"NoBorder"
 				}
 				"SectionContainer"
@@ -114,17 +115,6 @@
 					"tall"						"420"
 					"proportionaltoparent"		"1"
 					"paintbackground"			"0"
-				}
-				"ButtonsBG"
-				{
-					"ControlName"				"EditablePanel"
-					"fieldName"					"ButtonsBG"
-					"xpos"						"2"
-					"ypos"						"2"
-					"wide"						"16"
-					"tall"						"16"
-					"proportionaltoparent"		"1"
-					"border"					"TLTRBLBR_PanelO2_0"
 				}
 				"Back"
 				{
@@ -144,8 +134,22 @@
 					"sound_depressed"			"UI/buttonclick.wav"
 					"sound_released"			"UI/buttonclickrelease.wav"
 					"border_default"			"NoBorder"
-					"border_armed"				"TLTRBLBR_PanelO3_0"
+					"border_armed"				"TLTRBLBR_Black_3"
 				}
+			}
+			"Colorizer"
+			{
+				"ControlName"				"EditablePanel"
+				"fieldName"					"Colorizer"
+				"xpos"						"0"
+				"ypos"						"0"
+				"zpos"						"49"
+				"wide"						"600"
+				"tall"						"440"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"0"
+				"border"					"TLTRBLBR_AccentMain_4"
+				"pin_to_sibling"			"MainPanel"
 			}
 		}
 	}
