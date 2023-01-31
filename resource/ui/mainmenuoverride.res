@@ -1,6 +1,6 @@
 #base "../../scripts/preload.res"
 #base "../../ext/pop_up_panel.res"
-#base "../../customization/dev/customization_menu.res"
+#base "../../customization/dev/customization_menu_enabled.res"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -692,10 +692,10 @@
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
-		"URL"
+		"SubButton"
 		{
-			"ControlName"				"URLLabel"
-			"fieldName"					"URL"
+			"ControlName"				"CExButton"
+			"fieldName"					"SubButton"
 			"xpos"						"0"
 			"ypos"						"0"
 			"wide"						"f0"
@@ -703,12 +703,15 @@
 			"proportionaltoparent"		"1"
 			"paintbackground"			"0"
 			"font"						"regular14"
-			"fgcolor"					"Text0"
-			"fgcolor_override"			"Text0"
+			"labelText"					"CUSTOMIZE HUD"
 			"textalignment"				"center"
-			"labeltext"					"CUSTOMIZE HUD (WILL RESTART TF2)"
-			"border"					"NoBorder"
-			"urltext"					"tf\custom\insomniaHUD\customization\dev\activate_customizer.bat"
+			"command"					"engine ih_custom_on; ih_reloadmenus"
+			"actionsignallevel"			"2"
+			"sound_depressed"			"UI/buttonclick.wav"
+			"sound_released"			"UI/buttonclickrelease.wav"
+			
+			"border_default"			"NoBorder"
+			"border_armed"				"NONE_Black_3"
 		}
 	}
 
@@ -730,10 +733,10 @@
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
-		"URL"
+		"SubButton"
 		{
-			"ControlName"				"CExLabel"
-			"fieldName"					"URL"
+			"ControlName"				"CExButton"
+			"fieldName"					"SubButton"
 			"xpos"						"0"
 			"ypos"						"0"
 			"wide"						"f0"
@@ -741,11 +744,19 @@
 			"proportionaltoparent"		"1"
 			"paintbackground"			"0"
 			"font"						"regular14"
-			"fgcolor"					"AccentMain"
-			"fgcolor_override"			"AccentMain"
+			"labelText"					"CUSTOMIZE HUD"
 			"textalignment"				"center"
-			"labeltext"					"CUSTOMIZE HUD (WILL RESTART TF2)"
-			"alpha"						"32"
+			"command"					"engine ih_custom_on; ih_reloadmenus"
+			"actionsignallevel"			"2"
+			"sound_depressed"			"UI/buttonclick.wav"
+			"sound_released"			"UI/buttonclickrelease.wav"
+
+			"mouseinputenabled"			"0"
+			
+			"border_default"			"NoBorder"
+			"border_armed"				"NONE_Black_3"
+			"defaultFgColor_override"	"AccentMain"
+			"alpha"						"64"
 		}
 	}
 

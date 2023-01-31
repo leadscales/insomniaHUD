@@ -1,5 +1,5 @@
-// THOU SHALT NOT FAIL THE VIBE CHECK
-// https://webaim.org/resources/contrastchecker/
+#base "dev/accent_color/current.res"
+#base "dev/accent_color/_default.res"
 
 "Scheme"
 {
@@ -7,7 +7,6 @@
 	{
 		// Misc
 
-		"AccentMain"										"64 160 255 255"
 		"Positive"											"64 160 255 255"
 		"Warning"											"255 160 64 255"
 		"Negative"											"255 64 64 255"
