@@ -40,6 +40,62 @@
 		"scaleImage"	"1"
 	}
 
+	"MenuColorizer"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"MenuColorizer"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"480"
+		"visible"									"1"
+		"enabled"									"1"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"scaleImage"							"1"
+			"image"									"replay/thumbnails/ui_effects/menu_glow"
+			"drawcolor"								"AccentMain"
+		}
+	}
+
+	"MenuColorizer2"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"MenuColorizer2"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"480"
+		"visible"									"1"
+		"enabled"									"1"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"scaleImage"							"1"
+			"image"									"replay/thumbnails/ui_effects/menu_glow_alt"
+			"drawcolor"								"AccentMain"
+		}
+	}
+
 	"MapInfo"
 	{
 		"ControlName"	"EditablePanel"
@@ -67,14 +123,15 @@
 
 	"LoadingImage"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"CTFImagePanel"
 		"fieldName"		"LoadingImage"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5"
-		"wide"			"80"
-		"tall"			"80"
+		"wide"			"100"
+		"tall"			"100"
 		"image"			"replay/thumbnails/ui_effects/loading_animation"
 		"scaleImage"	"1"
+		"drawcolor"		"AccentMain"
 	}
 
 	"MapLabel"
