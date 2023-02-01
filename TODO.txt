@@ -1,4 +1,3 @@
-Payload UI
 Competitive Menu
 MVM Menu
 Crafting Menu
