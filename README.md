@@ -29,8 +29,8 @@
 |Territorial Control|🟢|Fully functional and customized.|
 |KOTH|🟢|Fully functional and customized.|
 |CTF|🟢|Fully functional and customized, Includes Special Delivery and Mannpower.|
-|Payload|🟡|Fully functional, but is unmodified as of right now.|
-|Payload Race|🟡|Fully functional, but is unmodified as of right now.|
+|Payload|🟢|Fully functional and customized.|
+|Payload Race|🟢|Fully functional and customized.|
 |PASS Time|🟡|Fully functional, but is unmodified as of right now.|
 |Mann Vs. Machine|🟡|Fully functional, but is unmodified as of right now.|
 
