@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$translucent"		"1"
+	"$baseTexture"		"vgui\replay\thumbnails\pl_icons\cart_arrow"
+	"$alpha"			"1"
+	"$vertexalpha"		"1"
+	"$vertexcolor"		"1"
+	"$no_fullbright"	"1"
+	"$ignorez"			"1"
+	"%keywords"			"tf"
+	"$basetexturetransform"	"center .5 .5 scale 1 1 rotate 270 translate 0 0"
+}

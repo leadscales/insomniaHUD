@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$translucent"		"1"
+	"$baseTexture"		"vgui\replay\thumbnails\pl_icons\cart_fill"
+	"$alpha"			"0.8"
+	"$vertexalpha"		"1"
+	"$vertexcolor"		"1"
+	"$no_fullbright"	"1"
+	"$ignorez"			"1"
+	"%keywords"			"tf"
+	"$color"			"{0 0 0}"
+}

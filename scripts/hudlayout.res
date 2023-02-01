@@ -49,13 +49,25 @@
 		"TargetIDS"
 		{
 			"ControlName"								"EditablePanel"
-			"fieldName"									"ItemEffectMeters"
+			"fieldName"									"TargetIDS"
 			"xpos"										"cs-0.5"
 			"ypos"										"c20"
 			"wide"										"80"
 			"tall"										"100"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"0 255 255 32"
+		}
+
+		"RatBastard"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"RatBastard"
+			"xpos"										"cs-0.5"
+			"ypos"										"0"
+			"wide"										"200"
+			"tall"										"f0"
+			"proportionaltoparent"						"1"
+			"bgcolor_override"							"0 0 255 32"
 		}
 	}
 
