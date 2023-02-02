@@ -260,7 +260,7 @@
 		"tall"										"20"
 		"font"										"regular14"
 		"textAlignment"								"east"
-		"labelText"									"insomniaHUD v0.3.3"
+		"labelText"									"insomniaHUD v0.3.4"
 		"mouseinputenabled"							"0"
 		"fgcolor"									"Text0"
 	}
