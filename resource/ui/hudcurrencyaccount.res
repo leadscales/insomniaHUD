@@ -14,8 +14,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
-		"font"										"regular16"
-		"fgcolor"									"White"
+		"font"										"bold18"
+		"fgcolor"									"Text0"
 	}
 
 	"CurrencyShadow"
@@ -32,7 +32,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
-		"font"										"regular16"
+		"font"										"bold18Blur"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"Currency"

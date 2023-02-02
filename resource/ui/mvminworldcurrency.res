@@ -14,8 +14,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
-		"font"										"regular16"
-		"fgcolor"									"100 255 0 255"
+		"font"										"bold18"
+		"fgcolor"									"Positive"
 	}
 
 	"CurrencyBad"
@@ -32,8 +32,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
-		"font"										"regular16"
-		"fgcolor"									"255 0 0 255"
+		"font"										"bold18"
+		"fgcolor"									"Negative"
 	}
 
 	"CurrencyShadow"
@@ -50,7 +50,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%currency%"
 		"textAlignment"								"center"
-		"font"										"regular16"
+		"font"										"bold18Blur"
 		"fgcolor"									"Black"
 
 		"pin_to_sibling"							"CurrencyGood"
