@@ -309,8 +309,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"BL_Black_3"
-								"border_armed"				"BL_White_4"
+								"border_default"			"BLBR_Black_3"
+								"border_armed"				"BLBR_White_4"
 							}
 						}
 					}
