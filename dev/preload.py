@@ -5,7 +5,8 @@ import vdf
 OUTPUT_FILE = pathlib.Path("../scripts/preload.res")
 
 PRELOAD_DIRECTORIES = [
-    pathlib.Path("../materials/sprites/obj_icons/")
+    pathlib.Path("../materials/sprites/obj_icons/"),
+    pathlib.Path("../materials/hud/")
 ]
 
 PRELOAD_ELEMENT_TEMPLATE = {
