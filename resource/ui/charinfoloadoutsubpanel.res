@@ -2272,7 +2272,7 @@
 		"wide"										"f0"
 		"tall"										"20"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"PanelO2"
+		"bgcolor_override"							"PanelO1"
 
 		"ClassButtons"
 		{

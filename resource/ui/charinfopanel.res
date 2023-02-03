@@ -39,7 +39,7 @@
 		"tall"										"f0"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelO2"
+		"bgcolor_override"							"PanelO1"
 	}
 
 	"ClassLabel"
@@ -138,7 +138,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"TLBL_PanelO5_0"
+		"border_armed"								"TLBL_PanelO4_0"
 	}
 
 	"CloseButton"
@@ -162,7 +162,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"TRBR_PanelO5_0"
+		"border_armed"								"TRBR_PanelO4_0"
 
 		"pin_to_sibling"							"BackButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -180,7 +180,7 @@
 		"tall"										"16"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"TLTRBLBR_PanelO4_0"
+		"border"									"TLTRBLBR_PanelO3_0"
 		"mouseinputenabled"							"0"
 	}
 

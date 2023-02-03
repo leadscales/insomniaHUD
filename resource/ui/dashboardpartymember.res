@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
-		"fgcolor_override"	"Text0"
+		"fgcolor_override"	"AccentMain"
 		"labeltext"		"+"
 		"font"			"iconsSmall"
 		"textAlignment"	"center"
@@ -154,10 +154,10 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"	"Blank"
-		"armedFgColor_override"		"Text0"
+		"armedFgColor_override"		"AccentMain"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"TLTRBLBR_PanelO3_0"
+		"border_armed"		"TLTRBLBR_AccentMain_4"
 	}
 
 	"Spinner"

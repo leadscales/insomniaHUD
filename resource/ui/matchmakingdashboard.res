@@ -41,7 +41,7 @@
 			"wide"			"f0"
 			"tall"			"20"
 			"visible"		"1"
-			"bgcolor_override"	"PanelO0"
+			"bgcolor_override"	"PanelT3"
 		}
 
 		"PartyBG"
@@ -55,7 +55,7 @@
 			"tall"										"16"
 			"visible"									"1"
 			"enabled"									"1"
-			"border"									"TLTRBLBR_PanelO2_0"
+			"border"									"TLTRBLBR_Black_3"
 			"mouseinputenabled"							"0"
 		}
 
@@ -88,13 +88,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Text0"
-			"fgcolor"					"Text0"
-			"defaultFgColor_override"	"Text0"
-			"armedFgColor_override"		"Text0"
+			"fgcolor_override"			"AccentMain"
+			"fgcolor"					"AccentMain"
+			"defaultFgColor_override"	"AccentMain"
+			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"TLBL_PanelO3_0"
+			"border_armed"		"TLBL_AccentMain_4"
 		}
 
 		"PartySlot0"
@@ -521,7 +521,7 @@
 			"tall"										"16"
 			"visible"									"1"
 			"enabled"									"1"
-			"border"									"TLTRBLBR_PanelO2_0"
+			"border"									"TLTRBLBR_Black_3"
 			"mouseinputenabled"							"0"
 		}
 
@@ -555,13 +555,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Negative"
-			"fgcolor"					"Negative"
-			"defaultFgColor_override"	"Negative"
-			"armedFgColor_override"		"Negative"
+			"fgcolor_override"			"AccentMain"
+			"fgcolor"					"AccentMain"
+			"defaultFgColor_override"	"AccentMain"
+			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"TRBR_Negative_4"
+			"border_armed"		"TRBR_AccentMain_4"
 		}
 
 		"DisconnectButton"
@@ -593,13 +593,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Negative"
-			"fgcolor"					"Negative"
-			"defaultFgColor_override"	"Negative"
-			"armedFgColor_override"		"Negative"
+			"fgcolor_override"			"AccentMain"
+			"fgcolor"					"AccentMain"
+			"defaultFgColor_override"	"AccentMain"
+			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"TRBR_Negative_4"
+			"border_armed"		"TRBR_AccentMain_4"
 		}
 
 		"ResumeButton"
@@ -651,13 +651,13 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Text0"
-			"fgcolor"					"Text0"
-			"defaultFgColor_override"	"Text0"
-			"armedFgColor_override"		"Text0"
+			"fgcolor_override"			"AccentMain"
+			"fgcolor"					"AccentMain"
+			"defaultFgColor_override"	"AccentMain"
+			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"TLBL_PanelO3_0"
+			"border_armed"		"TLBL_AccentMain_4"
 		}
 	}
 }

@@ -1,5 +1,4 @@
 #base "../../scripts/preload.res"
-#base "../../ext/pop_up_panel.res"
 #base "../../customization/dev/customization_menu_enabled.res"
 
 "Resource/UI/MainMenuOverride.res"
@@ -97,6 +96,21 @@
 		}
 	}
 
+	"DashboardDimmer"
+	{
+		"wide"										"f0"
+		"tall"										"f40"
+		"defaultBgColor_override"					"PanelT2"
+		"armedBgColor_override"						"PanelT2"
+	}
+
+	"MOTD_Panel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"MOTD_Panel"
+		"xpos"										"9999"
+	}
+
 	"MenuColorizer"
 	{
 		"ControlName"								"EditablePanel"
@@ -176,7 +190,7 @@
 		"ypos"										"30"
 		"zpos"										"50"
 		"wide"										"200"
-		"tall"										"f100"
+		"tall"										"f80"
 		"visible"									"1"
 		"enabled"									"1"
 		"border"									"TLTRBLBR_Black_2"
@@ -190,7 +204,7 @@
 		"ypos"										"30"
 		"zpos"										"49"
 		"wide"										"200"
-		"tall"										"f100"
+		"tall"										"f80"
 		"visible"									"1"
 		"enabled"									"1"
 		"border"									"TLTRBLBR_AccentMain_4"
@@ -204,10 +218,10 @@
 		"ypos"										"rs1"
 		"zpos"										"9"
 		"wide"										"f0"
-		"tall"										"60"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelO0"
+		"bgcolor_override"							"PanelT4"
 	}
 
 	"StaticTFLogo"
@@ -215,7 +229,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"StaticTFLogo"
 		"xpos"										"cs-0.5"
-		"ypos"										"cs-0.5-20"
+		"ypos"										"cs-0.5"
 		"zpos"										"10"
 		"wide"										"100"
 		"tall"										"100"
@@ -245,16 +259,16 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"BetaLabel"
 		"xpos"										"rs1-10"
-		"ypos"										"rs1-65"
-		"wide"										"f10"
-		"tall"										"20"
+		"ypos"										"rs1-50"
+		"wide"										"f20"
+		"tall"										"9"
 		"proportionaltoparent"						"1"	
 		"mouseinputenabled"							"0"
 		"labeltext"									"BETA"
 		"font"										"bold18"
 		"fgcolor"									"AccentMain"
-		"textalignment"								"south-east"
-		"alpha"										"128"
+		"textalignment"								"east"
+		"alpha"										"96"
 	}
 
 	//==================================================================================================================================================
@@ -615,7 +629,7 @@
 		"ypos"										"0"
 		"zpos"										"51"
 		"wide"										"200"
-		"tall"										"220"
+		"tall"										"240"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
@@ -938,7 +952,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"GameButtons"
 		"xpos"										"0"
-		"ypos"										"-10"
+		"ypos"										"0"
 		"zpos"										"10"
 		"wide"										"160"
 		"tall"										"40"
@@ -993,8 +1007,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"TLBL_PanelO2_0"
-				"border_armed"				"TLBL_PanelO3_0"
+				"border_default"			"NoBorder"
+				"border_armed"				"NONE_Black_3"
 			}
 		}
 
@@ -1046,8 +1060,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NONE_PanelO2_0"
-				"border_armed"				"NONE_PanelO3_0"
+				"border_default"			"NoBorder"
+				"border_armed"				"NONE_Black_3"
 			}
 		}
 
@@ -1100,8 +1114,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NONE_PanelO2_0"
-				"border_armed"				"NONE_PanelO3_0"
+				"border_default"			"NoBorder"
+				"border_armed"				"NONE_Black_3"
 			}
 		}
 
@@ -1153,8 +1167,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"TRBR_PanelO2_0"
-				"border_armed"				"TRBR_PanelO3_0"
+				"border_default"			"NoBorder"
+				"border_armed"				"NONE_Black_3"
 			}
 		}
 	}

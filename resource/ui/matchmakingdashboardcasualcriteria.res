@@ -9,7 +9,7 @@
 		"ypos"			"30"
 		"zpos"			"1002"
 		"wide"			"210"
-		"tall"			"f100"
+		"tall"			"f80"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"paintbackground"	"0"

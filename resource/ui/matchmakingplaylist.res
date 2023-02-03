@@ -19,9 +19,9 @@
 	{
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CasualEntry"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"tall"			"50"
+		"xpos"			"0"
+		"ypos"			"0"
+		"tall"			"40"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -35,28 +35,6 @@
 		{
 			"ypos"			"0"
 		}
-	}
-
-	"CasualEntry2"
-	{
-		"ControlName"		"CExButton"
-		"fieldName"			"CasualEntry2"
-		"xpos"				"0"
-		"ypos"				"0"
-		"wide"				"120"
-		"tall"				"40"
-		"labeltext"			"#MMenu_PlayList_Casual_Button"
-		"font"				"regular14"
-		"textAlignment"		"center"
-		"command"			"play_casual"
-		"actionsignallevel"	"1"
-		"paintbackground"	"0"
-
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
-
-		"border_default"	"TLBL_PanelO2_0"
-		"border_armed"		"TLBL_PanelO3_0"
 	}
 
 	"CompetitiveEntry"
@@ -80,7 +58,7 @@
 			"ypos"			"0"
 		}
 
-		"pin_to_sibling"	"CasualEntry2"
+		"pin_to_sibling"	"CasualEntry"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
 		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
@@ -151,8 +129,8 @@
 		"actionsignallevel"	"1"
 		"paintbackground"	"0"
 
-		"border_default"	"TRBR_PanelO2_0"
-		"border_armed"		"TRBR_PanelO3_0"
+		"border_default"	"NoBorder"
+		"border_armed"		"NONE_PanelO2_0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -167,24 +145,6 @@
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"CreateServerEntry"
 		"xpos"			"9999"
-		"ypos"			"9999"
-		"tall"			"0"
-		"wide"			"0"
-		"proportionaltoparent"	"1"
-
-		"image_name"		"main_menu/main_menu_button_custom_server"
-		"button_token"		"#MMenu_PlayList_CreateServer_Button"
-		"button_command"	"create_server"
-		"desc_token"		"#MMenu_PlayList_CreateServer_Desc"
-
-		if_event
-		{
-			"ypos"			"0"
-		}
-
-		"pin_to_sibling"	"ServerBrowserEntry"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"TrainingEntry"
@@ -192,20 +152,6 @@
 		"ControlName"	"CPlayListEntry"
 		"fieldName"		"TrainingEntry"
 		"xpos"			"9999"
-		"ypos"			"9999"
-		"tall"			"0"
-		"wide"			"0"
-		"proportionaltoparent"	"1"
-
-		"image_name"		"main_menu/main_menu_button_training"
-		"button_token"		"#MMenu_PlayList_Training_Button"
-		"button_command"	"play_training"
-		"desc_token"		"#MMenu_PlayList_Training_Desc"
-
-		if_event
-		{
-			"ypos"			"9999"
-		}
 	}
 
 	"ScrollBar"

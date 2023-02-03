@@ -9,7 +9,7 @@
 		"ypos"			"rs1"
 		"zpos"			"1001"
 		"wide"			"f0"
-		"tall"			"60"
+		"tall"			"40"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
@@ -37,7 +37,7 @@
 	//	"ControlName"	"CTFPlaylistPanel"
 		"fieldName"		"playlist"
 		"xpos"			"cs-0.5"
-		"ypos"			"10"
+		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"600"
 		"tall"			"40"

@@ -46,7 +46,7 @@
 		
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
-		"border"			"NONE_PanelO2_0"
+		"border"			"NoBorder"
 	}
 
 	
@@ -118,7 +118,7 @@
 		"depressedFgColor_override" "Text0"
 
 		"border_default"			"NoBorder"
-		"border_armed"				"NONE_PanelO3_0"
+		"border_armed"				"NONE_PanelO2_0"
 	}	
 
 	"MatchmakingBanPanel"
