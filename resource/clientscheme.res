@@ -17,6 +17,7 @@
 
 #base "../resource/scheme/borders.res"
 #base "../resource/scheme/borders_extra.res"
+#base "../resource/scheme/borders_accent.res"
 
 //=========================================================
 // DEFAULT TF2 SCHEME

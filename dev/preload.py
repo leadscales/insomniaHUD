@@ -19,9 +19,9 @@ PRELOAD_ELEMENT_TEMPLATE = {
 }
 
 
-def main():
+def main() -> None:
 
-    preload_dict: dict[str, dict] = {  # type: ignore
+    preload_dict: dict[str, dict] = {
         "Resource/UI/MainMenuOverride.res": {
 
         }
@@ -42,7 +42,7 @@ def main():
             })
             preload_dict["Resource/UI/MainMenuOverride.res"][file[:-4]] = _d
 
-    with open(OUTPUT_FILE, "w") as file:
+    with open(OUTPUT_FILE, "w") as file:  # type: ignore
         vdf.dump(preload_dict, file, pretty=True)
 
 
