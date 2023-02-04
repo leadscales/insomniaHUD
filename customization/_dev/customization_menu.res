@@ -1,4 +1,4 @@
-"#base"		"customization_menu_submenus/accent_color.res"
+"#base"		"customization_menu_submenus/accent_color/accent_color.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	"MainMenuOverride"

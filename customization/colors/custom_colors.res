@@ -1,6 +1,6 @@
-#base "dev/accent_color/custom.res"
-#base "dev/accent_color/current.res"
-#base "dev/accent_color/_default.res"
+#base "custom_accent_color.res"
+#base "_dev/accent_color_res/_current.res"
+#base "_dev/accent_color_res/_default.res"
 
 "Scheme"
 {

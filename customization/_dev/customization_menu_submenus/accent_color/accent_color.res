@@ -1,4 +1,4 @@
-"#base"		"_accent_color_buttons.res"
+"#base"		"accent_color_buttons.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	"MainMenuOverride"
