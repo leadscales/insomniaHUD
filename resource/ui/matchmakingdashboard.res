@@ -269,7 +269,7 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"TLTRBLBR_PanelO3_0"
+				"border"		"TLTRBLBR_Black_3"
 			}
 
 			"QueueLogoButton"
@@ -296,6 +296,7 @@
 				"wide"						"16"
 				"tall"						"16"
 				"image"						"replay/thumbnails/ui_effects/loading_animation_small"
+				"drawcolor"					"AccentMain"
 				"scaleImage"				"1"
 				"mouseinputenabled"			"0"
 				"proportionaltoparent"		"1"
@@ -365,7 +366,7 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"TLTRBLBR_Negative_4"
+				"border_armed"		"TLTRBLBR_AccentMain_4"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -401,7 +402,7 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"TLTRBLBR_Negative_4"
+				"border_armed"		"TLTRBLBR_AccentMain_4"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
