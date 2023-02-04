@@ -21,13 +21,19 @@
 		"ypos"										"cs-0.5"
 		"wide"										"f0"
 		"tall"										"40"
+		"autoResize"								"0"
+		"pinCorner"									"0"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"#game_respawntime_in_secs"
 		"textAlignment"								"center"
 		"font"										"regular14"
-		"fgcolor"   								"Text0"
-		"proportionaltoparent"						"1"
+		"allcaps"									"1"
+
+		if_mvm
+		{
+			"ypos"		"80"
+		}
 	}
 
 	"BuyBackLabel"
