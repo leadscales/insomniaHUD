@@ -939,14 +939,7 @@
 		"fieldName"				"StatPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-133"
-		"xpos_lodef"			"c-190"
-		"ypos"				"270"
-		"ypos_lodef"			"250"
-		"wide"					"266"
-		"wide_lodef"			"400"
-		"tall"					"120"
-		"tall_lodef"			"190"
+		"xpos"					"9999"
 	}
 	
 	FreezePanel
@@ -963,10 +956,10 @@
 	FreezePanelCallout
 	{
 		"fieldName"				"FreezePanelCallout"
-		"visible"				"1"
-		"enabled"				"1"
-		"xpos"					"200"
-		"ypos"					"200"
+		"visible"				"0"
+		"enabled"				"0"
+		"xpos"					"9999"
+		"ypos"					"9999"
 		"wide"					"100"
 		"tall"					"50"
 	}

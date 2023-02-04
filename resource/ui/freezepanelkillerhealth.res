@@ -7,12 +7,12 @@
 		"xpos"										"cs-0.5"
 		"ypos"										"cs-0.5"
 		"zpos"										"19"
-		"wide"										"20"
-		"tall"										"20"
+		"wide"										"0"
+		"tall"										"0"
 		"visible"									"0"
-		"enabled"									"1"
+		"enabled"									"0"
 		"proportionaltoparent"						"1"
-		"image"										"../hud/health_over_bg"
+		"image"										"replay/thumbnails/misc/blank"
 		"scaleImage"								"1"
 	}
 
@@ -30,7 +30,7 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labeltext"									"%Health%"
-		"font"										"regular24"
+		"font"										"bold18"
 		"fgcolor"  									"HealthNormal"
 	}
 
@@ -48,34 +48,11 @@
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labeltext"									"%Health%"
-		"font"										"regular24"
+		"font"										"bold18Blur"
 		"fgcolor"  									"Black"
 
 		"pin_to_sibling"							"PlayerStatusHealthValueKiller"
 	}
-
-	"PlayerStatusHealthValueShadowExtra"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"PlayerStatusHealthValueShadowExtra"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"20"
-		"wide"										"f-1"
-		"tall"										"f-1"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"textAlignment"								"center"
-		"labeltext"									"%Health%"
-		"font"										"regular24"
-		"fgcolor"  									"Black"
-		"alpha"  									"0"
-
-		"pin_to_sibling"							"PlayerStatusHealthValueShadowKiller"
-	}
-
-
 
 	//==================================================================================================================================================
 	// REMOVED ELEMENTS
