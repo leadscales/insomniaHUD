@@ -1,5 +1,19 @@
+#base "../customization/_dev/crosshairs/crosshair_size.res"
+#base "../customization/_dev/crosshairs/crosshair_shape.res"
+#base "../customization/_dev/crosshairs/hitmarker_shape.res"
+#base "../customization/_dev/crosshairs/hitmarker_size.res"
+
 "Resource/HudLayout.res"
 {
+	"IHCrosshair"
+	{
+		"fgcolor"									"Crosshair"
+	}
+	"IHHitmarker"
+	{
+		"alpha"										"0"
+		"fgcolor"									"Hitmarker"
+	}
 	"AlignmentHelper"
 	{
 		"ControlName"								"EditablePanel"

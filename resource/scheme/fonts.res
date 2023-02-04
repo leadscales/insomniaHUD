@@ -325,25 +325,6 @@
 			}
 		}
 
-		"m0reSymbols18"
-		{
-			"1"
-			{
-				"name"										"m0rehud Icons V4"
-				"tall"										"18"
-				"antialias" 								"1"
-			}
-		}
-		"m0reSymbols20"
-		{
-			"1"
-			{
-				"name"										"m0rehud Icons V4"
-				"tall"										"20"
-				"antialias" 								"1"
-			}
-		}
-
 		"bold11"
 		{
 			"1"
@@ -648,15 +629,10 @@
 		}
 		"11"
 		{
-			"font" 		"resource/scheme/fonts/m0rehud icons.ttf"
-			"name" 		"m0rehud Icons V4"
-		}
-		"12"
-		{
 			"font"		"resource/scheme/fonts/Icons.ttf"
 			"name"		"Icons"
 		}
-		"13"
+		"12"
 		{
 			"font"		"resource/scheme/fonts/Chars.ttf"
 			"name"		"Chars"

@@ -10,6 +10,7 @@
 //=========================================================
 
 #base "../resource/scheme/fonts.res"
+#base "../resource/scheme/crosshairs.res"
 
 //=========================================================
 // BORDERS SCHEME

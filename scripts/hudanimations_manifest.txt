@@ -7,5 +7,6 @@
 	"file" "scripts/animations/animations_spy.txt"
 	"file" "scripts/animations/animations_misc.txt"
 	"file" "scripts/animations/animations_removed.txt"
+	"file" "scripts/animations/animations_hitmarker.txt"
 	"file" "scripts/hudanimations_tf.txt"
 }

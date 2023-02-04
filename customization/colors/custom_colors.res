@@ -14,6 +14,9 @@
 		"HealNumbers"										"64 160 255 255"
 		"DamageNumbers"										"255 64 64 255"
 
+		"Crosshair"											"255 255 255 255"
+		"Hitmarker"											"255 64 64 255"
+
 		// Health
 
 		"HealthNormal"										"255 255 255 255"

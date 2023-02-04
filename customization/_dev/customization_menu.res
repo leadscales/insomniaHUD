@@ -1,4 +1,6 @@
 "#base"		"customization_menu_submenus/accent_color/accent_color.res"
+"#base"		"customization_menu_submenus/crosshair/crosshair.res"
+"#base"		"customization_menu_submenus/hitmarker/hitmarker.res"
 "Resource/UI/MainMenuOverride.res"
 {
 	"MainMenuOverride"
@@ -68,13 +70,13 @@
 				"ControlName"				"EditablePanel"
 				"fieldName"					"MainPanel"
 				"xpos"						"cs-0.5"
-				"ypos"						"20"
+				"ypos"						"0"
 				"zpos"						"50"
-				"wide"						"600"
-				"tall"						"440"
+				"wide"						"640"
+				"tall"						"480"
 				"proportionaltoparent"		"1"
 				"paintbackground"			"0"
-				"border"					"TLTRBLBR_Black_2"
+				"border"					"NONE_Black_2"
 				"Title"
 				{
 					"ControlName"				"CExLabel"
@@ -88,7 +90,7 @@
 					"labelText"					"CUSTOMIZE"
 					"textAlignment"				"center"
 					"fgcolor"					"Text0"
-					"border"					"TLTR_Black_2"
+					"border"					"NONE_Black_2"
 				}
 				"RestartWarning"
 				{
@@ -111,8 +113,8 @@
 					"fieldName"					"SectionContainer"
 					"xpos"						"0"
 					"ypos"						"20"
-					"wide"						"600"
-					"tall"						"420"
+					"wide"						"f0"
+					"tall"						"f40"
 					"proportionaltoparent"		"1"
 					"paintbackground"			"0"
 				}
@@ -134,7 +136,7 @@
 					"sound_depressed"			"UI/buttonclick.wav"
 					"sound_released"			"UI/buttonclickrelease.wav"
 					"border_default"			"NoBorder"
-					"border_armed"				"TLTRBLBR_Black_3"
+					"border_armed"				"NONE_Black_3"
 				}
 			}
 			"Colorizer"
@@ -144,11 +146,11 @@
 				"xpos"						"0"
 				"ypos"						"0"
 				"zpos"						"49"
-				"wide"						"600"
-				"tall"						"440"
+				"wide"						"640"
+				"tall"						"480"
 				"proportionaltoparent"		"1"
 				"paintbackground"			"0"
-				"border"					"TLTRBLBR_AccentMain_4"
+				"border"					"NONE_AccentMain_4"
 				"pin_to_sibling"			"MainPanel"
 			}
 		}

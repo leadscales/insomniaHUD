@@ -16,9 +16,9 @@
 						"xpos"						"5"
 						"ypos"						"5"
 						"wide"						"210"
-						"tall"						"390"
+						"tall"						"f10"
 						"proportionaltoparent"		"1"
-						"border"					"TLTRBLBR_Black_2"
+						"border"					"NONE_Black_2"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -49,7 +49,7 @@
 								"ControlName"				"CExButton"
 								"fieldName"					"Reset"
 								"xpos"						"rs1"
-								"ypos"						"rs1"
+								"ypos"						"rs3"
 								"wide"						"20"
 								"tall"						"20"
 								"proportionaltoparent"		"1"
@@ -63,6 +63,36 @@
 								"sound_released"			"UI/buttonclickrelease.wav"
 								"border_default"			"NONE_PanelO0_0"
 								"border_armed"				"NONE_PanelO2_0"
+							}
+							"Hint1"
+							{
+								"ControlName"				"CExLabel"
+								"fieldName"					"Hint1"
+								"xpos"						"0"
+								"ypos"						"rs2"
+								"wide"						"f0"
+								"tall"						"20"
+								"proportionaltoparent"		"1"
+								"font"						"regular12"
+								"labelText"					"HINT: Edit this file to add a custom color:"
+								"fgcolor"					"TextT4"
+								"textAlignment"				"center"
+								"border"					"NoBorder"
+							}
+							"Hint2"
+							{
+								"ControlName"				"CExLabel"
+								"fieldName"					"Hint2"
+								"xpos"						"0"
+								"ypos"						"rs1"
+								"wide"						"f0"
+								"tall"						"20"
+								"proportionaltoparent"		"1"
+								"font"						"regular12"
+								"labelText"					"/customization/colors/custom_accent_color.res"
+								"fgcolor"					"TextT4"
+								"textAlignment"				"center"
+								"border"					"NoBorder"
 							}
 						}
 					}

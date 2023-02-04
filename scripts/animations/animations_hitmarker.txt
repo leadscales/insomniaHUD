@@ -1,0 +1,4 @@
+event DamagedPlayer {
+	Animate IHHitmarker Alpha 255 Linear 0.0 0.0
+	Animate IHHitmarker Alpha 0 Linear 0.0 0.15
+}
