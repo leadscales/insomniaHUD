@@ -29,14 +29,4 @@
 		"command" 									"engine"
 		"OnlyInGame"								"1"
 	}
-	"Customize"
-	{
-		"command"									"engine"
-		"OnlyAtMenu"								"1"
-	}
-	"CustomizeInGame"
-	{
-		"command"									"engine"
-		"OnlyInGame"								"1"
-	}
 }
