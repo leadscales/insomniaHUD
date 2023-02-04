@@ -29,12 +29,12 @@
 		"command" 									"engine"
 		"OnlyInGame"								"1"
 	}
-	"CustomizeButton"
+	"Customize"
 	{
 		"command"									"engine"
 		"OnlyAtMenu"								"1"
 	}
-	"CustomizeButtonInGame"
+	"CustomizeInGame"
 	{
 		"command"									"engine"
 		"OnlyInGame"								"1"

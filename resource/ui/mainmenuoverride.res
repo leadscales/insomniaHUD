@@ -394,7 +394,7 @@
 		"ypos"										"0"
 		"zpos"										"51"
 		"wide"										"200"
-		"tall"										"60"
+		"tall"										"80"
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
 
@@ -614,6 +614,145 @@
 					"border_armed"							"TLTRBLBR_Black_3"
 				}
 			}
+
+			"Customize"
+			{
+				"ControlName"								"EditablePanel"
+				"fieldname"									"Customize"
+				"xpos"										"0"
+				"ypos"										"0"
+				"zpos"										"15"
+				"wide"										"f0"
+				"tall"										"20"
+				"proportionaltoparent"						"1"
+				"paintbackground"							"0"
+
+				"pin_to_sibling"							"Store"
+				"pin_corner_to_sibling"						"PIN_TOPLEFT"
+				"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+
+				"CustomizeButton"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"CustomizeButton"
+					"xpos"									"0"
+					"ypos"									"0"
+					"zpos"									"16"
+					"wide"									"f0"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+
+					"labelText"								"#MMenu_Customize"
+					"allcaps"								"1"
+					"actionsignallevel"						"4"
+					"font"									"regular14"
+					"textalignment"							"west"
+					"textinsetx"							"5"
+					"use_proportional_insets"				"1"
+					"command"								"engine ih_custom_on; ih_reloadmenus"
+					"sound_depressed"						"UI/buttonclick.wav"
+					"sound_released"						"UI/buttonclickrelease.wav"
+
+					"paintbackground"						"0"
+					"border_default"						"NoBorder"
+					"border_armed"							"NONE_Black_3"
+				}
+
+				"CustomizeButtonExtra"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"CustomizeButtonExtra"
+					"xpos"									"rs1-2"
+					"ypos"									"2"
+					"zpos"									"17"
+					"wide"									"16"
+					"tall"									"16"
+					"proportionaltoparent"					"1"
+					
+					"labelText"								"p"
+					"actionsignallevel"						"4"
+					"font"									"iconsSmall"
+					"textalignment"							"center"
+					"command"								"engine ih_custom_on; ih_reloadmenus"
+					"sound_depressed"						"UI/buttonclick.wav"
+					"sound_released"						"UI/buttonclickrelease.wav"
+
+					"paintbackground"						"0"
+					"border_default"						"NoBorder"
+					"border_armed"							"TLTRBLBR_Black_3"
+				}
+			}
+
+			"CustomizeInGame"
+			{
+				"ControlName"								"EditablePanel"
+				"fieldname"									"CustomizeInGame"
+				"xpos"										"0"
+				"ypos"										"0"
+				"zpos"										"15"
+				"wide"										"f0"
+				"tall"										"20"
+				"proportionaltoparent"						"1"
+				"paintbackground"							"0"
+				"mouseinputenabled"							"0"
+
+				"pin_to_sibling"							"Store"
+				"pin_corner_to_sibling"						"PIN_TOPLEFT"
+				"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+
+				"CustomizeButton"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"CustomizeButton"
+					"xpos"									"0"
+					"ypos"									"0"
+					"zpos"									"16"
+					"wide"									"f0"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+
+					"labelText"								"#MMenu_Customize"
+					"allcaps"								"1"
+					"actionsignallevel"						"4"
+					"font"									"regular14"
+					"textalignment"							"west"
+					"textinsetx"							"5"
+					"use_proportional_insets"				"1"
+					"command"								"engine ih_custom_on; ih_reloadmenus"
+					"sound_depressed"						"UI/buttonclick.wav"
+					"sound_released"						"UI/buttonclickrelease.wav"
+
+					"paintbackground"						"0"
+					"border_default"						"NoBorder"
+					"border_armed"							"NONE_Black_3"
+					"defaultFgColor_override"				"TextT4"
+				}
+
+				"CustomizeButtonExtra"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"CustomizeButtonExtra"
+					"xpos"									"rs1-2"
+					"ypos"									"2"
+					"zpos"									"17"
+					"wide"									"16"
+					"tall"									"16"
+					"proportionaltoparent"					"1"
+					
+					"labelText"								"n"
+					"actionsignallevel"						"4"
+					"font"									"iconsSmall"
+					"textalignment"							"center"
+					"command"								"engine ih_custom_on; ih_reloadmenus"
+					"sound_depressed"						"UI/buttonclick.wav"
+					"sound_released"						"UI/buttonclickrelease.wav"
+
+					"paintbackground"						"0"
+					"border_default"						"NoBorder"
+					"border_armed"							"TLTRBLBR_Black_3"
+					"defaultFgColor_override"				"TextT4"
+				}
+			}
 		}
 	}
 
@@ -685,96 +824,6 @@
 	}
 
 	//==================================================================================================================================================
-	// CUSTOMIZE HUD
-	//==================================================================================================================================================
-
-	"CustomizeButton"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"CustomizeButton"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"53"
-		"wide"										"200"
-		"tall"										"20"
-		"proportionaltoparent"						"1"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"									"NONE_Black_2"
-		
-		"pin_to_sibling"							"FriendsContainer"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
-
-		"SubButton"
-		{
-			"ControlName"				"CExButton"
-			"fieldName"					"SubButton"
-			"xpos"						"0"
-			"ypos"						"0"
-			"wide"						"f0"
-			"tall"						"f0"
-			"proportionaltoparent"		"1"
-			"paintbackground"			"0"
-			"font"						"regular14"
-			"labelText"					"CUSTOMIZE HUD"
-			"textalignment"				"center"
-			"command"					"engine ih_custom_on; ih_reloadmenus"
-			"actionsignallevel"			"2"
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
-			
-			"border_default"			"NoBorder"
-			"border_armed"				"NONE_Black_3"
-		}
-	}
-
-	"CustomizeButtonInGame"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"CustomizeButtonInGame"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"53"
-		"wide"										"200"
-		"tall"										"20"
-		"proportionaltoparent"						"1"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"									"NONE_Black_2"
-		
-		"pin_to_sibling"							"FriendsContainer"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
-
-		"SubButton"
-		{
-			"ControlName"				"CExButton"
-			"fieldName"					"SubButton"
-			"xpos"						"0"
-			"ypos"						"0"
-			"wide"						"f0"
-			"tall"						"f0"
-			"proportionaltoparent"		"1"
-			"paintbackground"			"0"
-			"font"						"regular14"
-			"labelText"					"CUSTOMIZE HUD"
-			"textalignment"				"center"
-			"command"					"engine ih_custom_on; ih_reloadmenus"
-			"actionsignallevel"			"2"
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
-
-			"mouseinputenabled"			"0"
-			
-			"border_default"			"NoBorder"
-			"border_armed"				"NONE_Black_3"
-			"defaultFgColor_override"	"AccentMain"
-			"alpha"						"64"
-		}
-	}
-
-	//==================================================================================================================================================
 	// EXTRA BUTTONS
 	//==================================================================================================================================================
 
@@ -792,7 +841,7 @@
 		"bgcolor_override"							"Blank"
 		"border"									"BLBR_Black_2"
 
-		"pin_to_sibling"							"CustomizeButton"
+		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
