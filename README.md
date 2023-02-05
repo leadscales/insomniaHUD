@@ -90,6 +90,8 @@ In the main menu, there is a button labeled `CUSTOMIZE HUD`. This will enable Cu
 ![attack_defend](./assets/screenshots/attack_defend.jpg)
 ### Control Points
 ![control_points](./assets/screenshots/control_points.jpg)
+### KOTH
+![koth](./assets/screenshots/koth.jpg)
 ### CTF
 ![ctf](./assets/screenshots/ctf.jpg)
 ### Payload
