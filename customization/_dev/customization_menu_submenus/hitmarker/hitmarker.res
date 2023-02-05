@@ -61,8 +61,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 						}
 					}
@@ -118,8 +118,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"12"
 							{
@@ -138,8 +138,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"14"
 							{
@@ -158,8 +158,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"16"
 							{
@@ -178,8 +178,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"18"
 							{
@@ -198,8 +198,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"20"
 							{
@@ -218,8 +218,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"22"
 							{
@@ -238,8 +238,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"24"
 							{
@@ -258,8 +258,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"26"
 							{
@@ -278,8 +278,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"28"
 							{
@@ -298,8 +298,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"30"
 							{
@@ -318,8 +318,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 						}
 					}

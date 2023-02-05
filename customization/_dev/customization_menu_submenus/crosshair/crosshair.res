@@ -44,45 +44,45 @@
 							"tall"						"f30"
 							"proportionaltoparent"		"1"
 							"bgcolor_override"			"PanelO0"
-							"HideDefault"
+							"ToggleDefault"
 							{
 								"ControlName"				"CExButton"
-								"fieldName"					"HideDefault"
-								"xpos"						"rs2"
+								"fieldName"					"ToggleDefault"
+								"xpos"						"rs1-20"
 								"ypos"						"rs1"
-								"wide"						"80"
+								"wide"						"140"
 								"tall"						"20"
 								"proportionaltoparent"		"1"
-								"labelText"					"HIDE DEFAULT"
+								"labelText"					"TOGGLE DEFAULT ON/OFF"
 								"textAlignment"				"center"
 								"font"						"regular14"
 								"paintbackground"			"0"
-								"command"					"engine cl_crosshair_scale 0; cl_crosshairalpha 0"
+								"command"					"engine toggle crosshair"
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
-							"Revert"
+							"Reset"
 							{
 								"ControlName"				"CExButton"
-								"fieldName"					"Revert"
+								"fieldName"					"Reset"
 								"xpos"						"rs1"
 								"ypos"						"rs1"
-								"wide"						"80"
+								"wide"						"20"
 								"tall"						"20"
 								"proportionaltoparent"		"1"
-								"labelText"					"REVERT ALL"
+								"labelText"					"r"
 								"textAlignment"				"center"
-								"font"						"regular14"
+								"font"						"iconsSmall"
 								"paintbackground"			"0"
-								"command"					"engine ih_crosshair_default; ih_crosshair_shape_clear; ih_crosshair_size_clear; ih_reloadscheme"
+								"command"					"engine ih_crosshair_shape_clear; ih_crosshair_size_clear; ih_reloadscheme"
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 						}
 					}
@@ -138,8 +138,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"12"
 							{
@@ -158,8 +158,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"14"
 							{
@@ -178,8 +178,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"16"
 							{
@@ -198,8 +198,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"18"
 							{
@@ -218,8 +218,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"20"
 							{
@@ -238,8 +238,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"22"
 							{
@@ -258,8 +258,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"24"
 							{
@@ -278,8 +278,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"26"
 							{
@@ -298,8 +298,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"28"
 							{
@@ -318,8 +318,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 							"30"
 							{
@@ -338,8 +338,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO0_0"
-								"border_armed"				"NONE_PanelO2_0"
+								"border_default"			"NONE_PanelO2_0"
+								"border_armed"				"NONE_PanelO4_0"
 							}
 						}
 					}
