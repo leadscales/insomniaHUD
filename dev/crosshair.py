@@ -11,58 +11,17 @@ ACCEPTABLE_CHARS = [
 GENERATE_HITMARKERS = True
 
 
-def generate_crosshair_shapes(chars: list[str] = ACCEPTABLE_CHARS) -> list[dict]:
-    result = []
-
-    for char in chars:
-        result.append({
-            "Resource/HudLayout.res": {
-                "IHCrosshair" if not GENERATE_HITMARKERS else "IHHitmarker": {
-                    "ControlName": "CExLabel",
-                    "fieldName": "IHCrosshair" if not GENERATE_HITMARKERS else "IHHitmarker",
-                    "xpos": "cs-0.5",
-                    "ypos": "cs-0.5",
-                    "wide": "80",
-                    "tall": "80",
-                    "labeltext": char,
-                    "textalignment": "center"
-                }
-            }
-        })
-
-    return result
-
-
-def generate_crosshair_sizes(prefix: str = "Crosshairs", size: range = range(10, 31)) -> list[dict]:
-    result = []
-
-    for i in size:
-        result.append({
-            "Resource/HudLayout.res": {
-                "IHCrosshair" if not GENERATE_HITMARKERS else "IHHitmarker": {
-                    "font": f"{prefix}{i}"
-                }
-            }
-        })
-
-    return result
-
-
-def generate_aliases(shapes: list[dict], sizes: list[dict], size_offet: int = 10) -> str:
+def generate_aliases(shapes: list[str], sizes: range = range(12, 32, 2)) -> str:
     result = ""
-    prefix = ""
-
-    if not GENERATE_HITMARKERS:
-        prefix = "crosshair"
-    else:
-        prefix = "hitmarker"
 
     for shape in range(len(shapes)):
-        result += f"alias \"ih_{prefix}_shape_{shape}\" \"ih_{prefix}_shape_clear; con_logfile cfg/ih_{prefix}_shape.txt; echo #base ../custom/insomniaHUD/customization/_dev/crosshairs/{prefix}_res_files/shapes/{shape}.res; con_logfile console.log; ih_reloadscheme\"\n"
-
-    for size in range(len(sizes)):
-        result += f"alias \"ih_{prefix}_size_{size+size_offet}\" \"ih_{prefix}_size_clear; con_logfile cfg/ih_{prefix}_size.txt; echo #base ../custom/insomniaHUD/customization/_dev/crosshairs/{prefix}_res_files/sizes/{size+size_offet}.res; con_logfile console.log; ih_reloadscheme\"\n"
-
+        result += f"alias \"ih_crosshair_shape_{shape}\" \"ih_crosshair_shape_clear; con_logfile cfg/ih_crosshair_shape.txt; echo Resource/HudLayout.Res{{IHCrosshair{{labelText {shapes[shape]}}}}}; con_logfile .; ih_reloadscheme\"\n"
+    for size in sizes:
+        result += f"alias \"ih_crosshair_size_{size}\" \"ih_crosshair_size_clear; con_logfile cfg/ih_crosshair_size.txt; echo Resource/HudLayout.Res{{IHCrosshair{{font Crosshairs{size}}}}}; con_logfile .; ih_reloadscheme\"\n"
+    for shape in range(len(shapes)):
+        result += f"alias \"ih_hitmarker_shape_{shape}\" \"ih_hitmarker_shape_clear; con_logfile cfg/ih_hitmarker_shape.txt; echo Resource/HudLayout.Res{{IHHitmarker{{labelText {shapes[shape]}}}}}; con_logfile .; ih_reloadscheme\"\n"
+    for size in sizes:
+        result += f"alias \"ih_hitmarker_size_{size}\" \"ih_hitmarker_size_clear; con_logfile cfg/ih_hitmarker_size.txt; echo Resource/HudLayout.Res{{IHHitmarker{{font Crosshairs{size}}}}}; con_logfile .; ih_reloadscheme\"\n"
     return result
 
 
@@ -141,21 +100,10 @@ def main():
     pathlib.Path(OUTPUT, "shapes").mkdir(parents=True, exist_ok=True)
     pathlib.Path(OUTPUT, "sizes").mkdir(parents=True, exist_ok=True)
 
-    shapes = generate_crosshair_shapes()
-    sizes = generate_crosshair_sizes()
-
     buttons = generate_button_shapes()
 
-    for crosshair in range(len(shapes)):
-        with open(pathlib.Path(OUTPUT, "shapes", f"{crosshair}.res"), "w") as file:
-            vdf.dump(shapes[crosshair], file, True)
-
-    for size in range(len(sizes)):
-        with open(pathlib.Path(OUTPUT, "sizes", f"{size+10}.res"), "w") as file:
-            vdf.dump(sizes[size], file, True)
-
     with open(pathlib.Path(OUTPUT, "aliases.txt"), "w") as file:
-        file.write(generate_aliases(shapes, sizes))
+        file.write(generate_aliases(ACCEPTABLE_CHARS))
 
     with open(pathlib.Path(OUTPUT, "buttons.res"), "w") as file:
         vdf.dump(buttons, file, True)

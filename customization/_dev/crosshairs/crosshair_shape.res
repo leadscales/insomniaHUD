@@ -1,1 +1,0 @@
-#base "../../../../../cfg/ih_crosshair_shape.txt"
