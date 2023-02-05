@@ -42,3 +42,30 @@
 In the main menu, there is a button labeled `CUSTOMIZE HUD (WILL RESTART TF2)`. This will restart Team Fortress 2 and enable Customization mode. The options are self explanitory. As of right now you can only edit the colors, but more options such as Crosshairs and Hitmarkers will be added very soon.
 
 ---
+
+## Screenshots
+
+### Main Menu (Animated)
+![main_menu](./assets/screenshots/main_menu.jpg)
+### Main Menu (In-Game) (Animated)
+![main_menu_ig](./assets/screenshots/main_menu_ingame.jpg)
+### Customization Menu (Animated)
+![customization_menu](./assets/screenshots/customization_menu.jpg)
+### Items Menu
+![items](./assets/screenshots/items_menu.jpg)
+### Backpack
+![backpack](./assets/screenshots/backpack.jpg)
+### Class Loadout
+![class_loadout](./assets/screenshots/class_loadout.jpg)
+### Team Menu
+![team_menu](./assets/screenshots/team_menu.jpg)
+### Class Menu
+![class_menu](./assets/screenshots/class_menu.jpg)
+### Attack/Defend
+![attack_defend](./assets/screenshots/attack_defend.jpg)
+### Control Points
+![control_points](./assets/screenshots/control_points.jpg)
+### CTF
+![ctf](./assets/screenshots/ctf.jpg)
+### Payload
+![payload](./assets/screenshots/payload.jpg)
