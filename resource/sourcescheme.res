@@ -1,6 +1,6 @@
 "#base"		"SourceSchemeBase.res"
 "#base"		"scheme/colors.res"
-"#base"		"../customization/custom_colors.res"
+"#base"		"../customization/colors/custom_colors.res"
 
 "Scheme"
 {
