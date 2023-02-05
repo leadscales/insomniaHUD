@@ -1,4 +1,5 @@
 #base "../../scripts/preload.res"
+#base "../../setup/setup_menu.res"
 #base "../../customization/_dev/customization_menu_toggle.res"
 
 "Resource/UI/MainMenuOverride.res"

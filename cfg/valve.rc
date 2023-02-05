@@ -29,3 +29,8 @@ exec ih_servers
 
 // Resize dashboard dimmer
 echo insomniaHUD: Resizing dashboard dimmer...; wait 20; showconsole; wait 10; toggle mat_aaquality; hideconsole;
+
+// Setup
+alias "ih_setup" "exec ih_setup"
+exec ih_setup_complete.txt
+ih_setup
