@@ -28,25 +28,6 @@
 	}
 
 	//==================================================================================================================================================
-	// BUFF - HURT CROSS
-	//==================================================================================================================================================
-
-	"PlayerStatusHealthBonusImage"
-	{
-		"ControlName"	         				 	"ImagePanel"
-		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
-		"xpos"			         				 	"9999"
-		"ypos"			         				 	"9999"
-		"zpos"			         				 	"-9999"
-		"wide"			         				 	"0"
-		"tall"			         				 	"0"
-		"visible"		         				 	"0"
-		"enabled"		         				 	"0"
-		"image"			         				 	"../hud/health_over_bg"
-		"scaleImage"	         				 	"1"
-	}
-
-	//==================================================================================================================================================
 	// PLAYER HEALTH
 	//==================================================================================================================================================
 
@@ -94,9 +75,9 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"PlayerStatusAnchor"
-		"xpos"										"5"
+		"xpos"										"10"
 		"ypos"										"1"
-		"wide"										"0"
+		"wide"										"20"
 		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
@@ -699,6 +680,12 @@
 		"ControlName"	           				 	"ImagePanel"
 		"fieldName"	  	         				 	"PlayerStatusHealthImageBG"
 		"xpos"		    	          				"9999"
+	}
+	"PlayerStatusHealthBonusImage"
+	{
+		"ControlName"	         				 	"ImagePanel"
+		"fieldName"		         				 	"PlayerStatusHealthBonusImage"
+		"xpos"			         				 	"9999"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
