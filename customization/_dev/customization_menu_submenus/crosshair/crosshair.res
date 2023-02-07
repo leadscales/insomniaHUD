@@ -9,14 +9,25 @@
 			{
 				"SectionContainer"
 				{
+					"CrosshairsColorizer"
+					{
+						"ControlName"				"EditablePanel"
+						"fieldName"					"CrosshairsColorizer"
+						"xpos"						"215"
+						"ypos"						"0"
+						"wide"						"210"
+						"tall"						"225"
+						"proportionaltoparent"		"1"
+						"border"					"NONE_AccentMain_4"
+					}
 					"Crosshairs"
 					{
 						"ControlName"				"EditablePanel"
 						"fieldName"					"Crosshairs"
 						"xpos"						"215"
-						"ypos"						"5"
+						"ypos"						"0"
 						"wide"						"210"
-						"tall"						"230"
+						"tall"						"225"
 						"proportionaltoparent"		"1"
 						"border"					"NONE_Black_2"
 						"Title"
@@ -39,11 +50,12 @@
 							"ControlName"				"EditablePanel"
 							"fieldName"					"Buttons"
 							"xpos"						"5"
-							"ypos"						"25"
+							"ypos"						"20"
 							"wide"						"200"
-							"tall"						"f30"
+							"tall"						"f25"
 							"proportionaltoparent"		"1"
-							"bgcolor_override"			"PanelO0"
+							"bgcolor_override"			"Blank"
+							"border"					"NONE_Black_4"
 							"ToggleDefault"
 							{
 								"ControlName"				"CExButton"
@@ -61,8 +73,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"Reset"
 							{
@@ -81,19 +93,30 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 						}
+					}
+					"CrosshairSizeColorizer"
+					{
+						"ControlName"				"EditablePanel"
+						"fieldName"					"CrosshairSizeColorizer"
+						"xpos"						"215"
+						"ypos"						"225"
+						"wide"						"210"
+						"tall"						"65"
+						"proportionaltoparent"		"1"
+						"border"					"NONE_AccentMain_4"
 					}
 					"CrosshairSize"
 					{
 						"ControlName"				"EditablePanel"
 						"fieldName"					"CrosshairSize"
 						"xpos"						"215"
-						"ypos"						"235"
+						"ypos"						"225"
 						"wide"						"210"
-						"tall"						"70"
+						"tall"						"65"
 						"proportionaltoparent"		"1"
 						"border"					"NONE_Black_2"
 						"Title"
@@ -116,11 +139,11 @@
 							"ControlName"				"EditablePanel"
 							"fieldName"					"Buttons"
 							"xpos"						"5"
-							"ypos"						"25"
+							"ypos"						"20"
 							"wide"						"200"
-							"tall"						"f30"
+							"tall"						"f25"
 							"proportionaltoparent"		"1"
-							"bgcolor_override"			"PanelO0"
+							"border"					"NONE_Black_4"
 							"Reset"
 							{
 								"ControlName"				"CExButton"
@@ -138,8 +161,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"12"
 							{
@@ -158,8 +181,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"14"
 							{
@@ -178,8 +201,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"16"
 							{
@@ -198,8 +221,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"18"
 							{
@@ -218,8 +241,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"20"
 							{
@@ -238,8 +261,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"22"
 							{
@@ -258,8 +281,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"24"
 							{
@@ -278,8 +301,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"26"
 							{
@@ -298,8 +321,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"28"
 							{
@@ -318,8 +341,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 							"30"
 							{
@@ -338,8 +361,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"NONE_Black_3"
+								"border_armed"				"NONE_Black_2"
 							}
 						}
 					}

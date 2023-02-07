@@ -16,6 +16,21 @@
 		"paintbackground"							"0"
 		"border"									"TLTR_Black_1"
 
+		"TopDarken"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"TopDarken"
+			"xpos"										"0"
+			"ypos"										"0"
+			"zpos"										"3"
+			"wide"										"f0"
+			"tall"										"40"
+			"proportionaltoparent"						"1"
+			"visible"									"1"
+			"enabled"									"1"
+			"border"									"TLTR_Black_2"
+		}
+
 		"GlowContainer"
 		{
 			"ControlName"								"EditablePanel"
