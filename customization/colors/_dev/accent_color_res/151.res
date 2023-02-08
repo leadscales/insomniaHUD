@@ -2,6 +2,6 @@
 {
 	"Colors"
 	{
-		"AccentMain" "255 64 243 255"
+		"AccentMain" "255 64 244 255"
 	}
 }
