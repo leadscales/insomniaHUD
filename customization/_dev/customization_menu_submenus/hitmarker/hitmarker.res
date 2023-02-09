@@ -9,27 +9,16 @@
 			{
 				"SectionContainer"
 				{
-					"HitmarkersColorizer"
-					{
-						"ControlName"				"EditablePanel"
-						"fieldName"					"HitmarkersColorizer"
-						"xpos"						"425"
-						"ypos"						"0"
-						"wide"						"210"
-						"tall"						"225"
-						"proportionaltoparent"		"1"
-						"border"					"NONE_AccentMain_4"
-					}
 					"Hitmarkers"
 					{
 						"ControlName"				"EditablePanel"
 						"fieldName"					"Hitmarkers"
-						"xpos"						"425"
+						"xpos"						"420"
 						"ypos"						"0"
 						"wide"						"210"
 						"tall"						"225"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_2"
+						"border"					"NONE_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -78,27 +67,16 @@
 							}
 						}
 					}
-					"HitmarkerSizeColorizer"
-					{
-						"ControlName"				"EditablePanel"
-						"fieldName"					"HitmarkerSizeColorizer"
-						"xpos"						"425"
-						"ypos"						"225"
-						"wide"						"210"
-						"tall"						"65"
-						"proportionaltoparent"		"1"
-						"border"					"NONE_AccentMain_4"
-					}
 					"HitmarkerSize"
 					{
 						"ControlName"				"EditablePanel"
 						"fieldName"					"HitmarkerSize"
-						"xpos"						"425"
+						"xpos"						"420"
 						"ypos"						"225"
 						"wide"						"210"
 						"tall"						"65"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_2"
+						"border"					"NONE_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"

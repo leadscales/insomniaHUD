@@ -980,14 +980,14 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"defaultFgColor_override" 	"AccentMain"
+				"armedFgColor_override" 	"AccentMain"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"NONE_Black_3"
+				"border_armed"				"NONE_AccentMain_4"
 			}
 		}
 
@@ -1033,14 +1033,14 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"defaultFgColor_override" 	"AccentMain"
+				"armedFgColor_override" 	"AccentMain"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"NONE_Black_3"
+				"border_armed"				"NONE_AccentMain_4"
 			}
 		}
 
@@ -1087,14 +1087,14 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"defaultFgColor_override" 	"AccentMain"
+				"armedFgColor_override" 	"AccentMain"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"NONE_Black_3"
+				"border_armed"				"NONE_AccentMain_4"
 			}
 		}
 
@@ -1140,14 +1140,14 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"defaultFgColor_override" 	"AccentMain"
+				"armedFgColor_override" 	"AccentMain"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
 				"border_default"			"NoBorder"
-				"border_armed"				"NONE_Black_3"
+				"border_armed"				"NONE_AccentMain_4"
 			}
 		}
 	}

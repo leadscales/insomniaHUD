@@ -35,9 +35,24 @@
 			"tall"						"f0"
 			"visible"					"1"
 			"paintbackground"			"0"
-			"border"					"BLBR_PanelO1_0"
+			"border"					"NoBorder"
 			"proportionaltoparent"		"1"
 			"pinCorner"					"3"
+
+			"BGPanel"
+			{
+				"ControlName"				"EditablePanel"
+				"fieldName"					"BGPanel"
+				"xpos"						"cs-0.5"
+				"ypos"						"rs1"
+				"zpos"						"-1"
+				"wide"						"f0"
+				"tall"						"f5"
+				"visible"					"1"
+				"paintbackground"			"0"
+				"border"					"BLBR_PanelO1_0"
+				"proportionaltoparent"		"1"
+			}
 
 			"DescLabel"
 			{

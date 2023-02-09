@@ -94,7 +94,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ClassLabel"
-		"font"										"bold18"
+		"font"										"regular14"
 		"labelText"									"#ClassBeingEquipped"
 		"textAlignment"								"center"
 		"xpos"										"0"

@@ -155,7 +155,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ClassLabel"
-		"font"										"bold18"
+		"font"										"regular14"
 		"labelText"									"#ClassBeingEquipped"
 		"textAlignment"								"center"
 		"xpos"										"0"
@@ -211,10 +211,10 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"PrevPageButton"
 		"xpos"										"c0-s1"
-		"ypos"										"382"
+		"ypos"										"380"
 		"zpos"										"1"
-		"wide"										"16"
-		"tall"										"16"
+		"wide"										"20"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"<"
@@ -237,10 +237,10 @@
 		"ControlName"								"CExButton"
 		"fieldName"									"NextPageButton"
 		"xpos"										"c0"
-		"ypos"										"382"
+		"ypos"										"380"
 		"zpos"										"1"
-		"wide"										"16"
-		"tall"										"16"
+		"wide"										"20"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									">"
@@ -256,19 +256,6 @@
 
 		"defaultFgColor_override"					"Text2"
 		"armedFgColor_override"						"Text0"
-	}
-
-	"PageButtonBackground"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldname"									"PageButtonBackground"
-		"xpos"										"cs-0.5"
-		"ypos"										"382"
-		"zpos"										"0"
-		"wide"										"32"
-		"tall"										"16"
-		"border"									"NoBorder"
-		"mouseinputenabled"							"0"
 	}
 
 	"ShowRarityComboBox"

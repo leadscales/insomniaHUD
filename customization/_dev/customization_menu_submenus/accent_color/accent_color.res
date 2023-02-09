@@ -9,27 +9,16 @@
 			{
 				"SectionContainer"
 				{
-					"AccentColorColorizer"
-					{
-						"ControlName"				"EditablePanel"
-						"fieldName"					"AccentColorColorizer"
-						"xpos"						"5"
-						"ypos"						"0"
-						"wide"						"210"
-						"tall"						"f0"
-						"proportionaltoparent"		"1"
-						"border"					"NONE_AccentMain_4"
-					}
 					"AccentColor"
 					{
 						"ControlName"				"EditablePanel"
 						"fieldName"					"AccentColor"
-						"xpos"						"5"
+						"xpos"						"0"
 						"ypos"						"0"
 						"wide"						"210"
 						"tall"						"f0"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_2"
+						"border"					"NONE_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -93,9 +82,9 @@
 								"xpos"						"5"
 								"ypos"						"rs1"
 								"wide"						"f10"
-								"tall"						"55"
+								"tall"						"30"
 								"proportionaltoparent"		"1"
-								"font"						"regular10"
+								"font"						"regular9"
 								"labelText"					"HINT: Edit these files in [customization/colors/] for more fine-tuned adjustments, and to edit different types of colors: [custom_accent_color.res] and [custom_colors.res]"
 								"wrap"						"1"
 								"fgcolor"					"TextT4"

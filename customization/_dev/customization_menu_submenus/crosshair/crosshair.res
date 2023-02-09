@@ -9,27 +9,16 @@
 			{
 				"SectionContainer"
 				{
-					"CrosshairsColorizer"
-					{
-						"ControlName"				"EditablePanel"
-						"fieldName"					"CrosshairsColorizer"
-						"xpos"						"215"
-						"ypos"						"0"
-						"wide"						"210"
-						"tall"						"225"
-						"proportionaltoparent"		"1"
-						"border"					"NONE_AccentMain_4"
-					}
 					"Crosshairs"
 					{
 						"ControlName"				"EditablePanel"
 						"fieldName"					"Crosshairs"
-						"xpos"						"215"
+						"xpos"						"210"
 						"ypos"						"0"
 						"wide"						"210"
 						"tall"						"225"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_2"
+						"border"					"NONE_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -98,27 +87,16 @@
 							}
 						}
 					}
-					"CrosshairSizeColorizer"
-					{
-						"ControlName"				"EditablePanel"
-						"fieldName"					"CrosshairSizeColorizer"
-						"xpos"						"215"
-						"ypos"						"225"
-						"wide"						"210"
-						"tall"						"65"
-						"proportionaltoparent"		"1"
-						"border"					"NONE_AccentMain_4"
-					}
 					"CrosshairSize"
 					{
 						"ControlName"				"EditablePanel"
 						"fieldName"					"CrosshairSize"
-						"xpos"						"215"
+						"xpos"						"210"
 						"ypos"						"225"
 						"wide"						"210"
 						"tall"						"65"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_2"
+						"border"					"NONE_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"

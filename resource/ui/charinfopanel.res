@@ -20,14 +20,14 @@
 
 		"title"										"#CharInfoAndSetup"
 		"title_font"								"HudFontMediumBold"
-		"titletextinsetX"							"0"
+		"titletextinsetX"							"40"
 		"titletextinsetY"							"0"
-		"titlebarfgcolor_override"					"White"
-		"titlebardisabledfgcolor_override"			"White"
-		"titlebarbgcolor_override"					"Panel0"
+		"titlebarfgcolor_override"					"Blank"
+		"titlebardisabledfgcolor_override"			"Blank"
+		"titlebarbgcolor_override"					"Blank"
 
 		"clientinsetx_override"						"0"
-		"sheetinset_bottom"							"0"
+		"sheetinset_bottom"							"-20"
 	}
 
 	"Background"
@@ -41,14 +41,14 @@
 		"tall"										"f0"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelO1"
+		"bgcolor_override"							"PanelO0"
 	}
 
 	"ClassLabel"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ClassLabel"
-		"font"										"bold18"
+		"font"										"regular14"
 		"labelText"									"#CharInfoAndSetup"
 		"textAlignment"								"center"
 		"xpos"										"cs-0.5"
@@ -80,7 +80,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Sheet"
-		"tabxindent"								"40"
+		"tabxindent"								"45"
 		"tabyindent"								"5"
 		"tabxdelta"									"5"
 		"tabwidth"									"240"
@@ -123,11 +123,11 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"BackButton"
-		"xpos"										"2"
-		"ypos"										"22"
+		"xpos"										"0"
+		"ypos"										"20"
 		"zpos"										"2"
-		"wide"										"16"
-		"tall"										"16"
+		"wide"										"20"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"<"
@@ -140,7 +140,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"TLBL_PanelO4_0"
+		"border_armed"								"NONE_PanelO3_0"
 	}
 
 	"CloseButton"
@@ -150,8 +150,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"16"
-		"tall"										"16"
+		"wide"										"20"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"labelText"									"x"
@@ -164,26 +164,11 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"TRBR_PanelO4_0"
+		"border_armed"								"NONE_PanelO3_0"
 
 		"pin_to_sibling"							"BackButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
-	}
-
-	"ButtonsBG"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"ButtonsBG"
-		"xpos"										"2"
-		"ypos"										"22"
-		"zpos"										"1"
-		"wide"										"32"
-		"tall"										"16"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"									"TLTRBLBR_PanelO3_0"
-		"mouseinputenabled"							"0"
 	}
 
 	"KeyBack"
@@ -256,7 +241,7 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"HudLabel"
-		"xpos"										"rs1-5"
+		"xpos"										"rs1-10"
 		"ypos"										"20"
 		"wide"										"200"
 		"tall"										"20"
