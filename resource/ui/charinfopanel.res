@@ -1,3 +1,5 @@
+#base "../../version.vdf"
+
 "Resource/UI/CharInfoPanel.res"
 {
 	"character_info"
@@ -260,7 +262,6 @@
 		"tall"										"20"
 		"font"										"regular14"
 		"textAlignment"								"east"
-		"labelText"									"insomniaHUD v170"
 		"mouseinputenabled"							"0"
 		"fgcolor"									"Text0"
 	}

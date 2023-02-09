@@ -21,6 +21,7 @@ sv_unlockedchapters 99
 // Apply HUD settings
 vgui_cache_res_files 0
 tf_contract_progress_show 2
+cl_hud_minmode 0
 
 // Configs
 exec ih_aliases
