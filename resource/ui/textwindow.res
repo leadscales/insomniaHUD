@@ -26,10 +26,73 @@
 		"mouseinputenabled"							"0"
 	}
 
-	"ok"
+	"StaticTFLogo"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"StaticTFLogo"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5"
+		"zpos"										"10"
+		"wide"										"100"
+		"tall"										"100"
+		"visible"									"1"
+		"enabled"									"1"
+		"bgcolor_override"							"Blank"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"10"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"image"									"replay/thumbnails/ui_effects/menu_logo"
+			"scaleimage"							"1"
+			"drawcolor"								"White"
+		}
+	}
+
+	"BottomBar"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BottomBar"
+		"xpos"										"0"
+		"ypos"										"rs1"
+		"zpos"										"2"
+		"wide"										"f0"
+		"tall"										"40"
+		"visible"									"1"
+		"enabled"									"1"
+		"mouseinputenabled"							"0"
+		"bgcolor_override"							"PanelT2"
+	}
+
+	"Welcome"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"Welcome"
+		"xpos"										"0"
+		"ypos"										"rs1"
+		"zpos"										"3"
+		"wide"										"f0"
+		"tall"										"40"
+		"visible"									"1"
+		"enabled"									"1"
+		"labeltext"									"#TF_Welcome"
+		"textalignment"								"center"
+		"allcaps"									"1"
+		"font"										"regular14"
+		"mouseinputenabled"							"0"
+	}
+
+	"Ok"
 	{
 		"ControlName"		 						"CExButton"
-		"fieldName"		 							"ok"
+		"fieldName"		 							"Ok"
 		"xpos"			 							"0"
 		"ypos"			 							"0"
 		"zpos"			 							"5"
@@ -37,17 +100,11 @@
 		"tall"			 							"f0"
 		"visible"		 							"1"
 		"enabled"		 							"1"
-		"labelText"		 							"WELCOME"
-		"textAlignment"	 							"center"
+		"labelText"		 							""
 		"command"		 							"okay"
 		"default"		 							"1"
-		"font"										"bold18"
 		"paintbackground"							"0"
 		"paintborder"								"0"
-
-		"defaultFgColor_override"					"Text0"
-		"armedFgColor_override" 					"Text0"
-		"depressedFgColor_override" 				"Text0"
 
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"

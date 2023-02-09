@@ -25,34 +25,54 @@
 		"mouseinputenabled"							"0"
 	}
 
-	//==================================================================================================================================================
-	// LOADOUT EDIT
-	//==================================================================================================================================================
-
-	"EditLoadoutButton"
+	"StaticTFLogo"
 	{
-		"ControlName"								"CExButton"
-		"fieldName"									"EditLoadoutButton"
-		"xpos"										"9999"
-		"labelText"									"&E"
-		"Command"									"openloadout"
+		"ControlName"								"EditablePanel"
+		"fieldName"									"StaticTFLogo"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5"
+		"zpos"										"10"
+		"wide"										"100"
+		"tall"										"100"
+		"visible"									"1"
+		"enabled"									"1"
+		"bgcolor_override"							"Blank"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"10"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"image"									"replay/thumbnails/ui_effects/menu_logo"
+			"scaleimage"							"1"
+			"drawcolor"								"White"
+		}
+	}
+
+	"BottomBar"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BottomBar"
+		"xpos"										"0"
+		"ypos"										"rs1"
+		"zpos"										"2"
+		"wide"										"f0"
+		"tall"										"40"
+		"visible"									"1"
+		"enabled"									"1"
+		"mouseinputenabled"							"0"
+		"bgcolor_override"							"PanelT2"
 	}
 
 	//==================================================================================================================================================
 	// CLASSES
 	//==================================================================================================================================================
-
-	"ParentPanel"
-	{
-		"ControlName"				"EditablePanel"
-		"fieldName"					"ParentPanel"
-		"xpos"						"cs-0.5"
-		"ypos"						"cs-0.5"
-		"zpos"						"3"
-		"wide"						"240"
-		"tall"						"280"
-		"bgcolor_override"			"0 0 255 0"
-	}
 
 	"ClassPanel"
 	{
@@ -61,13 +81,13 @@
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"0"
-		"wide"						"240"
-		"tall"						"240"
-		"bgcolor_override"			"255 0 0 0"
+		"wide"						"360"
+		"tall"						"40"
+		"bgcolor_override"			"Blank"
 
-		"pin_to_sibling"			"ParentPanel"
-		"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
+		"pin_to_sibling"			"BottomBar"
+		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
+		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
 
 	"scout"
@@ -77,8 +97,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 		"actionsignallevel"		"2"
@@ -97,14 +117,14 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"BL_White_4"
-		"border_selected"		"BL_White_4"
-		"border_depressed"		"BL_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"			"ClassPanel"
-		"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_TOPLEFT"
 	}
 
 	"soldier"
@@ -114,8 +134,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -129,9 +149,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_White_4"
-		"border_selected"		"NONE_White_4"
-		"border_depressed"		"NONE_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"scout"
@@ -146,8 +166,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -161,9 +181,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"BR_White_4"
-		"border_selected"		"BR_White_4"
-		"border_depressed"		"BR_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"soldier"
@@ -178,8 +198,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -193,14 +213,14 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_White_4"
-		"border_selected"		"NONE_White_4"
-		"border_depressed"		"NONE_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
-		"pin_to_sibling"		"scout"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling"		"pyro"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"heavyweapons"
@@ -210,8 +230,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -225,9 +245,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_White_4"
-		"border_selected"		"NONE_White_4"
-		"border_depressed"		"NONE_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"demoman"
@@ -242,8 +262,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -257,9 +277,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_White_4"
-		"border_selected"		"NONE_White_4"
-		"border_depressed"		"NONE_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"heavyweapons"
@@ -274,8 +294,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -289,14 +309,14 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_White_4"
-		"border_selected"		"NONE_White_4"
-		"border_depressed"		"NONE_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
-		"pin_to_sibling"		"demoman"
-		"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"pin_to_sibling"		"engineer"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 	}
 
 	"sniper"
@@ -306,8 +326,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -321,9 +341,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_White_4"
-		"border_selected"		"NONE_White_4"
-		"border_depressed"		"NONE_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"medic"
@@ -338,8 +358,8 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"5"
-		"wide"					"80"
-		"tall"					"80"
+		"wide"					"40"
+		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
@@ -353,9 +373,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_White_4"
-		"border_selected"		"NONE_White_4"
-		"border_depressed"		"NONE_White_4"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"sniper"
@@ -450,193 +470,55 @@
 		"ControlName"			"CExButton"
 		"fieldName"				"random2"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"rs1"
 		"zpos"					"5"
-		"wide"					"240"
+		"wide"					"80"
 		"tall"					"40"
 		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
 
 		"command"				"joinclass random"
 
-		"labelText"				"RANDOM"
+		"labelText"				"#TF_Random"
 		"font"					"Regular14"
 		"textAlignment"			"center"
 
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"TLTR_Black_1"
-		"border_armed"			"TLTR_White_4"
-		"border_selected"		"TLTR_White_4"
-		"border_depressed"		"TLTR_White_4"
-		"border"				"TLTR_Black_1"
-
-		"pin_to_sibling"		"ParentPanel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"border_default"		"NoBorder"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
+		"border"				"NoBorder"
 	}
 
-	"bgScout"
+	"EditLoadoutButton"
 	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgScout"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
+		"ControlName"			"CExButton"
+		"fieldName"				"EditLoadoutButton"
+		"xpos"					"rs1"
+		"ypos"					"rs1"
+		"zpos"					"5"
 		"wide"					"80"
-		"tall"					"80"
+		"tall"					"40"
+		"proportionaltoparent"	"1"
 		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"BL_Black_1"
 
-		"pin_to_sibling"		"scout"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
+		"command"				"openloadout"
 
-	"bgSoldier"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgSoldier"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"NONE_Black_1"
+		"labelText"				"#Loadout"
+		"font"					"Regular14"
+		"textAlignment"			"center"
 
-		"pin_to_sibling"		"soldier"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
+		"sound_depressed"		"UI/buttonclick.wav"
+		"sound_released"		"UI/buttonclickrelease.wav"
 
-	"bgPyro"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgPyro"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"BR_Black_1"
-
-		"pin_to_sibling"		"pyro"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
-
-	"bgDemoman"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgDemoman"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"NONE_Black_1"
-
-		"pin_to_sibling"		"demoman"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
-
-	"bgHeavyweapons"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgHeavyweapons"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"NONE_Black_1"
-
-		"pin_to_sibling"		"heavyweapons"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
-
-	"bgEngineer"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgEngineer"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"NONE_Black_1"
-
-		"pin_to_sibling"		"engineer"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
-
-	"bgMedic"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgMedic"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"NONE_Black_1"
-
-		"pin_to_sibling"		"medic"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
-
-	"bgSniper"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgSniper"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"NONE_Black_1"
-
-		"pin_to_sibling"		"sniper"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
-	}
-
-	"bgSpy"
-	{
-		"ControlName"			"EditablePanel"
-		"fieldName"				"bgSpy"
-		"xpos"					"0"
-		"ypos"					"0"
-		"zpos"					"0"
-		"wide"					"80"
-		"tall"					"80"
-		"paintbackground"		"0"
-		"mouseinputenabled"		"0"
-		"border"				"NONE_Black_1"
-
-		"pin_to_sibling"		"spy"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
+		"border_default"		"NoBorder"
+		"border_armed"			"NONE_Black_2"
+		"border_selected"		"NONE_Black_2"
+		"border_depressed"		"NONE_Black_2"
+		"border"				"NoBorder"
 	}
 
 	//==================================================================================================================================================
@@ -649,7 +531,7 @@
 		"fieldName"									"numScout"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numScout%"
 		"font"										"regular14"
@@ -659,7 +541,7 @@
 
 		"pin_to_sibling"							"scout"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numSoldier"
@@ -668,7 +550,7 @@
 		"fieldName"									"numSoldier"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numSoldier%"
 		"font"										"regular14"
@@ -678,7 +560,7 @@
 
 		"pin_to_sibling"							"soldier"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numPyro"
@@ -687,7 +569,7 @@
 		"fieldName"									"numPyro"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numPyro%"
 		"font"										"regular14"
@@ -697,7 +579,7 @@
 
 		"pin_to_sibling"							"pyro"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numDemoman"
@@ -706,7 +588,7 @@
 		"fieldName"									"numDemoman"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numDemoman%"
 		"font"										"regular14"
@@ -716,7 +598,7 @@
 
 		"pin_to_sibling"							"demoman"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numHeavyweapons"
@@ -725,7 +607,7 @@
 		"fieldName"									"numHeavyweapons"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numHeavy%"
 		"font"										"regular14"
@@ -735,7 +617,7 @@
 
 		"pin_to_sibling"							"heavyweapons"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numEngineer"
@@ -744,7 +626,7 @@
 		"fieldName"									"numEngineer"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numEngineer%"
 		"font"										"regular14"
@@ -754,7 +636,7 @@
 
 		"pin_to_sibling"							"engineer"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numMedic"
@@ -763,7 +645,7 @@
 		"fieldName"									"numMedic"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numMedic%"
 		"font"										"regular14"
@@ -773,7 +655,7 @@
 
 		"pin_to_sibling"							"medic"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numSniper"
@@ -782,7 +664,7 @@
 		"fieldName"									"numSniper"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numSniper%"
 		"font"										"regular14"
@@ -792,7 +674,7 @@
 
 		"pin_to_sibling"							"sniper"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"numSpy"
@@ -801,7 +683,7 @@
 		"fieldName"									"numSpy"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"80"
+		"wide"										"40"
 		"tall"										"20"
 		"labelText"									"%numSpy%"
 		"font"										"regular14"
@@ -811,7 +693,7 @@
 
 		"pin_to_sibling"							"spy"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -836,69 +718,24 @@
 		"Command"									"joinclass random"
 	}
 
-	"KeyHint"
+	"KeyLoadout"
 	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"KeyHint"
-		"xpos"										"cs-0.5"
-		"ypos"										"rs1"
-		"zpos"										"3"
-		"wide"										"640"
-		"tall"										"20"
-		"labelText"									"HINT: Hover over a class and press E to edit its loadout"
-		"textAlignment"								"center"
-		"font"										"regular14"
-		"fgcolor"									"Text0"
+		"ControlName"								"CExButton"
+		"fieldName"									"KeyLoadout"
+		"xpos"										"9999"
+		"labelText"									"&E"
+		"Command"									"openloadout"
 	}
 
 	//==================================================================================================================================================
-	// 3D PLAYER MODEL
+	// REMOVED ELEMENTS
 	//==================================================================================================================================================
-
 	"TFPlayerModel"
 	{
 		"ControlName"								"CTFPlayerModelPanel"
 		"fieldName"									"TFPlayerModel"
 		"xpos"										"9999"
-		"ypos"										"9999"
-		"zpos"										"6"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"1"
-
-		"render_texture"							"0"
-		"fov"										"50"
-		"allow_rot"									"0"
-
-		"paintbackground"							"0"
-		"paintbackgroundenabled" 					"0"
-
-		"model"
-		{
-			"force_pos"								"1"
-
-			"angles_x" 								"0"
-			"angles_y" 								"180"
-			"angles_z" 								"0"
-			"origin_x" 								"320"
-			"origin_y" 								"10"
-			"origin_z" 								"-40"
-			"frame_origin_x"						"0"
-			"frame_origin_y"						"0"
-			"frame_origin_z"						"0"
-			"spotlight" 							"1"
-
-			"modelname"								""
-			"vcd"									"class_select.vcd"
-		}
 	}
-
-
-
-	//==================================================================================================================================================
-	// REMOVED ELEMENTS
-	//==================================================================================================================================================
 
 	"ResetButton"
 	{

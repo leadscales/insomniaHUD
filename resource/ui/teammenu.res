@@ -24,22 +24,50 @@
 		"bgcolor_override"							"PanelT1"
 		"mouseinputenabled"							"0"
 	}
-	
-	"TeamColorDarkener"
+
+	"StaticTFLogo"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"TeamColorDarkener"
+		"fieldName"									"StaticTFLogo"
+		"xpos"										"cs-0.5"
+		"ypos"										"cs-0.5"
+		"zpos"										"10"
+		"wide"										"100"
+		"tall"										"100"
+		"visible"									"1"
+		"enabled"									"1"
+		"bgcolor_override"							"Blank"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"zpos"									"10"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"image"									"replay/thumbnails/ui_effects/menu_logo"
+			"scaleimage"							"1"
+			"drawcolor"								"White"
+		}
+	}
+	
+	"BottomBar"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BottomBar"
 		"xpos"										"0"
-		"ypos"										"0"
+		"ypos"										"rs1"
 		"zpos"										"2"
-		"wide"										"160"
-		"tall"										"80"
+		"wide"										"f0"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
-		"border"									"NONE_Black_2"
-
-		"pin_to_sibling"							"BlueButton"
+		"bgcolor_override"							"PanelT2"
 	}
 
 	//==================================================================================================================================================
@@ -51,10 +79,10 @@
 		"ControlName"								"CExButton"
 		"fieldname"									"BlueButton"
 		"xpos"			  							"c0-s1"
-		"ypos"			  							"cs-0.5"
+		"ypos"			  							"rs1"
 		"zpos"			  							"1"
 		"wide"			  							"80"
-		"tall"			  							"80"
+		"tall"			  							"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"labeltext"									""
@@ -69,8 +97,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"NONE_m0reBlue_3"
-		"border_armed"								"NONE_m0reBlue_2"
+		"border_default"							"NoBorder"
+		"border_armed"								"NONE_m0reBlue_3"
 
 		"defaultfgcolor_override"					"m0reBlue"
 		"armedfgcolor_override"						"m0reBlue"
@@ -87,9 +115,9 @@
 		"ypos"										"0"
 		"zpos"										"3"
 		"wide"										"80"
-		"tall"										"80"
+		"tall"										"40"
 		"labeltext"									"BLU"
-		"font"										"bold18"
+		"font"										"regular14"
 		"textalignment"								"center"
 		"fgcolor"									"m0reBlue"
 		"mouseinputenabled"							"0"
@@ -121,7 +149,7 @@
 
 		"pin_to_sibling"							"BlueButton"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -133,10 +161,10 @@
 		"ControlName"								"CExButton"
 		"fieldname"									"RedButton"
 		"xpos"			  							"c0"
-		"ypos"			  							"cs-0.5"
+		"ypos"			  							"rs1"
 		"zpos"			  							"1"
 		"wide"			  							"80"
-		"tall"			  							"80"
+		"tall"			  							"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"labeltext"									" "
@@ -151,8 +179,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"NONE_m0reRed_3"
-		"border_armed"								"NONE_m0reRed_2"
+		"border_default"							"NoBorder"
+		"border_armed"								"NONE_m0reRed_3"
 
 		"defaultfgcolor_override"					"m0reRed"
 		"armedfgcolor_override"						"m0reRed"
@@ -168,9 +196,9 @@
 		"ypos"										"0"
 		"zpos"										"3"
 		"wide"										"80"
-		"tall"										"80"
+		"tall"										"40"
 		"labeltext"									"RED"
-		"font"										"bold18"
+		"font"										"regular14"
 		"textalignment"								"center"
 		"fgcolor"									"m0reRed"
 		"mouseinputenabled"							"0"
@@ -202,7 +230,7 @@
 
 		"pin_to_sibling"							"RedButton"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -212,13 +240,13 @@
 		"ControlName"								"CExButton"
 		"fieldname"									"RandomButton"
 		"xpos"			  							"0"
-		"ypos"			  							"0"
-		"zpos"			  							"1"
-		"wide"			  							"160"
+		"ypos"			  							"rs1"
+		"zpos"			  							"3"
+		"wide"			  							"80"
 		"tall"			  							"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"		  							"RANDOM"
+		"labelText"		  							"#TF_Random"
 		"textAlignment"	  							"center"
 		"font"			  							"regular14"
 		"command"									"jointeam auto"
@@ -229,26 +257,22 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"TLTR_Black_1"
-		"border_armed"								"TLTR_White_4"
-
-		"pin_to_sibling"							"BlueButton"
-		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
+		"border_default"							"NoBorder"
+		"border_armed"								"NONE_Black_2"
 	}
 
 	"SpectateButton"
 	{
 		"ControlName"								"CExButton"
 		"fieldname"									"SpectateButton"
-		"xpos"			  							"0"
-		"ypos"			  							"0"
-		"zpos"			  							"1"
-		"wide"			  							"160"
+		"xpos"			  							"rs1"
+		"ypos"			  							"rs1"
+		"zpos"			  							"3"
+		"wide"			  							"80"
 		"tall"			  							"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"labelText"		  							"SPECTATE"
+		"labelText"		  							"#TF_Spectate"
 		"textAlignment"	  							"center"
 		"font"			  							"regular14"
 		"command"									"jointeam spectate"
@@ -259,12 +283,8 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"BLBR_Black_1"
-		"border_armed"								"BLBR_White_4"
-
-		"pin_to_sibling"							"BlueButton"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"border_default"							"NoBorder"
+		"border_armed"								"NONE_Black_2"
 	}
 
 	"KeyBlue1"
