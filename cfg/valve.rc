@@ -24,9 +24,9 @@ tf_contract_progress_show 2
 cl_hud_minmode 0
 
 // Configs
+echo insomniaHUD: Applying aliases...
 exec ih_aliases
-exec ih_bookmarks
-exec ih_servers
+exec ih_version
 
 // Resize dashboard dimmer
 echo insomniaHUD: Resizing dashboard dimmer...; wait 20; showconsole; wait 10; toggle mat_aaquality; hideconsole;
