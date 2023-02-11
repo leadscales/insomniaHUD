@@ -255,19 +255,22 @@
 		}
 	}
 
-	"BetaLabel"
+	"BetaButton"
 	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"BetaLabel"
+		"ControlName"								"CExButton"
+		"fieldName"									"BetaButton"
 		"xpos"										"rs1-10"
 		"ypos"										"rs1-50"
-		"wide"										"f20"
-		"tall"										"9"
+		"wide"										"35"
+		"tall"										"10"
 		"proportionaltoparent"						"1"	
-		"mouseinputenabled"							"0"
+		"mouseinputenabled"							"1"
 		"labeltext"									"BETA"
+		"command"									"engine clear; showconsole; ih_version"
 		"font"										"bold18"
-		"fgcolor"									"AccentMain"
+		"defaultfgcolor_override"					"AccentMain"
+		"armedfgcolor_override"						"AccentMain"
+		"paintbackground"							"0"
 		"textalignment"								"east"
 		"alpha"										"96"
 	}
