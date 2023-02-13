@@ -7,5 +7,5 @@
 	"$no_fullbright" "1"
 	"$ignorez" "1"
 	"%keywords" "tf"
-	"$baseTexture" "vgui/replay/thumbnails/panels/rounded_rect/TLTR"
+	"$baseTexture" "vgui/replay/thumbnails/panels/FLAT"
 }
