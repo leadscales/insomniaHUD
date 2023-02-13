@@ -64,7 +64,7 @@
 			"proportionaltoparent"						"1"
 			"visible"									"1"
 			"enabled"									"1"
-			"border"									"NONE_PanelO3_0"
+			"border"									"FLAT_PanelO3_0"
 			"mouseinputenabled"							"0"
 		}
 
@@ -95,7 +95,7 @@
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
 			"border_default"	"NoBorder"
-			"border_armed"		"NONE_PanelO4_0"
+			"border_armed"		"FLAT_PanelO4_0"
 		}
 
 		"SaveCasualSearchCriteria"
@@ -125,7 +125,7 @@
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
 			"border_default"	"NoBorder"
-			"border_armed"		"NONE_PanelO4_0"
+			"border_armed"		"FLAT_PanelO4_0"
 		}
 
 		"ShowExplanationsButton"

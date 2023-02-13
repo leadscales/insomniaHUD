@@ -81,8 +81,8 @@
 
 			"stay_armed_on_click"	"1"
 
-			"border_default"	"NONE_PanelO2_0"
-			"border_armed"		"NONE_PanelO3_0"
+			"border_default"	"FLAT_PanelO2_0"
+			"border_armed"		"FLAT_PanelO3_0"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"

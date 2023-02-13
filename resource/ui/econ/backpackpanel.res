@@ -61,9 +61,9 @@
 				"paintbackground"					"1"
 				"paintborder"						"1"
 				"border_default"					"NoBorder"
-				"border_armed"						"NONE_AccentMain_4"
-				"border_depressed"					"NONE_AccentMain_4"
-				"border_selected"					"NONE_AccentMain_4"
+				"border_armed"						"FLAT_AccentMain_4"
+				"border_depressed"					"FLAT_AccentMain_4"
+				"border_selected"					"FLAT_AccentMain_4"
 				"textAlignment"						"center"
 				"labelText"							"%page%"
 				"font"								"HudFontSmallestBold"
@@ -89,7 +89,7 @@
 				"mouseinputenabled"				 	"0"
 				"paintbackground"					"0"
 				"proportionaltoparent"				"1"
-				"border"							"NONE_AccentMain_0"
+				"border"							"FLAT_AccentMain_0"
 				"fgcolor"							"0 0 0 255"
 			}
 		}
@@ -143,7 +143,7 @@
 				"mouseinputenabled" 				"0"
 				"paintbackground"					"0"
 				"proportionaltoparent"				"1"
-				"border"							"NONE_AccentMain_0"
+				"border"							"FLAT_AccentMain_0"
 				"fgcolor"							"0 0 0 255"
 			}
 
@@ -508,8 +508,8 @@
 		"armedFgColor_override"						"Negative"
 		"defaultFgColor_override"					"Negative"
 
-		"border_default"							"NONE_PanelO2_0"
-		"border_armed"								"NONE_PanelO3_0"
+		"border_default"							"FLAT_PanelO2_0"
+		"border_armed"								"FLAT_PanelO3_0"
 	}
 
 	"ShowExplanationsButton"

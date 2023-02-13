@@ -10,12 +10,12 @@
 	"ObjectLabel"
 	{
 		"labelText"									"#TF_Teleporter_Mode_Exit"
-		"border"									"NONE_Black_3"
+		"border"									"FLAT_Black_3"
 	}
 
 	"NumberLabel"
 	{
 		"labelText"									"4"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 	}
 }

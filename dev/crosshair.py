@@ -60,8 +60,8 @@ def generate_button_shapes(chars: list[str] = ACCEPTABLE_CHARS, max_xpos: int = 
         "actionsignallevel": "6",
         "sound_depressed": "UI/buttonclick.wav",
         "sound_released": "UI/buttonclickrelease.wav",
-        "border_default": "NONE_PanelO2_0",
-        "border_armed": "NONE_PanelO4_0"
+        "border_default": "FLAT_PanelO2_0",
+        "border_armed": "FLAT_PanelO4_0"
     }
 
     _ypos = 0

@@ -118,7 +118,7 @@
 		"depressedFgColor_override" "Text0"
 
 		"border_default"			"NoBorder"
-		"border_armed"				"NONE_PanelO2_0"
+		"border_armed"				"FLAT_PanelO2_0"
 	}	
 
 	"MatchmakingBanPanel"
@@ -134,7 +134,7 @@
 		"enabled"		"0"
 		"mouseinputenabled"	"0"
 		"bgcolor_override"	"0 0 0 0"
-		"border"		"NONE_Negative_4"
+		"border"		"FLAT_Negative_4"
 		"proportionaltoparent"	"1"
 
 		"MatchmakingBanDurationLabel"

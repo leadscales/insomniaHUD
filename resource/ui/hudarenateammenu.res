@@ -93,7 +93,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_AccentMain_3"
+		"border_armed"								"FLAT_AccentMain_3"
 
 		"defaultfgcolor_override"					"AccentMain"
 		"armedfgcolor_override"						"AccentMain"
@@ -147,7 +147,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_Black_2"
+		"border_armed"								"FLAT_Black_2"
 	}
 	"SpectateCount"
 	{

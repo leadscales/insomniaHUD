@@ -117,9 +117,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"			"ClassPanel"
@@ -149,9 +149,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"scout"
@@ -181,9 +181,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"soldier"
@@ -213,9 +213,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"pyro"
@@ -245,9 +245,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"demoman"
@@ -277,9 +277,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"heavyweapons"
@@ -309,9 +309,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"engineer"
@@ -341,9 +341,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"medic"
@@ -373,9 +373,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"sniper"
@@ -487,9 +487,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 	}
 
@@ -515,9 +515,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"NONE_Black_2"
-		"border_selected"		"NONE_Black_2"
-		"border_depressed"		"NONE_Black_2"
+		"border_armed"			"FLAT_Black_2"
+		"border_selected"		"FLAT_Black_2"
+		"border_depressed"		"FLAT_Black_2"
 		"border"				"NoBorder"
 	}
 

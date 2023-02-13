@@ -130,7 +130,7 @@
 		"paintbackground"	"0"
 
 		"border_default"	"NoBorder"
-		"border_armed"		"NONE_PanelO2_0"
+		"border_armed"		"FLAT_PanelO2_0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

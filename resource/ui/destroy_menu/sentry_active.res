@@ -10,12 +10,12 @@
 
 	"ObjectLabel"
 	{
-		"border"									"NONE_Black_3"
+		"border"									"FLAT_Black_3"
 	}
 
 	"NumberLabel"
 	{
 		"labelText"									"1"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 	}
 }

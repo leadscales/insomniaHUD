@@ -474,8 +474,8 @@
 
 		"paintbackground"							"0"
 		
-		"border_default"							"NONE_m0reBlue_2"
-		"border_armed"								"NONE_m0reBlue_0"
+		"border_default"							"FLAT_m0reBlue_2"
+		"border_armed"								"FLAT_m0reBlue_0"
 
 		"pin_to_sibling"							"CharacterLoadoutButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -503,8 +503,8 @@
 
 		"paintbackground"							"0"
 		
-		"border_default"							"NONE_m0reRed_2"
-		"border_armed"								"NONE_m0reRed_0"
+		"border_default"							"FLAT_m0reRed_2"
+		"border_armed"								"FLAT_m0reRed_0"
 
 		"pin_to_sibling"							"TauntLoadoutButton"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"

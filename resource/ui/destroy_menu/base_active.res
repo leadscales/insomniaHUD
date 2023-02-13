@@ -68,7 +68,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_Object_Sentry_360"
 		"textAlignment"								"Center"
-		"border"									"NONE_Black_3"
+		"border"									"FLAT_Black_3"
 	}
 
 	"CantDestroyIcon"
@@ -135,7 +135,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"1"
 		"textAlignment"								"center"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 	}
 
 

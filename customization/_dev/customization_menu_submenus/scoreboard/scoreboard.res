@@ -17,7 +17,7 @@
 						"wide"						"420"
 						"tall"						"130"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_3"
+						"border"					"FLAT_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -42,7 +42,7 @@
 							"wide"						"f10"
 							"tall"						"f25"
 							"proportionaltoparent"		"1"
-							"border"					"NONE_Black_4"
+							"border"					"FLAT_Black_4"
 							"6v6"
 							{
 								"ControlName"				"CExButton"
@@ -60,8 +60,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"9v9"
 							{
@@ -80,8 +80,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"12v12"
 							{
@@ -100,8 +100,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"16v16"
 							{
@@ -120,8 +120,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 						}
 					}

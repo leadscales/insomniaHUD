@@ -11,7 +11,7 @@
 		"tall"				"40"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"NONE_Black_2"
+		"border"			"FLAT_Black_2"
 	}
 
 	"HeaderLabelBG"
@@ -25,7 +25,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"NONE_Black_2"
+		"border"			"FLAT_Black_2"
 	}
 
 	"HeaderLabel"
@@ -56,7 +56,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"NONE_Black_3"
+		"border"			"FLAT_Black_3"
 	}
 
 	"CreditCollectedTextLabel"
@@ -85,7 +85,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Positive"
-		"border"			"NONE_Black_3"
+		"border"			"FLAT_Black_3"
 	}
 
 	"CreditMissedTextLabelBG"
@@ -99,7 +99,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"NONE_Black_4"
+		"border"			"FLAT_Black_4"
 	}
 
 	"CreditMissedTextLabel"
@@ -128,7 +128,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Negative"
-		"border"			"NONE_Black_4"
+		"border"			"FLAT_Black_4"
 	}
 
 	"CreditBonusTextLabelBG"
@@ -142,7 +142,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"NONE_Black_3"
+		"border"			"FLAT_Black_3"
 	}
 
 	"CreditBonusTextLabel"
@@ -171,7 +171,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Positive"
-		"border"			"NONE_Black_3"
+		"border"			"FLAT_Black_3"
 	}
 
 	"CreditRatingLabel"
@@ -187,6 +187,6 @@
 		"wide"				"10"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"border"			"NONE_Black_4"
+		"border"			"FLAT_Black_4"
 	}
 }

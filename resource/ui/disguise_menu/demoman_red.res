@@ -10,6 +10,6 @@
 	"NumberLabel"
 	{
 		"labelText"									"4"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 	}
 }

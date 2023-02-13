@@ -25,7 +25,7 @@
 			"PaintBackground"						"1"
 			"PaintBackgroundType"					"0"
 			"bgcolor_override"						"Blank"
-			"border"								"NONE_PanelO0_0"
+			"border"								"FLAT_PanelO0_0"
 
 			"GlowContainer"
 			{
@@ -232,7 +232,7 @@
 		"ypos"										"rs1-10"
 		"wide"										"180"
 		"tall"										"80"
-		"border"									"NONE_Black_1"
+		"border"									"FLAT_Black_1"
 	}
 
 	"ScoresLabel"
@@ -247,7 +247,7 @@
 		"textalignment"								"center"
 		"font"										"bold18"
 
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 
 		"pin_to_sibling"							"ScoresBG"
 	}
@@ -291,7 +291,7 @@
 		"labelText"	  								""
 		"textAlignment"								"center"
 
-		"border"									"NONE_black_3"
+		"border"									"FLAT_black_3"
 
 		"pin_to_sibling"							"Player1Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -319,7 +319,7 @@
 		"textAlignment"								"west"
 		"textinsetx"								"5"
 		"useproportionalinsets"						"1"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 
 		"pin_to_sibling"							"ScoresBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -345,7 +345,7 @@
 		"labelText"	  								""
 		"textAlignment"								"center"
 
-		"border"									"NONE_black_3"
+		"border"									"FLAT_black_3"
 
 		"pin_to_sibling"							"Player2Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -373,7 +373,7 @@
 		"textAlignment"								"west"
 		"textinsetx"								"5"
 		"useproportionalinsets"						"1"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 
 		"pin_to_sibling"							"Player1Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -399,7 +399,7 @@
 		"labelText"	  								""
 		"textAlignment"								"center"
 
-		"border"									"NONE_black_3"
+		"border"									"FLAT_black_3"
 
 		"pin_to_sibling"							"Player3Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -427,7 +427,7 @@
 		"textAlignment"								"west"
 		"textinsetx"								"5"
 		"useproportionalinsets"						"1"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 
 		"pin_to_sibling"							"Player2Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

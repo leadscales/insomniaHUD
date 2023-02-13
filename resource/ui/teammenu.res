@@ -98,7 +98,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_m0reBlue_3"
+		"border_armed"								"FLAT_m0reBlue_3"
 
 		"defaultfgcolor_override"					"m0reBlue"
 		"armedfgcolor_override"						"m0reBlue"
@@ -180,7 +180,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_m0reRed_3"
+		"border_armed"								"FLAT_m0reRed_3"
 
 		"defaultfgcolor_override"					"m0reRed"
 		"armedfgcolor_override"						"m0reRed"
@@ -258,7 +258,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_Black_2"
+		"border_armed"								"FLAT_Black_2"
 	}
 
 	"SpectateButton"
@@ -284,7 +284,7 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_Black_2"
+		"border_armed"								"FLAT_Black_2"
 	}
 
 	"KeyBlue1"

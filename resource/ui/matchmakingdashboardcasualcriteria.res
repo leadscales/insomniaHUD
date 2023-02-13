@@ -101,7 +101,7 @@
 		"defaultFgColor_override"	"Text0"
 		"armedFgColor_override"		"Text0"
 
-		"border_default"	"NONE_PanelO3_0"
-		"border_armed"		"NONE_PanelO4_0"
+		"border_default"	"FLAT_PanelO3_0"
+		"border_armed"		"FLAT_PanelO4_0"
 	}
 }

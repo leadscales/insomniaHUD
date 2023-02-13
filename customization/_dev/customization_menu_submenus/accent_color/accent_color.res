@@ -18,7 +18,7 @@
 						"wide"						"210"
 						"tall"						"f0"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_3"
+						"border"					"FLAT_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -53,7 +53,7 @@
 								"wide"						"f0"
 								"tall"						"360"
 								"proportionaltoparent"		"1"
-								"border"					"NONE_PanelO0_0"
+								"border"					"FLAT_PanelO0_0"
 							}
 							"Reset"
 							{
@@ -72,8 +72,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_PanelO2_0"
-								"border_armed"				"NONE_PanelO4_0"
+								"border_default"			"FLAT_PanelO2_0"
+								"border_armed"				"FLAT_PanelO4_0"
 							}
 							"Hint"
 							{

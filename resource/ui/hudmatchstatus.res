@@ -123,7 +123,7 @@
 		"wide"										"360"
 		"tall"										"25"
 		"visible"									"0"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 
 		"if_match"
 		{

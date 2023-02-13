@@ -18,7 +18,7 @@
 						"wide"						"210"
 						"tall"						"225"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_3"
+						"border"					"FLAT_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -44,7 +44,7 @@
 							"tall"						"f25"
 							"proportionaltoparent"		"1"
 							"bgcolor_override"			"Blank"
-							"border"					"NONE_Black_4"
+							"border"					"FLAT_Black_4"
 							"Reset"
 							{
 								"ControlName"				"CExButton"
@@ -62,8 +62,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 						}
 					}
@@ -76,7 +76,7 @@
 						"wide"						"210"
 						"tall"						"65"
 						"proportionaltoparent"		"1"
-						"border"					"NONE_Black_3"
+						"border"					"FLAT_Black_3"
 						"Title"
 						{
 							"ControlName"				"CExLabel"
@@ -101,7 +101,7 @@
 							"wide"						"200"
 							"tall"						"f25"
 							"proportionaltoparent"		"1"
-							"border"					"NONE_Black_4"
+							"border"					"FLAT_Black_4"
 							"Reset"
 							{
 								"ControlName"				"CExButton"
@@ -119,8 +119,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"12"
 							{
@@ -139,8 +139,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"14"
 							{
@@ -159,8 +159,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"16"
 							{
@@ -179,8 +179,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"18"
 							{
@@ -199,8 +199,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"20"
 							{
@@ -219,8 +219,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"22"
 							{
@@ -239,8 +239,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"24"
 							{
@@ -259,8 +259,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"26"
 							{
@@ -279,8 +279,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"28"
 							{
@@ -299,8 +299,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 							"30"
 							{
@@ -319,8 +319,8 @@
 								"actionsignallevel"			"6"
 								"sound_depressed"			"UI/buttonclick.wav"
 								"sound_released"			"UI/buttonclickrelease.wav"
-								"border_default"			"NONE_Black_3"
-								"border_armed"				"NONE_Black_2"
+								"border_default"			"FLAT_Black_3"
+								"border_armed"				"FLAT_Black_2"
 							}
 						}
 					}

@@ -140,7 +140,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_PanelO3_0"
+		"border_armed"								"FLAT_PanelO3_0"
 	}
 
 	"CloseButton"
@@ -164,7 +164,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"NONE_PanelO3_0"
+		"border_armed"								"FLAT_PanelO3_0"
 
 		"pin_to_sibling"							"BackButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

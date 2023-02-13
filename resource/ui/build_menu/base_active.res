@@ -49,7 +49,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%metal%"
 		"textAlignment"								"Center"
-		"border"									"NONE_Black_3"
+		"border"									"FLAT_Black_3"
 	}
 
 	"CantBuildReason"
@@ -135,7 +135,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"1"
 		"textAlignment"								"center"
-		"border"									"NONE_Black_2"
+		"border"									"FLAT_Black_2"
 	}
 
 

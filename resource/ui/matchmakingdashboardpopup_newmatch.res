@@ -50,7 +50,7 @@
 				"tall"						"f5"
 				"visible"					"1"
 				"paintbackground"			"0"
-				"border"					"NONE_PanelO1_0"
+				"border"					"FLAT_PanelO1_0"
 				"proportionaltoparent"		"1"
 			}
 
@@ -124,8 +124,8 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"border_default"			"NONE_PanelO1_0"
-				"border_armed"				"NONE_PanelO2_0"
+				"border_default"			"FLAT_PanelO1_0"
+				"border_armed"				"FLAT_PanelO2_0"
 
 				"fgcolor"					"Negative"
 				"defaultfgcolor_override"	"Negative"
@@ -159,8 +159,8 @@
 				"sound_depressed"				"UI/buttonclick.wav"
 				"sound_released"				"UI/buttonclickrelease.wav"
 
-				"border_default"			"NONE_PanelO1_0"
-				"border_armed"				"NONE_PanelO2_0"
+				"border_default"			"FLAT_PanelO1_0"
+				"border_armed"				"FLAT_PanelO2_0"
 
 				"fgcolor"					"Positive"
 				"defaultfgcolor_override"	"Positive"
@@ -194,8 +194,8 @@
 				"sound_depressed"				"UI/buttonclick.wav"
 				"sound_released"				"UI/buttonclickrelease.wav"
 
-				"border_default"			"NONE_PanelO1_0"
-				"border_armed"				"NONE_PanelO2_0"
+				"border_default"			"FLAT_PanelO1_0"
+				"border_armed"				"FLAT_PanelO2_0"
 
 				"fgcolor"					"Positive"
 				"defaultfgcolor_override"	"Positive"

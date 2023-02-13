@@ -117,8 +117,8 @@
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
 				"paintbackground"		"0"
-				"border_default"		"NONE_Black_3"
-				"border_armed"			"NONE_White_4"
+				"border_default"		"FLAT_Black_3"
+				"border_armed"			"FLAT_White_4"
 			}
 			"GithubButton"
 			{
@@ -135,8 +135,8 @@
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
 				"paintbackground"		"0"
-				"border_default"		"NONE_Black_3"
-				"border_armed"			"NONE_White_4"
+				"border_default"		"FLAT_Black_3"
+				"border_armed"			"FLAT_White_4"
 			}
 			"CustomizeButton"
 			{
@@ -154,8 +154,8 @@
 				"sound_depressed"		"UI/buttonclick.wav"
 				"sound_released"		"UI/buttonclickrelease.wav"
 				"paintbackground"		"0"
-				"border_default"		"NONE_Black_3"
-				"border_armed"			"NONE_White_4"
+				"border_default"		"FLAT_Black_3"
+				"border_armed"			"FLAT_White_4"
 			}
 			"HangWarning"
 			{

@@ -206,7 +206,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"NONE_PanelO2_0"
+			"border"			"FLAT_PanelO2_0"
 		}
 		"AveragesLabel"
 		{
@@ -223,7 +223,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"NONE_PanelO0_0"
+			"border"			"FLAT_PanelO0_0"
 		}
 		"ClassBarBG1A"
 		{
@@ -1316,7 +1316,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"NONE_PanelO2_0"
+			"border"			"FLAT_PanelO2_0"
 		}
 		"RecordsLabel1"
 		{
@@ -1333,7 +1333,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"NONE_PanelO0_0"
+			"border"			"FLAT_PanelO0_0"
 		}
 		"RecordsSubBG1"
 		{
@@ -1916,8 +1916,8 @@
 		"paintborder"					"1"
 		"defaultFgColor_override"		"Negative"
 		"armedFgColor_override"			"Negative"
-		"border_default"				"NONE_PanelO2_0"
-		"border_armed"					"NONE_Negative_4"
+		"border_default"				"FLAT_PanelO2_0"
+		"border_armed"					"FLAT_Negative_4"
 	}
 	"CloseButton"
 	{

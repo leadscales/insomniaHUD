@@ -79,7 +79,7 @@
 			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"NONE_AccentMain_4"
+			"border_armed"		"FLAT_AccentMain_4"
 		}
 
 		"PartySlot0"
@@ -336,7 +336,7 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"NONE_AccentMain_4"
+				"border_armed"		"FLAT_AccentMain_4"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -372,7 +372,7 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"NONE_AccentMain_4"
+				"border_armed"		"FLAT_AccentMain_4"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -517,7 +517,7 @@
 			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"NONE_AccentMain_4"
+			"border_armed"		"FLAT_AccentMain_4"
 		}
 
 		"DisconnectButton"
@@ -555,7 +555,7 @@
 			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"NONE_AccentMain_4"
+			"border_armed"		"FLAT_AccentMain_4"
 		}
 
 		"ResumeButton"
@@ -613,7 +613,7 @@
 			"armedFgColor_override"		"AccentMain"
 
 			"border_default"	"NoBorder"
-			"border_armed"		"NONE_AccentMain_4"
+			"border_armed"		"FLAT_AccentMain_4"
 		}
 	}
 }
