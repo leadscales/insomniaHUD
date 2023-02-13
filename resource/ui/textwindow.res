@@ -22,7 +22,7 @@
 		"ypos"										"0"
 		"wide"										"f0"
 		"tall"										"f0"
-		"bgcolor_override"							"PanelT1"
+		"bgcolor_override"							"PanelT2"
 		"mouseinputenabled"							"0"
 	}
 
@@ -56,19 +56,20 @@
 		}
 	}
 
-	"BottomBar"
+	"Bar"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"BottomBar"
-		"xpos"										"0"
-		"ypos"										"rs1"
-		"zpos"										"2"
-		"wide"										"f0"
-		"tall"										"40"
+		"fieldName"									"Bar"
+		"xpos"										"-5"
+		"ypos"										"rs1+5"
+		"zpos"										"1"
+		"wide"										"f-10"
+		"tall"										"45"
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
-		"bgcolor_override"							"PanelT2"
+		"paintbackground"							"0"
+		"border"									"FLAT_Black_0"
 	}
 
 	"Welcome"

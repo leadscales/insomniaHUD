@@ -21,7 +21,7 @@
 		"ypos"										"0"
 		"wide"										"f0"
 		"tall"										"f0"
-		"bgcolor_override"							"PanelT1"
+		"bgcolor_override"							"PanelT2"
 		"mouseinputenabled"							"0"
 	}
 
@@ -55,19 +55,20 @@
 		}
 	}
 	
-	"BottomBar"
+	"Bar"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"BottomBar"
-		"xpos"										"0"
-		"ypos"										"rs1"
-		"zpos"										"2"
-		"wide"										"f0"
-		"tall"										"40"
+		"fieldName"									"Bar"
+		"xpos"										"-5"
+		"ypos"										"rs1+5"
+		"zpos"										"1"
+		"wide"										"f-10"
+		"tall"										"45"
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
-		"bgcolor_override"							"PanelT2"
+		"paintbackground"							"0"
+		"border"									"FLAT_Black_0"
 	}
 
 	//==================================================================================================================================================
@@ -78,9 +79,9 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldname"									"BlueButton"
-		"xpos"			  							"c0-s1"
-		"ypos"			  							"rs1"
-		"zpos"			  							"1"
+		"xpos"			  							"0"
+		"ypos"			  							"0"
+		"zpos"			  							"2"
 		"wide"			  							"80"
 		"tall"			  							"40"
 		"visible"									"1"
@@ -97,14 +98,17 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"NoBorder"
-		"border_armed"								"FLAT_m0reBlue_3"
+		"border_default"							"LINE_TOP_NOGLOW_m0reBlue_3"
+		"border_armed"								"LINE_TOP_GLOW_m0reBlue_0"
 
 		"defaultfgcolor_override"					"m0reBlue"
 		"armedfgcolor_override"						"m0reBlue"
 		"selectedfgcolor_override"					"m0reBlue"
 		"depressedFgColor_override"					"m0reBlue"
 
+		"pin_to_sibling"							"Bar"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 
 	"BlueLabel"
@@ -160,9 +164,9 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldname"									"RedButton"
-		"xpos"			  							"c0"
-		"ypos"			  							"rs1"
-		"zpos"			  							"1"
+		"xpos"			  							"0"
+		"ypos"			  							"0"
+		"zpos"			  							"2"
 		"wide"			  							"80"
 		"tall"			  							"40"
 		"visible"									"1"
@@ -179,13 +183,17 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"NoBorder"
-		"border_armed"								"FLAT_m0reRed_3"
+		"border_default"							"LINE_TOP_NOGLOW_m0reRed_3"
+		"border_armed"								"LINE_TOP_GLOW_m0reRed_0"
 
 		"defaultfgcolor_override"					"m0reRed"
 		"armedfgcolor_override"						"m0reRed"
 		"selectedfgcolor_override"					"m0reRed"
 		"depressedFgColor_override"					"m0reRed"
+
+		"pin_to_sibling"							"Bar"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_CENTER_TOP"
 	}
 
 	"RedLabel"
@@ -239,8 +247,8 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldname"									"RandomButton"
-		"xpos"			  							"0"
-		"ypos"			  							"rs1"
+		"xpos"			  							"-5"
+		"ypos"			  							"0"
 		"zpos"			  							"3"
 		"wide"			  							"80"
 		"tall"			  							"40"
@@ -257,16 +265,20 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"NoBorder"
-		"border_armed"								"FLAT_Black_2"
+		"border_default"							"LINE_TOP_NOGLOW_White_4"
+		"border_armed"								"LINE_TOP_GLOW_White_0"
+
+		"pin_to_sibling"							"Bar"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"SpectateButton"
 	{
 		"ControlName"								"CExButton"
 		"fieldname"									"SpectateButton"
-		"xpos"			  							"rs1"
-		"ypos"			  							"rs1"
+		"xpos"			  							"-5"
+		"ypos"			  							"0"
 		"zpos"			  							"3"
 		"wide"			  							"80"
 		"tall"			  							"40"
@@ -283,8 +295,12 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"NoBorder"
-		"border_armed"								"FLAT_Black_2"
+		"border_default"							"LINE_TOP_NOGLOW_White_4"
+		"border_armed"								"LINE_TOP_GLOW_White_0"
+
+		"pin_to_sibling"							"Bar"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 	}
 
 	"KeyBlue1"

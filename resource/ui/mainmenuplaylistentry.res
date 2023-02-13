@@ -117,8 +117,8 @@
 		"armedFgColor_override"		"Text0"
 		"depressedFgColor_override" "Text0"
 
-		"border_default"			"NoBorder"
-		"border_armed"				"FLAT_PanelO2_0"
+		"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_4"
+		"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
 	}	
 
 	"MatchmakingBanPanel"

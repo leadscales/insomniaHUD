@@ -4,7 +4,7 @@ import subprocess
 import vdf
 from PIL import Image
 
-VTFCMD_FLAGS = "-format IA88 -alphaformat IA88 -flag NOMIP -flag NOLOD -flag POINTSAMPLE -silent"
+VTFCMD_FLAGS = "-format IA88 -alphaformat IA88 -flag NOMIP -flag NOLOD -flag ANISOTROPIC -silent"
 BORDER_COLORS = ["Black", "White", "AccentMain", "Positive", "Warning", "Negative", "PanelO0", "PanelO1",
                  "PanelO2", "PanelO3", "PanelO4", "PanelO5", "PanelO6", "m0reRed", "m0reBlue"]
 
@@ -49,10 +49,6 @@ def vtf(path: os.PathLike):
     for folder in os.listdir(path):
         _f = str("\"" + str(path.resolve().joinpath(folder))+"\\*.png\"")
         subprocess.run(f"vtfcmd -folder {_f} {VTFCMD_FLAGS}")
-    for folder in os.listdir(path):
-        for file in os.listdir(path.joinpath(folder)):
-            if file.endswith(".png"):
-                os.remove(path.joinpath(folder, file))
 
 
 def borders(path: os.PathLike) -> dict:
@@ -68,16 +64,28 @@ def borders(path: os.PathLike) -> dict:
         for folder in os.listdir(path):
             for file in os.listdir(path.joinpath(folder)):
                 if file.endswith(".vmt"):
+                    if file.split("_")[0] in ["LEFT", "RIGHT"]:
+                        _sw = "30"
+                        _sh = "30"
+                        _dw = "5"
+                        _dh = "5"
+                        print("x")
+                    else:
+                        _sw = "30"
+                        _sh = "30"
+                        _dw = "5"
+                        _dh = "5"
+                        print("y")
                     border["Scheme"]["Borders"].update({
                         f"LINE_{file[:-4]}_{color}_{folder}": {
                             "bordertype": "scalable_image",
                             "backgroundtype": "0",
                             "color": color,
                             "image": f"replay/thumbnails/panels/line/{folder}/{file[:-4]}",
-                            "src_corner_width": "20",
-                            "src_corner_height": "20",
-                            "draw_corner_width": "4",
-                            "draw_corner_height": "4"
+                            "src_corner_width": _sw,
+                            "src_corner_height": _sh,
+                            "draw_corner_width": _dw,
+                            "draw_corner_height": _dh
                         }
                     })
 
@@ -88,16 +96,6 @@ def vmt(path: os.PathLike):
     path = pathlib.Path(path)
     for folder in os.listdir(path):
         for file in os.listdir(path.joinpath(folder)):
-            if folder == str(0):
-                alpha = 1.0
-            elif folder == str(1):
-                alpha = 0.8
-            elif folder == str(2):
-                alpha = 0.6
-            elif folder == str(3):
-                alpha = 0.4
-            else:
-                alpha = 0.2
             vmt_file = {
                 "UnlitGeneric": {
                     "$translucent": "1",
@@ -120,32 +118,55 @@ def main():
         "materials/vgui/replay/thumbnails/panels/line/")
     OUTPUT_DIR_BORDER = PROJECT_ROOT.joinpath(
         "resource/scheme/borders_line.res")
-    INPUT_IMAGE = PROJECT_ROOT.joinpath(
-        "materials/vgui/replay/thumbnails/panels/LINE_BORDERS.png")
+    INPUT_IMAGE_1 = PROJECT_ROOT.joinpath(
+        "materials/vgui/replay/thumbnails/panels/LINE_BORDERS_GLOW.png")
+    INPUT_IMAGE_2 = PROJECT_ROOT.joinpath(
+        "materials/vgui/replay/thumbnails/panels/LINE_BORDERS_NOGLOW.png")
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    split = [slice_image(64, 64, i)
-             for i in slice_image(128, 128, Image.open(INPUT_IMAGE))]
+    split1 = [slice_image(64, 64, i)
+              for i in slice_image(128, 128, Image.open(INPUT_IMAGE_1))]
+    split2 = [slice_image(64, 64, i)
+              for i in slice_image(128, 128, Image.open(INPUT_IMAGE_2))]
 
-    for i in range(len(split)):
+    for i in range(len(split1)):
         OUTPUT_DIR.joinpath(f"{i}/").mkdir(parents=True, exist_ok=True)
-        for j in range(len(split[i])):
+        for j in range(len(split1[i])):
             if j == 0:
-                _name = "TOP"
+                _name = "TOP_GLOW"
             elif j == 1:
-                _name = "RIGHT"
+                _name = "RIGHT_GLOW"
             elif j == 2:
-                _name = "LEFT"
+                _name = "LEFT_GLOW"
             elif j == 3:
-                _name = "BOTTOM"
+                _name = "BOTTOM_GLOW"
             with open(OUTPUT_DIR.joinpath(f"{i}/{_name}.png"), "wb") as file:
-                split[i][j].save(file, "png")
+                split1[i][j].save(file, "png")
+
+    for i in range(len(split2)):
+        OUTPUT_DIR.joinpath(f"{i}/").mkdir(parents=True, exist_ok=True)
+        for j in range(len(split2[i])):
+            if j == 0:
+                _name = "TOP_NOGLOW"
+            elif j == 1:
+                _name = "RIGHT_NOGLOW"
+            elif j == 2:
+                _name = "LEFT_NOGLOW"
+            elif j == 3:
+                _name = "BOTTOM_NOGLOW"
+            with open(OUTPUT_DIR.joinpath(f"{i}/{_name}.png"), "wb") as file:
+                split2[i][j].save(file, "png")
 
     vtf(OUTPUT_DIR)
     vmt(OUTPUT_DIR)
     with open(OUTPUT_DIR_BORDER, "w") as file:
         vdf.dump(borders(OUTPUT_DIR), file, True)
+
+    for folder in os.listdir(OUTPUT_DIR):
+        for file in os.listdir(OUTPUT_DIR.joinpath(folder)):
+            if file.endswith(".png"):
+                os.remove(OUTPUT_DIR.joinpath(folder, file))
 
 
 main()

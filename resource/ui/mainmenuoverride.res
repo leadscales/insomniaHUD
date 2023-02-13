@@ -215,14 +215,15 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"BottomButtonsPanel"
-		"xpos"										"0"
-		"ypos"										"rs1"
+		"xpos"										"-5"
+		"ypos"										"rs1+5"
 		"zpos"										"9"
-		"wide"										"f0"
-		"tall"										"40"
+		"wide"										"f-10"
+		"tall"										"45"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelT4"
+		"paintbackground"							"0"
+		"border"									"FLAT_Black_4"
 	}
 
 	"StaticTFLogo"
@@ -261,7 +262,7 @@
 		"fieldName"									"BetaButton"
 		"xpos"										"rs1-10"
 		"ypos"										"rs1-50"
-		"wide"										"35"
+		"wide"										"40"
 		"tall"										"10"
 		"proportionaltoparent"						"1"	
 		"mouseinputenabled"							"1"
@@ -417,7 +418,7 @@
 			"tall"										"f0"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"Blank"
-			"border"									"NoBorder"
+			"border"									"FLAT_Black_3"
 
 			"Items"
 			{
@@ -454,8 +455,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"NoBorder"
-					"border_armed"							"LINE_LEFT_AccentMain_3"
+					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
+					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
 				}
 
 				"DirectBackpackButton"
@@ -522,8 +523,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"NoBorder"
-					"border_armed"							"LINE_LEFT_AccentMain_3"
+					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
+					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
 				}
 
 				"AdvancedOptionsButton"
@@ -590,8 +591,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"NoBorder"
-					"border_armed"							"LINE_LEFT_AccentMain_3"
+					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
+					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
 				}
 
 				"CommunityMarketButton"
@@ -658,8 +659,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"NoBorder"
-					"border_armed"							"LINE_LEFT_AccentMain_3"
+					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
+					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
 				}
 
 				"CustomizeButtonExtra"
@@ -797,8 +798,8 @@
 
 			"command"								"engine ih_info"
 
-			"defaultfgcolor_override"				"Text0"
-			"armedfgcolor_override"					"Text0"
+			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
 
 			"border_default"						"NoBorder"
 			"border_armed"							"LINE_BOTTOM_AccentMain_3"
@@ -826,8 +827,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
-			"border_armed"							"LINE_BOTTOM_AccentMain_3"
+			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -856,8 +857,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
-			"border_armed"							"LINE_BOTTOM_AccentMain_3"
+			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -886,8 +887,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
-			"border_armed"							"LINE_BOTTOM_AccentMain_3"
+			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -916,8 +917,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"NoBorder"
-			"border_armed"							"LINE_BOTTOM_AccentMain_3"
+			"border_default"						"LINE_BOTTOM_NOGLOW_AccentMain_3"
+			"border_armed"							"LINE_BOTTOM_GLOW_AccentMain_3"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -989,8 +990,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"FLAT_AccentMain_4"
+				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
 			}
 		}
 
@@ -1042,8 +1043,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"FLAT_AccentMain_4"
+				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
 			}
 		}
 
@@ -1096,8 +1097,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"FLAT_AccentMain_4"
+				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
 			}
 		}
 
@@ -1149,8 +1150,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"NoBorder"
-				"border_armed"				"FLAT_AccentMain_4"
+				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
 			}
 		}
 	}

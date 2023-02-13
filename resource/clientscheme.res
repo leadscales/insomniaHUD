@@ -19,7 +19,7 @@
 #base "../resource/scheme/borders_flat.res"
 #base "../resource/scheme/borders_line.res"
 #base "../resource/scheme/borders_extra.res"
-//#base "../resource/scheme/borders_accent.res"
+#base "../resource/scheme/borders_accent.res"
 
 //=========================================================
 // DEFAULT TF2 SCHEME

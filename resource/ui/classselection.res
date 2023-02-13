@@ -55,19 +55,20 @@
 		}
 	}
 
-	"BottomBar"
+	"Bar"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"BottomBar"
-		"xpos"										"0"
-		"ypos"										"rs1"
-		"zpos"										"2"
-		"wide"										"f0"
-		"tall"										"40"
+		"fieldName"									"Bar"
+		"xpos"										"-5"
+		"ypos"										"rs1+5"
+		"zpos"										"1"
+		"wide"										"f-10"
+		"tall"										"45"
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
-		"bgcolor_override"							"PanelT2"
+		"paintbackground"							"0"
+		"border"									"FLAT_Black_0"
 	}
 
 	//==================================================================================================================================================
@@ -85,7 +86,7 @@
 		"tall"						"40"
 		"bgcolor_override"			"Blank"
 
-		"pin_to_sibling"			"BottomBar"
+		"pin_to_sibling"			"Bar"
 		"pin_corner_to_sibling"		"PIN_CENTER_TOP"
 		"pin_to_sibling_corner"		"PIN_CENTER_TOP"
 	}
@@ -116,11 +117,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"			"ClassPanel"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -148,11 +149,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"scout"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -180,11 +181,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"soldier"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -212,11 +213,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"pyro"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -244,11 +245,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"demoman"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -276,11 +277,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"heavyweapons"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -308,11 +309,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"engineer"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -340,11 +341,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"medic"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -372,11 +373,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 
 		"pin_to_sibling"		"sniper"
 		"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -486,11 +487,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 	}
 
 	"EditLoadoutButton"
@@ -514,11 +515,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"NoBorder"
-		"border_armed"			"FLAT_Black_2"
-		"border_selected"		"FLAT_Black_2"
-		"border_depressed"		"FLAT_Black_2"
-		"border"				"NoBorder"
+		"border_default"		"LINE_TOP_NOGLOW_White_4"
+		"border_armed"			"LINE_TOP_GLOW_White_0"
+		"border_selected"		"LINE_TOP_GLOW_White_0"
+		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border"				"LINE_TOP_NOGLOW_White_4"
 	}
 
 	//==================================================================================================================================================

@@ -129,8 +129,8 @@
 		"actionsignallevel"	"1"
 		"paintbackground"	"0"
 
-		"border_default"	"NoBorder"
-		"border_armed"		"FLAT_PanelO2_0"
+		"border_default"	"LINE_BOTTOM_NOGLOW_AccentMain_4"
+		"border_armed"		"LINE_BOTTOM_GLOW_AccentMain_0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
