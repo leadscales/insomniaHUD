@@ -455,7 +455,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"FLAT_Black_3"
+					"border_armed"							"LINE_LEFT_AccentMain_3"
 				}
 
 				"DirectBackpackButton"
@@ -523,7 +523,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"FLAT_Black_3"
+					"border_armed"							"LINE_LEFT_AccentMain_3"
 				}
 
 				"AdvancedOptionsButton"
@@ -591,7 +591,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"FLAT_Black_3"
+					"border_armed"							"LINE_LEFT_AccentMain_3"
 				}
 
 				"CommunityMarketButton"
@@ -659,7 +659,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"FLAT_Black_3"
+					"border_armed"							"LINE_LEFT_AccentMain_3"
 				}
 
 				"CustomizeButtonExtra"
@@ -801,7 +801,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"FLAT_Black_3"
+			"border_armed"							"LINE_BOTTOM_AccentMain_3"
 		}
 
 		"ConsoleButton"
@@ -827,7 +827,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"FLAT_Black_3"
+			"border_armed"							"LINE_BOTTOM_AccentMain_3"
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -857,7 +857,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"FLAT_Black_3"
+			"border_armed"							"LINE_BOTTOM_AccentMain_3"
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -887,7 +887,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"FLAT_Black_3"
+			"border_armed"							"LINE_BOTTOM_AccentMain_3"
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -917,7 +917,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"FLAT_Black_3"
+			"border_armed"							"LINE_BOTTOM_AccentMain_3"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
