@@ -70,7 +70,7 @@
 		"enabled"									"1"
 
 		"paintbackground"							"0"
-		"border"									"TLTR_Black_1"
+		"border"									"NONE_Black_1"
 		
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -93,7 +93,7 @@
 			"proportionaltoparent"						"1"
 			"visible"									"1"
 			"enabled"									"1"
-			"border"									"TLTR_Black_2"
+			"border"									"NONE_Black_2"
 
 			"if_mvm"
 			{
@@ -551,7 +551,7 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"BL_Black_1"
+			"border"									"NONE_Black_1"
 
 			"if_mvm"
 			{
@@ -611,7 +611,7 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"BR_Black_2"
+			"border"									"NONE_Black_2"
 			"bgcolor_override"							"Blank"
 
 			"pin_to_sibling"							"KDPanel"
@@ -1147,7 +1147,7 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"BR_Black_3"
+				"border"									"NONE_Black_3"
 				"paintbackground"							"0"
 
 				"pin_to_sibling"							"S4_Label"
@@ -1783,7 +1783,7 @@
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"BLBR_Black_1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"LocalPlayerStatsPanel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1878,7 +1878,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Positive"
-				"border"							"BL_Black_4"
+				"border"							"NONE_Black_4"
 			}
 		}
 
@@ -1946,7 +1946,7 @@
 				"paintbackground"					"0"
 
 				"fgcolor"							"Negative"
-				"border"							"BR_Black_4"
+				"border"							"NONE_Black_4"
 			}
 		}
 	}

@@ -348,8 +348,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"TL_PanelO2_0"
-			"border_armed"			"TL_PanelO3_0"
+			"border_default"		"NONE_PanelO2_0"
+			"border_armed"			"NONE_PanelO3_0"
 
 			"pin_to_sibling"		"ClassDemoman"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -408,8 +408,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"TR_PanelO2_0"
-			"border_armed"			"TR_PanelO3_0"
+			"border_default"		"NONE_PanelO2_0"
+			"border_armed"			"NONE_PanelO3_0"
 
 			"pin_to_sibling"		"ClassSniper"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -536,8 +536,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"BL_PanelO2_0"
-			"border_armed"			"BL_PanelO3_0"
+			"border_default"		"NONE_PanelO2_0"
+			"border_armed"			"NONE_PanelO3_0"
 		}
 
 		"MenuCrafting"
@@ -682,8 +682,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"BR_PanelO2_0"
-			"border_armed"			"BR_PanelO3_0"
+			"border_default"		"NONE_PanelO2_0"
+			"border_armed"			"NONE_PanelO3_0"
 
 			"pin_to_sibling"		"MenuTrading"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"

@@ -61,9 +61,9 @@
 				"paintbackground"					"1"
 				"paintborder"						"1"
 				"border_default"					"NoBorder"
-				"border_armed"						"TLTRBLBR_AccentMain_4"
-				"border_depressed"					"TLTRBLBR_AccentMain_4"
-				"border_selected"					"TLTRBLBR_AccentMain_4"
+				"border_armed"						"NONE_AccentMain_4"
+				"border_depressed"					"NONE_AccentMain_4"
+				"border_selected"					"NONE_AccentMain_4"
 				"textAlignment"						"center"
 				"labelText"							"%page%"
 				"font"								"HudFontSmallestBold"
@@ -508,8 +508,8 @@
 		"armedFgColor_override"						"Negative"
 		"defaultFgColor_override"					"Negative"
 
-		"border_default"							"TLTRBLBR_PanelO2_0"
-		"border_armed"								"TLTRBLBR_PanelO3_0"
+		"border_default"							"NONE_PanelO2_0"
+		"border_armed"								"NONE_PanelO3_0"
 	}
 
 	"ShowExplanationsButton"

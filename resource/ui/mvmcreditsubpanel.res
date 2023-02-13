@@ -11,7 +11,7 @@
 		"tall"				"40"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"BLBR_Black_2"
+		"border"			"NONE_Black_2"
 	}
 
 	"HeaderLabelBG"
@@ -142,7 +142,7 @@
 		"tall"				"10"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"BL_Black_3"
+		"border"			"NONE_Black_3"
 	}
 
 	"CreditBonusTextLabel"
@@ -187,6 +187,6 @@
 		"wide"				"10"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"border"			"TR_Black_4"
+		"border"			"NONE_Black_4"
 	}
 }

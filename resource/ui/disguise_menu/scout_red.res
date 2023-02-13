@@ -34,7 +34,7 @@
 		"textAlignment"								"Center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"BL_Black_2"
+		"border"									"NONE_Black_2"
 	}
 
 	"NumberLabel"
@@ -53,7 +53,7 @@
 		"textAlignment"								"Center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"BL_Black_2"
+		"border"									"NONE_Black_2"
 	}
 
 	"GlowEffect"

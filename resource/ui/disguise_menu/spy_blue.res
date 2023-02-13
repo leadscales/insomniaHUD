@@ -11,13 +11,13 @@
 	"NewNumberLabel"
 	{
 		"labelText"									"3"
-		"border"									"BR_Black_2"
+		"border"									"NONE_Black_2"
 	}
 
 	"NumberLabel"
 	{
 		"labelText"									"9"
-		"border"									"BR_Black_2"
+		"border"									"NONE_Black_2"
 	}
 
 	"GlowEffect"

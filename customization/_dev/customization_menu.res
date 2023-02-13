@@ -77,7 +77,7 @@
 				"tall"						"460"
 				"proportionaltoparent"		"1"
 				"paintbackground"			"1"
-				"border"					"TLTRBLBR_Black_1"
+				"border"					"NONE_Black_1"
 				"Title"
 				{
 					"ControlName"				"CExLabel"
@@ -139,7 +139,7 @@
 					"defaultFgColor_override"	"AccentMain"
 					"armedFgColor_override"		"AccentMain"
 					"border_default"			"NoBorder"
-					"border_armed"				"TR_AccentMain_4"
+					"border_armed"				"NONE_AccentMain_4"
 				}
 			}
 			"MainPanelColor"
@@ -153,7 +153,7 @@
 				"tall"						"460"
 				"proportionaltoparent"		"1"
 				"paintbackground"			"1"
-				"border"					"TLTRBLBR_AccentMain_4"
+				"border"					"NONE_AccentMain_4"
 			}
 		}
 	}

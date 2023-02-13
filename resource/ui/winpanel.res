@@ -25,7 +25,7 @@
 			"PaintBackground"						"1"
 			"PaintBackgroundType"					"0"
 			"bgcolor_override"						"Blank"
-			"border"								"TLTRBLBR_PanelO0_0"
+			"border"								"NONE_PanelO0_0"
 
 			"GlowContainer"
 			{
@@ -232,7 +232,7 @@
 		"ypos"										"rs1-10"
 		"wide"										"180"
 		"tall"										"80"
-		"border"									"TLTRBLBR_Black_1"
+		"border"									"NONE_Black_1"
 	}
 
 	"ScoresLabel"
@@ -247,7 +247,7 @@
 		"textalignment"								"center"
 		"font"										"bold18"
 
-		"border"									"TLTR_Black_2"
+		"border"									"NONE_Black_2"
 
 		"pin_to_sibling"							"ScoresBG"
 	}
@@ -399,7 +399,7 @@
 		"labelText"	  								""
 		"textAlignment"								"center"
 
-		"border"									"BR_black_3"
+		"border"									"NONE_black_3"
 
 		"pin_to_sibling"							"Player3Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -427,7 +427,7 @@
 		"textAlignment"								"west"
 		"textinsetx"								"5"
 		"useproportionalinsets"						"1"
-		"border"									"BL_Black_2"
+		"border"									"NONE_Black_2"
 
 		"pin_to_sibling"							"Player2Name"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

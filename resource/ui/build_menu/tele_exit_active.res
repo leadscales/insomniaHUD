@@ -19,7 +19,7 @@
 
 	"CostLabel"
 	{
-		"border"		"TR_Black_3"
+		"border"		"NONE_Black_3"
 	}
 	
 	"NumberLabel"

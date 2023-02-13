@@ -14,7 +14,7 @@
 		"enabled"									"1"
 
 		"paintbackground"							"0"
-		"border"									"TLTR_Black_1"
+		"border"									"NONE_Black_1"
 
 		"TopDarken"
 		{
@@ -28,7 +28,7 @@
 			"proportionaltoparent"						"1"
 			"visible"									"1"
 			"enabled"									"1"
-			"border"									"TLTR_Black_2"
+			"border"									"NONE_Black_2"
 		}
 
 		"GlowContainer"
@@ -74,7 +74,7 @@
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"painbackground"		    				"0"
-		"border"									"TLTR_m0reRed_3"
+		"border"									"NONE_m0reRed_3"
 	}
 
 	"MVMLabel"
@@ -200,7 +200,7 @@
 		"enabled"									"1"
 		"paintbackground"							"0"
 		"proportionaltoparent"						"1"
-		"border"									"TLTRBLBR_Black_4"
+		"border"									"NONE_Black_4"
 
 		"pin_to_sibling"							"MvMPlayerList"
 	}

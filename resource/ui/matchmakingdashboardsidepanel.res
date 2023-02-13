@@ -128,6 +128,6 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
-		"border"		"TLTRBLBR_PanelO1_0"
+		"border"		"NONE_PanelO1_0"
 	}
 }

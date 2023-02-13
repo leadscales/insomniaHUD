@@ -140,6 +140,6 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"border"			"BR_Black_3"
+		"border"			"NONE_Black_3"
 	}
 }

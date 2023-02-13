@@ -233,7 +233,7 @@
 		"proportionaltoparent"						"1"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"TLTRBLBR_Black_2"
+		"border"									"NONE_Black_2"
 
 		"TopDarken"
 		{
@@ -247,7 +247,7 @@
 			"proportionaltoparent"						"1"
 			"visible"									"1"
 			"enabled"									"1"
-			"border"									"TLTR_Black_2"
+			"border"									"NONE_Black_2"
 
 			"if_hybrid"
 			{

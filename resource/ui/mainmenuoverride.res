@@ -194,7 +194,7 @@
 		"tall"										"f80"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"TLTRBLBR_Black_2"
+		"border"									"NONE_Black_2"
 	}
 
 	"PrimaryPanelColor"
@@ -208,7 +208,7 @@
 		"tall"										"f80"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"TLTRBLBR_AccentMain_4"
+		"border"									"NONE_AccentMain_4"
 	}
 
 	"BottomButtonsPanel"
@@ -289,7 +289,7 @@
 		"wide"										"200"
 		"tall"										"40"
 
-		"border"									"TLTR_Black_2"
+		"border"									"NONE_Black_2"
 
 		"pin_to_sibling" 							"PrimaryPanel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -350,7 +350,7 @@
 		"fgcolor"									"Negative"
 		"labelText"									"!"
 		"textAlignment"								"center"
-		"border"									"TLTR_Negative_4"
+		"border"									"NONE_Negative_4"
 
 		"pin_to_sibling" 							"RankContainer"
 	}
@@ -379,7 +379,7 @@
 
 		"paintbackground"							"0"
 		"border_default"							"NoBorder"
-		"border_armed"								"TLTRBLBR_Black_3"
+		"border_armed"								"NONE_Black_3"
 
 		"pin_to_sibling" 							"RankContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -479,7 +479,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"TLTRBLBR_Black_3"
+					"border_armed"							"NONE_Black_3"
 				}
 			}
 
@@ -547,7 +547,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"TLTRBLBR_Black_3"
+					"border_armed"							"NONE_Black_3"
 				}
 			}
 
@@ -615,7 +615,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"TLTRBLBR_Black_3"
+					"border_armed"							"NONE_Black_3"
 				}
 			}
 
@@ -683,7 +683,7 @@
 
 					"paintbackground"						"0"
 					"border_default"						"NoBorder"
-					"border_armed"							"TLTRBLBR_Black_3"
+					"border_armed"							"NONE_Black_3"
 				}
 			}
 		}
@@ -772,7 +772,7 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"bgcolor_override"							"Blank"
-		"border"									"BLBR_Black_2"
+		"border"									"NONE_Black_2"
 
 		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -801,7 +801,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"BL_Black_3"
+			"border_armed"							"NONE_Black_3"
 		}
 
 		"ConsoleButton"
@@ -917,7 +917,7 @@
 			"armedfgcolor_override"					"Text0"
 
 			"border_default"						"NoBorder"
-			"border_armed"							"BR_Black_3"
+			"border_armed"							"NONE_Black_3"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -1207,8 +1207,8 @@
 
 			"defaultFgColor_override" 				"Text0"
 
-			"border_default"						"TLTRBLBR_Black_2"
-			"border_armed"							"TLTRBLBR_White_4"
+			"border_default"						"NONE_Black_2"
+			"border_armed"							"NONE_White_4"
 		}
 	}
 

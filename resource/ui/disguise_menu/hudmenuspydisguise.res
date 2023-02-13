@@ -13,7 +13,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"TLTRBLBR_Black_3"
+		"border"									"NONE_Black_3"
 	}
 
 	"class_item_red_1"
@@ -26,7 +26,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"TLBL_Black_1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"Background"
 	}
@@ -41,7 +41,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"TLBL_Black_1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"class_item_red_1"
 	}
@@ -280,7 +280,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"TRBR_Black_1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"class_item_red_8"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -297,7 +297,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"TRBR_Black_1"
+		"border"									"NONE_Black_1"
 
 		"pin_to_sibling"							"class_item_red_9"
 	}
