@@ -13,7 +13,6 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_3"
 	}
 
 	"active_item_1"
@@ -27,7 +26,7 @@
 		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Background"
 	}
@@ -42,7 +41,7 @@
 		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_1"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -60,7 +59,7 @@
 		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_2"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -78,7 +77,7 @@
 		"tall"										"60"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_3"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -96,7 +95,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_1"
 	}
@@ -112,7 +111,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_2"
 	}
@@ -128,7 +127,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_3"
 	}
@@ -144,7 +143,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_4"
 	}
@@ -160,7 +159,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_1"
 	}
@@ -176,7 +175,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_2"
 	}
@@ -192,7 +191,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_3"
 	}
@@ -208,7 +207,7 @@
 		"tall"										"60"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"active_item_4"
 	}

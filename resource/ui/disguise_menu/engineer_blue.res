@@ -19,12 +19,4 @@
 		"labelText"									"6"
 		"border"									"FLAT_Black_2"
 	}
-
-	"GlowEffect"
-	{
-		"SubImage"
-		{
-			"drawcolor"									"m0reBlue"
-		}
-	}
 }

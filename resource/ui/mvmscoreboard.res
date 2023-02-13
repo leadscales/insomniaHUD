@@ -15,50 +15,6 @@
 
 		"paintbackground"							"0"
 		"border"									"FLAT_Black_1"
-
-		"TopDarken"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"TopDarken"
-			"xpos"										"0"
-			"ypos"										"0"
-			"zpos"										"3"
-			"wide"										"f0"
-			"tall"										"40"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-			"border"									"FLAT_Black_2"
-		}
-
-		"GlowContainer"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"GlowContainer"
-			"xpos"										"2"
-			"ypos"										"2"
-			"zpos"										"4"
-			"wide"										"f4"
-			"tall"										"36"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-
-			"RedPointGlow"
-			{
-				"ControlName"								"CTFImagePanel"
-				"fieldName"									"RedPointGlow"
-				"xpos"										"cs-0.5"
-				"ypos"										"-450"
-				"wide"										"800"
-				"tall"										"600"
-				"proportionaltoparent"						"1"
-				"alpha"										"96"
-				"image"										"replay/thumbnails/ui_effects/point_glow_white"
-				"scaleImage"								"1"
-				"drawcolor"									"m0reRed"
-			}
-		}
 	}
 
 	"RedBar"
@@ -84,13 +40,13 @@
 		"xpos"									"cs-0.5"
 		"ypos"									"100"
 		"zpos"									"5"
-		"wide"									"200"
+		"wide"									"500"
 		"tall"									"40"
 		"labeltext"								"#Gametype_MVM"
 		"font"									"bold18"
 		"fgcolor"								"m0reRed"
 		"textalignment"							"center"
-		"border"								"NoBorder"
+		"border"								"LINE_TOP_GLOW_m0reRed_3"
 	}
 
 	"PopFileLabel"

@@ -2,6 +2,11 @@
 
 "Resource/UI/Build_Menu/Base_Cant_Afford.res"
 {
+	"Background"
+	{
+		"border"									"LINE_TOP_GLOW_Warning_1"
+	}
+
 	"CantBuildReason"
 	{
 		"visible"									"1"
@@ -29,14 +34,5 @@
 		"visible"									"1"
 		"fgcolor"									"Warning"
 		"labeltext"									"!"
-	}
-
-	"CantBuildGlow"
-	{
-		"visible"									"1"
-		"SubImage"
-		{
-			"drawcolor"								"Warning"
-		}
 	}
 }

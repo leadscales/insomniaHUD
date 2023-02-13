@@ -13,7 +13,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"NoBorder"
+		"border"									"FLAT_Black_1"
 	}
 
 	"BuildingIcon"
@@ -88,35 +88,6 @@
 		"labelText"									"~"
 		"textAlignment"								"center"
 		"border"									"NoBorder"
-	}
-
-	"CantDestroyGlow"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"CantDestroyGlow"
-		"xpos"										"2"
-		"ypos"										"2"
-		"zpos"										"6"
-		"wide"										"f4"
-		"tall"										"f4"
-		"visible"									"0"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		
-		"SubImage"
-		{
-			"ControlName"								"CTFImagePanel"
-			"fieldName"									"SubImage"
-			"xpos"										"cs-0.5"
-			"ypos"										"-110"
-			"wide"										"150"
-			"tall"										"150"
-			"proportionaltoparent"						"1"
-			"alpha"										"96"
-			"image"										"replay/thumbnails/ui_effects/point_glow_white"
-			"scaleImage"								"1"
-			"drawcolor"									"Negative"
-		}
 	}
 
 	"NumberLabel"

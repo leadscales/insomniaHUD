@@ -2,6 +2,11 @@
 
 "Resource/UI/Build_Menu/Base_Unavailable.res"
 {
+	"Background"
+	{
+		"border"									"LINE_TOP_GLOW_Negative_0"
+	}
+
 	"CantBuildReason"
 	{
 		"visible"									"1"
@@ -24,11 +29,6 @@
 	}
 
 	"CantBuildIcon"
-	{
-		"visible"									"1"
-	}
-
-	"CantBuildGlow"
 	{
 		"visible"									"1"
 	}

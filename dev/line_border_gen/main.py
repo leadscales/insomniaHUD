@@ -5,8 +5,8 @@ import vdf
 from PIL import Image
 
 VTFCMD_FLAGS = "-format IA88 -alphaformat IA88 -flag NOMIP -flag NOLOD -flag ANISOTROPIC -silent"
-BORDER_COLORS = ["Black", "White", "AccentMain", "Positive", "Warning", "Negative", "PanelO0", "PanelO1",
-                 "PanelO2", "PanelO3", "PanelO4", "PanelO5", "PanelO6", "m0reRed", "m0reBlue"]
+BORDER_COLORS = ["Black", "White", "AccentMain", "Positive",
+                 "Warning", "Negative", "m0reRed", "m0reBlue"]
 
 
 def get_project_root() -> os.PathLike:

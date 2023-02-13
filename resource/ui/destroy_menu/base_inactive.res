@@ -2,6 +2,11 @@
 
 "Resource/UI/Destroy_Menu/Base_Inactive.res"
 {
+	"Background"
+	{
+		"border"									"LINE_TOP_GLOW_Negative_1"
+	}
+
 	"DestroyIcon"
 	{
 		"visible"									"0"
@@ -23,11 +28,6 @@
 	}
 
 	"CantDestroyIcon"
-	{
-		"visible"									"1"
-	}
-
-	"CantDestroyGlow"
 	{
 		"visible"									"1"
 	}

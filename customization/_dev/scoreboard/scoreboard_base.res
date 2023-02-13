@@ -63,7 +63,7 @@
 		"fieldName"									"ScoreBG"
 		"xpos"										"0"
 		"ypos"										"0"
-		"zpos"										"4"
+		"zpos"										"2"
 		"wide"										"500"
 		"tall"										"310"
 		"visible"									"1"
@@ -79,82 +79,6 @@
 		"if_mvm"
 		{
 			"border"								"NoBorder"
-		}
-
-		"TopDarken"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"TopDarken"
-			"xpos"										"0"
-			"ypos"										"0"
-			"zpos"										"3"
-			"wide"										"f0"
-			"tall"										"40"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-			"border"									"FLAT_Black_2"
-
-			"if_mvm"
-			{
-				"border"								"NoBorder"
-			}
-		}
-
-		"GlowContainer"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"GlowContainer"
-			"xpos"										"2"
-			"ypos"										"2"
-			"zpos"										"4"
-			"wide"										"f4"
-			"tall"										"36"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-
-			"bgcolor_override"							"Blank"
-
-			"BluePointGlow"
-			{
-				"ControlName"								"CTFImagePanel"
-				"fieldName"									"BluePointGlow"
-				"xpos"										"cs-0.5-300"
-				"ypos"										"-550"
-				"wide"										"600"
-				"tall"										"800"
-				"proportionaltoparent"						"1"
-				"alpha"										"96"
-				"image"										"replay/thumbnails/ui_effects/point_glow_white"
-				"scaleImage"								"1"
-				"drawcolor"									"m0reBlue"
-
-				"if_mvm"
-				{
-					"visible"								"0"
-				}
-			}
-
-			"RedPointGlow"
-			{
-				"ControlName"								"CTFImagePanel"
-				"fieldName"									"RedPointGlow"
-				"xpos"										"cs-0.5+300"
-				"ypos"										"-550"
-				"wide"										"600"
-				"tall"										"800"
-				"proportionaltoparent"						"1"
-				"alpha"										"96"
-				"image"										"replay/thumbnails/ui_effects/point_glow_white"
-				"scaleImage"								"1"
-				"drawcolor"									"m0reRed"
-
-				"if_mvm"
-				{
-					"visible"								"0"
-				}
-			}
 		}
 	}
 
@@ -176,11 +100,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"NoBorder"
-
-		"pin_to_sibling"							"WhiteBG"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
+		"border"									"LINE_TOP_GLOW_m0reBlue_3"
 
 		"if_mvm"
 		{
@@ -291,7 +211,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"NoBorder"
+		"border"									"LINE_TOP_GLOW_m0reRed_3"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"

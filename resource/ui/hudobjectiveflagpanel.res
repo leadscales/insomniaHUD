@@ -30,15 +30,15 @@
 		"ypos"										"rs1-25"
 		"zpos"										"8"
 		"wide"										"40"
-		"tall"										"40"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labelText"									"%bluescore%"
-		"font"										"bold32"
+		"font"										"bold18"
 		"fgcolor"									"m0reBlue"
-		"border"									"NoBorder"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"if_hybrid"
 		{
@@ -133,15 +133,15 @@
 		"ypos"										"rs1-25"
 		"zpos"										"8"
 		"wide"										"40"
-		"tall"										"40"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"textAlignment"								"center"
 		"labelText"									"%redscore%"
-		"font"										"bold32"
+		"font"										"bold18"
 		"fgcolor"									"m0reRed"
-		"border"									"NoBorder"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"if_hybrid"
 		{
@@ -221,147 +221,6 @@
 
 	//==================================================================================================================================================
 
-	"PlayingToBG"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"PlayingToBG"
-		"xpos"										"cs-0.5"
-		"ypos"										"rs1-5"
-		"zpos"										"3"
-		"wide"										"80"
-		"tall"										"60"
-		"proportionaltoparent"						"1"
-		"visible"									"1"
-		"enabled"									"1"
-		"border"									"FLAT_Black_2"
-
-		"TopDarken"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"TopDarken"
-			"xpos"										"0"
-			"ypos"										"0"
-			"zpos"										"3"
-			"wide"										"f0"
-			"tall"										"40"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-			"border"									"FLAT_Black_2"
-
-			"if_hybrid"
-			{
-				"visible"								"0"
-			}
-			"if_mvm"
-			{
-				"visible"								"0"
-			}
-			"if_specialdelivery"
-			{
-				"visible"								"0"
-			}
-		}
-
-		"GlowContainer"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"GlowContainer"
-			"xpos"										"2"
-			"ypos"										"2"
-			"zpos"										"4"
-			"wide"										"f4"
-			"tall"										"36"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-
-			"bgcolor_override"							"Blank"
-
-			"BluePointGlow"
-			{
-				"ControlName"								"CTFImagePanel"
-				"fieldName"									"BluePointGlow"
-				"xpos"										"cs-0.5-80"
-				"ypos"										"-20"
-				"wide"										"200"
-				"tall"										"200"
-				"proportionaltoparent"						"1"
-				"alpha"										"160"
-				"image"										"replay/thumbnails/ui_effects/point_glow_white"
-				"scaleImage"								"1"
-				"drawcolor"									"m0reBlue"
-
-				"if_hybrid"
-				{
-					"visible"								"0"
-				}
-				"if_mvm"
-				{
-					"visible"								"0"
-				}
-				"if_specialdelivery"
-				{
-					"visible"								"0"
-				}
-			}
-
-			"RedPointGlow"
-			{
-				"ControlName"								"CTFImagePanel"
-				"fieldName"									"RedPointGlow"
-				"xpos"										"cs-0.5+80"
-				"ypos"										"-20"
-				"wide"										"200"
-				"tall"										"200"
-				"proportionaltoparent"						"1"
-				"alpha"										"160"
-				"image"										"replay/thumbnails/ui_effects/point_glow_white"
-				"scaleImage"								"1"
-				"drawcolor"									"m0reRed"
-
-				"if_hybrid"
-				{
-					"visible"								"0"
-				}
-				"if_mvm"
-				{
-					"visible"								"0"
-				}
-				"if_specialdelivery"
-				{
-					"visible"								"0"
-				}
-			}
-
-			"if_hybrid"
-			{
-				"visible"								"0"
-			}
-			"if_mvm"
-			{
-				"visible"								"0"
-			}
-			"if_specialdelivery"
-			{
-				"visible"								"0"
-			}
-		}
-
-		"if_hybrid"
-		{
-			"visible"								"0"
-		}
-		"if_mvm"
-		{
-			"visible"								"0"
-		}
-		"if_specialdelivery"
-		{
-			"visible"								"0"
-		}
-	}
-
 	"PlayingTo"
 	{
 		"ControlName"								"CExLabel"
@@ -378,7 +237,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"NoBorder"
+		"border"									"FLAT_Black_1"
 
 		"if_hybrid"
 		{

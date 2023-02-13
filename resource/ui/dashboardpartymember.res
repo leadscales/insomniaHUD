@@ -156,8 +156,8 @@
 		"defaultFgColor_override"	"Blank"
 		"armedFgColor_override"		"AccentMain"
 
-		"border_default"	"NoBorder"
-		"border_armed"		"FLAT_AccentMain_4"
+		"border_default"	"LINE_TOP_NOGLOW_AccentMain_3"
+		"border_armed"		"LINE_TOP_GLOW_AccentMain_3"
 	}
 
 	"Spinner"

@@ -215,15 +215,15 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"BottomButtonsPanel"
-		"xpos"										"-5"
-		"ypos"										"rs1+5"
+		"xpos"										"0"
+		"ypos"										"rs1"
 		"zpos"										"9"
-		"wide"										"f-10"
-		"tall"										"45"
+		"wide"										"f0"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"paintbackground"							"0"
-		"border"									"FLAT_Black_4"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelO0"
 	}
 
 	"StaticTFLogo"
@@ -418,7 +418,7 @@
 			"tall"										"f0"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"Blank"
-			"border"									"FLAT_Black_3"
+			"border"									"NoBorder"
 
 			"Items"
 			{
@@ -455,8 +455,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
-					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
+					"border_default"						"NoBorder"
+					"border_armed"							"FLAT_Black_3"
 				}
 
 				"DirectBackpackButton"
@@ -523,8 +523,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
-					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
+					"border_default"						"NoBorder"
+					"border_armed"							"FLAT_Black_3"
 				}
 
 				"AdvancedOptionsButton"
@@ -591,8 +591,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
-					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
+					"border_default"						"NoBorder"
+					"border_armed"							"FLAT_Black_3"
 				}
 
 				"CommunityMarketButton"
@@ -659,8 +659,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_LEFT_NOGLOW_AccentMain_4"
-					"border_armed"							"LINE_LEFT_GLOW_AccentMain_3"
+					"border_default"						"NoBorder"
+					"border_armed"							"FLAT_Black_3"
 				}
 
 				"CustomizeButtonExtra"
@@ -990,8 +990,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
-				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
+				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
 			}
 		}
 
@@ -1043,8 +1043,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
-				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
+				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
 			}
 		}
 
@@ -1097,8 +1097,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
-				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
+				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
 			}
 		}
 
@@ -1150,8 +1150,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_TOP_NOGLOW_AccentMain_3"
-				"border_armed"				"LINE_TOP_GLOW_AccentMain_2"
+				"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_3"
+				"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
 			}
 		}
 	}

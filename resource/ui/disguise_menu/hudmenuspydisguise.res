@@ -26,7 +26,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"Background"
 	}
@@ -41,7 +41,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_1"
 	}
@@ -56,7 +56,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_1"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -73,7 +73,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_2"
 	}
@@ -88,7 +88,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_2"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -105,7 +105,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_3"
 	}
@@ -120,7 +120,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_3"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -137,7 +137,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_4"
 	}
@@ -152,7 +152,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_4"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -169,7 +169,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_5"
 	}
@@ -184,7 +184,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_5"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -201,7 +201,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_6"
 	}
@@ -216,7 +216,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_6"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -233,7 +233,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_7"
 	}
@@ -248,7 +248,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_7"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -265,7 +265,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_8"
 	}
@@ -280,7 +280,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reRed_1"
 
 		"pin_to_sibling"							"class_item_red_8"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -297,7 +297,7 @@
 		"wide"										"60"
 		"tall"										"60"
 		"visible"									"0"
-		"border"									"FLAT_Black_1"
+		"border"									"LINE_TOP_GLOW_m0reBlue_1"
 
 		"pin_to_sibling"							"class_item_red_9"
 	}

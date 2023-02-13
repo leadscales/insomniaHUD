@@ -129,54 +129,6 @@
 		{
 			"visible"									"1"
 		}
-
-		"GlowContainer"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"GlowContainer"
-			"xpos"										"2"
-			"ypos"										"2"
-			"zpos"										"4"
-			"wide"										"f4"
-			"tall"										"f4"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-
-			"bgcolor_override"							"Blank"
-
-			"GlowBlu"
-			{
-				"ControlName"								"CTFImagePanel"
-				"fieldName"									"GlowBlu"
-				"xpos"										"cs-0.5-200"
-				"ypos"										"-300"
-				"zpos"										"0"
-				"wide"										"300"
-				"tall"										"400"
-				"proportionaltoparent"						"1"
-				"scaleImage"								"1"
-				"alpha"										"96"
-				"image"										"replay/thumbnails/ui_effects/point_glow_white"
-				"drawcolor"									"m0reBlue"
-			}
-
-			"GlowRed"
-			{
-				"ControlName"								"CTFImagePanel"
-				"fieldName"									"GlowRed"
-				"xpos"										"cs-0.5+200"
-				"ypos"										"-300"
-				"zpos"										"0"
-				"wide"										"300"
-				"tall"										"400"
-				"proportionaltoparent"						"1"
-				"scaleImage"								"1"
-				"alpha"										"96"
-				"image"										"replay/thumbnails/ui_effects/point_glow_white"
-				"drawcolor"									"m0reRed"
-			}
-		}
 	}
 
 	"ObjectiveStatusTimePanel"

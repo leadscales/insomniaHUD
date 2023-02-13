@@ -41,7 +41,7 @@
 			"wide"			"f0"
 			"tall"			"20"
 			"visible"		"1"
-			"bgcolor_override"	"PanelT3"
+			"bgcolor_override"	"PanelT1"
 		}
 
 		"ToggleChatButton"
@@ -78,8 +78,8 @@
 			"defaultFgColor_override"	"AccentMain"
 			"armedFgColor_override"		"AccentMain"
 
-			"border_default"	"NoBorder"
-			"border_armed"		"FLAT_AccentMain_4"
+			"border_default"	"LINE_TOP_NOGLOW_AccentMain_3"
+			"border_armed"		"LINE_TOP_GLOW_AccentMain_3"
 		}
 
 		"PartySlot0"
@@ -516,8 +516,8 @@
 			"defaultFgColor_override"	"AccentMain"
 			"armedFgColor_override"		"AccentMain"
 
-			"border_default"	"NoBorder"
-			"border_armed"		"FLAT_AccentMain_4"
+			"border_default"	"LINE_TOP_NOGLOW_AccentMain_3"
+			"border_armed"		"LINE_TOP_GLOW_AccentMain_3"
 		}
 
 		"DisconnectButton"
@@ -554,8 +554,8 @@
 			"defaultFgColor_override"	"AccentMain"
 			"armedFgColor_override"		"AccentMain"
 
-			"border_default"	"NoBorder"
-			"border_armed"		"FLAT_AccentMain_4"
+			"border_default"	"LINE_TOP_NOGLOW_AccentMain_3"
+			"border_armed"		"LINE_TOP_GLOW_AccentMain_3"
 		}
 
 		"ResumeButton"
@@ -612,8 +612,8 @@
 			"defaultFgColor_override"	"AccentMain"
 			"armedFgColor_override"		"AccentMain"
 
-			"border_default"	"NoBorder"
-			"border_armed"		"FLAT_AccentMain_4"
+			"border_default"	"LINE_TOP_NOGLOW_AccentMain_3"
+			"border_armed"		"LINE_TOP_GLOW_AccentMain_3"
 		}
 	}
 }
