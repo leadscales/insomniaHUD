@@ -132,6 +132,10 @@
 		"border_default"	"LINE_BOTTOM_NOGLOW_AccentMain_4"
 		"border_armed"		"LINE_BOTTOM_GLOW_AccentMain_0"
 
+		"defaultFgColor_override"	"AccentMain"
+		"armedFgColor_override"		"AccentMain"
+		"depressedFgColor_override" "AccentMain"
+
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
