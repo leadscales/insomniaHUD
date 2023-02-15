@@ -6,24 +6,24 @@
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
-			"color"						"PanelO0"
+			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/misc/modal"
-			"src_corner_width"			"52"
-			"src_corner_height"			"52"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
+			"src_corner_width"			"30"
+			"src_corner_height"			"30"
+			"draw_corner_width"			"5"
+			"draw_corner_height"		"5"
 		}
 
 		"Modal_1"
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
-			"color"						"PanelO1"
+			"color"						"AccentMain"
 			"image"						"replay/thumbnails/panels/misc/modal"
-			"src_corner_width"			"52"
-			"src_corner_height"			"52"
-			"draw_corner_width"			"8"
-			"draw_corner_height"		"8"
+			"src_corner_width"			"30"
+			"src_corner_height"			"30"
+			"draw_corner_width"			"5"
+			"draw_corner_height"		"5"
 		}
 	}
 }

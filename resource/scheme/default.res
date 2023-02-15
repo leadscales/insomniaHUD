@@ -3488,14 +3488,14 @@
 		"GrayDialogBorder"
 		{
 			"bordertype"									"scalable_image"
-			"backgroundtype"								"2"
-			"Color"											"PanelO0"
+			"backgroundtype"								"0"
+			"Color"											"AccentMain"
 
-			"image"											"replay/thumbnails/panels/FLAT_0"
-			"src_corner_height"								"14"
-			"src_corner_width"								"14"
-			"draw_corner_width"								"2"
-			"draw_corner_height" 							"2"
+			"image"											"replay/thumbnails/panels/misc/modal"
+			"src_corner_height"								"30"
+			"src_corner_width"								"30"
+			"draw_corner_width"								"5"
+			"draw_corner_height" 							"5"
 		}
 
 		"StoreFreeTrialBorder"
@@ -3514,25 +3514,25 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"color"											"PanelO1"
+			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_0"
-			"src_corner_height"								"14"
-			"src_corner_width"								"14"
-			"draw_corner_width"								"2"
-			"draw_corner_height" 							"2"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"Econ.Button.Border.Default"
 		{
 			"inset" 										"0 0 0 0"
-			"backgroundtype" 								"2"
+			"backgroundtype" 								"0"
 		}
 
 		"Econ.Button.Border.Armed"
 		{
 			"inset" 										"0 0 0 0"
-			"backgroundtype" 								"2"
+			"backgroundtype" 								"0"
 		}
 
 		LoadoutItemMouseOverBorder
@@ -3551,12 +3551,12 @@
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"PanelO2"
+			"color"					"AccentMain"
 			"image"					"replay/thumbnails/panels/misc/modal"
-			"src_corner_height"		"52"				
-			"src_corner_width"		"52"
-			"draw_corner_width"		"8"					
-			"draw_corner_height" 	"8"
+			"src_corner_width"		"30"
+			"src_corner_height"		"30"
+			"draw_corner_width"		"5"
+			"draw_corner_height"	"5"
 		}
 
 		BackpackItemGrayedOut
@@ -4823,12 +4823,12 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"color"											"PanelO2"
+			"color"											"AccentMain"
 			"image"											"replay/thumbnails/panels/misc/modal"
-			"src_corner_height"								"52"
-			"src_corner_width"								"52"
-			"draw_corner_width"								"8"
-			"draw_corner_height" 							"8"
+			"src_corner_width"								"30"
+			"src_corner_height"								"30"
+			"draw_corner_width"								"5"
+			"draw_corner_height"							"5"
 		}
 
 		"MainMenuBGBorderAlpha"
@@ -5435,12 +5435,12 @@
 			{
 				"1"
 				{
-					"color" 								"Positive"
+					"color" 								"AccentMain"
 					"offset" 								"0 1"
 				}
 				"2"
 				{
-					"color" 								"Positive"
+					"color" 								"AccentMain"
 					"offset" 								"0 1"
 				}
 			}
@@ -5454,12 +5454,12 @@
 			{
 				"1"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"AccentMain"
 					"offset" 								"0 1"
 				}
 				"2"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"AccentMain"
 					"offset" 								"0 1"
 				}
 			}
@@ -5467,12 +5467,12 @@
 			{
 				"1"
 				{
-					"color"								 	"CreditsGreen"
+					"color"								 	"AccentMain"
 					"offset" 								"1 0"
 				}
 				"2"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"AccentMain"
 					"offset" 								"1 0"
 				}
 			}
@@ -5480,12 +5480,12 @@
 			{
 				"1"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"AccentMain"
 					"offset" 								"0 0"
 				}
 				"2"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"AccentMain"
 					"offset" 								"0 0"
 				}
 			}
@@ -5493,12 +5493,12 @@
 			{
 				"1"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"AccentMain"
 					"offset" 								"0 0"
 				}
 				"2"
 				{
-					"color" 								"CreditsGreen"
+					"color" 								"AccentMain"
 					"offset" 								"0 0"
 				}
 			}
