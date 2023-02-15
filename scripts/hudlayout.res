@@ -933,6 +933,8 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"xpos"					"9999"
+		"wide"					"0"
+		"tall"					"0"
 	}
 	
 	FreezePanel
