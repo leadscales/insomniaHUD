@@ -20,7 +20,7 @@
 		"QuestMap_InactiveGrey"								"100 100 100 255"
 		"QuestMap_BGImages"									"56 58 60 255"
 
-		"PartyMember1"										"64 144 255 255"
+		"PartyMember1"										"64 160 255 255"
 		"PartyMember2"										"64 255 160 255"
 		"PartyMember3"										"255 192 64 255"
 		"PartyMember4"										"255 128 64 255"
@@ -783,7 +783,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"44"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -795,7 +795,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"35"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias"								 	"1"
 			}
@@ -830,7 +830,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"30"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -866,7 +866,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"24"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -878,7 +878,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"18"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias"								 	"1"
 			}
@@ -926,7 +926,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"16"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -938,7 +938,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"14"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -950,7 +950,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"14"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -988,7 +988,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"11"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1000,7 +1000,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"4"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1012,7 +1012,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"10"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1024,7 +1024,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"16"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1048,7 +1048,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"9"
-				"weight"									"0"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1060,7 +1060,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"6"
-				"weight"									"0"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1072,7 +1072,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"12"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1553,7 +1553,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"10"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1717,7 +1717,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"14"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1729,7 +1729,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"20"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1741,7 +1741,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"14"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1753,7 +1753,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"10"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1765,7 +1765,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"7"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -1777,7 +1777,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"10"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2008,7 +2008,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"36"
-				"weight"									"500"
+				"weight"									"600"
 			}
 		}
 
@@ -2018,7 +2018,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"30"
-				"weight"									"500"
+				"weight"									"600"
 			}
 		}
 
@@ -2108,7 +2108,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"36"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2120,7 +2120,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"11"
-				"weight"									"600"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2132,7 +2132,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"18"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2222,7 +2222,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"8"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2234,7 +2234,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"9"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2246,7 +2246,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"12"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2258,7 +2258,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"18"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2329,7 +2329,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"9"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2341,7 +2341,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"9"
-				"weight"									"500"
+				"weight"									"600"
 				"blur"										"3"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -2506,7 +2506,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"10"
-				"weight"									"400"
+				"weight"									"500"
 				"yres"										"480 599"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2515,7 +2515,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"14"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"yres"										"600 1023"
 				"antialias"									"1"
@@ -2524,7 +2524,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"22"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"yres"										"1024 6000"
 				"antialias"									"1"
@@ -2537,7 +2537,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"10"
-				"weight"									"400"
+				"weight"									"500"
 				"yres"										"480 599"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2547,7 +2547,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"14"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"yres"										"600 1023"
 				"antialias"									"1"
@@ -2557,7 +2557,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"22"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"yres"										"1024 6000"
 				"antialias"									"1"
@@ -2571,7 +2571,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"10"
-				"weight"									"800"
+				"weight"									"500"
 				"yres"										"480 599"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2580,7 +2580,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"14"
-				"weight"									"800"
+				"weight"									"500"
 				"additive"									"0"
 				"yres"										"600 1023"
 				"antialias"									"1"
@@ -2589,7 +2589,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"18"
-				"weight"									"800"
+				"weight"									"500"
 				"additive"									"0"
 				"yres"										"1024 6000"
 				"antialias"									"1"
@@ -2602,7 +2602,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"13"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2614,7 +2614,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"16"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2626,7 +2626,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"10"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2799,7 +2799,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"11"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2811,7 +2811,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"14"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2835,7 +2835,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"24"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2859,7 +2859,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"14"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2871,7 +2871,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"24"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2896,7 +2896,7 @@
 			{
 				"name"										"WSMedium"
 				"tall"										"9"
-				"weight"									"400"
+				"weight"									"500"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
@@ -2908,7 +2908,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"11"
-				"weight"									"500"
+				"weight"									"600"
 				"antialias" 								"1"
 			}
 		}
@@ -2919,7 +2919,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"11"
-				"weight"									"500"
+				"weight"									"600"
 				"blur"										"3"
 				"additive"									"1"
 				"antialias" 								"1"
@@ -2932,7 +2932,7 @@
 			{
 				"name"										"WSSemi"
 				"tall"										"12"
-				"weight"									"500"
+				"weight"									"600"
 				"additive"									"0"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -5527,7 +5527,7 @@
 		"4"
 		{
 			"font" 		"resource/TF2Secondary.ttf"
-			"name" 		"WSMedium"
+			"name" 		"TF2Secondary"
 
 			"russian"
 			{
@@ -5542,7 +5542,7 @@
 		"5"
 		{
 			"font" 		"resource/TF2Professor.ttf"
-			"name" 		"WSMedium"
+			"name" 		"TF2Professor"
 
 			"russian"
 			{
@@ -5557,7 +5557,7 @@
 		"6"
 		{
 			"font" 		"resource/TF2Build.ttf"
-			"name" 		"WSSemi"
+			"name" 		"TF2Build"
 
 			"russian"
 			{
