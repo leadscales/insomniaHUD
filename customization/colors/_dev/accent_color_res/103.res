@@ -3,5 +3,6 @@
 	"Colors"
 	{
 		"AccentMain" "64 169 255 255"
+		"CreditsGreen" "64 169 255 255"
 	}
 }

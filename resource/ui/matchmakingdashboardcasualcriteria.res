@@ -27,7 +27,7 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		"#TF_Matchmaking_HeaderCasual"
 		"textAlignment"	"center"
-		"font"			"bold18"
+		"font"			"regular14"
 		"fgcolor_override"	"Text0"
 		"allcaps"			"1"
 		"bgcolor_override"	"Blank"

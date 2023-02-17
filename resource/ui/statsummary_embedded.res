@@ -212,7 +212,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"			"AveragesLabel"
-			"font"				"bold18"
+			"font"				"regular14"
 			"labelText"			"#StatSummary_Label_PerformanceReport"
 			"textAlignment"		"center"
 			"xpos"				"c-310"
@@ -1322,7 +1322,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"			"RecordsLabel1"
-			"font"				"bold18"
+			"font"				"regular14"
 			"labelText"			"#StatSummary_Label_BestMoments"
 			"textAlignment"		"center"
 			"xpos"				"c110"

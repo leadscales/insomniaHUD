@@ -268,7 +268,7 @@
 		"mouseinputenabled"							"1"
 		"labeltext"									"BETA"
 		"command"									"engine clear; showconsole; ih_version"
-		"font"										"bold18"
+		"font"										"regular14"
 		"defaultfgcolor_override"					"AccentMain"
 		"armedfgcolor_override"						"AccentMain"
 		"paintbackground"							"0"
@@ -716,10 +716,10 @@
 		{
 			"ControlName"							"CSteamFriendsListPanel"
 			"fieldname"								"SteamFriendsList"
-			"xpos"									"5"
+			"xpos"									"0"
 			"ypos"									"5"
 			"zpos"									"500"
-			"wide"									"f10"
+			"wide"									"f0"
 			"tall"									"f10"
 			"visible"								"1"
 			"proportionaltoparent"					"1"
@@ -727,13 +727,13 @@
 			"columns_count"							"1"
 			"inset_x"								"0"
 			"inset_y"								"0"
-			"row_gap"								"0"
+			"row_gap"								"5"
 			"column_gap"							"0"
 			"restrict_width"						"0"
 
 			"friendpanel_kv"
 			{
-				"wide"								"190"
+				"wide"								"200"
 				"tall"								"20"
 			}
 

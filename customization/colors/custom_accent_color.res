@@ -2,7 +2,8 @@
 {
 	"Colors"
 	{
-		// Remove the comment below, and replace the RED, GREEN, and BLUE with RGB values. Make sure to keep the 255 at the end. Example: "AccentMain" "64 160 255 255"
+		// *Uncomment all of the lines below and replace the RED GREEN BLUE with your color choice. Make sure all entries are the same color.
 		// "AccentMain" "RED GREEN BLUE 255"
+		// "CreditsGreen" "RED GREEN BLUE 255"
 	}
 }

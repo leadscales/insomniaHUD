@@ -3,7 +3,7 @@
 	"avatar"
 	{
 		"fieldName"									"avatar"
-		"xpos"										"1"
+		"xpos"										"5"
 		"ypos"										"1"
 		"wide"										"o1"
 		"tall"										"f2"
@@ -29,10 +29,10 @@
 		"paintbackground"							"1"
 
 		"defaultBgColor_override"					"0 0 0 0"
-		"armedBgColor_override"						"94 150 49 5"
-
+		"armedBgColor_override"						"0 0 0 0"
+		
 		"border_default"							"NoBorder"
-		"border_armed"								"FriendHighlightBorder"
+		"border_armed"								"LINE_LEFT_GLOW_AccentMain_5"
 	}
 
 	"NameLabel"
@@ -42,17 +42,17 @@
 		"xpos"										"rs1"
 		"ypos"										"0"
 		"zpos"										"100"
-		"wide"										"f22"
+		"wide"										"f30"
 		"tall"										"10"
-		"textAlignment"								"north-west"
+		"textAlignment"								"west"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"%name%"
 		"proportionaltoparent"						"1"
-		"font"										"ControlPointTimer"
+		"font"										"regular12"
 		"mouseinputenabled"							"0"
-		"fgcolor"									"White"
+		"fgcolor"									"Text0"
 	}
 
 	"StatusLabel"
@@ -61,16 +61,16 @@
 		"xpos"										"rs1"
 		"ypos"										"rs1"
 		"zpos"										"100"
-		"wide"										"f22"
-		"tall"										"9"
-		"textAlignment"								"north-west"
+		"wide"										"f30"
+		"tall"										"10"
+		"textAlignment"								"west"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"wrap"										"0"
 		"labelText"									"%status%"
 		"proportionaltoparent"						"1"
-		"font"										"QuestObjectiveTracker_Desc"
+		"font"										"regular10"
 		"fgcolor_override"							"TanDark"
 		"mouseinputenabled"							"0"
 	}

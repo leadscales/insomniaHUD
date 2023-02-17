@@ -66,7 +66,8 @@ def generate_res_files(colors: tuple[VDFColor, ...]) -> tuple[dict, ...]:
         result += ({
             "Scheme": {
                 "Colors": {
-                    "AccentMain": str(color)
+                    "AccentMain": str(color),
+                    "CreditsGreen": str(color)
                 }
             }
         },)
