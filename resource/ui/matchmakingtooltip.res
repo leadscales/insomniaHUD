@@ -11,7 +11,7 @@
 		"tall"			"100"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"border"		"Modal_1"
+		"border"		"Modal_0"
 		"mouseinputenabled"	"0"
 		
 		"TipLabel"

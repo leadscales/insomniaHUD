@@ -18,7 +18,7 @@
 		"settitlebarvisible"	""
 		"paintborder"			"1"
 		"paintbackground"		"0"
-		"border"				"Modal_1"
+		"border"				"Modal_0"
 		
 		"control_w"			"500"
 		"control_h"			"25"

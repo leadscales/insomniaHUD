@@ -44,22 +44,6 @@
 		"TextT2"											"255 255 255 160"
 		"TextT3"											"255 255 255 112"
 		"TextT4"											"255 255 255 64"
-
-		"ColorPick0"										"255 64 64 255"
-		"ColorPick30"										"255 160 64 255"
-		"ColorPick60"										"255 255 64 255"
-
-		"ColorPick90"										"160 255 64 255"
-		"ColorPick120"										"64 255 64 255"
-		"ColorPick150"										"64 255 160 255"
-
-		"ColorPick180"										"64 255 255 255"
-		"ColorPick210"										"64 160 255 255"
-		"ColorPick240"										"64 64 255 255"
-
-		"ColorPick270"										"160 64 255 255"
-		"ColorPick300"										"255 64 255 255"
-		"ColorPick330"										"255 64 160 255"
 	}
 
 	"BaseSettings"
