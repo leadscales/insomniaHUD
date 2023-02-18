@@ -22,6 +22,7 @@ sv_unlockedchapters 99
 vgui_cache_res_files 0
 tf_contract_progress_show 2
 cl_hud_minmode 0
+alias cl_hud_minmode "echo NOT IMPLEMENTED. THIS IS NOT AN ERROR."
 
 // Configs
 echo insomniaHUD: Applying aliases...

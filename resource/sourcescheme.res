@@ -93,6 +93,9 @@
 		"TextEntry.TextColor"						"Text0"
 		"TextEntry.DisabledTextColor"				"Text2"
 		"TextEntry.SelectedBgColor"					"AccentMain"
+
+		"SectionedListPanel.SelectedBgColor"			"AccentMain"
+		"SectionedListPanel.OutOfFocusSelectedBgColor"	"AccentMain"
 	}
 	"Fonts"
 	{
