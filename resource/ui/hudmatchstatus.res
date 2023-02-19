@@ -135,11 +135,11 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"ObjectiveStatusTimePanel"
-		"xpos"										"c-25"
+		"xpos"										"c-20"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"50"
-		"tall"										"20"
+		"wide"										"40"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"delta_item_x"								"20"
@@ -152,11 +152,6 @@
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
 		"bgcolor_override"							"Blank"
-
-		if_match
-		{
-			"font"									"regular14"
-		}
 
 		"TimePanelValue"
 		{
@@ -174,13 +169,6 @@
 			"proportionaltoparent"					"1"
 			"textAlignment"							"center"
 			"labelText"								"0:00"
-
-			if_match
-			{
-				"ypos"								"0"
-				"tall"								"20"
-				"font"								"regular14"
-			}
 		}
 	}
 

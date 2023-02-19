@@ -1,3 +1,5 @@
+#base "body_text.vdf"
+
 "Resource/UI/MainMenuOverride.res"
 {
 	"MainMenuOverride"
@@ -96,7 +98,6 @@
 				"tall"						"240"
 				"proportionaltoparent"		"1"
 				"font"						"regular14"
-				"labelText"					"WARNING: insomniaHUD is in BETA! Certain things WILL be unskinned and WILL be broken! This HUD is in active development and gets updated DAILY! Be sure to update it often, and report any and all bugs you encounter to the HUD's Github repo issues page."
 				"textAlignment"				"north-west"
 				"wrap"						"1"
 				"fgcolor"					"Text0"

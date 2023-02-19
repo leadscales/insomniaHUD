@@ -3281,156 +3281,169 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"loadout_round_rect_selected"
-			"src_corner_height"								"24"
-			"src_corner_width"								"24"
-			"draw_corner_width"								"11"
-			"draw_corner_height" 							"11"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"OutlinedDullGreyBox"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"loadout_round_rect"
-			"src_corner_height"								"24"
-			"src_corner_width"								"24"
-			"draw_corner_width"								"11"
-			"draw_corner_height" 							"11"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFThinLineBorder"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/tournament_panel_brown"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"8"
-			"draw_corner_height" 							"8"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderOpaque"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_brown_opaque"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorder"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_brown"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderRedBGOpaque"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_red_opaque"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderRedBGOpaque_Store"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_red_opaque"
-			"src_corner_height"								"24"
-			"src_corner_width"								"24"
-			"draw_corner_width"								"11"
-			"draw_corner_height" 							"11"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderRedBG"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_red"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderRedBGMoreOpaque"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_red_more_opaque"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderBlueBG"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_blu"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderBlueBGMoreOpaque"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_blu_more_opaque"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderBlueBGOpaque"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_blu_opaque"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"TFFatLineBorderClearBG"
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"2"
+			"color"											"Black"
 
-			"image"											"../hud/color_panel_clear"
-			"src_corner_height"								"23"
-			"src_corner_width"								"23"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"image"											"replay/thumbnails/panels/FLAT_1"
+			"src_corner_height"								"20"
+			"src_corner_width"								"20"
+			"draw_corner_width"								"4"
+			"draw_corner_height" 							"4"
 		}
 
 		"ToolTipBorder"

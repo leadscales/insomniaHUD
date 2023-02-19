@@ -239,15 +239,19 @@
 
 	"HudLabel"
 	{
-		"ControlName"								"CExLabel"
+		"ControlName"								"CExButton"
 		"fieldName"									"HudLabel"
 		"xpos"										"rs1-10"
 		"ypos"										"20"
-		"wide"										"200"
+		"wide"										"100"
 		"tall"										"20"
 		"font"										"regular14"
 		"textAlignment"								"east"
-		"mouseinputenabled"							"0"
-		"fgcolor"									"Text0"
+		"mouseinputenabled"							"1"
+		"defaultfgcolor_override"					"Text0"
+		"armedfgcolor_override"						"Text0"
+		"paintbackground"							"0"
+		"command"									"url https://github.com/p3tr1ch0r/insomniaHUD"
+		"actionsignallevel"							"1"
 	}
 }
