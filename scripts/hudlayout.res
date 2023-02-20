@@ -118,6 +118,7 @@
 		"enabled" "1"
 		"xpos"	"c-100"
 		"ypos"	"0"
+		"zpos"	"5"
 		"wide"	"200"
 		"tall"	"160"
 		
@@ -544,7 +545,7 @@
 		"CornerRadius"	  "0"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Default"
+		"TextFont"		"regular12"
 		
 		"TeamBlue"		"m0reBlue"
 		"TeamRed"		"m0reRed"

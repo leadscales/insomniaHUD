@@ -235,14 +235,14 @@
 			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
-			"font"									"bold18"
+			"font"									"regular18"
 			"fgcolor_override"						"White"
 			"textAlignment"							"west"
 			"labelText"								"%desc1%"
 			"textinsetx"							"5"
 			"use_proportional_insets"				"1"
 			"proportionaltoparent"					"1"
-			"AllCaps"								"1"
+			"allcaps"								"1"
 
 			"if_mini"
 			{
@@ -251,9 +251,9 @@
 
 			"fonts"
 			{
-				"0"									"bold18"
-				"1"									"bold18"
-				"2"									"bold18"
+				"0"									"regular18"
+				"1"									"regular18"
+				"2"									"regular18"
 			}
 		}
 
