@@ -162,7 +162,7 @@
 			"xpos"									"0"
 			"ypos"									"0"
 			"zpos"									"5"
-			"wide"									"50"
+			"wide"									"40"
 			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
@@ -190,12 +190,12 @@
 		"12v12_gap"									"2"
 
 		"team1_grow_dir" 							"west"
-		"team1_base_x"								"c-20"
-		"team1_max_expand"							"155"
+		"team1_base_x"								"c-25"
+		"team1_max_expand"							"153"
 
 		"team2_grow_dir" 							"east"
-		"team2_base_x"								"c20"
-		"team2_max_expand"							"155"
+		"team2_base_x"								"c25"
+		"team2_max_expand"							"153"
 
 		"playerpanels_kv"
 		{
