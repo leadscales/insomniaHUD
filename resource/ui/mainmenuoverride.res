@@ -262,18 +262,44 @@
 		"fieldName"									"BetaButton"
 		"xpos"										"rs1-10"
 		"ypos"										"rs1-50"
-		"wide"										"140"
+		"wide"										"30"
 		"tall"										"15"
 		"proportionaltoparent"						"1"	
 		"mouseinputenabled"							"1"
-		"labeltext"									"BETA (Click to report a bug...)"
-		"command"									"url https://github.com/p3tr1ch0r/insomniaHUD/issues"
+		"labeltext"									"BETA"
+		"command"									"engine clear; showconsole; ih_version"
 		"font"										"regular14"
-		"defaultfgcolor_override"					"AccentMain"
+		"defaultfgcolor_override"					"AccentMainT4"
 		"armedfgcolor_override"						"AccentMain"
 		"paintbackground"							"0"
 		"textalignment"								"east"
-		"alpha"										"96"
+		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_released"							"UI/buttonclickrelease.wav"
+	}
+
+	"BugButton"
+	{
+		"ControlName"								"CExButton"
+		"fieldName"									"BugButton"
+		"xpos"										"0"
+		"ypos"										"0"
+		"wide"										"20"
+		"tall"										"20"
+		"proportionaltoparent"						"1"	
+		"mouseinputenabled"							"1"
+		"labeltext"									"I"
+		"command"									"url https://github.com/p3tr1ch0r/insomniaHUD/issues"
+		"font"										"iconsSmall"
+		"defaultfgcolor_override"					"AccentMainT4"
+		"armedfgcolor_override"						"AccentMain"
+		"paintbackground"							"0"
+		"textalignment"								"center"
+		"sound_depressed"							"UI/buttonclick.wav"
+		"sound_released"							"UI/buttonclickrelease.wav"
+
+		"pin_to_sibling"							"PrimaryPanel"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMRIGHT"
 	}
 
 	//==================================================================================================================================================
@@ -1164,16 +1190,16 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Notifications_ShowButtonPanel"
-		"xpos"										"10"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"15"
-		"wide"										"40"
-		"tall"										"40"
+		"wide"										"20"
+		"tall"										"20"
 		"visible"									"1"
 
-		"pin_to_sibling" 							"PrimaryPanel"
-		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+		"pin_to_sibling" 							"BugButton"
+		"pin_corner_to_sibling" 					"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner" 					"PIN_TOPLEFT"
 
 		"Notifications_CountLabel"
 		{
@@ -1189,8 +1215,8 @@
 			"xpos"									"0"
 			"ypos"									"0"
 			"zpos"									"15"
-			"wide"									"40"
-			"tall"									"40"
+			"wide"									"20"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"font"									"iconsSmall"
@@ -1204,12 +1230,10 @@
 			"sound_released"						"UI/buttonclickrelease.wav"
 
 			"paintbackground"						"0"
-			"paintborder"							"1"
+			"paintborder"							"0"
 
-			"defaultFgColor_override" 				"Text0"
-
-			"border_default"						"FLAT_Black_2"
-			"border_armed"							"FLAT_White_4"
+			"defaultfgcolor_override"				"AccentMainT4"
+			"armedfgcolor_override"					"AccentMain"
 		}
 	}
 
@@ -1221,7 +1245,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Notifications_Panel"
-		"xpos"										"0"
+		"xpos"										"5"
 		"ypos"										"0"
 		"zpos"										"17"
 		"wide"										"210"
@@ -1231,9 +1255,9 @@
 		"paintbackground"							"0"
 		"border"									"MainMenuHighlightBorder"
 
-		"pin_to_sibling"							"Notifications_ShowButtonPanel"
+		"pin_to_sibling"							"PrimaryPanel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 
 		"Notifications_CloseButton"
 		{

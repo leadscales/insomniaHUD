@@ -97,6 +97,13 @@
 		"SectionedListPanel.SelectedBgColor"			"AccentMain"
 		"SectionedListPanel.OutOfFocusSelectedBgColor"	"AccentMain"
 	}
+	"Borders"
+	{
+		"FrameBorder"
+		{
+			"backgroundtype"						"0"
+		}
+	}
 	"Fonts"
 	{
 		"MainMenuFont"
