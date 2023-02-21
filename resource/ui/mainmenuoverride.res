@@ -277,31 +277,6 @@
 		"sound_released"							"UI/buttonclickrelease.wav"
 	}
 
-	"BugButton"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"BugButton"
-		"xpos"										"0"
-		"ypos"										"0"
-		"wide"										"20"
-		"tall"										"20"
-		"proportionaltoparent"						"1"	
-		"mouseinputenabled"							"1"
-		"labeltext"									"I"
-		"command"									"url https://github.com/p3tr1ch0r/insomniaHUD/issues"
-		"font"										"iconsSmall"
-		"defaultfgcolor_override"					"AccentMainT4"
-		"armedfgcolor_override"						"AccentMain"
-		"paintbackground"							"0"
-		"textalignment"								"center"
-		"sound_depressed"							"UI/buttonclick.wav"
-		"sound_released"							"UI/buttonclickrelease.wav"
-
-		"pin_to_sibling"							"PrimaryPanel"
-		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMRIGHT"
-	}
-
 	//==================================================================================================================================================
 	// RANK & BADGE
 	//==================================================================================================================================================
@@ -1183,6 +1158,142 @@
 	}
 
 	//==================================================================================================================================================
+	// MISC BUTTONS
+	//==================================================================================================================================================
+
+	"BugButton"
+	{
+		"ControlName"				"EditablePanel"
+		"fieldname"					"BugButton"
+		"xpos"						"0"
+		"ypos"						"0"
+		"zpos"						"50"
+		"wide"						"20"
+		"tall"						"20"
+		"visible"					"1"
+		"proportionaltoparent"		"1"
+
+		"pin_to_sibling"			"PrimaryPanel"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_TOPRIGHT"
+
+		"SubButton"
+		{
+			"ControlName"				"CExImageButton"
+			"fieldName"					"SubButton"
+			"xpos"						"0"
+			"ypos"						"0"
+			"wide"						"f0"
+			"tall"						"f0"
+			"autoResize"				"0"
+			"visible"					"1"
+			"enabled"					"1"
+			"font"						"iconsSmall"
+			"textAlignment"				"center"
+			"use_proportional_insets"	"1"
+			"proportionaltoparent"		"1"
+			"default"					"1"
+			"actionsignallevel" 		"2"
+			"paintbackground"			"0"
+			"textinsety"				"0"
+
+			"sound_depressed"			"UI/buttonclick.wav"
+			"sound_released"			"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override" 	"AccentMainT4"
+			"armedFgColor_override" 	"AccentMain"
+		}
+	}
+	
+	"DiscordButton"
+	{
+		"ControlName"				"EditablePanel"
+		"fieldname"					"DiscordButton"
+		"xpos"						"0"
+		"ypos"						"0"
+		"zpos"						"50"
+		"wide"						"20"
+		"tall"						"20"
+		"visible"					"1"
+		"proportionaltoparent"		"1"
+
+		"pin_to_sibling"			"BugButton"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
+
+		"SubButton"
+		{
+			"ControlName"				"CExImageButton"
+			"fieldName"					"SubButton"
+			"xpos"						"0"
+			"ypos"						"0"
+			"wide"						"f0"
+			"tall"						"f0"
+			"autoResize"				"0"
+			"visible"					"1"
+			"enabled"					"1"
+			"font"						"iconsSmall"
+			"textAlignment"				"center"
+			"use_proportional_insets"	"1"
+			"proportionaltoparent"		"1"
+			"default"					"1"
+			"actionsignallevel" 		"2"
+			"paintbackground"			"0"
+			"textinsety"				"0"
+
+			"sound_depressed"			"UI/buttonclick.wav"
+			"sound_released"			"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override" 	"AccentMainT4"
+			"armedFgColor_override" 	"AccentMain"
+		}
+	}
+
+	"DiscordHelpButton"
+	{
+		"ControlName"				"EditablePanel"
+		"fieldname"					"DiscordHelpButton"
+		"xpos"						"0"
+		"ypos"						"0"
+		"zpos"						"50"
+		"wide"						"20"
+		"tall"						"20"
+		"visible"					"1"
+		"proportionaltoparent"		"1"
+
+		"pin_to_sibling"			"DiscordButton"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
+
+		"SubButton"
+		{
+			"ControlName"				"CExImageButton"
+			"fieldName"					"SubButton"
+			"xpos"						"0"
+			"ypos"						"0"
+			"wide"						"f0"
+			"tall"						"f0"
+			"autoResize"				"0"
+			"visible"					"1"
+			"enabled"					"1"
+			"font"						"iconsSmall"
+			"textAlignment"				"center"
+			"use_proportional_insets"	"1"
+			"proportionaltoparent"		"1"
+			"default"					"1"
+			"actionsignallevel" 		"2"
+			"paintbackground"			"0"
+			"textinsety"				"0"
+
+			"sound_depressed"			"UI/buttonclick.wav"
+			"sound_released"			"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override" 	"AccentMainT4"
+			"armedFgColor_override" 	"AccentMain"
+		}
+	}
+
+	//==================================================================================================================================================
 	// NOTIFICATIONS BUTTON
 	//==================================================================================================================================================
 
@@ -1363,7 +1474,7 @@
 		"visible"									"0"
 		"PaintBackground"							"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"0 0 0 100"
+		"border"									"FLAT_Black_2"
 		"fgcolor"									"Text0"
 		"fgcolor_override"							"Text0"
 
@@ -1371,7 +1482,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TipSubLabel"
-			"font"									"bold11"
+			"font"									"regular10"
 			"labelText"								"%tipsubtext%"
 			"textAlignment"							"center"
 			"xpos"									"0"
@@ -1382,7 +1493,6 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"AllCaps"								"1"
 			"fgcolor"								"Text0"
 			"fgcolor_override"						"Text0"
 		}
@@ -1391,7 +1501,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TipLabel"
-			"font"									"bold11"
+			"font"									"regular10"
 			"labelText"								"%tiptext%"
 			"textAlignment"							"center"
 			"xpos"									"0"
@@ -1402,7 +1512,6 @@
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"AllCaps"								"1"
 			"fgcolor"								"Text0"
 			"fgcolor_override"						"Text0"
 		}
