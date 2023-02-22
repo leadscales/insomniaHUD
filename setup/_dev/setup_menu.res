@@ -13,6 +13,8 @@
 			"zpos"					"11000"
 			"wide"					"f0"
 			"tall"					"f0"
+			"visible"				"0"
+			"enabled"				"0"
 			"bgcolor_override"		"PanelO0"
 			"MenuColorizer"
 			{
@@ -86,7 +88,7 @@
 				"font"						"bold32"
 				"labelText"					"insomniaHUD"
 				"textAlignment"				"center"
-				"fgcolor"					"Text0"
+				"fgcolor"					"AccentMain"
 			}
 			"Body"
 			{
@@ -95,12 +97,31 @@
 				"xpos"						"cs-0.5"
 				"ypos"						"80"
 				"wide"						"400"
-				"tall"						"240"
+				"tall"						"200"
 				"proportionaltoparent"		"1"
 				"font"						"regular14"
 				"textAlignment"				"north-west"
 				"wrap"						"1"
 				"fgcolor"					"Text0"
+			}
+			"CustomWarning"
+			{
+				"ControlName"				"CExLabel"
+				"fieldName"					"CustomWarning"
+				"xpos"						"cs-0.5"
+				"ypos"						"260"
+				"zpos"						"9999"
+				"wide"						"400"
+				"tall"						"60"
+				"visible"					"1"
+				"enabled"					"1"
+				"proportionaltoparent"		"1"
+				"font"						"bold18"
+				"labelText"					"WARNING: FOLDER IS NOT RENAMED. CUSTOMIZATION OPTIONS WILL NOT WORK."
+				"textAlignment"				"center"
+				"centerwrap"				"1"
+				"bgcolor_override"			"255 64 64 255"
+				"fgcolor_override"			"0 0 0 255"
 			}
 			"ContinueButton"
 			{
