@@ -1182,10 +1182,11 @@
 		"fieldName"				"NotificationPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-320"
-		"ypos"					"300"
-		"wide"					"640"
-		"tall"					"100"
+		"xpos"					"cs-0.5"
+		"ypos"					"80"
+		"wide"					"280"
+		"tall"					"20"
+		"border"				"FLAT_Black_4"
 	}
 
 	AchievementNotificationPanel	

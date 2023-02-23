@@ -5,15 +5,15 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"Notification_Label"
 		"xpos"										"cs-0.5"
-		"ypos"										"12"
+		"ypos"										"0"
 		"wide"										"f0"
-		"tall"										"12"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"60 seconds until gates open"
 		"textAlignment"								"center"
-		"font"										"regular11"
+		"font"										"regular14"
 	}
 
 
