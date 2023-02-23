@@ -9,24 +9,14 @@
 **YOUR `custom/` FOLDER SHOULD LOOK LIKE THIS:**
 ```
 custom/
-    ├── ...
-    ├── insomniaHUD/
-    │   ├── assets
-    │   ├── cfg
-    │   ├── customization
-    │   ├── dev
-    │   ├── materials
-    │   ├── resource
-    │   ├── scripts
-    │   ├── setup
-    │   ├── sound
-    │   ├── .gitignore
-    │   ├── info.vdf
-    │   ├── README.md
-    │   ├── requirements.txt
-    │   └── TODO.txt
-    ├── readme.txt
-    └── ...
+├── ...
+├── insomniaHUD/
+│   ├── ...
+│   ├── info.vdf
+│   ├── README.MD
+│   └── ...
+├── readme.txt
+└── ...
 ```
 
 insomniaHUD is a work-in-progress HUD designed for long play sessions. It is still in very early development, so many elements will be broken or completely unchanged.
@@ -64,7 +54,7 @@ insomniaHUD is a work-in-progress HUD designed for long play sessions. It is sti
 ## Customization
 
 ### Through the In-Game menu
-In the main menu, there is a button labeled `CUSTOMIZE HUD`. This will enable Customization mode. The options are self explanitory. As of right now you can only edit the colors, crosshairs, and hitmarkers, but more options will be added very soon.
+In the main menu, there is a button labeled `CUSTOMIZE HUD`. This will enable Customization mode. The options are self explanitory. As of right now you can only edit the colors, crosshairs, hitmarkers, and scoreboard, but more options will be added very soon.
 
 ---
 
