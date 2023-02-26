@@ -104,7 +104,7 @@ def generate_buttons(colors: tuple[VDFColor, ...], max_xpos: int, button_width: 
         "tall": str(button_height),
         "proportionaltoparent": "1",
         "labelText": "",
-        "paintbackground": "0",
+        "paintbackground": "1",
         "actionsignallevel": "6",
         "sound_depressed": "UI/buttonclick.wav",
         "sound_released": "UI/buttonclickrelease.wav",
@@ -112,6 +112,7 @@ def generate_buttons(colors: tuple[VDFColor, ...], max_xpos: int, button_width: 
 
     button_ypos = 0
     for color in range(len(colors)):
+        _color = colors[color]
         _button = BUTTON_TEMPLATE.copy()
 
         button_xpos = (color*button_width)
@@ -124,8 +125,8 @@ def generate_buttons(colors: tuple[VDFColor, ...], max_xpos: int, button_width: 
             "xpos": str(button_xpos % max_xpos),
             "ypos": str(button_ypos),
             "command": f"engine ih_accent_{color}",
-            "border_default": f"C{color}_0",
-            "border_armed": f"C{color}_1"
+            "defaultbgcolor_override": str(_color),
+            "armedbgcolor_override": str(_color)[:-3]+"208",
         })
 
         result["Resource/UI/MainMenuOverride.res"]["MainMenuOverride"]["CustomizationMenu"]["MainPanel"]["SectionContainer"]["AccentColor"]["Buttons"].update({
@@ -180,7 +181,7 @@ def main():
     aliases = generate_aliases(colors)
     res_files = generate_res_files(colors)
     buttons = generate_buttons(colors, 200, 20, 20)
-    borders = generate_borders(colors)
+    # borders = generate_borders(colors)
 
     with open(OUT.joinpath("aliases.txt"), "w") as file:
         file.write(aliases)
@@ -191,9 +192,6 @@ def main():
 
     with open(OUT.joinpath("buttons.res"), "w") as file:
         vdf.dump(buttons, file, True)
-
-    with open(OUT.joinpath("borders.res"), "w") as file:
-        vdf.dump(borders, file, True)
 
 
 if __name__ == "__main__":

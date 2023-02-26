@@ -5,7 +5,7 @@ import vdf
 from PIL import Image
 
 VTFCMD_FLAGS = "-format IA88 -alphaformat IA88 -flag NOMIP -flag NOLOD -flag ANISOTROPIC -silent"
-BORDER_COLORS = ["Black", "White", "AccentMain", "Positive",
+BORDER_COLORS = ["White", "AccentMain", "Positive",
                  "Warning", "Negative", "m0reRed", "m0reBlue"]
 
 
@@ -69,13 +69,11 @@ def borders(path: os.PathLike) -> dict:
                         _sh = "30"
                         _dw = "5"
                         _dh = "5"
-                        print("x")
                     else:
                         _sw = "30"
                         _sh = "30"
                         _dw = "5"
                         _dh = "5"
-                        print("y")
                     border["Scheme"]["Borders"].update({
                         f"LINE_{file[:-4]}_{color}_{folder}": {
                             "bordertype": "scalable_image",
