@@ -14,7 +14,7 @@
 						"fieldName"					"Scoreboard"
 						"xpos"						"210"
 						"ypos"						"290"
-						"wide"						"420"
+						"wide"						"210"
 						"tall"						"130"
 						"proportionaltoparent"		"1"
 						"border"					"FLAT_Black_3"

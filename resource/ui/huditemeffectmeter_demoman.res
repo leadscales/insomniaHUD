@@ -13,24 +13,6 @@
 		"MeterBG"									"Gray"
 	}
 
-	"ItemEffectMeterLabel"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"ItemEffectMeterLabel"
-		"xpos"										"9999"
-		"ypos"										"9999"
-		"zpos"										"2"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"1"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"labelText"									"#TF_Ball"
-		"textAlignment"								"west"
-		"font"										"regular12"
-		"fgcolor" 									"White"
-	}
-
 	"ItemEffectMeterIcon"
 	{
 		"ControlName"								"CExLabel"
@@ -123,4 +105,11 @@
 		"fieldName"									"ItemEffectMeter"
 		"xpos"										"9999"
 	}
+	"ItemEffectMeterLabel"
+	{
+		"ControlName"								"CExLabel"
+		"fieldName"									"ItemEffectMeterLabel"
+		"xpos"										"9999"
+	}
+
 }

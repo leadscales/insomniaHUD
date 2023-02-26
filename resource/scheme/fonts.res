@@ -390,6 +390,26 @@
 				"blur"										"1"
 			}
 		}
+		"bold40"
+		{
+			"1"
+			{
+				"name"										"PJSBold"
+				"tall"										"40"
+				"antialias"									"1"
+			}
+		}
+		"bold40Blur"
+		{
+			"1"
+			{
+				"name"										"PJSBold"
+				"tall"										"40"
+				"antialias"									"1"
+				"blur"										"1"
+			}
+		}
+
 
 		"iconsLarge"
 		{

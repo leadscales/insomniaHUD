@@ -24,7 +24,7 @@
 			"xpos"										"cs-0.5"
 			"ypos"										"c40"
 			"wide"										"200"
-			"tall"										"20"
+			"tall"										"40"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"255 0 0 32"
 		}
@@ -36,7 +36,7 @@
 			"xpos"										"cs-0.5"
 			"ypos"										"c40"
 			"wide"										"280"
-			"tall"										"20"
+			"tall"										"40"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"255 255 0 32"
 		}
