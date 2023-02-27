@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"9"
 				"antialias" 								"1"
 			}
@@ -15,7 +15,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"10"
 				"antialias" 								"1"
 			}
@@ -24,7 +24,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"10"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -34,7 +34,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -43,7 +43,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"11"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -53,7 +53,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"12"
 				"antialias" 								"1"
 			}
@@ -62,7 +62,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"12"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -72,7 +72,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"14"
 				"antialias" 								"1"
 			}
@@ -81,7 +81,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"16"
 				"antialias" 								"1"
 			}
@@ -90,7 +90,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"16"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -100,7 +100,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"18"
 				"antialias" 								"1"
 			}
@@ -109,7 +109,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"18"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -119,7 +119,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"18"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -129,7 +129,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"18"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -139,7 +139,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"20"
 				"antialias" 								"1"
 			}
@@ -148,7 +148,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"antialias" 								"1"
 			}
@@ -157,7 +157,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -167,7 +167,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -177,7 +177,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -187,7 +187,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"26"
 				"antialias" 								"1"
 			}
@@ -196,7 +196,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"30"
 				"antialias" 								"1"
 			}
@@ -205,7 +205,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"30"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -215,7 +215,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"30"
 				"antialias" 								"1"
 				"outline" 									"1"
@@ -225,7 +225,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"32"
 				"antialias" 								"1"
 			}
@@ -234,7 +234,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"32"
 				"antialias" 								"1"
 				"dropshadow" 								"1"
@@ -244,7 +244,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"36"
 				"antialias" 								"1"
 			}
@@ -253,7 +253,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"48"
 				"antialias" 								"1"
 			}
@@ -262,63 +262,63 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"72"
 				"yres"										"400 500"
 				"antialias"									"1"
 			}
 			"2"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"88"
 				"yres"										"501 600"
 				"antialias"									"1"
 			}
 			"3"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"95"
 				"yres"										"601 679"
 				"antialias"									"1"
 			}
 			"4"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"103"
 				"yres"										"680 720"
 				"antialias"									"1"
 			}
 			"5"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"110"
 				"yres"										"721 799"
 				"antialias"									"1"
 			}
 			"6"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"117"
 				"yres"										"800 899"
 				"antialias"									"1"
 			}
 			"7"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"123"
 				"yres"										"900 1030"
 				"antialias"									"1"
 			}
 			"8"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"130"
 				"yres"										"1031 1199"
 				"antialias"									"1"
 			}
 			"9"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"999"
 				"yres"										"1200 6000"
 				"antialias"									"1"
@@ -329,7 +329,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"11"
 				"antialias" 								"1"
 			}
@@ -338,7 +338,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"13"
 				"antialias" 								"1"
 			}
@@ -347,7 +347,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"15"
 				"antialias" 								"1"
 			}
@@ -356,7 +356,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -365,7 +365,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"18"
 				"antialias"									"1"
 				"blur"										"1"
@@ -375,7 +375,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"32"
 				"antialias"									"1"
 			}
@@ -384,7 +384,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"32"
 				"antialias"									"1"
 				"blur"										"1"
@@ -394,7 +394,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"40"
 				"antialias"									"1"
 			}
@@ -403,7 +403,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSBold"
+				"name"										"GreycliffBold"
 				"tall"										"40"
 				"antialias"									"1"
 				"blur"										"1"
@@ -541,35 +541,35 @@
 		{
 			"1"
 			{
-				"name"		  								"PJSMedium"
+				"name"		  								"GreycliffMedium"
 				"tall"      								"14"
 				"weight"									"0"
 				"antialias" 								"1"
 			}
 			"2"
 			{
-				"name"		 								"PJSMedium"
+				"name"		 								"GreycliffMedium"
 				"tall"      								"18"
 				"weight"									"0"
 				"antialias" 								"1"
 			}
 			"3"
 			{
-				"name"		  								"PJSMedium"
+				"name"		  								"GreycliffMedium"
 				"tall"      								"22"
 				"weight"									"0"
 				"antialias" 								"1"
 			}
 			"4"
 			{
-				"name"		  								"PJSMedium"
+				"name"		  								"GreycliffMedium"
 				"tall"      								"24"
 				"weight"									"0"
 				"antialias" 								"1"
 			}
 			"5"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"32"
 				"weight"									"0"
 				"antialias"									"1"
@@ -580,7 +580,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -590,7 +590,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"weight"									"0"
 				"italic"									"0"
@@ -601,7 +601,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -611,7 +611,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"weight"									"0"
 				"italic"									"0"
@@ -622,7 +622,7 @@
 		{
 			"1"
 			{
-				"name"										"PJSMedium"
+				"name"										"GreycliffMedium"
 				"tall"										"16"
 				"weight"									"0"
 				"antialias" 								"1"
@@ -634,13 +634,13 @@
 	{
 		"8"
 		{
-			"font" 		"resource/scheme/fonts/PJSMedium.ttf"
-			"name" 		"PJSMedium"
+			"font" 		"resource/scheme/fonts/GreycliffMedium.ttf"
+			"name" 		"GreycliffMedium"
 		}
 		"9"
 		{
-			"font"		"resource/scheme/fonts/PJSBold.ttf"
-			"name"		"PJSBold"
+			"font"		"resource/scheme/fonts/GreycliffBold.ttf"
+			"name"		"GreycliffBold"
 		}
 		"10"
 		{
