@@ -1,43 +1,40 @@
-import os
 import pathlib
-import subprocess
+import typing
+
+import insomniahud
 
 
-def get_project_root() -> os.PathLike:
-    current_file = pathlib.Path(__file__)
+def set_version_vdf(file: typing.TextIO, version: int | None = None) -> None:
+    if version == None:
+        version = insomniahud.get_current_commit_number() + 1
 
-    for i in range(len(current_file.parents)):
-        j = current_file.parents[i]
-        if "info.vdf" in (os.listdir(j)):
-            return j
-    raise FileNotFoundError("No info.vdf found.")
+    contents = f"\"Resource/UI/CharInfoPanel.res\"{{\"HudLabel\"{{\"LabelText\"\n\"INSOMNIAHUD v{version}\"\n}}}}"
 
-
-def get_current_commit_no() -> int:
-    return int(subprocess.check_output(["git", "rev-list", "HEAD", "--count"]))
+    file.write(contents)
 
 
-def set_version_vdf(vdf: os.PathLike, format: str = "INSOMNIAHUD v{0}"):
-    with open(vdf, "w") as file:
-        file.write(
-            f"\"Resource/UI/CharInfoPanel.res\"{{\"HudLabel\"{{\"labelText\"\"{format.format(get_current_commit_no()+1)}\"}}}}"
-        )
+def set_version_cfg(file: typing.TextIO, version: int | None = None) -> None:
+    if version == None:
+        version = insomniahud.get_current_commit_number() + 1
 
+    contents = f"alias \"ih_version\" \"echo {version}\""
 
-def set_version_cfg(cfg: os.PathLike):
-    with open(cfg, "w") as file:
-        file.write(
-            f"alias \"ih_version\" \"echo {get_current_commit_no()+1}\""
-        )
+    file.write(contents)
 
 
 def main():
-    PROJECT_ROOT = pathlib.Path(get_project_root())
-    VERSION_VDF = PROJECT_ROOT.joinpath("version.vdf")
-    VERSION_CFG = PROJECT_ROOT.joinpath("cfg/ih_version.cfg")
+    project_root = pathlib.Path(insomniahud.get_project_root())
 
-    set_version_vdf(VERSION_VDF)
-    set_version_cfg(VERSION_CFG)
+    outputs_path = {
+        "vdf": project_root,
+        "cfg": project_root.joinpath("cfg/")
+    }
+
+    with open(outputs_path["vdf"].joinpath("version.vdf"), "w") as file:
+        set_version_vdf(file)
+
+    with open(outputs_path["cfg"].joinpath("ih_version.cfg"), "w") as file:
+        set_version_cfg(file)
 
 
 if __name__ == "__main__":

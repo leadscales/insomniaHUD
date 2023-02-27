@@ -2,11 +2,11 @@
 {
 	"Colors"
 	{
-		"AccentMain" "255 198 64 255"
-		"AccentMainT1" "255 198 64 208"
-		"AccentMainT2" "255 198 64 160"
-		"AccentMainT3" "255 198 64 112"
-		"AccentMainT4" "255 198 64 64"
-		"CreditsGreen" "255 198 64 255"
+		"AccentMain" "255 197 64 255"
+		"CreditsGreen" "255 197 64 255"
+		"AccentMainT1" "255 197 64 204"
+		"AccentMainT2" "255 197 64 153"
+		"AccentMainT3" "255 197 64 102"
+		"AccentMainT4" "255 197 64 51"
 	}
 }
