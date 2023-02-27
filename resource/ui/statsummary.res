@@ -138,7 +138,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"bold18"
+		"font"			"regular14"
 		"labelText"		"%maplabel%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
@@ -150,7 +150,6 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"allcaps"		"1"
 		"fgcolor_override" "Text0"
 	}
 
@@ -158,7 +157,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"bold18"
+		"font"			"regular14"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"cs-0.5"
@@ -170,7 +169,6 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"allcaps"		"1"
 		"fgcolor_override" "Text0"
 	}
 

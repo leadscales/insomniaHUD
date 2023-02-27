@@ -85,7 +85,6 @@
 		"enabled"									"1"
 		"labeltext"									"%mapname%"
 		"textalignment"								"center"
-		"allcaps"									"1"
 		"font"										"regular14"
 		"mouseinputenabled"							"0"
 	}
