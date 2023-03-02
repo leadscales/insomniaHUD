@@ -1,6 +1,5 @@
-#base "customization_menu/sidebar.res"
-#base "_current_submenu.res"
-#base "_default_submenu.res"
+#base "sidebar.res"
+#base "../../../cfg/ih_custom_submenu.txt"
 
 "Resource/UI/MainMenuOverride.res"
 {
