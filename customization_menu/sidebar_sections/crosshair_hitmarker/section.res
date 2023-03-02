@@ -71,7 +71,7 @@
 							"defaultfgcolor_override"	"AccentMainT4"
 							"armedfgcolor_override"		"AccentMain"
 							"border_default"			"NoBorder"
-							"border_armed"				"FLAT_Black_3"
+							"border_armed"				"LINE_LEFT_NOGLOW_AccentMain_3"
 							"sound_depressed"			"UI/buttonclick.wav"
 							"sound_released"			"UI/buttonclickrelease.wav"
 						}
@@ -96,7 +96,7 @@
 							"defaultfgcolor_override"	"AccentMainT4"
 							"armedfgcolor_override"		"AccentMain"
 							"border_default"			"NoBorder"
-							"border_armed"				"FLAT_Black_3"
+							"border_armed"				"LINE_LEFT_NOGLOW_AccentMain_3"
 							"sound_depressed"			"UI/buttonclick.wav"
 							"sound_released"			"UI/buttonclickrelease.wav"
 						}

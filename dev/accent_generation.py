@@ -102,20 +102,6 @@ def generate_buttons(colors: list[list[Color]], width: int, height: int, wrap_x:
                 "MainPanel": {
                     "MenuContainer": {
                         "ColorButtons": {
-                            "ControlName": "EditablePanel",
-                            "fieldName": "ColorButtons",
-                            "xpos": "cs-0.5",
-                            "ypos": "c0-s1",
-                            "wide": "360",
-                            "tall": "10",
-                            "proportionaltoparent": "1",
-                            "bgcolor_override": "PanelO0"
-                        },
-                        "HelpTitle": {
-                            "ypos": "cs0",
-                            "tall": "40",
-                            "labelText": "Click on a color. To change different colors, edit ./customization/colors/custom_accent_color.res and ./customization/colors/custom_colors.res",
-                            "border": "NoBorder"
                         }
                     }
                 }
@@ -147,7 +133,7 @@ def generate_buttons(colors: list[list[Color]], width: int, height: int, wrap_x:
                 "command": f"engine ih_accent_{chunk}",
                 "actionsignallevel": "5",
                 "defaultbgcolor_override": _chunk[0].as_vdf(),
-                "armedbgcolor_override": _chunk[1].as_vdf()
+                "armedbgcolor_override": _chunk[2].as_vdf()
             }
         })
 
@@ -160,13 +146,13 @@ def main():
     outputs_path = {
         "aliases": project_root.joinpath("cfg/"),
         "res": project_root.joinpath("customization/colors/_dev/accent_color_res/"),
-        "buttons": project_root.joinpath("customization/_dev/customization_menu/submenus/colors/accent/")
+        "buttons": project_root.joinpath("customization_menu/submenus/colors/accent")
     }
 
     colors = generate_colors(0.75, 1.0, 360)
     aliases = generate_aliases(colors)
     res = generate_res(colors)
-    buttons = generate_buttons(colors, 1, 10, 360)
+    buttons = generate_buttons(colors, 1, 20, 360)
 
     with open(outputs_path["aliases"].joinpath("ih_aliases_color.cfg"), "w") as file:
         for alias in aliases:
@@ -177,7 +163,7 @@ def main():
         with open(outputs_path["res"].joinpath(f"{i}.res"), "w") as file:
             vdf.dump({"Scheme": {"Colors": _res}}, file, True)
 
-    with open(outputs_path["buttons"].joinpath("submenu.res"), "w") as file:
+    with open(outputs_path["buttons"].joinpath("buttons.res"), "w") as file:
         vdf.dump(buttons, file, True)
 
 
