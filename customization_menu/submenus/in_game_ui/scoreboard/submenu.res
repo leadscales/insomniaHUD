@@ -44,7 +44,7 @@
 					"tall"					"20"
 					"proportionaltoparent"	"1"
 					"labeltext"				"RESET"
-					"font"					"regular20"
+					"font"					"regular14"
 					"textalignment"			"center"
 					"command"				"engine ih_scoreboard_clear; ih_reloadscheme"
 					"actionsignallevel"		"4"

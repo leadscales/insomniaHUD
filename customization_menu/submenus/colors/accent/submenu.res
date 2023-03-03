@@ -60,7 +60,7 @@
 						"actionsignallevel"		"5"
 						"paintbackground"		"0"
 						"border_default"		"FLAT_Black_4"
-						"border_armed"			"FLAT_Black_3"
+						"border_armed"			"FLAT_Black_2"
 						"sound_depressed"		"UI/buttonclick.wav"
 						"sound_released"		"UI/buttonclickrelease.wav"
 					}
