@@ -1,0 +1,95 @@
+"Resource/UI/MainMenuOverride.res"
+{
+	"CustomizationMenu"
+	{
+		"MainPanel"
+		{
+			"MenuContainer"
+			{
+				"ScoreboardSizeButtons"
+				{
+					"6v6"
+					{
+						"ControlName"			"CExButton"
+						"fieldName"				"6v6"
+						"xpos"					"0"
+						"ypos"					"0"
+						"wide"					"p0.25"
+						"tall"					"f0"
+						"proportionaltoparent"	"1"
+						"labeltext"				"6v6"
+						"font"					"regular20"
+						"textalignment"			"center"
+						"command"				"engine ih_scoreboard_6v6; ih_reloadscheme"
+						"actionsignallevel"		"5"
+						"paintbackground"		"0"
+						"border_default"		"FLAT_Black_4"
+						"border_armed"			"FLAT_Black_2"
+						"sound_depressed"		"UI/buttonclick.wav"
+						"sound_released"		"UI/buttonclickrelease.wav"
+					}
+					"9v9"
+					{
+						"ControlName"			"CExButton"
+						"fieldName"				"9v9"
+						"xpos"					"p0.25"
+						"ypos"					"0"
+						"wide"					"p0.25"
+						"tall"					"f0"
+						"proportionaltoparent"	"1"
+						"labeltext"				"9v9"
+						"font"					"regular20"
+						"textalignment"			"center"
+						"command"				"engine ih_scoreboard_9v9; ih_reloadscheme"
+						"actionsignallevel"		"5"
+						"paintbackground"		"0"
+						"border_default"		"FLAT_Black_4"
+						"border_armed"			"FLAT_Black_2"
+						"sound_depressed"		"UI/buttonclick.wav"
+						"sound_released"		"UI/buttonclickrelease.wav"
+					}
+					"12v12"
+					{
+						"ControlName"			"CExButton"
+						"fieldName"				"12v12"
+						"xpos"					"p0.5"
+						"ypos"					"0"
+						"wide"					"p0.25"
+						"tall"					"f0"
+						"proportionaltoparent"	"1"
+						"labeltext"				"12v12"
+						"font"					"regular20"
+						"textalignment"			"center"
+						"command"				"engine ih_scoreboard_12v12; ih_reloadscheme"
+						"actionsignallevel"		"5"
+						"paintbackground"		"0"
+						"border_default"		"FLAT_Black_4"
+						"border_armed"			"FLAT_Black_2"
+						"sound_depressed"		"UI/buttonclick.wav"
+						"sound_released"		"UI/buttonclickrelease.wav"
+					}
+					"16v16"
+					{
+						"ControlName"			"CExButton"
+						"fieldName"				"16v16"
+						"xpos"					"p0.75"
+						"ypos"					"0"
+						"wide"					"p0.25"
+						"tall"					"f0"
+						"proportionaltoparent"	"1"
+						"labeltext"				"16v16"
+						"font"					"regular20"
+						"textalignment"			"center"
+						"command"				"engine ih_scoreboard_16v16; ih_reloadscheme"
+						"actionsignallevel"		"5"
+						"paintbackground"		"0"
+						"border_default"		"FLAT_Black_4"
+						"border_armed"			"FLAT_Black_2"
+						"sound_depressed"		"UI/buttonclick.wav"
+						"sound_released"		"UI/buttonclickrelease.wav"
+					}
+				}
+			}
+		}
+	}
+}
