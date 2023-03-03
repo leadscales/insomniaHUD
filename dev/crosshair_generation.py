@@ -83,27 +83,8 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                     "MainPanel": {
                         "MenuContainer": {
                             "ShapeButtons": {
-                                "ControlName": "EditablePanel",
-                                "fieldName": "ShapeButtons",
-                                "xpos": "cs-0.5",
-                                "ypos": "0",
-                                "wide": str(wrap_x),
-                                "tall": "120",
-                                "proportionaltoparent": "1",
-                                "border": "FLAT_Black_4"
                             },
                             "SizeButtons": {
-                                "ControlName": "EditablePanel",
-                                "fieldName": "SizeButtons",
-                                "xpos": "cs-0.5",
-                                "ypos": "200",
-                                "wide": str(wrap_x),
-                                "tall": "15",
-                                "proportionaltoparent": "1",
-                                "border": "FLAT_Black_4"
-                            },
-                            "HelpTitle": {
-                                "visible": "0"
                             }
                         }
                     }
@@ -116,27 +97,8 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                     "MainPanel": {
                         "MenuContainer": {
                             "ShapeButtons": {
-                                "ControlName": "EditablePanel",
-                                "fieldName": "ShapeButtons",
-                                "xpos": "cs-0.5",
-                                "ypos": "0",
-                                "wide": "300",
-                                "tall": "20",
-                                "proportionaltoparent": "1",
-                                "border": "FLAT_Black_4"
                             },
                             "SizeButtons": {
-                                "ControlName": "EditablePanel",
-                                "fieldName": "SizeButtons",
-                                "xpos": "cs-0.5",
-                                "ypos": "100",
-                                "wide": str(wrap_x),
-                                "tall": "15",
-                                "proportionaltoparent": "1",
-                                "border": "FLAT_Black_4"
-                            },
-                            "HelpTitle": {
-                                "visible": "0"
                             }
                         }
                     }
@@ -167,10 +129,12 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                 "font": "Crosshairs14",
                 "textalignment": "center",
                 "paintbackground": "0",
-                "command": f"engine ih_crosshair_shape_{char}",
+                "command": f"engine ih_crosshair_shape_{char}; ih_reloadscheme",
                 "actionsignallevel": "5",
                 "border_default": "FLAT_Black_4",
-                "border_armed": "FLAT_Black_2"
+                "border_armed": "FLAT_Black_2",
+                "sound_depressed": "UI/buttonclick.wav",
+                "sound_released": "UI/buttonclickrelease.wav"
             }
         })
 
@@ -187,10 +151,12 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                 "font": "Crosshairs14",
                 "textalignment": "center",
                 "paintbackground": "0",
-                "command": f"engine ih_hitmarker_shape_{char}",
+                "command": f"engine ih_hitmarker_shape_{char}; ih_reloadscheme",
                 "actionsignallevel": "5",
                 "border_default": "FLAT_Black_4",
-                "border_armed": "FLAT_Black_2"
+                "border_armed": "FLAT_Black_2",
+                "sound_depressed": "UI/buttonclick.wav",
+                "sound_released": "UI/buttonclickrelease.wav"
             }
         })
 
@@ -216,10 +182,12 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                 "font": "regular14",
                 "textalignment": "center",
                 "paintbackground": "0",
-                "command": f"engine ih_crosshair_size_{_size}",
+                "command": f"engine ih_crosshair_size_{_size}; ih_reloadscheme",
                 "actionsignallevel": "5",
-                "border_default": "FLAT_Black_4",
-                "border_armed": "FLAT_Black_2"
+                "border_default": "FLAT_Black_3",
+                "border_armed": "FLAT_Black_2",
+                "sound_depressed": "UI/buttonclick.wav",
+                "sound_released": "UI/buttonclickrelease.wav"
             }
         })
 
@@ -236,10 +204,12 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                 "font": "regular14",
                 "textalignment": "center",
                 "paintbackground": "0",
-                "command": f"engine ih_hitmarker_size_{_size}",
+                "command": f"engine ih_hitmarker_size_{_size}; ih_reloadscheme",
                 "actionsignallevel": "5",
-                "border_default": "FLAT_Black_4",
-                "border_armed": "FLAT_Black_2"
+                "border_default": "FLAT_Black_3",
+                "border_armed": "FLAT_Black_2",
+                "sound_depressed": "UI/buttonclick.wav",
+                "sound_released": "UI/buttonclickrelease.wav"
             }
         })
 
@@ -275,9 +245,9 @@ def main():
         for size in aliases["HITMARKER"]["SIZE"]:
             file.write(size+"\n")
 
-    with open(outputs_path["buttons"].joinpath("crosshair/submenu.res"), "w") as file:
+    with open(outputs_path["buttons"].joinpath("crosshair/buttons.res"), "w") as file:
         vdf.dump(buttons["CROSSHAIR"], file, True)
-    with open(outputs_path["buttons"].joinpath("hitmarker/submenu.res"), "w") as file:
+    with open(outputs_path["buttons"].joinpath("hitmarker/buttons.res"), "w") as file:
         vdf.dump(buttons["HITMARKER"], file, True)
 
 

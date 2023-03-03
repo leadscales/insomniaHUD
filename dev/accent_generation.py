@@ -133,7 +133,9 @@ def generate_buttons(colors: list[list[Color]], width: int, height: int, wrap_x:
                 "command": f"engine ih_accent_{chunk}",
                 "actionsignallevel": "5",
                 "defaultbgcolor_override": _chunk[0].as_vdf(),
-                "armedbgcolor_override": _chunk[2].as_vdf()
+                "armedbgcolor_override": _chunk[2].as_vdf(),
+                "sound_depressed": "UI/buttonclick.wav",
+                "sound_released": "UI/buttonclickrelease.wav"
             }
         })
 

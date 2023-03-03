@@ -23,6 +23,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 64 255"
 						"armedbgcolor_override"			"255 64 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C1"
 					{
@@ -39,6 +41,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 67 64 255"
 						"armedbgcolor_override"			"255 67 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C2"
 					{
@@ -55,6 +59,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 70 64 255"
 						"armedbgcolor_override"			"255 70 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C3"
 					{
@@ -71,6 +77,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 73 64 255"
 						"armedbgcolor_override"			"255 73 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C4"
 					{
@@ -87,6 +95,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 76 64 255"
 						"armedbgcolor_override"			"255 76 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C5"
 					{
@@ -103,6 +113,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 80 64 255"
 						"armedbgcolor_override"			"255 80 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C6"
 					{
@@ -119,6 +131,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 83 64 255"
 						"armedbgcolor_override"			"255 83 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C7"
 					{
@@ -135,6 +149,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 86 64 255"
 						"armedbgcolor_override"			"255 86 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C8"
 					{
@@ -151,6 +167,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 89 64 255"
 						"armedbgcolor_override"			"255 89 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C9"
 					{
@@ -167,6 +185,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 92 64 255"
 						"armedbgcolor_override"			"255 92 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C10"
 					{
@@ -183,6 +203,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 96 64 255"
 						"armedbgcolor_override"			"255 96 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C11"
 					{
@@ -199,6 +221,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 99 64 255"
 						"armedbgcolor_override"			"255 99 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C12"
 					{
@@ -215,6 +239,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 102 64 255"
 						"armedbgcolor_override"			"255 102 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C13"
 					{
@@ -231,6 +257,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 105 64 255"
 						"armedbgcolor_override"			"255 105 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C14"
 					{
@@ -247,6 +275,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 108 64 255"
 						"armedbgcolor_override"			"255 108 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C15"
 					{
@@ -263,6 +293,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 111 64 255"
 						"armedbgcolor_override"			"255 111 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C16"
 					{
@@ -279,6 +311,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 115 64 255"
 						"armedbgcolor_override"			"255 115 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C17"
 					{
@@ -295,6 +329,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 118 64 255"
 						"armedbgcolor_override"			"255 118 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C18"
 					{
@@ -311,6 +347,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 121 64 255"
 						"armedbgcolor_override"			"255 121 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C19"
 					{
@@ -327,6 +365,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 124 64 255"
 						"armedbgcolor_override"			"255 124 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C20"
 					{
@@ -343,6 +383,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 127 64 255"
 						"armedbgcolor_override"			"255 127 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C21"
 					{
@@ -359,6 +401,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 131 64 255"
 						"armedbgcolor_override"			"255 131 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C22"
 					{
@@ -375,6 +419,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 134 64 255"
 						"armedbgcolor_override"			"255 134 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C23"
 					{
@@ -391,6 +437,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 137 64 255"
 						"armedbgcolor_override"			"255 137 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C24"
 					{
@@ -407,6 +455,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 140 64 255"
 						"armedbgcolor_override"			"255 140 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C25"
 					{
@@ -423,6 +473,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 143 64 255"
 						"armedbgcolor_override"			"255 143 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C26"
 					{
@@ -439,6 +491,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 146 64 255"
 						"armedbgcolor_override"			"255 146 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C27"
 					{
@@ -455,6 +509,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 150 64 255"
 						"armedbgcolor_override"			"255 150 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C28"
 					{
@@ -471,6 +527,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 153 64 255"
 						"armedbgcolor_override"			"255 153 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C29"
 					{
@@ -487,6 +545,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 156 64 255"
 						"armedbgcolor_override"			"255 156 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C30"
 					{
@@ -503,6 +563,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 159 64 255"
 						"armedbgcolor_override"			"255 159 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C31"
 					{
@@ -519,6 +581,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 162 64 255"
 						"armedbgcolor_override"			"255 162 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C32"
 					{
@@ -535,6 +599,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 165 64 255"
 						"armedbgcolor_override"			"255 165 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C33"
 					{
@@ -551,6 +617,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 169 64 255"
 						"armedbgcolor_override"			"255 169 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C34"
 					{
@@ -567,6 +635,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 172 64 255"
 						"armedbgcolor_override"			"255 172 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C35"
 					{
@@ -583,6 +653,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 175 64 255"
 						"armedbgcolor_override"			"255 175 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C36"
 					{
@@ -599,6 +671,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 178 64 255"
 						"armedbgcolor_override"			"255 178 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C37"
 					{
@@ -615,6 +689,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 181 64 255"
 						"armedbgcolor_override"			"255 181 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C38"
 					{
@@ -631,6 +707,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 185 64 255"
 						"armedbgcolor_override"			"255 185 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C39"
 					{
@@ -647,6 +725,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 188 64 255"
 						"armedbgcolor_override"			"255 188 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C40"
 					{
@@ -663,6 +743,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 191 64 255"
 						"armedbgcolor_override"			"255 191 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C41"
 					{
@@ -679,6 +761,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 194 64 255"
 						"armedbgcolor_override"			"255 194 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C42"
 					{
@@ -695,6 +779,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 197 64 255"
 						"armedbgcolor_override"			"255 197 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C43"
 					{
@@ -711,6 +797,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 200 64 255"
 						"armedbgcolor_override"			"255 200 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C44"
 					{
@@ -727,6 +815,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 204 64 255"
 						"armedbgcolor_override"			"255 204 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C45"
 					{
@@ -743,6 +833,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 207 64 255"
 						"armedbgcolor_override"			"255 207 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C46"
 					{
@@ -759,6 +851,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 210 64 255"
 						"armedbgcolor_override"			"255 210 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C47"
 					{
@@ -775,6 +869,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 213 64 255"
 						"armedbgcolor_override"			"255 213 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C48"
 					{
@@ -791,6 +887,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 216 64 255"
 						"armedbgcolor_override"			"255 216 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C49"
 					{
@@ -807,6 +905,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 220 64 255"
 						"armedbgcolor_override"			"255 220 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C50"
 					{
@@ -823,6 +923,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 223 64 255"
 						"armedbgcolor_override"			"255 223 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C51"
 					{
@@ -839,6 +941,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 226 64 255"
 						"armedbgcolor_override"			"255 226 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C52"
 					{
@@ -855,6 +959,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 229 64 255"
 						"armedbgcolor_override"			"255 229 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C53"
 					{
@@ -871,6 +977,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 232 64 255"
 						"armedbgcolor_override"			"255 232 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C54"
 					{
@@ -887,6 +995,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 235 64 255"
 						"armedbgcolor_override"			"255 235 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C55"
 					{
@@ -903,6 +1013,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 239 64 255"
 						"armedbgcolor_override"			"255 239 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C56"
 					{
@@ -919,6 +1031,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 242 64 255"
 						"armedbgcolor_override"			"255 242 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C57"
 					{
@@ -935,6 +1049,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 245 64 255"
 						"armedbgcolor_override"			"255 245 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C58"
 					{
@@ -951,6 +1067,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 248 64 255"
 						"armedbgcolor_override"			"255 248 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C59"
 					{
@@ -967,6 +1085,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 251 64 255"
 						"armedbgcolor_override"			"255 251 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C60"
 					{
@@ -983,6 +1103,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 254 64 255"
 						"armedbgcolor_override"			"255 254 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C61"
 					{
@@ -999,6 +1121,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"252 255 64 255"
 						"armedbgcolor_override"			"252 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C62"
 					{
@@ -1015,6 +1139,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"249 255 64 255"
 						"armedbgcolor_override"			"249 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C63"
 					{
@@ -1031,6 +1157,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"246 255 64 255"
 						"armedbgcolor_override"			"246 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C64"
 					{
@@ -1047,6 +1175,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"243 255 64 255"
 						"armedbgcolor_override"			"243 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C65"
 					{
@@ -1063,6 +1193,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"240 255 64 255"
 						"armedbgcolor_override"			"240 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C66"
 					{
@@ -1079,6 +1211,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"236 255 64 255"
 						"armedbgcolor_override"			"236 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C67"
 					{
@@ -1095,6 +1229,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"233 255 64 255"
 						"armedbgcolor_override"			"233 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C68"
 					{
@@ -1111,6 +1247,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"230 255 64 255"
 						"armedbgcolor_override"			"230 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C69"
 					{
@@ -1127,6 +1265,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"227 255 64 255"
 						"armedbgcolor_override"			"227 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C70"
 					{
@@ -1143,6 +1283,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"224 255 64 255"
 						"armedbgcolor_override"			"224 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C71"
 					{
@@ -1159,6 +1301,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"221 255 64 255"
 						"armedbgcolor_override"			"221 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C72"
 					{
@@ -1175,6 +1319,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"217 255 64 255"
 						"armedbgcolor_override"			"217 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C73"
 					{
@@ -1191,6 +1337,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"214 255 64 255"
 						"armedbgcolor_override"			"214 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C74"
 					{
@@ -1207,6 +1355,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"211 255 64 255"
 						"armedbgcolor_override"			"211 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C75"
 					{
@@ -1223,6 +1373,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"208 255 64 255"
 						"armedbgcolor_override"			"208 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C76"
 					{
@@ -1239,6 +1391,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"205 255 64 255"
 						"armedbgcolor_override"			"205 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C77"
 					{
@@ -1255,6 +1409,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"201 255 64 255"
 						"armedbgcolor_override"			"201 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C78"
 					{
@@ -1271,6 +1427,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"198 255 64 255"
 						"armedbgcolor_override"			"198 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C79"
 					{
@@ -1287,6 +1445,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"195 255 64 255"
 						"armedbgcolor_override"			"195 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C80"
 					{
@@ -1303,6 +1463,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"192 255 64 255"
 						"armedbgcolor_override"			"192 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C81"
 					{
@@ -1319,6 +1481,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"189 255 64 255"
 						"armedbgcolor_override"			"189 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C82"
 					{
@@ -1335,6 +1499,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"186 255 64 255"
 						"armedbgcolor_override"			"186 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C83"
 					{
@@ -1351,6 +1517,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"182 255 64 255"
 						"armedbgcolor_override"			"182 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C84"
 					{
@@ -1367,6 +1535,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"179 255 64 255"
 						"armedbgcolor_override"			"179 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C85"
 					{
@@ -1383,6 +1553,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"176 255 64 255"
 						"armedbgcolor_override"			"176 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C86"
 					{
@@ -1399,6 +1571,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"173 255 64 255"
 						"armedbgcolor_override"			"173 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C87"
 					{
@@ -1415,6 +1589,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"170 255 64 255"
 						"armedbgcolor_override"			"170 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C88"
 					{
@@ -1431,6 +1607,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"167 255 64 255"
 						"armedbgcolor_override"			"167 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C89"
 					{
@@ -1447,6 +1625,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"163 255 64 255"
 						"armedbgcolor_override"			"163 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C90"
 					{
@@ -1463,6 +1643,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"160 255 64 255"
 						"armedbgcolor_override"			"160 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C91"
 					{
@@ -1479,6 +1661,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"157 255 64 255"
 						"armedbgcolor_override"			"157 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C92"
 					{
@@ -1495,6 +1679,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"154 255 64 255"
 						"armedbgcolor_override"			"154 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C93"
 					{
@@ -1511,6 +1697,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"151 255 64 255"
 						"armedbgcolor_override"			"151 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C94"
 					{
@@ -1527,6 +1715,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"147 255 64 255"
 						"armedbgcolor_override"			"147 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C95"
 					{
@@ -1543,6 +1733,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"144 255 64 255"
 						"armedbgcolor_override"			"144 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C96"
 					{
@@ -1559,6 +1751,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"141 255 64 255"
 						"armedbgcolor_override"			"141 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C97"
 					{
@@ -1575,6 +1769,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"138 255 64 255"
 						"armedbgcolor_override"			"138 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C98"
 					{
@@ -1591,6 +1787,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"135 255 64 255"
 						"armedbgcolor_override"			"135 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C99"
 					{
@@ -1607,6 +1805,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"132 255 64 255"
 						"armedbgcolor_override"			"132 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C100"
 					{
@@ -1623,6 +1823,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"128 255 64 255"
 						"armedbgcolor_override"			"128 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C101"
 					{
@@ -1639,6 +1841,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"125 255 64 255"
 						"armedbgcolor_override"			"125 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C102"
 					{
@@ -1655,6 +1859,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"122 255 64 255"
 						"armedbgcolor_override"			"122 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C103"
 					{
@@ -1671,6 +1877,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"119 255 64 255"
 						"armedbgcolor_override"			"119 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C104"
 					{
@@ -1687,6 +1895,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"116 255 64 255"
 						"armedbgcolor_override"			"116 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C105"
 					{
@@ -1703,6 +1913,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"112 255 64 255"
 						"armedbgcolor_override"			"112 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C106"
 					{
@@ -1719,6 +1931,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"109 255 64 255"
 						"armedbgcolor_override"			"109 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C107"
 					{
@@ -1735,6 +1949,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"106 255 64 255"
 						"armedbgcolor_override"			"106 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C108"
 					{
@@ -1751,6 +1967,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"103 255 64 255"
 						"armedbgcolor_override"			"103 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C109"
 					{
@@ -1767,6 +1985,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"100 255 64 255"
 						"armedbgcolor_override"			"100 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C110"
 					{
@@ -1783,6 +2003,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"97 255 64 255"
 						"armedbgcolor_override"			"97 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C111"
 					{
@@ -1799,6 +2021,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"93 255 64 255"
 						"armedbgcolor_override"			"93 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C112"
 					{
@@ -1815,6 +2039,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"90 255 64 255"
 						"armedbgcolor_override"			"90 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C113"
 					{
@@ -1831,6 +2057,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"87 255 64 255"
 						"armedbgcolor_override"			"87 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C114"
 					{
@@ -1847,6 +2075,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"84 255 64 255"
 						"armedbgcolor_override"			"84 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C115"
 					{
@@ -1863,6 +2093,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"81 255 64 255"
 						"armedbgcolor_override"			"81 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C116"
 					{
@@ -1879,6 +2111,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"78 255 64 255"
 						"armedbgcolor_override"			"78 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C117"
 					{
@@ -1895,6 +2129,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"74 255 64 255"
 						"armedbgcolor_override"			"74 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C118"
 					{
@@ -1911,6 +2147,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"71 255 64 255"
 						"armedbgcolor_override"			"71 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C119"
 					{
@@ -1927,6 +2165,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"68 255 64 255"
 						"armedbgcolor_override"			"68 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C120"
 					{
@@ -1943,6 +2183,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"65 255 64 255"
 						"armedbgcolor_override"			"65 255 64 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C121"
 					{
@@ -1959,6 +2201,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 66 255"
 						"armedbgcolor_override"			"64 255 66 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C122"
 					{
@@ -1975,6 +2219,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 69 255"
 						"armedbgcolor_override"			"64 255 69 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C123"
 					{
@@ -1991,6 +2237,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 72 255"
 						"armedbgcolor_override"			"64 255 72 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C124"
 					{
@@ -2007,6 +2255,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 75 255"
 						"armedbgcolor_override"			"64 255 75 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C125"
 					{
@@ -2023,6 +2273,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 79 255"
 						"armedbgcolor_override"			"64 255 79 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C126"
 					{
@@ -2039,6 +2291,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 82 255"
 						"armedbgcolor_override"			"64 255 82 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C127"
 					{
@@ -2055,6 +2309,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 85 255"
 						"armedbgcolor_override"			"64 255 85 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C128"
 					{
@@ -2071,6 +2327,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 88 255"
 						"armedbgcolor_override"			"64 255 88 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C129"
 					{
@@ -2087,6 +2345,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 91 255"
 						"armedbgcolor_override"			"64 255 91 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C130"
 					{
@@ -2103,6 +2363,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 94 255"
 						"armedbgcolor_override"			"64 255 94 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C131"
 					{
@@ -2119,6 +2381,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 98 255"
 						"armedbgcolor_override"			"64 255 98 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C132"
 					{
@@ -2135,6 +2399,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 101 255"
 						"armedbgcolor_override"			"64 255 101 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C133"
 					{
@@ -2151,6 +2417,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 104 255"
 						"armedbgcolor_override"			"64 255 104 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C134"
 					{
@@ -2167,6 +2435,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 107 255"
 						"armedbgcolor_override"			"64 255 107 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C135"
 					{
@@ -2183,6 +2453,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 110 255"
 						"armedbgcolor_override"			"64 255 110 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C136"
 					{
@@ -2199,6 +2471,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 114 255"
 						"armedbgcolor_override"			"64 255 114 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C137"
 					{
@@ -2215,6 +2489,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 117 255"
 						"armedbgcolor_override"			"64 255 117 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C138"
 					{
@@ -2231,6 +2507,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 120 255"
 						"armedbgcolor_override"			"64 255 120 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C139"
 					{
@@ -2247,6 +2525,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 123 255"
 						"armedbgcolor_override"			"64 255 123 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C140"
 					{
@@ -2263,6 +2543,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 126 255"
 						"armedbgcolor_override"			"64 255 126 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C141"
 					{
@@ -2279,6 +2561,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 129 255"
 						"armedbgcolor_override"			"64 255 129 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C142"
 					{
@@ -2295,6 +2579,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 133 255"
 						"armedbgcolor_override"			"64 255 133 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C143"
 					{
@@ -2311,6 +2597,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 136 255"
 						"armedbgcolor_override"			"64 255 136 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C144"
 					{
@@ -2327,6 +2615,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 139 255"
 						"armedbgcolor_override"			"64 255 139 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C145"
 					{
@@ -2343,6 +2633,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 142 255"
 						"armedbgcolor_override"			"64 255 142 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C146"
 					{
@@ -2359,6 +2651,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 145 255"
 						"armedbgcolor_override"			"64 255 145 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C147"
 					{
@@ -2375,6 +2669,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 149 255"
 						"armedbgcolor_override"			"64 255 149 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C148"
 					{
@@ -2391,6 +2687,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 152 255"
 						"armedbgcolor_override"			"64 255 152 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C149"
 					{
@@ -2407,6 +2705,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 155 255"
 						"armedbgcolor_override"			"64 255 155 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C150"
 					{
@@ -2423,6 +2723,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 158 255"
 						"armedbgcolor_override"			"64 255 158 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C151"
 					{
@@ -2439,6 +2741,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 161 255"
 						"armedbgcolor_override"			"64 255 161 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C152"
 					{
@@ -2455,6 +2759,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 164 255"
 						"armedbgcolor_override"			"64 255 164 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C153"
 					{
@@ -2471,6 +2777,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 168 255"
 						"armedbgcolor_override"			"64 255 168 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C154"
 					{
@@ -2487,6 +2795,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 171 255"
 						"armedbgcolor_override"			"64 255 171 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C155"
 					{
@@ -2503,6 +2813,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 174 255"
 						"armedbgcolor_override"			"64 255 174 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C156"
 					{
@@ -2519,6 +2831,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 177 255"
 						"armedbgcolor_override"			"64 255 177 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C157"
 					{
@@ -2535,6 +2849,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 180 255"
 						"armedbgcolor_override"			"64 255 180 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C158"
 					{
@@ -2551,6 +2867,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 183 255"
 						"armedbgcolor_override"			"64 255 183 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C159"
 					{
@@ -2567,6 +2885,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 187 255"
 						"armedbgcolor_override"			"64 255 187 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C160"
 					{
@@ -2583,6 +2903,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 190 255"
 						"armedbgcolor_override"			"64 255 190 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C161"
 					{
@@ -2599,6 +2921,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 193 255"
 						"armedbgcolor_override"			"64 255 193 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C162"
 					{
@@ -2615,6 +2939,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 196 255"
 						"armedbgcolor_override"			"64 255 196 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C163"
 					{
@@ -2631,6 +2957,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 199 255"
 						"armedbgcolor_override"			"64 255 199 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C164"
 					{
@@ -2647,6 +2975,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 203 255"
 						"armedbgcolor_override"			"64 255 203 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C165"
 					{
@@ -2663,6 +2993,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 206 255"
 						"armedbgcolor_override"			"64 255 206 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C166"
 					{
@@ -2679,6 +3011,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 209 255"
 						"armedbgcolor_override"			"64 255 209 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C167"
 					{
@@ -2695,6 +3029,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 212 255"
 						"armedbgcolor_override"			"64 255 212 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C168"
 					{
@@ -2711,6 +3047,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 215 255"
 						"armedbgcolor_override"			"64 255 215 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C169"
 					{
@@ -2727,6 +3065,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 218 255"
 						"armedbgcolor_override"			"64 255 218 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C170"
 					{
@@ -2743,6 +3083,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 222 255"
 						"armedbgcolor_override"			"64 255 222 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C171"
 					{
@@ -2759,6 +3101,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 225 255"
 						"armedbgcolor_override"			"64 255 225 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C172"
 					{
@@ -2775,6 +3119,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 228 255"
 						"armedbgcolor_override"			"64 255 228 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C173"
 					{
@@ -2791,6 +3137,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 231 255"
 						"armedbgcolor_override"			"64 255 231 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C174"
 					{
@@ -2807,6 +3155,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 234 255"
 						"armedbgcolor_override"			"64 255 234 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C175"
 					{
@@ -2823,6 +3173,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 238 255"
 						"armedbgcolor_override"			"64 255 238 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C176"
 					{
@@ -2839,6 +3191,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 241 255"
 						"armedbgcolor_override"			"64 255 241 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C177"
 					{
@@ -2855,6 +3209,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 244 255"
 						"armedbgcolor_override"			"64 255 244 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C178"
 					{
@@ -2871,6 +3227,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 247 255"
 						"armedbgcolor_override"			"64 255 247 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C179"
 					{
@@ -2887,6 +3245,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 250 255"
 						"armedbgcolor_override"			"64 255 250 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C180"
 					{
@@ -2903,6 +3263,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 255 253 255"
 						"armedbgcolor_override"			"64 255 253 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C181"
 					{
@@ -2919,6 +3281,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 253 255 255"
 						"armedbgcolor_override"			"64 253 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C182"
 					{
@@ -2935,6 +3299,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 250 255 255"
 						"armedbgcolor_override"			"64 250 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C183"
 					{
@@ -2951,6 +3317,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 247 255 255"
 						"armedbgcolor_override"			"64 247 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C184"
 					{
@@ -2967,6 +3335,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 244 255 255"
 						"armedbgcolor_override"			"64 244 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C185"
 					{
@@ -2983,6 +3353,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 241 255 255"
 						"armedbgcolor_override"			"64 241 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C186"
 					{
@@ -2999,6 +3371,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 238 255 255"
 						"armedbgcolor_override"			"64 238 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C187"
 					{
@@ -3015,6 +3389,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 234 255 255"
 						"armedbgcolor_override"			"64 234 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C188"
 					{
@@ -3031,6 +3407,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 231 255 255"
 						"armedbgcolor_override"			"64 231 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C189"
 					{
@@ -3047,6 +3425,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 228 255 255"
 						"armedbgcolor_override"			"64 228 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C190"
 					{
@@ -3063,6 +3443,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 225 255 255"
 						"armedbgcolor_override"			"64 225 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C191"
 					{
@@ -3079,6 +3461,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 222 255 255"
 						"armedbgcolor_override"			"64 222 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C192"
 					{
@@ -3095,6 +3479,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 218 255 255"
 						"armedbgcolor_override"			"64 218 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C193"
 					{
@@ -3111,6 +3497,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 215 255 255"
 						"armedbgcolor_override"			"64 215 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C194"
 					{
@@ -3127,6 +3515,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 212 255 255"
 						"armedbgcolor_override"			"64 212 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C195"
 					{
@@ -3143,6 +3533,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 209 255 255"
 						"armedbgcolor_override"			"64 209 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C196"
 					{
@@ -3159,6 +3551,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 206 255 255"
 						"armedbgcolor_override"			"64 206 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C197"
 					{
@@ -3175,6 +3569,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 203 255 255"
 						"armedbgcolor_override"			"64 203 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C198"
 					{
@@ -3191,6 +3587,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 199 255 255"
 						"armedbgcolor_override"			"64 199 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C199"
 					{
@@ -3207,6 +3605,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 196 255 255"
 						"armedbgcolor_override"			"64 196 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C200"
 					{
@@ -3223,6 +3623,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 193 255 255"
 						"armedbgcolor_override"			"64 193 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C201"
 					{
@@ -3239,6 +3641,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 190 255 255"
 						"armedbgcolor_override"			"64 190 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C202"
 					{
@@ -3255,6 +3659,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 187 255 255"
 						"armedbgcolor_override"			"64 187 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C203"
 					{
@@ -3271,6 +3677,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 183 255 255"
 						"armedbgcolor_override"			"64 183 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C204"
 					{
@@ -3287,6 +3695,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 180 255 255"
 						"armedbgcolor_override"			"64 180 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C205"
 					{
@@ -3303,6 +3713,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 177 255 255"
 						"armedbgcolor_override"			"64 177 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C206"
 					{
@@ -3319,6 +3731,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 174 255 255"
 						"armedbgcolor_override"			"64 174 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C207"
 					{
@@ -3335,6 +3749,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 171 255 255"
 						"armedbgcolor_override"			"64 171 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C208"
 					{
@@ -3351,6 +3767,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 168 255 255"
 						"armedbgcolor_override"			"64 168 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C209"
 					{
@@ -3367,6 +3785,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 164 255 255"
 						"armedbgcolor_override"			"64 164 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C210"
 					{
@@ -3383,6 +3803,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 161 255 255"
 						"armedbgcolor_override"			"64 161 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C211"
 					{
@@ -3399,6 +3821,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 158 255 255"
 						"armedbgcolor_override"			"64 158 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C212"
 					{
@@ -3415,6 +3839,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 155 255 255"
 						"armedbgcolor_override"			"64 155 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C213"
 					{
@@ -3431,6 +3857,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 152 255 255"
 						"armedbgcolor_override"			"64 152 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C214"
 					{
@@ -3447,6 +3875,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 149 255 255"
 						"armedbgcolor_override"			"64 149 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C215"
 					{
@@ -3463,6 +3893,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 145 255 255"
 						"armedbgcolor_override"			"64 145 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C216"
 					{
@@ -3479,6 +3911,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 142 255 255"
 						"armedbgcolor_override"			"64 142 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C217"
 					{
@@ -3495,6 +3929,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 139 255 255"
 						"armedbgcolor_override"			"64 139 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C218"
 					{
@@ -3511,6 +3947,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 136 255 255"
 						"armedbgcolor_override"			"64 136 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C219"
 					{
@@ -3527,6 +3965,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 133 255 255"
 						"armedbgcolor_override"			"64 133 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C220"
 					{
@@ -3543,6 +3983,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 129 255 255"
 						"armedbgcolor_override"			"64 129 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C221"
 					{
@@ -3559,6 +4001,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 126 255 255"
 						"armedbgcolor_override"			"64 126 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C222"
 					{
@@ -3575,6 +4019,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 123 255 255"
 						"armedbgcolor_override"			"64 123 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C223"
 					{
@@ -3591,6 +4037,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 120 255 255"
 						"armedbgcolor_override"			"64 120 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C224"
 					{
@@ -3607,6 +4055,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 117 255 255"
 						"armedbgcolor_override"			"64 117 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C225"
 					{
@@ -3623,6 +4073,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 114 255 255"
 						"armedbgcolor_override"			"64 114 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C226"
 					{
@@ -3639,6 +4091,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 110 255 255"
 						"armedbgcolor_override"			"64 110 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C227"
 					{
@@ -3655,6 +4109,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 107 255 255"
 						"armedbgcolor_override"			"64 107 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C228"
 					{
@@ -3671,6 +4127,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 104 255 255"
 						"armedbgcolor_override"			"64 104 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C229"
 					{
@@ -3687,6 +4145,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 101 255 255"
 						"armedbgcolor_override"			"64 101 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C230"
 					{
@@ -3703,6 +4163,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 98 255 255"
 						"armedbgcolor_override"			"64 98 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C231"
 					{
@@ -3719,6 +4181,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 94 255 255"
 						"armedbgcolor_override"			"64 94 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C232"
 					{
@@ -3735,6 +4199,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 91 255 255"
 						"armedbgcolor_override"			"64 91 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C233"
 					{
@@ -3751,6 +4217,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 88 255 255"
 						"armedbgcolor_override"			"64 88 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C234"
 					{
@@ -3767,6 +4235,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 85 255 255"
 						"armedbgcolor_override"			"64 85 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C235"
 					{
@@ -3783,6 +4253,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 82 255 255"
 						"armedbgcolor_override"			"64 82 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C236"
 					{
@@ -3799,6 +4271,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 79 255 255"
 						"armedbgcolor_override"			"64 79 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C237"
 					{
@@ -3815,6 +4289,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 75 255 255"
 						"armedbgcolor_override"			"64 75 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C238"
 					{
@@ -3831,6 +4307,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 72 255 255"
 						"armedbgcolor_override"			"64 72 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C239"
 					{
@@ -3847,6 +4325,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 69 255 255"
 						"armedbgcolor_override"			"64 69 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C240"
 					{
@@ -3863,6 +4343,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"64 66 255 255"
 						"armedbgcolor_override"			"64 66 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C241"
 					{
@@ -3879,6 +4361,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"65 64 255 255"
 						"armedbgcolor_override"			"65 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C242"
 					{
@@ -3895,6 +4379,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"68 64 255 255"
 						"armedbgcolor_override"			"68 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C243"
 					{
@@ -3911,6 +4397,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"71 64 255 255"
 						"armedbgcolor_override"			"71 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C244"
 					{
@@ -3927,6 +4415,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"74 64 255 255"
 						"armedbgcolor_override"			"74 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C245"
 					{
@@ -3943,6 +4433,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"78 64 255 255"
 						"armedbgcolor_override"			"78 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C246"
 					{
@@ -3959,6 +4451,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"81 64 255 255"
 						"armedbgcolor_override"			"81 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C247"
 					{
@@ -3975,6 +4469,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"84 64 255 255"
 						"armedbgcolor_override"			"84 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C248"
 					{
@@ -3991,6 +4487,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"87 64 255 255"
 						"armedbgcolor_override"			"87 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C249"
 					{
@@ -4007,6 +4505,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"90 64 255 255"
 						"armedbgcolor_override"			"90 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C250"
 					{
@@ -4023,6 +4523,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"93 64 255 255"
 						"armedbgcolor_override"			"93 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C251"
 					{
@@ -4039,6 +4541,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"97 64 255 255"
 						"armedbgcolor_override"			"97 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C252"
 					{
@@ -4055,6 +4559,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"100 64 255 255"
 						"armedbgcolor_override"			"100 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C253"
 					{
@@ -4071,6 +4577,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"103 64 255 255"
 						"armedbgcolor_override"			"103 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C254"
 					{
@@ -4087,6 +4595,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"106 64 255 255"
 						"armedbgcolor_override"			"106 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C255"
 					{
@@ -4103,6 +4613,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"109 64 255 255"
 						"armedbgcolor_override"			"109 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C256"
 					{
@@ -4119,6 +4631,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"112 64 255 255"
 						"armedbgcolor_override"			"112 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C257"
 					{
@@ -4135,6 +4649,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"116 64 255 255"
 						"armedbgcolor_override"			"116 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C258"
 					{
@@ -4151,6 +4667,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"119 64 255 255"
 						"armedbgcolor_override"			"119 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C259"
 					{
@@ -4167,6 +4685,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"122 64 255 255"
 						"armedbgcolor_override"			"122 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C260"
 					{
@@ -4183,6 +4703,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"125 64 255 255"
 						"armedbgcolor_override"			"125 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C261"
 					{
@@ -4199,6 +4721,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"128 64 255 255"
 						"armedbgcolor_override"			"128 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C262"
 					{
@@ -4215,6 +4739,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"132 64 255 255"
 						"armedbgcolor_override"			"132 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C263"
 					{
@@ -4231,6 +4757,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"135 64 255 255"
 						"armedbgcolor_override"			"135 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C264"
 					{
@@ -4247,6 +4775,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"138 64 255 255"
 						"armedbgcolor_override"			"138 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C265"
 					{
@@ -4263,6 +4793,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"141 64 255 255"
 						"armedbgcolor_override"			"141 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C266"
 					{
@@ -4279,6 +4811,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"144 64 255 255"
 						"armedbgcolor_override"			"144 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C267"
 					{
@@ -4295,6 +4829,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"147 64 255 255"
 						"armedbgcolor_override"			"147 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C268"
 					{
@@ -4311,6 +4847,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"151 64 255 255"
 						"armedbgcolor_override"			"151 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C269"
 					{
@@ -4327,6 +4865,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"154 64 255 255"
 						"armedbgcolor_override"			"154 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C270"
 					{
@@ -4343,6 +4883,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"157 64 255 255"
 						"armedbgcolor_override"			"157 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C271"
 					{
@@ -4359,6 +4901,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"160 64 255 255"
 						"armedbgcolor_override"			"160 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C272"
 					{
@@ -4375,6 +4919,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"163 64 255 255"
 						"armedbgcolor_override"			"163 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C273"
 					{
@@ -4391,6 +4937,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"167 64 255 255"
 						"armedbgcolor_override"			"167 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C274"
 					{
@@ -4407,6 +4955,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"170 64 255 255"
 						"armedbgcolor_override"			"170 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C275"
 					{
@@ -4423,6 +4973,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"173 64 255 255"
 						"armedbgcolor_override"			"173 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C276"
 					{
@@ -4439,6 +4991,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"176 64 255 255"
 						"armedbgcolor_override"			"176 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C277"
 					{
@@ -4455,6 +5009,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"179 64 255 255"
 						"armedbgcolor_override"			"179 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C278"
 					{
@@ -4471,6 +5027,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"182 64 255 255"
 						"armedbgcolor_override"			"182 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C279"
 					{
@@ -4487,6 +5045,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"186 64 255 255"
 						"armedbgcolor_override"			"186 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C280"
 					{
@@ -4503,6 +5063,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"189 64 255 255"
 						"armedbgcolor_override"			"189 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C281"
 					{
@@ -4519,6 +5081,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"192 64 255 255"
 						"armedbgcolor_override"			"192 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C282"
 					{
@@ -4535,6 +5099,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"195 64 255 255"
 						"armedbgcolor_override"			"195 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C283"
 					{
@@ -4551,6 +5117,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"198 64 255 255"
 						"armedbgcolor_override"			"198 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C284"
 					{
@@ -4567,6 +5135,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"201 64 255 255"
 						"armedbgcolor_override"			"201 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C285"
 					{
@@ -4583,6 +5153,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"205 64 255 255"
 						"armedbgcolor_override"			"205 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C286"
 					{
@@ -4599,6 +5171,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"208 64 255 255"
 						"armedbgcolor_override"			"208 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C287"
 					{
@@ -4615,6 +5189,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"211 64 255 255"
 						"armedbgcolor_override"			"211 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C288"
 					{
@@ -4631,6 +5207,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"214 64 255 255"
 						"armedbgcolor_override"			"214 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C289"
 					{
@@ -4647,6 +5225,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"217 64 255 255"
 						"armedbgcolor_override"			"217 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C290"
 					{
@@ -4663,6 +5243,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"221 64 255 255"
 						"armedbgcolor_override"			"221 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C291"
 					{
@@ -4679,6 +5261,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"224 64 255 255"
 						"armedbgcolor_override"			"224 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C292"
 					{
@@ -4695,6 +5279,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"227 64 255 255"
 						"armedbgcolor_override"			"227 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C293"
 					{
@@ -4711,6 +5297,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"230 64 255 255"
 						"armedbgcolor_override"			"230 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C294"
 					{
@@ -4727,6 +5315,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"233 64 255 255"
 						"armedbgcolor_override"			"233 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C295"
 					{
@@ -4743,6 +5333,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"236 64 255 255"
 						"armedbgcolor_override"			"236 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C296"
 					{
@@ -4759,6 +5351,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"240 64 255 255"
 						"armedbgcolor_override"			"240 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C297"
 					{
@@ -4775,6 +5369,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"243 64 255 255"
 						"armedbgcolor_override"			"243 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C298"
 					{
@@ -4791,6 +5387,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"246 64 255 255"
 						"armedbgcolor_override"			"246 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C299"
 					{
@@ -4807,6 +5405,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"249 64 255 255"
 						"armedbgcolor_override"			"249 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C300"
 					{
@@ -4823,6 +5423,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"252 64 255 255"
 						"armedbgcolor_override"			"252 64 255 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C301"
 					{
@@ -4839,6 +5441,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 254 255"
 						"armedbgcolor_override"			"255 64 254 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C302"
 					{
@@ -4855,6 +5459,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 251 255"
 						"armedbgcolor_override"			"255 64 251 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C303"
 					{
@@ -4871,6 +5477,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 248 255"
 						"armedbgcolor_override"			"255 64 248 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C304"
 					{
@@ -4887,6 +5495,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 245 255"
 						"armedbgcolor_override"			"255 64 245 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C305"
 					{
@@ -4903,6 +5513,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 242 255"
 						"armedbgcolor_override"			"255 64 242 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C306"
 					{
@@ -4919,6 +5531,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 239 255"
 						"armedbgcolor_override"			"255 64 239 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C307"
 					{
@@ -4935,6 +5549,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 235 255"
 						"armedbgcolor_override"			"255 64 235 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C308"
 					{
@@ -4951,6 +5567,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 232 255"
 						"armedbgcolor_override"			"255 64 232 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C309"
 					{
@@ -4967,6 +5585,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 229 255"
 						"armedbgcolor_override"			"255 64 229 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C310"
 					{
@@ -4983,6 +5603,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 226 255"
 						"armedbgcolor_override"			"255 64 226 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C311"
 					{
@@ -4999,6 +5621,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 223 255"
 						"armedbgcolor_override"			"255 64 223 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C312"
 					{
@@ -5015,6 +5639,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 220 255"
 						"armedbgcolor_override"			"255 64 220 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C313"
 					{
@@ -5031,6 +5657,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 216 255"
 						"armedbgcolor_override"			"255 64 216 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C314"
 					{
@@ -5047,6 +5675,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 213 255"
 						"armedbgcolor_override"			"255 64 213 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C315"
 					{
@@ -5063,6 +5693,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 210 255"
 						"armedbgcolor_override"			"255 64 210 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C316"
 					{
@@ -5079,6 +5711,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 207 255"
 						"armedbgcolor_override"			"255 64 207 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C317"
 					{
@@ -5095,6 +5729,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 204 255"
 						"armedbgcolor_override"			"255 64 204 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C318"
 					{
@@ -5111,6 +5747,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 200 255"
 						"armedbgcolor_override"			"255 64 200 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C319"
 					{
@@ -5127,6 +5765,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 197 255"
 						"armedbgcolor_override"			"255 64 197 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C320"
 					{
@@ -5143,6 +5783,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 194 255"
 						"armedbgcolor_override"			"255 64 194 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C321"
 					{
@@ -5159,6 +5801,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 191 255"
 						"armedbgcolor_override"			"255 64 191 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C322"
 					{
@@ -5175,6 +5819,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 188 255"
 						"armedbgcolor_override"			"255 64 188 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C323"
 					{
@@ -5191,6 +5837,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 185 255"
 						"armedbgcolor_override"			"255 64 185 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C324"
 					{
@@ -5207,6 +5855,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 181 255"
 						"armedbgcolor_override"			"255 64 181 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C325"
 					{
@@ -5223,6 +5873,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 178 255"
 						"armedbgcolor_override"			"255 64 178 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C326"
 					{
@@ -5239,6 +5891,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 175 255"
 						"armedbgcolor_override"			"255 64 175 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C327"
 					{
@@ -5255,6 +5909,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 172 255"
 						"armedbgcolor_override"			"255 64 172 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C328"
 					{
@@ -5271,6 +5927,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 169 255"
 						"armedbgcolor_override"			"255 64 169 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C329"
 					{
@@ -5287,6 +5945,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 165 255"
 						"armedbgcolor_override"			"255 64 165 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C330"
 					{
@@ -5303,6 +5963,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 162 255"
 						"armedbgcolor_override"			"255 64 162 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C331"
 					{
@@ -5319,6 +5981,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 159 255"
 						"armedbgcolor_override"			"255 64 159 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C332"
 					{
@@ -5335,6 +5999,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 156 255"
 						"armedbgcolor_override"			"255 64 156 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C333"
 					{
@@ -5351,6 +6017,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 153 255"
 						"armedbgcolor_override"			"255 64 153 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C334"
 					{
@@ -5367,6 +6035,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 150 255"
 						"armedbgcolor_override"			"255 64 150 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C335"
 					{
@@ -5383,6 +6053,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 146 255"
 						"armedbgcolor_override"			"255 64 146 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C336"
 					{
@@ -5399,6 +6071,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 143 255"
 						"armedbgcolor_override"			"255 64 143 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C337"
 					{
@@ -5415,6 +6089,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 140 255"
 						"armedbgcolor_override"			"255 64 140 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C338"
 					{
@@ -5431,6 +6107,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 137 255"
 						"armedbgcolor_override"			"255 64 137 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C339"
 					{
@@ -5447,6 +6125,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 134 255"
 						"armedbgcolor_override"			"255 64 134 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C340"
 					{
@@ -5463,6 +6143,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 131 255"
 						"armedbgcolor_override"			"255 64 131 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C341"
 					{
@@ -5479,6 +6161,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 127 255"
 						"armedbgcolor_override"			"255 64 127 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C342"
 					{
@@ -5495,6 +6179,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 124 255"
 						"armedbgcolor_override"			"255 64 124 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C343"
 					{
@@ -5511,6 +6197,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 121 255"
 						"armedbgcolor_override"			"255 64 121 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C344"
 					{
@@ -5527,6 +6215,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 118 255"
 						"armedbgcolor_override"			"255 64 118 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C345"
 					{
@@ -5543,6 +6233,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 115 255"
 						"armedbgcolor_override"			"255 64 115 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C346"
 					{
@@ -5559,6 +6251,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 111 255"
 						"armedbgcolor_override"			"255 64 111 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C347"
 					{
@@ -5575,6 +6269,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 108 255"
 						"armedbgcolor_override"			"255 64 108 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C348"
 					{
@@ -5591,6 +6287,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 105 255"
 						"armedbgcolor_override"			"255 64 105 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C349"
 					{
@@ -5607,6 +6305,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 102 255"
 						"armedbgcolor_override"			"255 64 102 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C350"
 					{
@@ -5623,6 +6323,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 99 255"
 						"armedbgcolor_override"			"255 64 99 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C351"
 					{
@@ -5639,6 +6341,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 96 255"
 						"armedbgcolor_override"			"255 64 96 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C352"
 					{
@@ -5655,6 +6359,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 92 255"
 						"armedbgcolor_override"			"255 64 92 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C353"
 					{
@@ -5671,6 +6377,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 89 255"
 						"armedbgcolor_override"			"255 64 89 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C354"
 					{
@@ -5687,6 +6395,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 86 255"
 						"armedbgcolor_override"			"255 64 86 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C355"
 					{
@@ -5703,6 +6413,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 83 255"
 						"armedbgcolor_override"			"255 64 83 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C356"
 					{
@@ -5719,6 +6431,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 80 255"
 						"armedbgcolor_override"			"255 64 80 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C357"
 					{
@@ -5735,6 +6449,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 76 255"
 						"armedbgcolor_override"			"255 64 76 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C358"
 					{
@@ -5751,6 +6467,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 73 255"
 						"armedbgcolor_override"			"255 64 73 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 					"C359"
 					{
@@ -5767,6 +6485,8 @@
 						"actionsignallevel"				"5"
 						"defaultbgcolor_override"		"255 64 70 255"
 						"armedbgcolor_override"			"255 64 70 153"
+						"sound_depressed"				"UI/buttonclick.wav"
+						"sound_released"				"UI/buttonclickrelease.wav"
 					}
 				}
 			}
