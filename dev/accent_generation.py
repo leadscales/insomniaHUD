@@ -1,5 +1,6 @@
 import colorsys
 import pathlib
+import os
 
 import insomniahud
 import vdf
@@ -151,14 +152,18 @@ def main():
         "buttons": project_root.joinpath("customization_menu/submenus/colors/accent")
     }
 
-    colors = generate_colors(0.75, 1.0, 360)
+    colors = generate_colors(0.75, 1.0, 110)
     aliases = generate_aliases(colors)
     res = generate_res(colors)
-    buttons = generate_buttons(colors, 1, 20, 360)
+    buttons = generate_buttons(colors, 4, 480, 440)
 
     with open(outputs_path["aliases"].joinpath("ih_aliases_color.cfg"), "w") as file:
         for alias in aliases:
             file.write(alias+"\n")
+
+    for file in os.listdir(outputs_path["res"]):
+        if file[:-4].isdigit():
+            os.remove(outputs_path["res"].joinpath(file))
 
     for i in range(len(res)):
         _res = res[i]

@@ -75,7 +75,7 @@ def generate_aliases(chars: list[str], sizes: range) -> dict[str, dict[str, list
     return result
 
 
-def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: int = 20, wrap_x: int = 300) -> dict:
+def generate_buttons_shapes(chars: list[str], width: int = 20, height: int = 20, wrap_x: int = 300) -> dict:
     result: dict = {
         "CROSSHAIR": {
             "Resource/UI/MainMenuOverride.res": {
@@ -83,8 +83,6 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                     "MainPanel": {
                         "MenuContainer": {
                             "ShapeButtons": {
-                            },
-                            "SizeButtons": {
                             }
                         }
                     }
@@ -97,8 +95,6 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
                     "MainPanel": {
                         "MenuContainer": {
                             "ShapeButtons": {
-                            },
-                            "SizeButtons": {
                             }
                         }
                     }
@@ -160,6 +156,38 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
             }
         })
 
+    return result
+
+
+def generate_buttons_sizes(sizes: range, width: int = 20, height: int = 40, wrap_x: int = 140) -> dict:
+
+    result: dict = {
+        "CROSSHAIR": {
+            "Resource/UI/MainMenuOverride.res": {
+                "CustomizationMenu": {
+                    "MainPanel": {
+                        "MenuContainer": {
+                            "SizeButtons": {
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "HITMARKER": {
+            "Resource/UI/MainMenuOverride.res": {
+                "CustomizationMenu": {
+                    "MainPanel": {
+                        "MenuContainer": {
+                            "SizeButtons": {
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
     ypos = 0
 
     for size in range(len(sizes)):
@@ -216,6 +244,19 @@ def generate_buttons(chars: list[str], sizes: range, width: int = 20, height: in
     return result
 
 
+def merge_buttons(shapes: dict, sizes: dict) -> dict:
+    result = shapes
+    result["CROSSHAIR"]["Resource/UI/MainMenuOverride.res"]["CustomizationMenu"]["MainPanel"]["MenuContainer"].update(
+        {"SizeButtons": sizes["CROSSHAIR"]["Resource/UI/MainMenuOverride.res"]
+            ["CustomizationMenu"]["MainPanel"]["MenuContainer"]["SizeButtons"]}
+    )
+    result["HITMARKER"]["Resource/UI/MainMenuOverride.res"]["CustomizationMenu"]["MainPanel"]["MenuContainer"].update(
+        {"SizeButtons": sizes["HITMARKER"]["Resource/UI/MainMenuOverride.res"]
+            ["CustomizationMenu"]["MainPanel"]["MenuContainer"]["SizeButtons"]}
+    )
+    return result
+
+
 def main():
     chars = [
         *"!#$%'()*+,-./0123456789:<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz|~"
@@ -230,7 +271,10 @@ def main():
     }
 
     aliases = generate_aliases(chars, sizes)
-    buttons = generate_buttons(chars, sizes)
+    buttons_shapes = generate_buttons_shapes(chars)
+    buttons_sizes = generate_buttons_sizes(sizes)
+
+    buttons = merge_buttons(buttons_shapes, buttons_sizes)
 
     with open(outputs_path["aliases"].joinpath("ih_aliases_crosshair_shape.cfg"), "w") as file:
         for shape in aliases["CROSSHAIR"]["SHAPE"]:

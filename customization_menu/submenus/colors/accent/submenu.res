@@ -26,20 +26,20 @@
 				{
 					"ControlName"				"EditablePanel"
 					"fieldName"					"ColorButtons"
-					"xpos"						"cs-0.5"
-					"ypos"						"c0-s1"
-					"wide"						"360"
-					"tall"						"5"
+					"xpos"						"10"
+					"ypos"						"10"
+					"wide"						"f20"
+					"tall"						"f50"
 					"proportionaltoparent"		"1"
-					"bgcolor_override"			"Blank"
+					"bgcolor_override"			"PanelO0"
 				}
 				"ExtraButtons"
 				{
 					"ControlName"				"EditablePanel"
 					"fieldName"					"ExtraButtons"
-					"xpos"						"cs-0.5"
-					"ypos"						"c5"
-					"wide"						"360"
+					"xpos"						"10"
+					"ypos"						"rs1-10"
+					"wide"						"f20"
 					"tall"						"20"
 					"proportionaltoparent"		"1"
 					"border"					"FLAT_Black_4"
@@ -65,12 +65,19 @@
 						"sound_released"		"UI/buttonclickrelease.wav"
 					}
 				}
-				"HelpTextPanel"
+			}
+			"HelpTextPanel"
+			{
+				"HelpTextLabel"
 				{
-					"HelpTextLabel"
-					{
-						"labeltext"				"Click on a color to select and apply it. If you wish to change different colors, edit ./customization/colors/custom_accent_color.res and ./customization/colors/custom_colors.res"
-					}
+					"labeltext"				"Click on a color to select and apply it. If you wish to change different colors, edit ./customization/colors/custom_accent_color.res and ./customization/colors/custom_colors.res"
+				}
+			}
+			"TitleTextPanel"
+			{
+				"TitleTextLabel"
+				{
+					"labeltext"				"Accent Color"
 				}
 			}
 		}

@@ -1,5 +1,5 @@
 #base "../../../cfg/ih_custom_submenu.txt"
-#base "help_text.res"
+#base "info_text.res"
 #base "sidebar.res"
 
 "Resource/UI/MainMenuOverride.res"
@@ -148,13 +148,13 @@
 			{
 				"ControlName"				"EditablePanel"
 				"fieldName"					"MenuContainer"
-				"xpos"						"160"
-				"ypos"						"20"
+				"xpos"						"170"
+				"ypos"						"50"
 				"zpos"						"52"
-				"wide"						"480"
-				"tall"						"440"
+				"wide"						"460"
+				"tall"						"360"
 				"proportionaltoparent"		"1"
-				"border"					"NoBorder"
+				"border"					"FLAT_Black_4"
 
 				"StaticTFLogo"
 				{
