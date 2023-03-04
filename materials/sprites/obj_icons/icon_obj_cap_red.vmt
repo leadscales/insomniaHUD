@@ -7,7 +7,7 @@
 	"$vertexcolor"		"1"
 	"$no_fullbright"	"1"
 	"$ignorez"			"1"
-	"$color"			"{255 80 80}"
+	"$color"			"{255 64 80}"
 	"$detail"			"vgui\replay\thumbnails\obj_icons\cp_mask"
 	"$detailblendmode"	"9"
 	"$separatedetailuvs""1"

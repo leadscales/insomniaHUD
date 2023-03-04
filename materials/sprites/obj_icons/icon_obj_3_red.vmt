@@ -7,6 +7,6 @@
 	"$vertexcolor"		"1"
 	"$no_fullbright"	"1"
 	"$ignorez"			"1"
-	"$color"			"{255 80 80}"
+	"$color"			"{255 64 80}"
 	"%keywords"			"tf"
 }
