@@ -12,20 +12,6 @@
 		"enabled"		"1"
 	}
 
-	"MainBackground"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"MainBackground"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"0"
-		"tall"			"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../console/background_upward_widescreen"
-		"scaleImage"	"1"
-	}
-
 	"Background"
 	{
 		"ControlName"	"ImagePanel"
@@ -66,25 +52,11 @@
 			"image"									"replay/thumbnails/ui_effects/menu_glow"
 			"drawcolor"								"AccentMain"
 		}
-	}
 
-	"MenuColorizer2"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"MenuColorizer2"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"1"
-		"wide"										"f0"
-		"tall"										"480"
-		"visible"									"1"
-		"enabled"									"1"
-		"mouseinputenabled"							"0"
-
-		"SubImage"
+		"SubImage2"
 		{
 			"ControlName"							"CTFImagePanel"
-			"fieldName"								"SubImage"
+			"fieldName"								"SubImage2"
 			"xpos"									"0"
 			"ypos"									"0"
 			"wide"									"f0"
@@ -208,5 +180,12 @@
 		"ControlName"	"Button"
 		"fieldName"		"CloseButton"
 		"xpos"			"9999"
+	}
+
+	"MainBackground"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MainBackground"
+		"xpos"			"0"
 	}
 }
