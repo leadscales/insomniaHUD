@@ -66,7 +66,7 @@ def generate_aliases(colors: list[list[Color]]) -> list[str]:
     result: list[str] = [
         "alias \"ih_accent_clear\" \"sixense_clear_bindings; sixense_write_bindings ih_accent.txt\""
     ]
-    base = "alias \"ih_accent_{0}\" \"ih_accent_clear; con_logfile cfg/ih_accent.txt; echo #base ../custom/insomniaHUD/customization/colors/_dev/accent_color_res/{0}.res; con_logfile .\""
+    base = "alias \"ih_accent_{0}\" \"ih_accent_clear; con_logfile cfg/ih_accent.txt; echo #base ../custom/insomniahud/customization/colors/_dev/accent_color_res/{0}.res; con_logfile .\""
 
     for chunk in range(len(colors)):
         result.append(base.format(chunk))

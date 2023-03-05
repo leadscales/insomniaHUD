@@ -4,13 +4,13 @@
 
 # Info
 
-**NOTICE: RENAME THE HUD FOLDER TO `insomniaHUD` OR ELSE IT WILL *NOT* WORK!!!**
+**NOTICE: RENAME THE HUD FOLDER TO `insomniahud` (All lower case) OR ELSE IT WILL *NOT* WORK!!!**
 
 **YOUR `custom/` FOLDER SHOULD LOOK LIKE THIS:**
 ```
 custom/
 ├── ...
-├── insomniaHUD/
+├── insomniahud/
 │   ├── ...
 │   ├── info.vdf
 │   ├── README.MD
