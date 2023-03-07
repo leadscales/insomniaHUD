@@ -34,8 +34,8 @@
 			"HealthBonusPosAdj"						"9"
 			"HealthDeathWarning"					"0.49"
 			"TFFont"								"bold18"
-			"HealthDeathWarningColor"				"HealthHurt"
-			"TextColor"								"HealthNormal"
+			"HealthDeathWarningColor"				"Negative"
+			"TextColor"								"Neutral"
 		}
 
 		"AvatarImage"

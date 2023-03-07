@@ -2,8 +2,8 @@
 // COLORS SCHEME
 //=========================================================
 
-#base "../resource/scheme/colors.res"
 #base "../customization/colors/custom_colors.res"
+#base "../resource/scheme/colors.res"
 
 //=========================================================
 // FONTS SCHEME

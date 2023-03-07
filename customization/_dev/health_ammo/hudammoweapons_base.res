@@ -29,7 +29,7 @@
 		"font"										"bold32"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"AmmoClip"
+		"fgcolor"									"Neutral"
 	}
 
 	"AmmoInClipShadow"
@@ -69,7 +69,7 @@
 		"font"										"bold18"
 		"textAlignment"								"east"
 		"labelText"									"%AmmoInReserve%"
-		"fgcolor"									"AmmoReserve"
+		"fgcolor"									"Neutral"
 
 		"pin_to_sibling"							"AmmoInClip"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -113,7 +113,7 @@
 		"font"										"bold32"
 		"textAlignment"								"east"
 		"labelText"									"%Ammo%"
-		"fgcolor"									"AmmoNoclip"
+		"fgcolor"									"Neutral"
 	}
 
 	"AmmoNoClipShadow"

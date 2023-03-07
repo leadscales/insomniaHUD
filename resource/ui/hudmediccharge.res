@@ -19,7 +19,7 @@
 		"labelText"									"#TF_UberchargeMinHUD"
 		"textAlignment"								"center"
 		"font"										"bold18"
-		"fgcolor"   								"Ubercharge"
+		"fgcolor"   								"Neutral"
 	}
 
 	//==================================================================================================================================================
@@ -38,7 +38,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"fgcolor_override"							"Ubercharge"
+		"fgcolor_override"							"Neutral"
 
 		"pin_to_sibling"							"ChargeLabel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -63,7 +63,7 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_IndividualUberchargesMinHUD"
 		"textAlignment"								"center"
-		"fgcolor"									"Ubercharge"
+		"fgcolor"									"Neutral"
 		"font"										"bold18"
 
 		"pin_to_sibling"							"ChargeLabel"

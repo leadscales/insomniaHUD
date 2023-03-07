@@ -31,7 +31,7 @@
 		"textAlignment"								"center"
 		"labeltext"									"%Health%"
 		"font"										"bold18"
-		"fgcolor"  									"HealthNormal"
+		"fgcolor"  									"Neutral"
 	}
 
 	"PlayerStatusHealthValueShadowKiller"

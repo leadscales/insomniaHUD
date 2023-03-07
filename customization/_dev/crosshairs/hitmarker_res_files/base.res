@@ -12,7 +12,7 @@
 		"textAlignment"				"center"
 		"labelText"					""
 		"font"						"Crosshairs18"
-		"fgcolor"					"Hitmarker"
+		"fgcolor"					"Negative"
 		"alpha"						"0"
 	}
 }

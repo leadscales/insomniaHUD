@@ -209,10 +209,10 @@
 			"color_portrait_bg_blue"				"PanelT2"
 			"color_portrait_bg_red_dead"			"PanelT2"
 			"color_portrait_bg_blue_dead"			"PanelT2"
-			"color_bar_health_high"					"HealthNormal"
-			"color_bar_health_med"					"HealthNormal"
+			"color_bar_health_high"					"Neutral"
+			"color_bar_health_med"					"Neutral"
 			"percentage_health_med"					"0.5"
-			"color_bar_health_low"					"HealthHurt"
+			"color_bar_health_low"					"Negative"
 			"percentage_health_low"					"0.49"
 			"color_portrait_blend_dead_red"			"255 255 255 255"
 			"color_portrait_blend_dead_blue" 		"255 255 255 255"
@@ -260,7 +260,7 @@
 				"visible"							"1"
 				"enabled"							"1"
 				"bgcolor_override"	  				"Blank"
-				"fgcolor_override"					"HealthNormal"
+				"fgcolor_override"					"Neutral"
 				"alpha"								"255"
 				"proportionaltoparent"				"1"
 			}
@@ -277,7 +277,7 @@
 				"visible"							"1"
 				"enabled"							"1"
 				"bgcolor_override"	   				"Blank"
-				"fgcolor_override"	   				"HealthBuff"
+				"fgcolor_override"	   				"Positive"
 				"proportionaltoparent"				"1"
 			}
 

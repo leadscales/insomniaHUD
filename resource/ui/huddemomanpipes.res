@@ -12,7 +12,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"fgcolor_override"							"Ubercharge"
+		"fgcolor_override"							"Neutral"
 
 		"pin_to_sibling"							"ChargeLabel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
