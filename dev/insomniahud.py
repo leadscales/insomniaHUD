@@ -16,3 +16,7 @@ def get_project_root(root_file: str = "info.vdf") -> os.PathLike | str:
 
 def get_current_commit_number() -> int:
     return int(subprocess.check_output(["git", "rev-list", "HEAD", "--count"]))
+
+
+def get_current_branch_name() -> str:
+    return subprocess.check_output(["git", "rev-parse", "--abbrev-ref", "HEAD"]).decode("utf-8").rstrip()

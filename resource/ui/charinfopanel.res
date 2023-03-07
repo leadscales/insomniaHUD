@@ -243,7 +243,7 @@
 		"fieldName"									"HudLabel"
 		"xpos"										"rs1-10"
 		"ypos"										"20"
-		"wide"										"100"
+		"wide"										"200"
 		"tall"										"20"
 		"font"										"regular14"
 		"textAlignment"								"east"

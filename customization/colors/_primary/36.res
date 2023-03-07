@@ -1,0 +1,12 @@
+"Scheme"
+{
+	"Colors"
+	{
+		"Primary" "63 255 74 255"
+		"PrimaryT0" "63 255 74 255"
+		"PrimaryT1" "63 255 74 204"
+		"PrimaryT2" "63 255 74 153"
+		"PrimaryT3" "63 255 74 102"
+		"PrimaryT4" "63 255 74 51"
+	}
+}

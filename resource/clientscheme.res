@@ -2,6 +2,7 @@
 // COLORS SCHEME
 //=========================================================
 
+#base "../customization/colors/user_colors.res"
 #base "../customization/colors/custom_colors.res"
 #base "../resource/scheme/colors.res"
 
