@@ -120,7 +120,7 @@
 				"labelText"					"WARNING: FOLDER IS NOT RENAMED. CUSTOMIZATION OPTIONS WILL NOT WORK."
 				"textAlignment"				"center"
 				"centerwrap"				"1"
-				"bgcolor_override"			"255 64 64 255"
+				"bgcolor_override"			"255 64 80 255"
 				"fgcolor_override"			"0 0 0 255"
 			}
 			"ContinueButton"
