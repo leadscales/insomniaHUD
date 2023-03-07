@@ -61,28 +61,28 @@ In the main menu, there is a button labeled `CUSTOMIZE HUD`. This will enable Cu
 ## Screenshots
 
 ### Main Menu (Animated)
-![main_menu](./assets/screenshots/main_menu.jpg)
+![main_menu](./assets/screenshots/main_menu.webp)
 ### Main Menu (In-Game) (Animated)
-![main_menu_ig](./assets/screenshots/main_menu_ingame.jpg)
+![main_menu_ig](./assets/screenshots/main_menu_ingame.webp)
 ### Customization Menu (Animated)
-![customization_menu](./assets/screenshots/customization_menu.jpg)
+![customization_menu](./assets/screenshots/customization_menu.webp)
 ### Items Menu
-![items](./assets/screenshots/items_menu.jpg)
+![items](./assets/screenshots/items_menu.webp)
 ### Backpack
-![backpack](./assets/screenshots/backpack.jpg)
+![backpack](./assets/screenshots/backpack.webp)
 ### Class Loadout
-![class_loadout](./assets/screenshots/class_loadout.jpg)
+![class_loadout](./assets/screenshots/class_loadout.webp)
 ### Team Menu
-![team_menu](./assets/screenshots/team_menu.jpg)
+![team_menu](./assets/screenshots/team_menu.webp)
 ### Class Menu
-![class_menu](./assets/screenshots/class_menu.jpg)
+![class_menu](./assets/screenshots/class_menu.webp)
 ### Attack/Defend
-![attack_defend](./assets/screenshots/attack_defend.jpg)
+![attack_defend](./assets/screenshots/attack_defend.webp)
 ### Control Points
-![control_points](./assets/screenshots/control_points.jpg)
+![control_points](./assets/screenshots/control_points.webp)
 ### KOTH
-![koth](./assets/screenshots/koth.jpg)
+![koth](./assets/screenshots/koth.webp)
 ### CTF
-![ctf](./assets/screenshots/ctf.jpg)
+![ctf](./assets/screenshots/ctf.webp)
 ### Payload
-![payload](./assets/screenshots/payload.jpg)
+![payload](./assets/screenshots/payload.webp)
