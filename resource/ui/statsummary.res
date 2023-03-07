@@ -50,7 +50,7 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow"
-			"drawcolor"								"AccentMain"
+			"drawcolor"								"Primary"
 		}
 
 		"SubImage2"
@@ -64,7 +64,7 @@
 			"proportionaltoparent"					"1"
 			"scaleImage"							"1"
 			"image"									"replay/thumbnails/ui_effects/menu_glow_alt"
-			"drawcolor"								"AccentMain"
+			"drawcolor"								"Primary"
 		}
 	}
 
@@ -103,7 +103,7 @@
 		"tall"			"100"
 		"image"			"replay/thumbnails/ui_effects/loading_animation"
 		"scaleImage"	"1"
-		"drawcolor"		"AccentMain"
+		"drawcolor"		"Primary"
 	}
 
 	"MapLabel"

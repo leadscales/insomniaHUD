@@ -488,7 +488,7 @@
 						"proportionaltoparent"		"1"
 						"progress"					"0"
 
-						"fgcolor_override"			"AccentMain"
+						"fgcolor_override"			"Primary"
 
 						"if_mini"
 						{

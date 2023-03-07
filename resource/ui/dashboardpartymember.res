@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
-		"fgcolor_override"	"AccentMain"
+		"fgcolor_override"	"Primary"
 		"labeltext"		"+"
 		"font"			"iconsSmall"
 		"textAlignment"	"center"
@@ -154,10 +154,10 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"	"Blank"
-		"armedFgColor_override"		"AccentMain"
+		"armedFgColor_override"		"Primary"
 
-		"border_default"	"LINE_TOP_NOGLOW_AccentMain_3"
-		"border_armed"		"LINE_TOP_GLOW_AccentMain_3"
+		"border_default"	"LINE_TOP_NOGLOW_Primary_3"
+		"border_armed"		"LINE_TOP_GLOW_Primary_3"
 	}
 
 	"Spinner"

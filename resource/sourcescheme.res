@@ -25,7 +25,7 @@
 		"CheckButton.DepressedBgColor"				"Blank"
 		"CheckButton.Border1"						"White"
 		"CheckButton.Border2"						"White"
-		"CheckButton.Check"							"AccentMain"
+		"CheckButton.Check"							"Primary"
 		"CheckButton.DisabledBgColor"				"PanelO0"
 
 		"ToggleButton.SelectedTextColor"			"Text0"
@@ -60,7 +60,7 @@
 
 		"ListPanel.TextColor"						"Text0"
 		"ListPanel.BgColor"							"PanelO0"
-		"ListPanel.SelectedBgColor"					"AccentMain"
+		"ListPanel.SelectedBgColor"					"Primary"
 		"ListPanel.SelectedOutOfFocusBgColor"		"PanelO3"
 
 		"MainMenu.TextColor"						"Text1"
@@ -92,10 +92,10 @@
 
 		"TextEntry.TextColor"						"Text0"
 		"TextEntry.DisabledTextColor"				"Text2"
-		"TextEntry.SelectedBgColor"					"AccentMain"
+		"TextEntry.SelectedBgColor"					"Primary"
 
-		"SectionedListPanel.SelectedBgColor"			"AccentMain"
-		"SectionedListPanel.OutOfFocusSelectedBgColor"	"AccentMain"
+		"SectionedListPanel.SelectedBgColor"			"Primary"
+		"SectionedListPanel.OutOfFocusSelectedBgColor"	"Primary"
 	}
 	"Borders"
 	{

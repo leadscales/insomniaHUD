@@ -93,12 +93,12 @@
 		"paintbackground"							"0"
 
 		"border_default"							"NoBorder"
-		"border_armed"								"FLAT_AccentMain_3"
+		"border_armed"								"FLAT_Primary_3"
 
-		"defaultfgcolor_override"					"AccentMain"
-		"armedfgcolor_override"						"AccentMain"
-		"selectedfgcolor_override"					"AccentMain"
-		"depressedFgColor_override"					"AccentMain"
+		"defaultfgcolor_override"					"Primary"
+		"armedfgcolor_override"						"Primary"
+		"selectedfgcolor_override"					"Primary"
+		"depressedFgColor_override"					"Primary"
 	}
 	"FightCount"
 	{
@@ -114,7 +114,7 @@
 		"labelText"		  							"1"
 		"textAlignment"	  							"center"
 		"font"			  							"regular14"
-		"fgcolor"		  							"AccentMain"
+		"fgcolor"		  							"Primary"
 		"mouseinputenabled"							"0"
 
 		"pin_to_sibling"							"FightButton"

@@ -33,7 +33,7 @@
 						"textAlignment"				"west"
 						"textinsetx"				"5"
 						"use_proportional_insets"	"1"
-						"fgcolor"					"AccentMainT4"
+						"fgcolor"					"PrimaryT4"
 					}
 
 					"Buttons"
@@ -64,10 +64,10 @@
 							"textinsetx"				"7"
 							"use_proportional_insets"	"1"
 							"paintbackground"			"0"
-							"defaultfgcolor_override"	"AccentMainT4"
-							"armedfgcolor_override"		"AccentMain"
+							"defaultfgcolor_override"	"PrimaryT4"
+							"armedfgcolor_override"		"Primary"
 							"border_default"			"NoBorder"
-							"border_armed"				"LINE_LEFT_NOGLOW_AccentMain_3"
+							"border_armed"				"LINE_LEFT_NOGLOW_Primary_3"
 							"sound_depressed"			"UI/buttonclick.wav"
 							"sound_released"			"UI/buttonclickrelease.wav"
 						}

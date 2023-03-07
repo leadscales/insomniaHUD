@@ -14,9 +14,9 @@
 					{
 						"HealthAmmo"
 						{
-							"defaultfgcolor_override"		"AccentMainT3"
-							"border_default"				"LINE_LEFT_GLOW_AccentMain_4"
-							"border_armed"					"LINE_LEFT_GLOW_AccentMain_2"
+							"defaultfgcolor_override"		"PrimaryT3"
+							"border_default"				"LINE_LEFT_GLOW_Primary_4"
+							"border_armed"					"LINE_LEFT_GLOW_Primary_2"
 						}
 					}
 				}

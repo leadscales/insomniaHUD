@@ -38,7 +38,7 @@
 					"proportionaltoparent"		"1"
 					"scaleImage"				"1"
 					"image"						"replay/thumbnails/ui_effects/menu_glow"
-					"drawcolor"					"AccentMain"
+					"drawcolor"					"Primary"
 				}
 			}
 			"MenuColorizer2"
@@ -63,7 +63,7 @@
 					"proportionaltoparent"		"1"
 					"scaleImage"				"1"
 					"image"						"replay/thumbnails/ui_effects/menu_glow_alt"
-					"drawcolor"					"AccentMain"
+					"drawcolor"					"Primary"
 				}
 			}
 			"BG"
@@ -88,7 +88,7 @@
 				"font"						"bold32"
 				"labelText"					"insomniaHUD"
 				"textAlignment"				"center"
-				"fgcolor"					"AccentMain"
+				"fgcolor"					"Primary"
 			}
 			"Body"
 			{

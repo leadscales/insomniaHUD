@@ -13,9 +13,9 @@
 					{
 						"Hitmarker"
 						{
-							"defaultfgcolor_override"		"AccentMainT3"
-							"border_default"				"LINE_LEFT_GLOW_AccentMain_4"
-							"border_armed"					"LINE_LEFT_GLOW_AccentMain_2"
+							"defaultfgcolor_override"		"PrimaryT3"
+							"border_default"				"LINE_LEFT_GLOW_Primary_4"
+							"border_armed"					"LINE_LEFT_GLOW_Primary_2"
 						}
 					}
 				}
@@ -49,8 +49,8 @@
 						"actionsignallevel"			"5"
 						"paintbackground"			"0"
 						"border_default"			"FLAT_Black_3"
-						"border_armed"				"FLAT_AccentMain_1"
-						"defaultfgcolor_override"	"AccentMain"
+						"border_armed"				"FLAT_Primary_1"
+						"defaultfgcolor_override"	"Primary"
 						"armedfgcolor_override"		"Black"
 						"sound_depressed"			"UI/buttonclick.wav"
 						"sound_released"			"UI/buttonclickrelease.wav"

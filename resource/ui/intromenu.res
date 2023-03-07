@@ -76,7 +76,7 @@
 		"paintborder"								"0"
 
 		"defaultFgColor_override"					"White"
-		"armedFgColor_override" 					"AccentMain"
+		"armedFgColor_override" 					"Primary"
 		"depressedFgColor_override" 				"White"
 
 		"pin_to_sibling"							"VideoCaption"
@@ -104,7 +104,7 @@
 		"paintborder"								"0"
 
 		"defaultFgColor_override"					"White"
-		"armedFgColor_override" 					"AccentMain"
+		"armedFgColor_override" 					"Primary"
 		"depressedFgColor_override" 				"White"
 
 		"pin_to_sibling"							"Skip"

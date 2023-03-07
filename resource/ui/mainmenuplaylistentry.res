@@ -113,12 +113,12 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"defaultFgColor_override"	"AccentMain"
-		"armedFgColor_override"		"AccentMain"
-		"depressedFgColor_override" "AccentMain"
+		"defaultFgColor_override"	"Primary"
+		"armedFgColor_override"		"Primary"
+		"depressedFgColor_override" "Primary"
 
-		"border_default"			"LINE_BOTTOM_NOGLOW_AccentMain_4"
-		"border_armed"				"LINE_BOTTOM_GLOW_AccentMain_0"
+		"border_default"			"LINE_BOTTOM_NOGLOW_Primary_4"
+		"border_armed"				"LINE_BOTTOM_GLOW_Primary_0"
 	}	
 
 	"MatchmakingBanPanel"

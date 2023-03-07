@@ -39,7 +39,7 @@
 				"proportionaltoparent"	"1"
 				"scaleImage"			"1"
 				"image"					"replay/thumbnails/ui_effects/menu_glow"
-				"drawcolor"				"AccentMain"
+				"drawcolor"				"Primary"
 			}
 
 			"SubImage2"
@@ -53,7 +53,7 @@
 				"proportionaltoparent"	"1"
 				"scaleImage"			"1"
 				"image"					"replay/thumbnails/ui_effects/menu_glow_alt"
-				"drawcolor"				"AccentMain"
+				"drawcolor"				"Primary"
 			}
 		}
 
@@ -95,7 +95,7 @@
 					"font"						"regular14"
 					"labelText"					"CUSTOMIZE"
 					"textAlignment"				"center"
-					"fgcolor"					"AccentMain"
+					"fgcolor"					"Primary"
 				}
 
 				"ApplyAndExit"
@@ -114,8 +114,8 @@
 					"font"						"iconsSmall"
 					"textAlignment"				"center"
 					"paintbackground"			"0"
-					"defaultfgcolor_override"	"AccentMainT3"
-					"armedfgcolor_override"		"AccentMain"
+					"defaultfgcolor_override"	"PrimaryT3"
+					"armedfgcolor_override"		"Primary"
 					"sound_depressed"			"UI/buttonclick.wav"
 					"sound_released"			"UI/buttonclickrelease.wav"
 				}
@@ -172,7 +172,7 @@
 						"proportionaltoparent"					"1"
 						"image"									"replay/thumbnails/ui_effects/menu_logo"
 						"scaleimage"							"1"
-						"drawcolor"								"AccentMain"
+						"drawcolor"								"Primary"
 					}
 				}
 			}
@@ -190,7 +190,7 @@
 				"font"						"regular14"
 				"labelText"					"NOTICE: Some options, such as color-related ones, will require a game restart in order to take effect."
 				"textAlignment"				"center"
-				"fgcolor"					"AccentMainT4"
+				"fgcolor"					"PrimaryT4"
 				"border"					"FLAT_Black_4"
 			}
 		}
@@ -206,7 +206,7 @@
 			"tall"						"480"
 			"proportionaltoparent"		"1"
 			"paintbackground"			"1"
-			"border"					"FLAT_AccentMain_4"
+			"border"					"FLAT_Primary_4"
 		}
 	}
 }

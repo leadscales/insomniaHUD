@@ -349,7 +349,7 @@
 		"TextEntry.CursorColor"								"Text1"
 		"TextEntry.DisabledTextColor"						"Text2"
 		"TextEntry.DisabledBgColor"							"Blank"
-		"TextEntry.SelectedTextColor"						"AccentMain"
+		"TextEntry.SelectedTextColor"						"Primary"
 		"TextEntry.SelectedBgColor"							"Blank"
 		"TextEntry.OutOfFocusSelectedBgColor"				"Blank"
 		"TextEntry.FocusEdgeColor"							"Blank"
@@ -3502,7 +3502,7 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"Color"											"AccentMain"
+			"Color"											"Primary"
 
 			"image"											"replay/thumbnails/panels/misc/modal"
 			"src_corner_height"								"30"
@@ -3564,7 +3564,7 @@
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"AccentMain"
+			"color"					"Primary"
 			"image"					"replay/thumbnails/panels/misc/modal"
 			"src_corner_width"		"30"
 			"src_corner_height"		"30"
@@ -4836,7 +4836,7 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"color"											"AccentMain"
+			"color"											"Primary"
 			"image"											"replay/thumbnails/panels/misc/modal"
 			"src_corner_width"								"30"
 			"src_corner_height"								"30"
@@ -5448,12 +5448,12 @@
 			{
 				"1"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 1"
 				}
 				"2"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 1"
 				}
 			}
@@ -5467,12 +5467,12 @@
 			{
 				"1"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 1"
 				}
 				"2"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 1"
 				}
 			}
@@ -5480,12 +5480,12 @@
 			{
 				"1"
 				{
-					"color"								 	"AccentMain"
+					"color"								 	"Primary"
 					"offset" 								"1 0"
 				}
 				"2"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"1 0"
 				}
 			}
@@ -5493,12 +5493,12 @@
 			{
 				"1"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 0"
 				}
 				"2"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 0"
 				}
 			}
@@ -5506,12 +5506,12 @@
 			{
 				"1"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 0"
 				}
 				"2"
 				{
-					"color" 								"AccentMain"
+					"color" 								"Primary"
 					"offset" 								"0 0"
 				}
 			}
