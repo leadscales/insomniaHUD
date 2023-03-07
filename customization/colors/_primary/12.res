@@ -3,6 +3,7 @@
 	"Colors"
 	{
 		"Primary" "255 194 63 255"
+		"CreditsGreen" "255 194 63 255"
 		"PrimaryT0" "255 194 63 255"
 		"PrimaryT1" "255 194 63 204"
 		"PrimaryT2" "255 194 63 153"

@@ -87,13 +87,23 @@ def generate_res(colors: dict[str, list[Color]], alphas: list[float]) -> dict[st
 
     for key, value in colors.items():
         for i in value:
-            _d = {
-                "Scheme": {
-                    "Colors": {
-                        key: i.as_vdf()
+            if key.lower() == "primary":
+                _d = {
+                    "Scheme": {
+                        "Colors": {
+                            key: i.as_vdf(),
+                            "CreditsGreen": i.as_vdf()
+                        }
                     }
                 }
-            }
+            else:
+                _d = {
+                    "Scheme": {
+                        "Colors": {
+                            key: i.as_vdf()
+                        }
+                    }
+                }
             for alpha in range(len(alphas)):
                 _alpha = alphas[alpha]
                 _d["Scheme"]["Colors"].update({
