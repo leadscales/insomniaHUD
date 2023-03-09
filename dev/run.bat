@@ -12,7 +12,12 @@ IF %1==1610 (
 IF %1==219 (
 	SET /a width=2560
 )
+IF %1==0 (
+	SET /a height=1440
+	SET /a width=2560
+)
 TASKKILL /F /IM "hl2.exe" /FI "STATUS eq RUNNING"
 CD "C:\Program Files (x86)\Steam"
 steam -applaunch 440 -w %width% -h %height%
 ECHO Running TF2 with a width of %width% and a height of %height%
+EXIT
