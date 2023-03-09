@@ -3284,10 +3284,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"OutlinedDullGreyBox"
@@ -3297,10 +3297,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFThinLineBorder"
@@ -3310,10 +3310,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderOpaque"
@@ -3323,10 +3323,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorder"
@@ -3336,10 +3336,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderRedBGOpaque"
@@ -3349,10 +3349,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderRedBGOpaque_Store"
@@ -3362,10 +3362,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderRedBG"
@@ -3375,10 +3375,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderRedBGMoreOpaque"
@@ -3388,10 +3388,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderBlueBG"
@@ -3401,10 +3401,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderBlueBGMoreOpaque"
@@ -3414,10 +3414,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderBlueBGOpaque"
@@ -3427,10 +3427,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"TFFatLineBorderClearBG"
@@ -3440,10 +3440,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_1"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"ToolTipBorder"
@@ -3530,10 +3530,10 @@
 			"color"											"Black"
 
 			"image"											"replay/thumbnails/panels/FLAT_0"
-			"src_corner_height"								"20"
-			"src_corner_width"								"20"
-			"draw_corner_width"								"4"
-			"draw_corner_height" 							"4"
+			"src_corner_height"								"8"
+			"src_corner_width"								"8"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"Econ.Button.Border.Default"
@@ -3554,10 +3554,10 @@
 			"backgroundtype"		"0"
 			"color"					"PanelO2"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_width"		"20"
-			"src_corner_height"		"20"
-			"draw_corner_width"		"4"
-			"draw_corner_height"	"4"
+			"src_corner_width"		"8"
+			"src_corner_height"		"8"
+			"draw_corner_width"		"2"
+			"draw_corner_height"	"2"
 		}
 
 		LoadoutItemPopupBorder
@@ -3578,10 +3578,10 @@
 			"backgroundtype"		"0"
 			"color"					"Black"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_width"		"20"
-			"src_corner_height"		"20"
-			"draw_corner_width"		"4"
-			"draw_corner_height"	"4"
+			"src_corner_width"		"8"
+			"src_corner_height"		"8"
+			"draw_corner_width"		"2"
+			"draw_corner_height"	"2"
 		}
 
 		BackpackItemGrayedOut_Selected
@@ -3590,10 +3590,10 @@
 			"backgroundtype"		"0"
 			"color"					"Black"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_width"		"20"
-			"src_corner_height"		"20"
-			"draw_corner_width"		"4"
-			"draw_corner_height"	"4"
+			"src_corner_width"		"8"
+			"src_corner_height"		"8"
+			"draw_corner_width"		"2"
+			"draw_corner_height"	"2"
 		}
 
 		// Standard ------------------------------------------------------------------------------------------------
@@ -3603,10 +3603,10 @@
 			"backgroundtype"		"0"
 			"color"					"PanelO2"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemSelectedBorder
@@ -3615,10 +3615,10 @@
 			"backgroundtype"		"0"
 			"color"					"PanelO3"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder
@@ -3627,10 +3627,10 @@
 			"backgroundtype"		"0"
 			"color"					"PanelO3"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Unique ------------------------------------------------------------------------------------------------
@@ -3640,10 +3640,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorUnique"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Unique
@@ -3652,10 +3652,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorUnique"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Rarity1 ------------------------------------------------------------------------------------------------
@@ -3665,10 +3665,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity1"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_1
@@ -3677,10 +3677,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity1"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Rarity1 ------------------------------------------------------------------------------------------------
@@ -3690,10 +3690,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity1"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_1
@@ -3702,10 +3702,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity1"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Rarity3 ------------------------------------------------------------------------------------------------
@@ -3715,10 +3715,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity3"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_3
@@ -3727,10 +3727,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity3"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Rarity4 ------------------------------------------------------------------------------------------------
@@ -3740,10 +3740,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity4"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_4
@@ -3752,10 +3752,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorrarity4"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Haunted ------------------------------------------------------------------------------------------------
@@ -3765,10 +3765,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorHaunted"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Haunted
@@ -3777,10 +3777,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorHaunted"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Haunted
@@ -3789,10 +3789,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorHaunted_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Haunted
@@ -3801,10 +3801,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorHaunted_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Vintage ------------------------------------------------------------------------------------------------
@@ -3814,10 +3814,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorVintage"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Vintage
@@ -3826,10 +3826,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorVintage"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Vintage
@@ -3838,10 +3838,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorVintage_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Vintage
@@ -3850,10 +3850,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorVintage_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Community ------------------------------------------------------------------------------------------------
@@ -3863,10 +3863,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCommunity"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Community
@@ -3875,10 +3875,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCommunity"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Community
@@ -3887,10 +3887,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCommunity_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Community
@@ -3899,10 +3899,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCommunity_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Developer ------------------------------------------------------------------------------------------------
@@ -3912,10 +3912,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorDeveloper"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Developer
@@ -3924,10 +3924,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorDeveloper"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Developer
@@ -3936,10 +3936,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorDeveloper_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Developer
@@ -3948,10 +3948,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorDeveloper_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// SelfMade ------------------------------------------------------------------------------------------------
@@ -3961,10 +3961,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorSelfMade"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_SelfMade
@@ -3973,10 +3973,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorSelfMade"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_SelfMade
@@ -3985,10 +3985,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorSelfMade_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_SelfMade
@@ -3997,10 +3997,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorSelfMade_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Customized ------------------------------------------------------------------------------------------------
@@ -4010,10 +4010,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCustomized"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Customized
@@ -4022,10 +4022,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCustomized"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Customized
@@ -4034,10 +4034,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCustomized_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Customized
@@ -4046,10 +4046,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCustomized_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		// Strange ------------------------------------------------------------------------------------------------
@@ -4059,10 +4059,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorStrange"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Strange
@@ -4071,10 +4071,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorStrange"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Strange
@@ -4083,10 +4083,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorStrange_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Strange
@@ -4095,10 +4095,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorStrange_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		// Completed ------------------------------------------------------------------------------------------------
@@ -4108,10 +4108,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCompleted"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Completed
@@ -4120,10 +4120,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCompleted"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Completed
@@ -4132,10 +4132,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCompleted_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Completed
@@ -4144,10 +4144,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCompleted_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		
@@ -4157,10 +4157,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorPaintkitWeapon"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_PaintkitWeapon
@@ -4169,10 +4169,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorPaintkitWeapon"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_PaintkitWeapon
@@ -4181,10 +4181,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorPaintkitWeapon_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_PaintkitWeapon
@@ -4193,10 +4193,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorPaintkitWeaponGreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Collector's ------------------------------------------------------------------------------------------------
@@ -4206,10 +4206,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCollectors"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_Collectors
@@ -4218,10 +4218,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCollectors"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_Collectors
@@ -4230,10 +4230,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCollectors_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_Collectors
@@ -4242,10 +4242,10 @@
 			"backgroundtype"		"0"
 			"color"					"QualityColorCollectors_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"				
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"					
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"				
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"					
+			"draw_corner_height" 	"2"
 		}
 
 		// Rarity Default
@@ -4255,10 +4255,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityDefault"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_RarityDefault
@@ -4267,10 +4267,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityDefault"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_RarityDefault
@@ -4279,10 +4279,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityDefault_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_RarityDefault
@@ -4291,10 +4291,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityDefault_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemBorder_RarityCommon
@@ -4303,10 +4303,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityCommon"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_RarityCommon
@@ -4315,10 +4315,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityCommon"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_RarityCommon
@@ -4327,10 +4327,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityCommon_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_RarityCommon
@@ -4339,10 +4339,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityCommon_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemBorder_RarityUncommon
@@ -4351,10 +4351,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityUncommon"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_RarityUncommon
@@ -4363,10 +4363,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityUncommon"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_RarityUncommon
@@ -4375,10 +4375,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityUncommon_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_RarityUncommon
@@ -4387,10 +4387,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityUncommon_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemBorder_RarityRare
@@ -4399,10 +4399,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityRare"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_RarityRare
@@ -4411,10 +4411,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityRare"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_RarityRare
@@ -4423,10 +4423,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityRare_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_RarityRare
@@ -4435,10 +4435,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityRare_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemBorder_RarityMythical
@@ -4447,10 +4447,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityMythical"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_RarityMythical
@@ -4459,10 +4459,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityMythical"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_RarityMythical
@@ -4471,10 +4471,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityMythical_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_RarityMythical
@@ -4483,10 +4483,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityMythical_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		// ***************************************************
@@ -4496,10 +4496,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityLegendary"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemMouseOverBorder_RarityLegendary
@@ -4508,10 +4508,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityLegendary"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutBorder_RarityLegendary
@@ -4520,10 +4520,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityLegendary_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGreyedOutSelectedBorder_RarityLegendary
@@ -4532,10 +4532,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityLegendary_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		//*********************************************
@@ -4545,10 +4545,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityAncient"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 		BackpackItemMouseOverBorder_RarityAncient
 		{
@@ -4556,10 +4556,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityAncient"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 		BackpackItemGreyedOutBorder_RarityAncient
 		{
@@ -4567,10 +4567,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityAncient_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_4"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 		BackpackItemGreyedOutSelectedBorder_RarityAncient
 		{
@@ -4578,10 +4578,10 @@
 			"backgroundtype"		"0"
 			"color"					"ItemRarityAncient_GreyedOut"
 			"image"					"replay/thumbnails/panels/FLAT_3"
-			"src_corner_height"		"20"			
-			"src_corner_width"		"20"
-			"draw_corner_width"		"4"				
-			"draw_corner_height" 	"4"
+			"src_corner_height"		"8"			
+			"src_corner_width"		"8"
+			"draw_corner_width"		"2"				
+			"draw_corner_height" 	"2"
 		}
 
 		"StoreItemBorder"
