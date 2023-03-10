@@ -4,7 +4,7 @@
 {
 	"Background"
 	{
-		"border"									"LINE_TOP_GLOW_Warning_1"
+		"border"									"LINE_TOP_0_Warning_1"
 	}
 
 	"CantBuildReason"

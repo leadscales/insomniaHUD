@@ -46,7 +46,7 @@
 		"font"									"bold18"
 		"fgcolor"								"m0reRed"
 		"textalignment"							"center"
-		"border"								"LINE_TOP_GLOW_m0reRed_3"
+		"border"								"FLAT_m0reRed_4"
 	}
 
 	"PopFileLabel"

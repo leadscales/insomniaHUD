@@ -59,16 +59,16 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Bar"
-		"xpos"										"-5"
-		"ypos"										"rs1+5"
+		"xpos"										"0"
+		"ypos"										"rs1"
 		"zpos"										"1"
-		"wide"										"f-10"
-		"tall"										"45"
+		"wide"										"f0"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
-		"paintbackground"							"0"
-		"border"									"FLAT_Black_0"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelO0"
 	}
 
 	//==================================================================================================================================================
@@ -98,8 +98,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_NOGLOW_m0reBlue_3"
-		"border_armed"								"LINE_TOP_GLOW_m0reBlue_0"
+		"border_default"							"LINE_TOP_3_m0reBlue_0"
+		"border_armed"								"LINE_TOP_0_m0reBlue_0"
 
 		"defaultfgcolor_override"					"m0reBlue"
 		"armedfgcolor_override"						"m0reBlue"
@@ -183,8 +183,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_NOGLOW_m0reRed_3"
-		"border_armed"								"LINE_TOP_GLOW_m0reRed_0"
+		"border_default"							"LINE_TOP_3_m0reRed_0"
+		"border_armed"								"LINE_TOP_0_m0reRed_0"
 
 		"defaultfgcolor_override"					"m0reRed"
 		"armedfgcolor_override"						"m0reRed"
@@ -247,7 +247,7 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldname"									"RandomButton"
-		"xpos"			  							"-5"
+		"xpos"			  							"0"
 		"ypos"			  							"0"
 		"zpos"			  							"3"
 		"wide"			  							"80"
@@ -265,8 +265,8 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_NOGLOW_White_4"
-		"border_armed"								"LINE_TOP_GLOW_White_0"
+		"border_default"							"LINE_TOP_3_White_0"
+		"border_armed"								"LINE_TOP_0_White_0"
 
 		"pin_to_sibling"							"Bar"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -277,7 +277,7 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldname"									"SpectateButton"
-		"xpos"			  							"-5"
+		"xpos"			  							"0"
 		"ypos"			  							"0"
 		"zpos"			  							"3"
 		"wide"			  							"80"
@@ -295,8 +295,8 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_NOGLOW_White_4"
-		"border_armed"								"LINE_TOP_GLOW_White_0"
+		"border_default"							"LINE_TOP_3_White_0"
+		"border_armed"								"LINE_TOP_0_White_0"
 
 		"pin_to_sibling"							"Bar"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"

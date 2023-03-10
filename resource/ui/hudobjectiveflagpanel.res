@@ -38,7 +38,7 @@
 		"labelText"									"%bluescore%"
 		"font"										"bold18"
 		"fgcolor"									"m0reBlue"
-		"border"									"LINE_TOP_GLOW_m0reBlue_1"
+		"border"									"FLAT_m0reBlue_4"
 
 		"if_hybrid"
 		{
@@ -141,7 +141,7 @@
 		"labelText"									"%redscore%"
 		"font"										"bold18"
 		"fgcolor"									"m0reRed"
-		"border"									"LINE_TOP_GLOW_m0reRed_1"
+		"border"									"FLAT_m0reRed_4"
 
 		"if_hybrid"
 		{
@@ -229,12 +229,14 @@
 		"ypos"										"rs1-5"
 		"zpos"										"4"
 		"wide"										"80"
-		"tall"										"20"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_PlayingTo"
-		"textAlignment"								"center"
+		"textAlignment"								"south"
+		"textinsety"								"-10"
+		"useproportionalinsets"						"1"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
 		"border"									"FLAT_Black_1"

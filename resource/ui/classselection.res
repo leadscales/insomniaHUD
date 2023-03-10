@@ -59,16 +59,16 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Bar"
-		"xpos"										"-5"
-		"ypos"										"rs1+5"
+		"xpos"										"0"
+		"ypos"										"rs1"
 		"zpos"										"1"
-		"wide"										"f-10"
-		"tall"										"45"
+		"wide"										"f0"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
 		"mouseinputenabled"							"0"
-		"paintbackground"							"0"
-		"border"									"FLAT_Black_0"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelO0"
 	}
 
 	//==================================================================================================================================================
@@ -118,9 +118,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"			"ClassPanel"
@@ -137,7 +137,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"scout"
@@ -165,9 +165,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"scout"
@@ -184,7 +184,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"soldier"
@@ -212,9 +212,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"soldier"
@@ -231,7 +231,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"pyro"
@@ -259,9 +259,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"pyro"
@@ -278,7 +278,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"demoman"
@@ -306,9 +306,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"demoman"
@@ -325,7 +325,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"heavyweapons"
@@ -353,9 +353,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"heavyweapons"
@@ -372,7 +372,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"engineer"
@@ -400,9 +400,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"engineer"
@@ -419,7 +419,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"medic"
@@ -447,9 +447,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"medic"
@@ -466,7 +466,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"sniper"
@@ -494,9 +494,9 @@
 		"sound_released"		"UI/buttonclickrelease.wav"
 
 		"border_default"		"NoBorder"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
 		"border"				"NoBorder"
 
 		"pin_to_sibling"		"sniper"
@@ -513,7 +513,7 @@
 		"zpos"					"4"
 		"wide"					"40"
 		"tall"					"40"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border"				"LINE_TOP_3_White_0"
 		"mouseinputenabled"		"0"
 
 		"pin_to_sibling"		"spy"
@@ -622,11 +622,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"LINE_TOP_NOGLOW_White_4"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border_default"		"LINE_TOP_3_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
+		"border"				"LINE_TOP_3_White_0"
 	}
 
 	"EditLoadoutButton"
@@ -650,11 +650,11 @@
 		"sound_depressed"		"UI/buttonclick.wav"
 		"sound_released"		"UI/buttonclickrelease.wav"
 
-		"border_default"		"LINE_TOP_NOGLOW_White_4"
-		"border_armed"			"LINE_TOP_GLOW_White_0"
-		"border_selected"		"LINE_TOP_GLOW_White_0"
-		"border_depressed"		"LINE_TOP_GLOW_White_0"
-		"border"				"LINE_TOP_NOGLOW_White_4"
+		"border_default"		"LINE_TOP_3_White_0"
+		"border_armed"			"LINE_TOP_0_White_0"
+		"border_selected"		"LINE_TOP_0_White_0"
+		"border_depressed"		"LINE_TOP_0_White_0"
+		"border"				"LINE_TOP_3_White_0"
 	}
 
 	//==================================================================================================================================================

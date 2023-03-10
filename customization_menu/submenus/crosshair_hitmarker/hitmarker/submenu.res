@@ -14,8 +14,8 @@
 						"Hitmarker"
 						{
 							"defaultfgcolor_override"		"PrimaryT3"
-							"border_default"				"LINE_LEFT_GLOW_Primary_4"
-							"border_armed"					"LINE_LEFT_GLOW_Primary_2"
+							"border_default"				"FLAT_Black_2"
+							"border_armed"					"FLAT_Black_2"
 						}
 					}
 				}

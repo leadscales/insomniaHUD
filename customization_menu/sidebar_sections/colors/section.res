@@ -67,7 +67,7 @@
 							"defaultfgcolor_override"	"PrimaryT4"
 							"armedfgcolor_override"		"Primary"
 							"border_default"			"NoBorder"
-							"border_armed"				"LINE_LEFT_NOGLOW_Primary_3"
+							"border_armed"				"FLAT_Black_4"
 							"sound_depressed"			"UI/buttonclick.wav"
 							"sound_released"			"UI/buttonclickrelease.wav"
 						}

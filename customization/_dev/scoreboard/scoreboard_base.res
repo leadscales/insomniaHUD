@@ -100,7 +100,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"LINE_TOP_GLOW_m0reBlue_3"
+		"border"									"FLAT_m0reBlue_4"
 
 		"if_mvm"
 		{
@@ -211,7 +211,7 @@
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"LINE_TOP_GLOW_m0reRed_3"
+		"border"									"FLAT_m0reRed_4"
 
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
