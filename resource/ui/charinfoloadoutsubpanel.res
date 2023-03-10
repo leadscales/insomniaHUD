@@ -12,9 +12,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"PanelO1"
-		"infocus_bgcolor_override" 					"PanelO1"
-		"outoffocus_bgcolor_override"				"PanelO1"
+		"bgcolor_override"							"Blank"
+		"infocus_bgcolor_override" 					"Blank"
+		"outoffocus_bgcolor_override"				"Blank"
 
 		"selectlabely_default"						"25"
 		"selectlabely_onchanges"					"15"

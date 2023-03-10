@@ -14,9 +14,9 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"Blank"
-		"infocus_bgcolor_override"					"Blank"
-		"outoffocus_bgcolor_override"				"Blank"
+		"bgcolor_override"							"PanelO0"
+		"infocus_bgcolor_override"					"PanelO0"
+		"outoffocus_bgcolor_override"				"PanelO0"
 
 		"title"										"#CharInfoAndSetup"
 		"title_font"								"HudFontMediumBold"
@@ -30,18 +30,46 @@
 		"sheetinset_bottom"							"-20"
 	}
 
-	"Background"
+	"MenuColorizer"
 	{
 		"ControlName"								"EditablePanel"
-		"fieldName"									"Background"
+		"fieldName"									"MenuColorizer"
 		"xpos"										"0"
-		"ypos"										"20"
+		"ypos"										"0"
 		"zpos"										"-2"
 		"wide"										"f0"
-		"tall"										"f0"
+		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"PanelO0"
+		"mouseinputenabled"							"0"
+
+		"SubImage"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"scaleImage"							"1"
+			"image"									"replay/thumbnails/ui_effects/menu_glow"
+			"drawcolor"								"Primary"
+		}
+
+		"SubImage2"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"SubImage2"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"f0"
+			"proportionaltoparent"					"1"
+			"scaleImage"							"1"
+			"image"									"replay/thumbnails/ui_effects/menu_glow_alt"
+			"drawcolor"								"Primary"
+		}
 	}
 
 	"ClassLabel"
@@ -53,7 +81,7 @@
 		"textAlignment"								"center"
 		"xpos"										"cs-0.5"
 		"ypos"										"20"
-		"zpos"										"1"
+		"zpos"										"2"
 		"wide"										"p0.5"
 		"tall"										"20"
 		"visible"									"1"
@@ -117,6 +145,21 @@
 			"activeborder_override"					"NoBorder"
 			"normalborder_override" 				"NoBorder"
 		}
+	}
+
+	"FooterBar"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"FooterBar"
+		"xpos"										"0"
+		"ypos"										"rs1"
+		"zpos"										"-1"
+		"wide"										"f0"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelT1"
 	}
 
 	"BackButton"

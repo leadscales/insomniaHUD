@@ -32,7 +32,7 @@
 		"armedBgColor_override"						"0 0 0 0"
 		
 		"border_default"							"NoBorder"
-		"border_armed"								"LINE_LEFT_GLOW_Primary_5"
+		"border_armed"								"LINE_LEFT_0_Primary_0"
 	}
 
 	"NameLabel"
@@ -70,8 +70,8 @@
 		"wrap"										"0"
 		"labelText"									"%status%"
 		"proportionaltoparent"						"1"
-		"font"										"regular10"
-		"fgcolor_override"							"TanDark"
+		"font"										"regular9"
+		"fgcolor_override"							"Text0"
 		"mouseinputenabled"							"0"
 	}
 }

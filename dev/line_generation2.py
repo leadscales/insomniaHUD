@@ -52,11 +52,12 @@ def gen_image() -> list[list[Image.Image]]:
         if i == 0:
             _a = 0
         else:
-            _a = 51*i
+            _a = (i*204) % 255
         for j in range(0, 20):
             _b = (j*204) % 255
             if _b == 0:
                 _b = 255
+            # print(f"_b: {_b}, j: {j} | i: {i}, _a: {_a}")
             imgc = img.copy()
             imgd = ImageDraw.ImageDraw(imgc)
             if j in range(0, 5):  # top

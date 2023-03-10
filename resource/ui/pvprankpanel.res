@@ -228,54 +228,21 @@
 		{
 			"ControlName"							"CAutoFittingLabel"
 			"fieldName"								"Desc1MainMenu"
-			"xpos"									"0"
-			"ypos"									"0"
+			"xpos"									"5"
+			"ypos"									"2"
 			"wide"									"f0"
 			"zpos"									"100"
-			"tall"									"20"
-			"visible"								"1"
-			"enabled"								"1"
-			"font"									"regular18"
-			"fgcolor_override"						"White"
-			"textAlignment"							"west"
-			"labelText"								"%desc1%"
-			"textinsetx"							"5"
-			"use_proportional_insets"				"1"
-			"proportionaltoparent"					"1"
-			"allcaps"								"1"
-
-			"if_mini"
-			{
-				"wide"								"0"
-			}
-
-			"fonts"
-			{
-				"0"									"regular18"
-				"1"									"regular18"
-				"2"									"regular18"
-			}
-		}
-
-		"Desc2MainMenu"
-		{
-			"ControlName"							"CAutoFittingLabel"
-			"fieldName"								"Desc2MainMenu"
-			"xpos"									"0"
-			"ypos"									"15"
-			"wide"									"f0"
-			"zpos"									"100"
-			"tall"									"20"
+			"tall"									"15"
 			"visible"								"1"
 			"enabled"								"1"
 			"font"									"regular14"
-			"fgcolor_override"						"White"
-			"textAlignment"							"north-west"
-			"labelText"								"%desc2%"
-			"textinsetx"							"5"
+			"fgcolor_override"						"Text0"
+			"textAlignment"							"west"
+			"labelText"								"%desc1%"
+			"textinsetx"							"0"
 			"use_proportional_insets"				"1"
 			"proportionaltoparent"					"1"
-			"AllCaps"								"1"
+			"allcaps"								"1"
 
 			"if_mini"
 			{
@@ -288,11 +255,44 @@
 				"1"									"regular14"
 				"2"									"regular14"
 			}
+		}
+
+		"Desc2MainMenu"
+		{
+			"ControlName"							"CAutoFittingLabel"
+			"fieldName"								"Desc2MainMenu"
+			"xpos"									"5"
+			"ypos"									"13"
+			"wide"									"f0"
+			"zpos"									"100"
+			"tall"									"15"
+			"visible"								"1"
+			"enabled"								"1"
+			"font"									"regular12"
+			"fgcolor_override"						"PrimaryT2"
+			"textAlignment"							"west"
+			"labelText"								"%desc2%"
+			"textinsetx"							"0"
+			"use_proportional_insets"				"1"
+			"proportionaltoparent"					"1"
+			"AllCaps"								"1"
+
+			"if_mini"
+			{
+				"wide"								"0"
+			}
+
+			"fonts"
+			{
+				"0"									"regular12"
+				"1"									"regular12"
+				"2"									"regular12"
+			}
 
 			"colors"
 			{
-				"1"									"CreditsGreen"
-				"2"									"White"
+				"1"									"Primary"
+				"2"									"Text0"
 			}
 		}
 
@@ -368,7 +368,7 @@
 			"ControlName"							"EditablePanel"
 			"fieldName"								"StatsContainer"
 			"xpos"									"0"
-			"ypos"									"32"
+			"ypos"									"28"
 			"wide"									"f0"
 			"tall"									"480"
 			"proportionaltoparent"					"1"
@@ -385,9 +385,9 @@
 			{
 				"Controlname"						"EditablePanel"
 				"fieldName"							"XPBar"
-				"xpos"								"5"
+				"xpos"								"0"
 				"ypos"								"0"
-				"wide"								"f10"
+				"wide"								"f0"
 				"tall"								"2"
 				"proportionaltoparent"				"1"
 				"bgcolor_override"					"Blank"
@@ -489,6 +489,7 @@
 						"progress"					"0"
 
 						"fgcolor_override"			"Primary"
+						"bgcolor_override"			"PrimaryT4"
 
 						"if_mini"
 						{

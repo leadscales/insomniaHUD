@@ -78,8 +78,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"	"LINE_TOP_NOGLOW_Primary_3"
-			"border_armed"		"LINE_TOP_GLOW_Primary_3"
+			"border_default"	"LINE_TOP_3_Primary_0"
+			"border_armed"		"LINE_TOP_0_Primary_0"
 		}
 
 		"PartySlot0"
@@ -223,17 +223,33 @@
 			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
 		}
 
+		"QueueContainerBorder"
+		{
+			"ControlName"			"EditablePanel"
+			"fieldName"				"QueueContainerBorder"
+			"xpos"					"cs-0.5"
+			"ypos"					"0"
+			"zpos"					"98"
+			"wide"					"f280"
+			"tall"					"20"
+			"visible"				"1"
+			"proportionaltoparent"	"1"
+			"border"				"LINE_TOP_3_Primary_0"
+			"mouseinputenabled"		"0"
+		}
+
 		"QueueContainer"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"QueueContainer"
 			"xpos"			"cs-0.5"
 			"ypos"			"-50"
-			"zpos"			"111"
-			"wide"			"20"
+			"zpos"			"99"
+			"wide"			"f0"
 			"tall"			"20"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
+			"bgcolor_override"		"PrimaryT4"
 
 			"OuterShadow"
 			{
@@ -314,7 +330,7 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"10"
-				"wide"			"20"
+				"wide"			"f280"
 				"tall"			"20"
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -335,8 +351,8 @@
 			
 				"paintbackground"	"0"
 			
-				"border_default"	"LINE_TOP_NOGLOW_Primary_3"
-				"border_armed"		"LINE_TOP_GLOW_Primary_3"
+				"border_default"	"NoBorder"
+				"border_armed"		"LINE_TOP_0_Primary_0"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -350,7 +366,7 @@
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"10"
-				"wide"			"20"
+				"wide"			"f280"
 				"tall"			"20"
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -371,8 +387,8 @@
 			
 				"paintbackground"	"0"
 			
-				"border_default"	"LINE_TOP_NOGLOW_Primary_3"
-				"border_armed"		"LINE_TOP_GLOW_Primary_3"
+				"border_default"	"NoBorder"
+				"border_armed"		"LINE_TOP_0_Primary_0"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -488,7 +504,7 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"20"
+			"wide"			"70"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -516,8 +532,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"	"LINE_TOP_NOGLOW_Primary_3"
-			"border_armed"		"LINE_TOP_GLOW_Primary_3"
+			"border_default"			"LINE_TOP_3_Primary_0"
+			"border_armed"				"LINE_TOP_0_Primary_0"
 		}
 
 		"DisconnectButton"
@@ -527,7 +543,7 @@
 			"xpos"			"rs1"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"20"
+			"wide"			"70"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -554,8 +570,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"	"LINE_TOP_NOGLOW_Primary_3"
-			"border_armed"		"LINE_TOP_GLOW_Primary_3"
+			"border_default"			"LINE_TOP_3_Primary_0"
+			"border_armed"				"LINE_TOP_0_Primary_0"
 		}
 
 		"ResumeButton"
@@ -585,7 +601,7 @@
 			"xpos"			"rs2"
 			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"20"
+			"wide"			"70"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -612,8 +628,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"	"LINE_TOP_NOGLOW_Primary_3"
-			"border_armed"		"LINE_TOP_GLOW_Primary_3"
+			"border_default"			"LINE_TOP_3_Primary_0"
+			"border_armed"				"LINE_TOP_0_Primary_0"
 		}
 	}
 }

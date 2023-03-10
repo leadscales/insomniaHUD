@@ -24,6 +24,11 @@
 		"command" 									"engine ih_fix"
 		"OnlyInGame"								"1"
 	}
+	"AtMenuExtension"
+	{
+		"command"									"engine"
+		"OnlyAtMenu"								"1"
+	}
 	"InGameDarkener"
 	{
 		"command" 									"engine"

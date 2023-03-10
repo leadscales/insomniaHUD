@@ -9,7 +9,7 @@
 		"ypos"			"rs1"
 		"zpos"			"1001"
 		"wide"			"f0"
-		"tall"			"40"
+		"tall"			"20"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}
@@ -40,7 +40,7 @@
 		"ypos"			"0"
 		"zpos"			"100"
 		"wide"			"600"
-		"tall"			"40"
+		"tall"			"20"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 	}

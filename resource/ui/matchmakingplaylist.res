@@ -21,7 +21,7 @@
 		"fieldName"		"CasualEntry"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"40"
+		"tall"			"20"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -43,7 +43,7 @@
 		"fieldName"		"CompetitiveEntry"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"40"
+		"tall"			"20"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -69,7 +69,7 @@
 		"fieldName"		"MvMEntry"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"40"
+		"tall"			"20"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -95,7 +95,7 @@
 		"fieldName"		"ServerBrowserEntry"
 		"xpos"			"0"
 		"ypos"			"0"
-		"tall"			"40"
+		"tall"			"20"
 		"wide"			"120"
 		"proportionaltoparent"	"1"
 
@@ -121,7 +121,7 @@
 		"xpos"				"0"
 		"ypos"				"0"
 		"wide"				"120"
-		"tall"				"40"
+		"tall"				"20"
 		"labeltext"			"+"
 		"font"				"iconsSmall"
 		"textAlignment"		"center"
@@ -129,12 +129,12 @@
 		"actionsignallevel"	"1"
 		"paintbackground"	"0"
 
-		"border_default"	"LINE_BOTTOM_NOGLOW_Primary_4"
-		"border_armed"		"LINE_BOTTOM_GLOW_Primary_0"
+		"border_default"	"LINE_BOTTOM_3_Primary_0"
+		"border_armed"		"LINE_BOTTOM_0_Primary_0"
 
-		"defaultFgColor_override"	"Primary"
-		"armedFgColor_override"		"Primary"
-		"depressedFgColor_override" "Primary"
+		"defaultFgColor_override"	"White"
+		"armedFgColor_override"		"White"
+		"depressedFgColor_override" "White"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

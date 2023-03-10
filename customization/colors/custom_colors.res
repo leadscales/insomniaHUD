@@ -33,5 +33,6 @@
 		"NegativeT4"		"255 64 80 51"
 
 		"Crosshair"			"255 255 255 255"
+		"CreditsGreen"		"64 160 255 255"
 	}
 }
