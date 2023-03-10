@@ -11,7 +11,7 @@
 		"enabled"									"1"
 		"settitlebarvisible"						"0"
 		"PaintBackgroundType"						"0"
-		"bgcolor_override"							"PanelO1"
+		"bgcolor_override"							"PanelO0"
 		"infocus_bgcolor_override" 					"PanelO0"
 		"outoffocus_bgcolor_override"				"PanelO0"
 
@@ -105,7 +105,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"allcaps"									"1"
-		"fgcolor"									"Text2"
+		"fgcolor"									"White"
 	}
 
 	"TauntCaratLabel"

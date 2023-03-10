@@ -172,8 +172,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 		}
 
 		"ClassSoldier"
@@ -198,8 +198,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassScout"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -228,8 +228,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassSoldier"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -258,8 +258,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassScout"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -288,8 +288,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassDemoman"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -318,8 +318,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassHeavyweapons"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -348,8 +348,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassDemoman"
 			"pin_corner_to_sibling"	"PIN_BOTTOMLEFT"
@@ -378,8 +378,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassMedic"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -408,8 +408,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"ClassSniper"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -536,8 +536,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 		}
 
 		"MenuCrafting"
@@ -562,8 +562,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"MenuBackpack"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -592,8 +592,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"MenuBackpack"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -622,8 +622,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"MenuCrafting"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -652,8 +652,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"MenuCatalog"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -682,8 +682,8 @@
 			"sound_depressed"		"UI/buttonclick.wav"
 			"sound_released"		"UI/buttonclickrelease.wav"
 
-			"border_default"		"FLAT_PanelO2_0"
-			"border_armed"			"FLAT_PanelO3_0"
+			"border_default"		"FLAT_Black_2"
+			"border_armed"			"FLAT_Black_1"
 
 			"pin_to_sibling"		"MenuTrading"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
@@ -2272,7 +2272,7 @@
 		"wide"										"f0"
 		"tall"										"20"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"PanelO0"
+		"bgcolor_override"							"Blank"
 
 		"ClassButtons"
 		{
@@ -2307,8 +2307,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 			}
 
 			"Soldier"
@@ -2333,8 +2336,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Scout"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2363,8 +2369,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Soldier"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2393,8 +2402,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Pyro"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2423,8 +2435,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Demoman"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2453,8 +2468,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Heavyweapons"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2483,8 +2501,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Engineer"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2513,8 +2534,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Medic"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2543,8 +2567,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override"	"Text2"
-				"armedFgColor_override"		"Text0"
+				"defaultFgColor_override"	"White"
+				"armedFgColor_override"		"White"
+
+				"border_default"			"LINE_BOTTOM_3_Primary_0"
+				"border_armed"				"LINE_BOTTOM_0_Primary_0"
 
 				"pin_to_sibling"			"Sniper"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2563,7 +2590,7 @@
 			"proportionaltoparent"			"1"
 			"image"							"replay/thumbnails/lead_logo"
 			"scaleimage"					"1"
-			"drawcolor"						"Text2"
+			"drawcolor"						"White"
 		}
 
 		"TheButton"

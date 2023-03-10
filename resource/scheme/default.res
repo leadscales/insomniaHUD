@@ -3527,7 +3527,7 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"color"											"Black"
+			"color"											"PanelO1"
 
 			"image"											"replay/thumbnails/panels/FLAT_0"
 			"src_corner_height"								"12"

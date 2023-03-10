@@ -159,7 +159,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"paintbackground"							"1"
-		"bgcolor_override"							"PanelT1"
+		"bgcolor_override"							"PanelT2"
 	}
 
 	"BackButton"
@@ -183,7 +183,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"FLAT_PanelO3_0"
+		"border_armed"								"FLAT_Black_2"
 	}
 
 	"CloseButton"
@@ -207,7 +207,7 @@
 		"sound_depressed"							"UI/buttonclick.wav"
 		"sound_released"							"UI/buttonclickrelease.wav"
 		"border_default"							"NoBorder"
-		"border_armed"								"FLAT_PanelO3_0"
+		"border_armed"								"FLAT_Black_2"
 
 		"pin_to_sibling"							"BackButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -277,7 +277,7 @@
 		"labelText"									"HINT: Try using your Number Pad/Keys and WASDQE Keys to navigate the different menus, including in-game menus"
 		"textAlignment"								"center"
 		"font"										"regular14"
-		"fgcolor"									"Text4"
+		"fgcolor"									"PrimaryT4"
 	}
 
 	"HudLabel"
