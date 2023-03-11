@@ -866,9 +866,9 @@
 		"tall"					"200"
 		"visible"				"1"
 		"enabled"				"1"
-		"separator_width"		"9"	// distance between the icons (including their backgrounds)
-		"separator_height"		"7"
-		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
+		"separator_width"		"0"	// distance between the icons (including their backgrounds)
+		"separator_height"		"5"
+		"height_offset"			"5"	[$WIN32] // distance from the bottom of the panel
 	}
 
 	HudCapturePanel
