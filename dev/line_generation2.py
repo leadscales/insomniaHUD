@@ -99,22 +99,24 @@ def borders(path: os.PathLike) -> dict:
         for folder in os.listdir(path):
             for file in os.listdir(path.joinpath(folder)):
                 if file.endswith(".vmt"):
-                    _sw = "12"
-                    _sh = "12"
-                    _dw = "2"
-                    _dh = "2"
-                    border["Scheme"]["Borders"].update({
-                        f"LINE_{file[:-4]}_{color}_{folder}": {
-                            "bordertype": "scalable_image",
-                            "backgroundtype": "0",
-                            "color": color,
-                            "image": f"replay/thumbnails/panels/line/{folder}/{file[:-4]}",
-                            "src_corner_width": _sw,
-                            "src_corner_height": _sh,
-                            "draw_corner_width": _dw,
-                            "draw_corner_height": _dh
-                        }
-                    })
+                    if file[-5] in ["0", "3"]:
+                        if folder in ["0", "1"]:
+                            _sw = "12"
+                            _sh = "12"
+                            _dw = "2"
+                            _dh = "2"
+                            border["Scheme"]["Borders"].update({
+                                f"LINE_{file[:-4]}_{color}_{folder}": {
+                                    "bordertype": "scalable_image",
+                                    "backgroundtype": "0",
+                                    "color": color,
+                                    "image": f"replay/thumbnails/panels/line/{folder}/{file[:-4]}",
+                                    "src_corner_width": _sw,
+                                    "src_corner_height": _sh,
+                                    "draw_corner_width": _dw,
+                                    "draw_corner_height": _dh
+                                }
+                            })
 
     return border
 
