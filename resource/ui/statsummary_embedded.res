@@ -10,7 +10,7 @@
 		"tall"					"480"
 		"visible"				"0"
 		"enabled"				"1"
-		"bgcolor_override"		"PanelO1"
+		"bgcolor_override"		"Blank"
 	}
 	"MainBackground"
 	{
@@ -199,14 +199,14 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"			"AveragesBG"
 			"xpos"				"c-310"
-			"ypos"				"0"
+			"ypos"				"20"
 			"wide"				"420"
-			"tall"				"380"
+			"tall"				"360"
 			"autoResize"		"0"
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"FLAT_PanelO2_0"
+			"border"			"FLAT_Black_2"
 		}
 		"AveragesLabel"
 		{
@@ -223,7 +223,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"FLAT_PanelO0_0"
+			"border"			"FLAT_Black_1"
 		}
 		"ClassBarBG1A"
 		{
@@ -239,7 +239,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG1B"
@@ -256,7 +256,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar1A"
@@ -273,7 +273,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -291,7 +291,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel1A"
@@ -359,7 +359,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG2B"
@@ -376,7 +376,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar2A"
@@ -393,7 +393,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar2B"
@@ -410,7 +410,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel2A"
@@ -478,7 +478,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG3B"
@@ -495,7 +495,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar3A"
@@ -512,7 +512,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -530,7 +530,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel3A"
@@ -598,7 +598,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG4B"
@@ -615,7 +615,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar4A"
@@ -632,7 +632,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -650,7 +650,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel4A"
@@ -718,7 +718,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG5B"
@@ -735,7 +735,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar5A"
@@ -752,7 +752,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -770,7 +770,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel5A"
@@ -838,7 +838,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG6B"
@@ -855,7 +855,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar6A"
@@ -872,7 +872,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -890,7 +890,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel6A"
@@ -958,7 +958,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG7B"
@@ -975,7 +975,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar7A"
@@ -992,7 +992,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -1010,7 +1010,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel7A"
@@ -1078,7 +1078,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG8B"
@@ -1095,7 +1095,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar8A"
@@ -1112,7 +1112,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -1130,7 +1130,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel8A"
@@ -1198,7 +1198,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarBG9B"
@@ -1215,7 +1215,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO1"
+			"fillcolor"					"Blank"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBar9A"
@@ -1232,7 +1232,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 			"border"					"NoBorder"
 		}
@@ -1250,7 +1250,7 @@
 			"visible"					"1"
 			"enabled"					"1"
 			"tabPosition"				"0"
-			"fillcolor"					"PanelO5"
+			"fillcolor"					"Primary"
 			"PaintBackgroundType"		"0"
 		}
 		"ClassBarLabel9A"
@@ -1309,14 +1309,14 @@
 			"ControlName"		"EditablePanel"
 			"fieldName"			"RecordsBG"
 			"xpos"				"c110"
-			"ypos"				"0"
+			"ypos"				"20"
 			"wide"				"200"
-			"tall"				"360"
+			"tall"				"340"
 			"autoResize"		"0"
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"FLAT_PanelO2_0"
+			"border"			"FLAT_Black_2"
 		}
 		"RecordsLabel1"
 		{
@@ -1333,7 +1333,7 @@
 			"pinCorner"			"0"
 			"visible"			"1"
 			"enabled"			"1"
-			"border"			"FLAT_PanelO0_0"
+			"border"			"FLAT_Black_1"
 		}
 		"RecordsSubBG1"
 		{
@@ -1916,7 +1916,7 @@
 		"paintborder"					"1"
 		"defaultFgColor_override"		"Negative"
 		"armedFgColor_override"			"Negative"
-		"border_default"				"FLAT_PanelO2_0"
+		"border_default"				"FLAT_Black_2"
 		"border_armed"					"FLAT_Negative_4"
 	}
 	"CloseButton"
