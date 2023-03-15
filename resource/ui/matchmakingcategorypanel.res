@@ -41,7 +41,7 @@
 			"mouseinputenabled"	"0"
 		
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"0 0 0 255"
+			"bgcolor_override"	"PanelO1"
 		}
 
 		"BGImage"
@@ -81,8 +81,8 @@
 
 			"stay_armed_on_click"	"1"
 
-			"border_default"	"FLAT_PanelO2_0"
-			"border_armed"		"FLAT_PanelO3_0"
+			"border_default"	"LINE_LEFT_3_Primary_0"
+			"border_armed"		"LINE_LEFT_0_Primary_0"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -229,7 +229,7 @@
 		"tall"			"0"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
-		"border"		"InnerShadowBorder"
+		"border"		"NoBorder"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 	}
@@ -247,13 +247,13 @@
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
 
-		"border"		"InnerShadowBorder"
+		"border"		"LINE_LEFT_0_White_0"
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
 
 		"skip_autoresize"	"1"
 
-		"bgcolor_override"	"0 0 0 150"
+		"bgcolor_override"	"0 0 0 0"
 	}
 }

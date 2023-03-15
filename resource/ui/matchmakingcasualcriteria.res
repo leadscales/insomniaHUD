@@ -52,31 +52,15 @@
 			"show_name"		"0"
 		}
 
-		"CriteriaButtons"
-		{
-			"ControlName"								"EditablePanel"
-			"fieldName"									"CriteriaButtons"
-			"xpos"										"rs1-2-5"
-			"ypos"										"2"
-			"zpos"										"99"
-			"wide"										"32"
-			"tall"										"16"
-			"proportionaltoparent"						"1"
-			"visible"									"1"
-			"enabled"									"1"
-			"border"									"FLAT_PanelO3_0"
-			"mouseinputenabled"							"0"
-		}
-
 		"RestoreCasualSearchCriteria"
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"RestoreCasualSearchCriteria"
-			"xpos"			"rs2-2-5"
-			"ypos"			"2"
+			"xpos"			"rs2"
+			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"16"
-			"tall"			"16"
+			"wide"			"20"
+			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -95,18 +79,18 @@
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
 			"border_default"	"NoBorder"
-			"border_armed"		"FLAT_PanelO4_0"
+			"border_armed"		"FLAT_PanelO2_0"
 		}
 
 		"SaveCasualSearchCriteria"
 		{
 			"ControlName"	"CExButton"
 			"fieldName"		"SaveCasualSearchCriteria"
-			"xpos"			"rs1-2-5"
-			"ypos"			"2"
+			"xpos"			"rs1"
+			"ypos"			"0"
 			"zpos"			"100"
-			"wide"			"16"
-			"tall"			"16"
+			"wide"			"20"
+			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
@@ -125,7 +109,7 @@
 			"proportionaltoparent"	"1"
 			"paintbackground"	"0"
 			"border_default"	"NoBorder"
-			"border_armed"		"FLAT_PanelO4_0"
+			"border_armed"		"FLAT_PanelO2_0"
 		}
 
 		"ShowExplanationsButton"
@@ -231,10 +215,10 @@
 		{
 			"ControlName"	"CScrollableList"
 			"fieldName"		"GameModesList"
-			"xpos"			"5"
-			"ypos"			"25"
-			"wide"			"f10"
-			"tall"			"f25"
+			"xpos"			"0"
+			"ypos"			"20"
+			"wide"			"f0"
+			"tall"			"f20"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 			"restrict_width" "0"

@@ -264,7 +264,7 @@
 		"ypos"										"-20"
 		"zpos"										"51"
 		"wide"										"200"
-		"tall"										"30"
+		"tall"										"20"
 		"bgcolor_override"							"PanelT4"
 
 		"pin_to_sibling" 							"PrimaryPanel"
@@ -280,7 +280,7 @@
 		"ypos"										"0"
 		"zpos"										"52"
 		"wide"										"200"
-		"tall"										"30"
+		"tall"										"20"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
@@ -317,7 +317,7 @@
 		"ypos"										"0"
 		"zpos"										"53"
 		"wide"										"200"
-		"tall"										"30"
+		"tall"										"20"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
@@ -338,11 +338,11 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"54"
-		"wide"										"20"
+		"wide"										"200"
 		"tall"										"20"
 		"proportionaltoparent"						"1"
 
-		"labelText"									"."
+		"labelText"									""
 		"font"										"iconsSmall"
 		"textalignment"								"center"
 		"visible"									"1"
@@ -358,8 +358,8 @@
 		"armedfgcolor_override"						"Primary"
 
 		"pin_to_sibling" 							"RankContainer"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	//==================================================================================================================================================
@@ -587,7 +587,7 @@
 		"ypos"										"0"
 		"zpos"										"51"
 		"wide"										"200"
-		"tall"										"350"
+		"tall"										"360"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"1"
