@@ -234,7 +234,7 @@
 		"fieldName"									"BetaButton"
 		"xpos"										"rs1-5"
 		"ypos"										"rs1-25"
-		"zpos"										"9999"
+		"zpos"										"100"
 		"wide"										"30"
 		"tall"										"15"
 		"proportionaltoparent"						"1"	
