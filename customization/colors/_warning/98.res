@@ -2,11 +2,11 @@
 {
 	"Colors"
 	{
-		"Warning" "255 63 140 255"
-		"WarningT0" "255 63 140 255"
-		"WarningT1" "255 63 140 204"
-		"WarningT2" "255 63 140 153"
-		"WarningT3" "255 63 140 102"
-		"WarningT4" "255 63 140 51"
+		"Warning" "63 79 255 255"
+		"WarningT0" "63 79 255 255"
+		"WarningT1" "63 79 255 204"
+		"WarningT2" "63 79 255 153"
+		"WarningT3" "63 79 255 102"
+		"WarningT4" "63 79 255 51"
 	}
 }

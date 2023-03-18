@@ -159,7 +159,8 @@ def generate_buttons(colors: dict[str, list[Color]], wide: int, tall: int, xwrap
 
 
 def main():
-    COLORS = ["Primary", "Neutral", "Positive", "Warning", "Negative"]
+    COLORS = ["Primary", "Neutral", "Crosshair",
+              "Positive", "Warning", "Negative"]
     ALPHAS = [1.0, 0.8, 0.6, 0.4, 0.2]
 
     project_root = pathlib.Path(
@@ -174,10 +175,10 @@ def main():
     for value in outputs.values():
         value.mkdir(parents=True, exist_ok=True)
 
-    colors = generate_colors(COLORS, 105, 0.75, 1)
+    colors = generate_colors(COLORS, 150, 0.75, 1)
     aliases = generate_aliases(colors)
     res = generate_res(colors, ALPHAS)
-    buttons = generate_buttons(colors, 4, 14, 420, 10, 40)
+    buttons = generate_buttons(colors, 3, 25, 450, 5, 30)
 
     for key, value in aliases.items():
         with open(outputs["aliases"].joinpath(f"ih_aliases_color_{key.lower()}.cfg"), "w") as file:

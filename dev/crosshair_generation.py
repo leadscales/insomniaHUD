@@ -75,7 +75,7 @@ def generate_aliases(chars: list[str], sizes: range) -> dict[str, dict[str, list
     return result
 
 
-def generate_buttons_shapes(chars: list[str], width: int = 20, height: int = 20, wrap_x: int = 300) -> dict:
+def generate_buttons_shapes(chars: list[str], width: int = 20, height: int = 20, wrap_x: int = 460) -> dict:
     result: dict = {
         "CROSSHAIR": {
             "Resource/UI/MainMenuOverride.res": {
@@ -122,13 +122,15 @@ def generate_buttons_shapes(chars: list[str], width: int = 20, height: int = 20,
                 "tall": str(height),
                 "proportionaltoparent": "1",
                 "labeltext": _char,
-                "font": "Crosshairs14",
+                "font": "Crosshairs12",
                 "textalignment": "center",
                 "paintbackground": "0",
                 "command": f"engine ih_crosshair_shape_{char}; ih_reloadscheme",
                 "actionsignallevel": "5",
                 "border_default": "FLAT_Black_4",
                 "border_armed": "FLAT_Black_2",
+                "defaultfgcolor_override": "White" if _char not in ["{", "}", ";"] else "Negative",
+                "armedfgcolor_override": "White" if _char not in ["{", "}", ";"] else "Negative",
                 "sound_depressed": "UI/buttonclick.wav",
                 "sound_released": "UI/buttonclickrelease.wav"
             }
@@ -144,13 +146,15 @@ def generate_buttons_shapes(chars: list[str], width: int = 20, height: int = 20,
                 "tall": str(height),
                 "proportionaltoparent": "1",
                 "labeltext": _char,
-                "font": "Crosshairs14",
+                "font": "Crosshairs12",
                 "textalignment": "center",
                 "paintbackground": "0",
                 "command": f"engine ih_hitmarker_shape_{char}; ih_reloadscheme",
                 "actionsignallevel": "5",
                 "border_default": "FLAT_Black_4",
                 "border_armed": "FLAT_Black_2",
+                "defaultfgcolor_override": "White" if _char not in ["{", "}", ";"] else "Negative",
+                "armedfgcolor_override": "White" if _char not in ["{", "}", ";"] else "Negative",
                 "sound_depressed": "UI/buttonclick.wav",
                 "sound_released": "UI/buttonclickrelease.wav"
             }
@@ -159,7 +163,7 @@ def generate_buttons_shapes(chars: list[str], width: int = 20, height: int = 20,
     return result
 
 
-def generate_buttons_sizes(sizes: range, width: int = 20, height: int = 40, wrap_x: int = 140) -> dict:
+def generate_buttons_sizes(sizes: range, width: int = 20, height: int = 20, wrap_x: int = 460) -> dict:
 
     result: dict = {
         "CROSSHAIR": {
@@ -212,7 +216,7 @@ def generate_buttons_sizes(sizes: range, width: int = 20, height: int = 40, wrap
                 "paintbackground": "0",
                 "command": f"engine ih_crosshair_size_{_size}; ih_reloadscheme",
                 "actionsignallevel": "5",
-                "border_default": "FLAT_Black_3",
+                "border_default": "FLAT_Black_4",
                 "border_armed": "FLAT_Black_2",
                 "sound_depressed": "UI/buttonclick.wav",
                 "sound_released": "UI/buttonclickrelease.wav"
@@ -234,7 +238,7 @@ def generate_buttons_sizes(sizes: range, width: int = 20, height: int = 40, wrap
                 "paintbackground": "0",
                 "command": f"engine ih_hitmarker_size_{_size}; ih_reloadscheme",
                 "actionsignallevel": "5",
-                "border_default": "FLAT_Black_3",
+                "border_default": "FLAT_Black_4",
                 "border_armed": "FLAT_Black_2",
                 "sound_depressed": "UI/buttonclick.wav",
                 "sound_released": "UI/buttonclickrelease.wav"
@@ -259,9 +263,9 @@ def merge_buttons(shapes: dict, sizes: dict) -> dict:
 
 def main():
     chars = [
-        *"!#$%'()*+,-./0123456789:<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz|~"
+        *"!#$%'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~"
     ]
-    sizes = range(10, 31)
+    sizes = range(10, 33)
 
     project_root = pathlib.Path(insomniahud.get_project_root())
 

@@ -64,11 +64,25 @@
 			"xpos"						"cs-0.5"
 			"ypos"						"0"
 			"zpos"						"50"
-			"wide"						"640"
+			"wide"						"f0"
 			"tall"						"480"
 			"proportionaltoparent"		"1"
 			"paintbackground"			"1"
-			"border"					"FLAT_Black_1"
+			"border"					"FLAT_Primary_4"
+
+			"Color"
+			{
+				"ControlName"				"EditablePanel"
+				"fieldName"					"Color"
+				"xpos"						"cs-0.5"
+				"ypos"						"0"
+				"zpos"						"0"
+				"wide"						"f0"
+				"tall"						"f0"
+				"proportionaltoparent"		"1"
+				"paintbackground"			"1"
+				"border"					"FLAT_Black_1"
+			}
 
 			"TitleBar"
 			{
@@ -89,12 +103,14 @@
 					"xpos"						"cs-0.5"
 					"ypos"						"0"
 					"zpos"						"52"
-					"wide"						"p0.5"
+					"wide"						"f0"
 					"tall"						"f0"
 					"proportionaltoparent"		"1"
 					"font"						"regular14"
 					"labelText"					"CUSTOMIZE"
-					"textAlignment"				"center"
+					"textAlignment"				"west"
+					"textinsetx"				"5"
+					"use_proportional_insets"	"1"
 					"fgcolor"					"Primary"
 				}
 
@@ -138,13 +154,17 @@
 			{
 				"ControlName"				"EditablePanel"
 				"fieldName"					"MenuContainer"
-				"xpos"						"170"
-				"ypos"						"50"
+				"xpos"						"0"
+				"ypos"						"10"
 				"zpos"						"52"
 				"wide"						"460"
 				"tall"						"360"
 				"proportionaltoparent"		"1"
-				"border"					"FLAT_Black_4"
+				"border"					"NoBorder"
+
+				"pin_to_sibling"			"TitleTextPanel"
+				"pin_corner_to_sibling"		"PIN_CENTER_TOP"
+				"pin_to_sibling_corner"		"PIN_CENTER_BOTTOM"
 
 				"StaticTFLogo"
 				{
@@ -193,20 +213,6 @@
 				"fgcolor"					"PrimaryT4"
 				"border"					"FLAT_Black_4"
 			}
-		}
-
-		"MainPanelColor"
-		{
-			"ControlName"				"EditablePanel"
-			"fieldName"					"MainPanelColor"
-			"xpos"						"cs-0.5"
-			"ypos"						"0"
-			"zpos"						"49"
-			"wide"						"640"
-			"tall"						"480"
-			"proportionaltoparent"		"1"
-			"paintbackground"			"1"
-			"border"					"FLAT_Primary_4"
 		}
 	}
 }

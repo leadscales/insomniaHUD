@@ -2,11 +2,11 @@
 {
 	"Colors"
 	{
-		"Neutral" "224 191 255 255"
-		"NeutralT0" "224 191 255 255"
-		"NeutralT1" "224 191 255 204"
-		"NeutralT2" "224 191 255 153"
-		"NeutralT3" "224 191 255 102"
-		"NeutralT4" "224 191 255 51"
+		"Neutral" "191 244 255 255"
+		"NeutralT0" "191 244 255 255"
+		"NeutralT1" "191 244 255 204"
+		"NeutralT2" "191 244 255 153"
+		"NeutralT3" "191 244 255 102"
+		"NeutralT4" "191 244 255 51"
 	}
 }

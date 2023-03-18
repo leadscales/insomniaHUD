@@ -2,11 +2,11 @@
 {
 	"Colors"
 	{
-		"Negative" "255 63 140 255"
-		"NegativeT0" "255 63 140 255"
-		"NegativeT1" "255 63 140 204"
-		"NegativeT2" "255 63 140 153"
-		"NegativeT3" "255 63 140 102"
-		"NegativeT4" "255 63 140 51"
+		"Negative" "63 79 255 255"
+		"NegativeT0" "63 79 255 255"
+		"NegativeT1" "63 79 255 204"
+		"NegativeT2" "63 79 255 153"
+		"NegativeT3" "63 79 255 102"
+		"NegativeT4" "63 79 255 51"
 	}
 }

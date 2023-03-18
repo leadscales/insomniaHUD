@@ -36,16 +36,12 @@
 			{
 				"ControlName"				"EditablePanel"
 				"fieldName"					"TitleTextPanel"
-				"xpos"						"0"
-				"ypos"						"0"
-				"wide"						"460"
+				"xpos"						"160"
+				"ypos"						"20"
+				"wide"						"f160"
 				"tall"						"20"
 				"proportionaltoparent"		"1"
 				"border"					"FLAT_Black_3"
-
-				"pin_to_sibling"			"MenuContainer"
-				"pin_corner_to_sibling"		"PIN_BOTTOMLEFT"
-				"pin_to_sibling_corner"		"PIN_TOPLEFT"
 
 				"TitleTextLabel"
 				{

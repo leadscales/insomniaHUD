@@ -2,11 +2,11 @@
 {
 	"Colors"
 	{
-		"Positive" "255 63 183 255"
-		"PositiveT0" "255 63 183 255"
-		"PositiveT1" "255 63 183 204"
-		"PositiveT2" "255 63 183 153"
-		"PositiveT3" "255 63 183 102"
-		"PositiveT4" "255 63 183 51"
+		"Positive" "63 109 255 255"
+		"PositiveT0" "63 109 255 255"
+		"PositiveT1" "63 109 255 204"
+		"PositiveT2" "63 109 255 153"
+		"PositiveT3" "63 109 255 102"
+		"PositiveT4" "63 109 255 51"
 	}
 }

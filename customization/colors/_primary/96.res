@@ -2,12 +2,12 @@
 {
 	"Colors"
 	{
-		"Primary" "255 63 162 255"
-		"CreditsGreen" "255 63 162 255"
-		"PrimaryT0" "255 63 162 255"
-		"PrimaryT1" "255 63 162 204"
-		"PrimaryT2" "255 63 162 153"
-		"PrimaryT3" "255 63 162 102"
-		"PrimaryT4" "255 63 162 51"
+		"Primary" "63 94 255 255"
+		"CreditsGreen" "63 94 255 255"
+		"PrimaryT0" "63 94 255 255"
+		"PrimaryT1" "63 94 255 204"
+		"PrimaryT2" "63 94 255 153"
+		"PrimaryT3" "63 94 255 102"
+		"PrimaryT4" "63 94 255 51"
 	}
 }
