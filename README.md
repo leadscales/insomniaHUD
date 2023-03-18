@@ -54,7 +54,7 @@ insomniaHUD is a work-in-progress HUD designed for long play sessions. It is sti
 ## Customization
 
 ### Through the In-Game menu
-In the main menu, there is a button labeled `CUSTOMIZE HUD`. This will enable Customization mode. The options are self explanitory. As of right now you can only edit the colors, crosshairs, hitmarkers, and scoreboard, but more options will be added very soon.
+In the main menu, there is a button with a **Gear icon** on it. This will enable Customization mode. The options are self explanitory.
 
 ---
 
