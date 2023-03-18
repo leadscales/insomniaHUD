@@ -61,27 +61,27 @@
 		{
 			"ControlName"				"EditablePanel"
 			"fieldName"					"MainPanel"
-			"xpos"						"cs-0.5"
+			"xpos"						"0"
 			"ypos"						"0"
 			"zpos"						"50"
 			"wide"						"f0"
 			"tall"						"480"
 			"proportionaltoparent"		"1"
 			"paintbackground"			"1"
-			"border"					"FLAT_Primary_4"
+			"bgcolor_override"			"PrimaryT4"
 
-			"Color"
+			"Darken"
 			{
 				"ControlName"				"EditablePanel"
-				"fieldName"					"Color"
-				"xpos"						"cs-0.5"
+				"fieldName"					"Darken"
+				"xpos"						"0"
 				"ypos"						"0"
 				"zpos"						"0"
 				"wide"						"f0"
 				"tall"						"f0"
 				"proportionaltoparent"		"1"
 				"paintbackground"			"1"
-				"border"					"FLAT_Black_1"
+				"bgcolor_override"			"PanelT1"
 			}
 
 			"TitleBar"
@@ -94,7 +94,7 @@
 				"wide"						"f0"
 				"tall"						"20"
 				"proportionaltoparent"		"1"
-				"border"					"FLAT_Black_2"
+				"bgcolor_override"			"PanelT1"
 
 				"TitleText"
 				{
@@ -147,7 +147,7 @@
 				"wide"						"160"
 				"tall"						"f40"
 				"proportionaltoparent"		"1"
-				"border"					"FLAT_Black_3"
+				"bgcolor_override"			"PanelT2"
 			}
 			
 			"MenuContainer"
@@ -197,6 +197,23 @@
 				}
 			}
 
+			"MenuContainerBackground"
+			{
+				"ControlName"				"EditablePanel"
+				"fieldName"					"MenuContainerBackground"
+				"xpos"						"10"
+				"ypos"						"10"
+				"zpos"						"51"
+				"wide"						"480"
+				"tall"						"380"
+				"proportionaltoparent"		"1"
+				"bgcolor_override"			"PanelT4"
+
+				"pin_to_sibling"			"MenuContainer"
+				"pin_corner_to_sibling"		"PIN_TOPLEFT"
+				"pin_to_sibling_corner"		"PIN_TOPLEFT"
+			}
+
 			"Notice"
 			{
 				"ControlName"				"CExLabel"
@@ -211,7 +228,7 @@
 				"labelText"					"NOTICE: Some options, such as color-related ones, will require a game restart in order to take effect."
 				"textAlignment"				"center"
 				"fgcolor"					"PrimaryT4"
-				"border"					"FLAT_Black_4"
+				"bgcolor_override"			"PanelT1"
 			}
 		}
 	}

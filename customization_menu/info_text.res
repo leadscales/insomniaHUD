@@ -13,7 +13,7 @@
 				"wide"						"f160"
 				"tall"						"40"
 				"proportionaltoparent"		"1"
-				"border"					"FLAT_Black_4"
+				"bgcolor_override"			"PanelT3"
 
 				"HelpTextLabel"
 				{
@@ -21,7 +21,7 @@
 					"fieldName"					"HelpTextLabel"
 					"xpos"						"cs-0.5"
 					"ypos"						"rs1"
-					"wide"						"f20"
+					"wide"						"p0.75"
 					"tall"						"40"
 					"proportionaltoparent"		"1"
 					"labeltext"					"Select an option from the sidebar on the left."
@@ -41,7 +41,7 @@
 				"wide"						"f160"
 				"tall"						"20"
 				"proportionaltoparent"		"1"
-				"border"					"FLAT_Black_3"
+				"bgcolor_override"			"PanelT3"
 
 				"TitleTextLabel"
 				{
