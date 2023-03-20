@@ -130,7 +130,7 @@
 			"ControlName"							"CTFImagePanel"
 			"fieldName"								"TeamColor"
 			"xpos"									"0"
-			"ypos"									"0"
+			"ypos"									"rs1"
 			"wide"									"f0"
 			"tall"									"1"
 			"proportionaltoparent"					"1"
@@ -138,6 +138,30 @@
 			"teambg_1"								"replay/thumbnails/misc/white_fill"
 			"teambg_2"								"replay/thumbnails/misc/red_fill"
 			"teambg_3"								"replay/thumbnails/misc/blu_fill"
+		}
+
+		"Blu"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"Blu"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"p0.5"
+			"tall"									"1"
+			"proportionaltoparent"					"1"
+			"image"									"replay/thumbnails/misc/blu_fill"
+		}
+
+		"Red"
+		{
+			"ControlName"							"CTFImagePanel"
+			"fieldName"								"Red"
+			"xpos"									"rs1"
+			"ypos"									"0"
+			"wide"									"p0.5"
+			"tall"									"1"
+			"proportionaltoparent"					"1"
+			"image"									"replay/thumbnails/misc/red_fill"
 		}
 
 		"if_match"
