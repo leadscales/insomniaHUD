@@ -41,7 +41,7 @@
 			"wide"			"f0"
 			"tall"			"20"
 			"visible"		"1"
-			"bgcolor_override"	"PanelT1"
+			"bgcolor_override"	"PanelT2"
 		}
 
 		"ToggleChatButton"

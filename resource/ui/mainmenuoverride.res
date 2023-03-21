@@ -195,7 +195,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"paintbackground"							"1"
-		"bgcolor_override"							"PanelT1"
+		"bgcolor_override"							"PanelT2"
 	}
 
 	"StaticTFLogo"

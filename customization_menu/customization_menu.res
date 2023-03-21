@@ -68,21 +68,7 @@
 			"tall"						"480"
 			"proportionaltoparent"		"1"
 			"paintbackground"			"1"
-			"bgcolor_override"			"PrimaryT4"
-
-			"Darken"
-			{
-				"ControlName"				"EditablePanel"
-				"fieldName"					"Darken"
-				"xpos"						"0"
-				"ypos"						"0"
-				"zpos"						"0"
-				"wide"						"f0"
-				"tall"						"f0"
-				"proportionaltoparent"		"1"
-				"paintbackground"			"1"
-				"bgcolor_override"			"PanelT1"
-			}
+			"bgcolor_override"			"Blank"
 
 			"TitleBar"
 			{
@@ -94,7 +80,7 @@
 				"wide"						"f0"
 				"tall"						"20"
 				"proportionaltoparent"		"1"
-				"bgcolor_override"			"PanelT1"
+				"bgcolor_override"			"PanelT2"
 
 				"TitleText"
 				{
@@ -147,7 +133,7 @@
 				"wide"						"160"
 				"tall"						"f40"
 				"proportionaltoparent"		"1"
-				"bgcolor_override"			"PanelT2"
+				"bgcolor_override"			"PanelT3"
 			}
 			
 			"MenuContainer"
@@ -160,7 +146,6 @@
 				"wide"						"460"
 				"tall"						"360"
 				"proportionaltoparent"		"1"
-				"border"					"NoBorder"
 
 				"pin_to_sibling"			"TitleTextPanel"
 				"pin_corner_to_sibling"		"PIN_CENTER_TOP"
@@ -207,7 +192,7 @@
 				"wide"						"480"
 				"tall"						"380"
 				"proportionaltoparent"		"1"
-				"bgcolor_override"			"PanelT4"
+				"bgcolor_override"			"Blank"
 
 				"pin_to_sibling"			"MenuContainer"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -228,7 +213,7 @@
 				"labelText"					"NOTICE: Some options, such as color-related ones, will require a game restart in order to take effect."
 				"textAlignment"				"center"
 				"fgcolor"					"PrimaryT4"
-				"bgcolor_override"			"PanelT1"
+				"bgcolor_override"			"PanelT2"
 			}
 		}
 	}

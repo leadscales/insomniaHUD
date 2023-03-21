@@ -247,7 +247,7 @@
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
 
-		"border"		"LINE_LEFT_0_White_0"
+		"border"		"LINE_LEFT_3_Primary_0"
 
 		"pinCorner"		"2"
 		"autoResize"	"1"

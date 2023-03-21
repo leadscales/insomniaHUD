@@ -13,7 +13,7 @@
 				"wide"						"f160"
 				"tall"						"40"
 				"proportionaltoparent"		"1"
-				"bgcolor_override"			"PanelT3"
+				"bgcolor_override"			"PanelT4"
 
 				"HelpTextLabel"
 				{
@@ -41,7 +41,7 @@
 				"wide"						"f160"
 				"tall"						"20"
 				"proportionaltoparent"		"1"
-				"bgcolor_override"			"PanelT3"
+				"bgcolor_override"			"PanelT4"
 
 				"TitleTextLabel"
 				{

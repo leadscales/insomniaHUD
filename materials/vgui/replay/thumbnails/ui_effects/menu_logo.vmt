@@ -15,8 +15,8 @@
 		{
 			"resultVar" "$alpha"
 			"sineperiod" "60"
-			"sinemin" "0.1"
-			"sinemax" "0.2"
+			"sinemin" "0.4"
+			"sinemax" "0.6"
 		}
 	}
 }

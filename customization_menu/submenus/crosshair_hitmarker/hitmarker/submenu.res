@@ -13,8 +13,8 @@
 					{
 						"Hitmarker"
 						{
-							"defaultfgcolor_override"		"PrimaryT1"
-							"armedfgcolor_override"			"Primary"
+							"defaultfgcolor_override"		"Primary"
+							"armedfgcolor_override"			"White"
 							"border_default"				"LINE_LEFT_0_Primary_0"
 							"border_armed"					"LINE_LEFT_0_Primary_0"
 						}
