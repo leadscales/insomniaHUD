@@ -3505,10 +3505,10 @@
 			"Color"											"Primary"
 
 			"image"											"replay/thumbnails/panels/misc/modal"
-			"src_corner_height"								"30"
-			"src_corner_width"								"30"
-			"draw_corner_width"								"5"
-			"draw_corner_height" 							"5"
+			"src_corner_height"								"12"
+			"src_corner_width"								"12"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"StoreFreeTrialBorder"
@@ -3566,10 +3566,10 @@
 			"backgroundtype"		"0"
 			"color"					"Primary"
 			"image"					"replay/thumbnails/panels/misc/modal"
-			"src_corner_width"		"30"
-			"src_corner_height"		"30"
-			"draw_corner_width"		"5"
-			"draw_corner_height"	"5"
+			"src_corner_height"		"12"
+			"src_corner_width"		"12"
+			"draw_corner_width"		"2"
+			"draw_corner_height" 	"2"
 		}
 
 		BackpackItemGrayedOut
@@ -4838,10 +4838,10 @@
 			"backgroundtype"								"0"
 			"color"											"Primary"
 			"image"											"replay/thumbnails/panels/misc/modal"
-			"src_corner_width"								"30"
-			"src_corner_height"								"30"
-			"draw_corner_width"								"5"
-			"draw_corner_height"							"5"
+			"src_corner_height"								"12"
+			"src_corner_width"								"12"
+			"draw_corner_width"								"2"
+			"draw_corner_height" 							"2"
 		}
 
 		"MainMenuBGBorderAlpha"
