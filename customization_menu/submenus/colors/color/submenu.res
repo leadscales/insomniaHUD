@@ -407,7 +407,7 @@
 							"labelText"					"r"
 							"textAlignment"				"east"
 							"font"						"iconsSmall"
-							"command"					"engine ih_color_negative_clear"
+							"command"					"engine ih_color_neutral_clear"
 							"actionsignallevel"			"6"
 							"paintbackground"			"0"
 							"defaultfgcolor_override"	"PrimaryT2"
