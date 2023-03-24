@@ -248,6 +248,8 @@
 			"color_portrait_bg_blue"				"m0reBlue"
 			"color_portrait_bg_red_dead"			"m0reRed"
 			"color_portrait_bg_blue_dead"			"m0reBlue"
+			"color_portrait_bg_red_local_player"	"White"
+			"color_portrait_bg_blue_local_player"	"White"
 			"color_bar_health_high"					"Neutral"
 			"color_bar_health_med"					"Neutral"
 			"percentage_health_med"					"0.5"
