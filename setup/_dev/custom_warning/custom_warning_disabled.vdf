@@ -4,10 +4,13 @@
 	{
 		"SetupMenu"
 		{
-			"CustomWarning"
+			"Content"
 			{
-				"visible"					"0"
-				"enabled"					"0"
+				"CustomWarning"
+				{
+					"visible"		"0"
+					"enabled"		"0"
+				}
 			}
 		}
 	}
