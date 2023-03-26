@@ -657,7 +657,7 @@
 		"tall"										"20"
 		"visible"									"1"
 		"proportionaltoparent"						"1"
-		"bgcolor_override"							"Blank"
+		"bgcolor_override"							"PanelT3"
 
 		"pin_to_sibling"							"FriendsContainer"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -682,8 +682,8 @@
 
 			"command"								"engine ih_info"
 
-			"border_default"						"FLAT_Black_4"
-			"border_armed"							"FLAT_Black_2"
+			"border_default"						"LINE_TOP_3_Primary_0"
+			"border_armed"							"LINE_TOP_0_Primary_0"
 		}
 
 		"ConsoleButton"
@@ -708,8 +708,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"FLAT_Black_4"
-			"border_armed"							"FLAT_Black_2"
+			"border_default"						"LINE_TOP_3_Primary_0"
+			"border_armed"							"LINE_TOP_0_Primary_0"
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -738,8 +738,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"FLAT_Black_4"
-			"border_armed"							"FLAT_Black_2"
+			"border_default"						"LINE_TOP_3_Primary_0"
+			"border_armed"							"LINE_TOP_0_Primary_0"
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -768,8 +768,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"FLAT_Black_4"
-			"border_armed"							"FLAT_Black_2"
+			"border_default"						"LINE_TOP_3_Primary_0"
+			"border_armed"							"LINE_TOP_0_Primary_0"
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -798,8 +798,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"FLAT_Black_4"
-			"border_armed"							"FLAT_Black_2"
+			"border_default"						"LINE_TOP_3_Primary_0"
+			"border_armed"							"LINE_TOP_0_Primary_0"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
