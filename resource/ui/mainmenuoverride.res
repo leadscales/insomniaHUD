@@ -232,19 +232,19 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"BetaButton"
-		"xpos"										"rs1-5"
-		"ypos"										"rs1-25"
+		"xpos"										"rs1"
+		"ypos"										"rs1-20"
 		"zpos"										"100"
-		"wide"										"30"
-		"tall"										"15"
+		"wide"										"40"
+		"tall"										"20"
 		"proportionaltoparent"						"1"	
 		"mouseinputenabled"							"1"
 		"labeltext"									"BETA"
 		"command"									"engine clear; showconsole; ih_version"
 		"font"										"regular14"
-		"border_default"							"FLAT_Primary_4"
-		"border_armed"								"FLAT_Primary_3"
-		"defaultfgcolor_override"					"Primary"
+		"border_default"							"NoBorder"
+		"border_armed"								"NoBorder"
+		"defaultfgcolor_override"					"PrimaryT2"
 		"armedfgcolor_override"						"Primary"
 		"paintbackground"							"0"
 		"textalignment"								"center"
@@ -636,7 +636,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"				"PanelAT4"
+					"fgcolor_override"				"PrimaryT4"
 				}
 			}
 		}
