@@ -781,7 +781,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"44"
 				"weight"									"600"
 				"additive"									"0"
@@ -793,7 +793,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"35"
 				"weight"									"600"
 				"additive"									"0"
@@ -828,7 +828,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"30"
 				"weight"									"600"
 				"additive"									"0"
@@ -864,7 +864,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"weight"									"600"
 				"additive"									"0"
@@ -876,7 +876,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"18"
 				"weight"									"600"
 				"additive"									"0"
@@ -924,7 +924,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"16"
 				"weight"									"600"
 				"additive"									"0"
@@ -936,7 +936,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -948,7 +948,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -986,7 +986,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -998,7 +998,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"4"
 				"weight"									"600"
 				"additive"									"0"
@@ -1010,7 +1010,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"10"
 				"weight"									"600"
 				"additive"									"0"
@@ -1022,7 +1022,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"16"
 				"weight"									"600"
 				"additive"									"0"
@@ -1034,7 +1034,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -1058,7 +1058,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"6"
 				"weight"									"600"
 				"additive"									"0"
@@ -2006,7 +2006,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"36"
 				"weight"									"600"
 			}
@@ -2016,7 +2016,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"30"
 				"weight"									"600"
 			}
@@ -2106,7 +2106,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"36"
 				"weight"									"600"
 				"additive"									"0"
@@ -2220,7 +2220,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"8"
 				"weight"									"600"
 				"additive"									"0"
@@ -2232,7 +2232,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"9"
 				"weight"									"600"
 				"additive"									"0"
@@ -2244,7 +2244,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"12"
 				"weight"									"600"
 				"additive"									"0"
@@ -2256,7 +2256,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"18"
 				"weight"									"600"
 				"additive"									"0"
@@ -2327,7 +2327,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"9"
 				"weight"									"600"
 				"additive"									"0"
@@ -2339,7 +2339,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"9"
 				"weight"									"600"
 				"blur"										"3"
@@ -2797,7 +2797,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -2809,7 +2809,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -2833,7 +2833,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"weight"									"600"
 				"additive"									"0"
@@ -2857,7 +2857,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"14"
 				"weight"									"600"
 				"additive"									"0"
@@ -2869,7 +2869,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"24"
 				"weight"									"600"
 				"additive"									"0"
@@ -2906,7 +2906,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"11"
 				"weight"									"600"
 				"antialias" 								"1"
@@ -2917,7 +2917,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"11"
 				"weight"									"600"
 				"blur"										"3"
@@ -2930,7 +2930,7 @@
 		{
 			"1"
 			{
-				"name"										"GreycliffBold"
+				"name"										"GreycliffMedium"
 				"tall"										"12"
 				"weight"									"600"
 				"additive"									"0"
