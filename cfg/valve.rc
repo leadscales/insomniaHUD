@@ -23,6 +23,12 @@ vgui_cache_res_files 0
 tf_contract_progress_show 2
 cl_hud_minmode 0
 alias cl_hud_minmode "echo NOT IMPLEMENTED. THIS IS NOT AN ERROR."
+mat_motion_blur_enabled 1
+mat_motion_blur_strength 0
+mat_disable_bloom 1
+mat_hdr_level 0
+mat_colcorrection_disableentities 1
+mat_colorcorrection 0
 
 // Configs
 echo insomniaHUD: Applying aliases...

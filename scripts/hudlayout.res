@@ -5,6 +5,8 @@
 #base "../customization/_dev/crosshairs/hitmarker_res_files/size_current.res"
 #base "../customization/_dev/crosshairs/hitmarker_res_files/base.res"
 
+#base "../../../cfg/ih_tviewmodel.txt"
+
 "Resource/HudLayout.res"
 {
 	"AlignmentHelper"
@@ -76,6 +78,18 @@
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"0 0 255 32"
 		}
+	}
+
+	"ViewmodelRefract"
+	{
+		"ControlName"			"ImagePanel"
+		"fieldName"				"ViewmodelRefract"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"-100"
+		"wide"					"f0"
+		"tall"					"480"
+		"scaleImage"			"1"
 	}
 
 	HudPlayerStatus
