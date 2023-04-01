@@ -634,12 +634,14 @@
 	{
 		"8"
 		{
-			"font" 		"resource/scheme/fonts/GreycliffMedium.ttf"
+			"font" 		"resource/scheme/fonts/GreycliffMedium.ttf" [$WINDOWS]
+			"font"		"resource/scheme/fonts/GreycliffMediumLinux.ttf" [$LINUX]
 			"name" 		"GreycliffMedium"
 		}
 		"9"
 		{
-			"font"		"resource/scheme/fonts/GreycliffBold.ttf"
+			"font"		"resource/scheme/fonts/GreycliffBold.ttf" [$WINDOWS]
+			"font"		"resource/scheme/fonts/GreycliffBoldLinux.ttf" [$LINUX]
 			"name"		"GreycliffBold"
 		}
 		"10"
