@@ -657,8 +657,8 @@
 		}
 		"12"
 		{
-			//"font"		"resource/scheme/fonts/Chars.ttf" [$WINDOWS]
-			"font"		"resource/scheme/fonts/CharsLinux.ttf" //[$LINUX]
+			"font"		"resource/scheme/fonts/Chars.ttf" [$WINDOWS]
+			"font"		"resource/scheme/fonts/CharsLinux.ttf" [$LINUX]
 			"name"		"Chars"
 		}
 	}
