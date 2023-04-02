@@ -651,12 +651,14 @@
 		}
 		"11"
 		{
-			"font"		"resource/scheme/fonts/Icons.ttf"
+			"font"		"resource/scheme/fonts/Icons.ttf" [$WINDOWS]
+			"font"		"resource/scheme/fonts/IconsLinux.ttf" [$LINUX]
 			"name"		"Icons"
 		}
 		"12"
 		{
-			"font"		"resource/scheme/fonts/Chars.ttf"
+			//"font"		"resource/scheme/fonts/Chars.ttf" [$WINDOWS]
+			"font"		"resource/scheme/fonts/CharsLinux.ttf" //[$LINUX]
 			"name"		"Chars"
 		}
 	}
