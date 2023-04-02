@@ -1,5 +1,7 @@
 import pathlib
 import typing
+import vdf
+import datetime
 
 import insomniahud
 
@@ -10,9 +12,15 @@ def set_version_vdf(file: typing.TextIO, version: int | None = None, branch: str
     if branch == None:
         branch = insomniahud.get_current_branch_name().upper()
 
-    contents = f"\"Resource/UI/CharInfoPanel.res\"{{\"HudLabel\"{{\"LabelText\"\n\"INSOMNIAHUD v{version} [{branch}]\"\n}}}}"
+    contents = {
+        "Resource/UI/CharInfoPanel.res": {
+            "HudLabel": {
+                "LabelText": f"INSOMNIAHUD {version} : {branch}"
+            }
+        }
+    }
 
-    file.write(contents)
+    vdf.dump(contents, file)
 
 
 def set_version_cfg(file: typing.TextIO, version: int | None = None, branch: str | None = None) -> None:
@@ -21,7 +29,13 @@ def set_version_cfg(file: typing.TextIO, version: int | None = None, branch: str
     if branch == None:
         branch = insomniahud.get_current_branch_name()
 
-    contents = f"alias \"ih_version\" \"echo {version}:{branch}\""
+    utcnow = datetime.datetime.now(tz=datetime.timezone.utc)
+
+    contents = "alias \"ih_version\" \"echo {0}:{1} ({2})\"".format(
+        version,
+        branch,
+        datetime.datetime.strftime(utcnow, "%Y-%m-%d")
+    )
 
     file.write(contents)
 

@@ -1,3 +1,7 @@
-"Resource/UI/CharInfoPanel.res"{"HudLabel"{"LabelText"
-"INSOMNIAHUD v282 [LINUX-SUPPORT]"
-}}
+"Resource/UI/CharInfoPanel.res"
+{
+"HudLabel"
+{
+"LabelText" "INSOMNIAHUD 283 : MASTER"
+}
+}
