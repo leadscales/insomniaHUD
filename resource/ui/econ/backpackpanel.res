@@ -58,7 +58,7 @@
 				"bgcolor_override"					"Blank"
 				"noitem_textcolor"					"Blank"
 				"PaintBackgroundType"				"0"
-				"paintbackground"					"1"
+				"paintbackground"					"0"
 				"paintborder"						"1"
 				"border_default"					"NoBorder"
 				"border_armed"						"FLAT_Primary_4"

@@ -1,3 +1,4 @@
+#base "../../.dev_overrides/_.res"
 #base "../../scripts/preload.res"
 #base "../../setup/setup_menu.res"
 #base "../../../../cfg/ih_custom.txt"

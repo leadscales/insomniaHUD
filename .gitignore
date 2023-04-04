@@ -3,6 +3,8 @@
 *.tga
 .vscode
 .dev_old
+# Personal overrides
+.dev_overrides
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

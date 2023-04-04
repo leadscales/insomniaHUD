@@ -101,7 +101,25 @@
 	{
 		"FrameBorder"
 		{
-			"backgroundtype"						"0"
+			"backgroundtype"		"0"
+			"Top"
+			{
+				"1"
+				{
+					"color"			"Primary"
+					"offset"		"0 0"
+				}
+				"2"
+				{
+					"color"			"Primary"
+					"offset"		"0 0"
+				}
+				"3"
+				{
+					"color"			"Primary"
+					"offset"		"0 0"
+				}
+			}
 		}
 	}
 	"Fonts"
