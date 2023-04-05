@@ -117,8 +117,8 @@
 		"armedFgColor_override"		"White"
 		"depressedFgColor_override" "White"
 
-		"border_default"			"LINE_BOTTOM_3_Primary_0"
-		"border_armed"				"LINE_BOTTOM_0_Primary_0"
+		"border_default"			"LINE_TOP_3_Primary_0"
+		"border_armed"				"LINE_TOP_0_Primary_0"
 	}	
 
 	"MatchmakingBanPanel"
