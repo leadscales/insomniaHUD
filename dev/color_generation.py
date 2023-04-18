@@ -96,6 +96,25 @@ def generate_res(colors: dict[str, list[Color]], alphas: list[float]) -> dict[st
                         }
                     }
                 }
+            elif key.lower() == "positive":
+                _d = {
+                    "Scheme": {
+                        "Colors": {
+                            key: i.as_vdf(),
+                            "ItemAttribPositive": i.as_vdf()
+                        }
+                    }
+                }
+            elif key.lower() == "negative":
+                _d = {
+                    "Scheme": {
+                        "Colors": {
+                            key: i.as_vdf(),
+                            "ItemAttribNegative": i.as_vdf(),
+                            "ItemLimitedQuantity": i.as_vdf()
+                        }
+                    }
+                }
             else:
                 _d = {
                     "Scheme": {

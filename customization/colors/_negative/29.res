@@ -3,6 +3,8 @@
 	"Colors"
 	{
 		"Negative" "224 255 63 255"
+		"ItemAttribNegative" "224 255 63 255"
+		"ItemLimitedQuantity" "224 255 63 255"
 		"NegativeT0" "224 255 63 255"
 		"NegativeT1" "224 255 63 204"
 		"NegativeT2" "224 255 63 153"

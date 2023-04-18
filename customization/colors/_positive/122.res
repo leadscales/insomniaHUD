@@ -3,6 +3,7 @@
 	"Colors"
 	{
 		"Positive" "232 63 255 255"
+		"ItemAttribPositive" "232 63 255 255"
 		"PositiveT0" "232 63 255 255"
 		"PositiveT1" "232 63 255 204"
 		"PositiveT2" "232 63 255 153"

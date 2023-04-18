@@ -8,5 +8,5 @@
 	"$ignorez" "1"
 	"%keywords" "tf"
 	"$baseTexture" "vgui/replay/thumbnails/misc/solid"
-	"$color" "{80 144 255}"
+	"$color" "{80 192 255}"
 }

@@ -336,7 +336,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
-			"color"						"255 160 64 255"
+			"color"						"255 144 64 255"
 			"image"						"replay/thumbnails/panels/FLAT_0"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"
@@ -347,7 +347,7 @@
 		{
 			"bordertype"				"scalable_image"
 			"background_type"			"0"
-			"color"						"255 160 64 255"
+			"color"						"255 144 64 255"
 			"image"						"replay/thumbnails/panels/FLAT_1"
 			"src_corner_width"			"20"
 			"src_corner_height"			"20"
