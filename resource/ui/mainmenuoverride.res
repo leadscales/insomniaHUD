@@ -400,8 +400,8 @@
 			"sound_released"						"UI/buttonclickrelease.wav"
 
 			"paintbackground"						"0"
-			"border_default"						"LINE_BOTTOM_3_Primary_0"
-			"border_armed"							"LINE_BOTTOM_0_Primary_0"
+			"border_default"						"LINE_BOTTOM_PrimaryT3"
+			"border_armed"							"LINE_BOTTOM_Primary"
 		}
 
 		"ButtonsContainer"
@@ -451,8 +451,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_BOTTOM_3_Primary_0"
-					"border_armed"							"LINE_BOTTOM_0_Primary_0"
+					"border_default"						"LINE_BOTTOM_PrimaryT3"
+					"border_armed"							"LINE_BOTTOM_Primary"
 				}
 			}
 
@@ -490,8 +490,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_BOTTOM_3_Primary_0"
-					"border_armed"							"LINE_BOTTOM_0_Primary_0"
+					"border_default"						"LINE_BOTTOM_PrimaryT3"
+					"border_armed"							"LINE_BOTTOM_Primary"
 				}
 			}
 
@@ -529,8 +529,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_BOTTOM_3_Primary_0"
-					"border_armed"							"LINE_BOTTOM_0_Primary_0"
+					"border_default"						"LINE_BOTTOM_PrimaryT3"
+					"border_armed"							"LINE_BOTTOM_Primary"
 				}
 			}
 
@@ -569,8 +569,8 @@
 					"sound_released"						"UI/buttonclickrelease.wav"
 
 					"paintbackground"						"0"
-					"border_default"						"LINE_BOTTOM_3_Primary_0"
-					"border_armed"							"LINE_BOTTOM_0_Primary_0"
+					"border_default"						"LINE_BOTTOM_PrimaryT3"
+					"border_armed"							"LINE_BOTTOM_Primary"
 				}
 			}
 		}
@@ -683,8 +683,8 @@
 
 			"command"								"engine ih_info"
 
-			"border_default"						"LINE_TOP_3_Primary_0"
-			"border_armed"							"LINE_TOP_0_Primary_0"
+			"border_default"						"LINE_TOP_PrimaryT3"
+			"border_armed"							"LINE_TOP_Primary"
 		}
 
 		"ConsoleButton"
@@ -709,8 +709,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_3_Primary_0"
-			"border_armed"							"LINE_TOP_0_Primary_0"
+			"border_default"						"LINE_TOP_PrimaryT3"
+			"border_armed"							"LINE_TOP_Primary"
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -739,8 +739,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_3_Primary_0"
-			"border_armed"							"LINE_TOP_0_Primary_0"
+			"border_default"						"LINE_TOP_PrimaryT3"
+			"border_armed"							"LINE_TOP_Primary"
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -769,8 +769,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_3_Primary_0"
-			"border_armed"							"LINE_TOP_0_Primary_0"
+			"border_default"						"LINE_TOP_PrimaryT3"
+			"border_armed"							"LINE_TOP_Primary"
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -799,8 +799,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_3_Primary_0"
-			"border_armed"							"LINE_TOP_0_Primary_0"
+			"border_default"						"LINE_TOP_PrimaryT3"
+			"border_armed"							"LINE_TOP_Primary"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -868,8 +868,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
 
@@ -921,8 +921,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
 
@@ -975,8 +975,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
 
@@ -1028,8 +1028,8 @@
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
 	}
@@ -1044,7 +1044,7 @@
 		"wide"										"80"
 		"tall"										"20"
 		"bgcolor_override"							"Blank"
-		"border"									"LINE_BOTTOM_3_Primary_0"
+		"border"									"LINE_BOTTOM_PrimaryT3"
 	}
 
 	//==================================================================================================================================================

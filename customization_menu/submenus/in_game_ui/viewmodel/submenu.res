@@ -14,8 +14,8 @@
 						{
 							"defaultfgcolor_override"		"Primary"
 							"armedfgcolor_override"			"White"
-							"border_default"				"LINE_LEFT_0_Primary_0"
-							"border_armed"					"LINE_LEFT_0_Primary_0"
+							"border_default"				"LINE_LEFT_Primary"
+							"border_armed"					"LINE_LEFT_Primary"
 						}
 					}
 				}

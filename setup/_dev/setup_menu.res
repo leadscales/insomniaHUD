@@ -119,7 +119,7 @@
 					"centerwrap"				"1"
 					"fgcolor"					"Negative"
 					"bgcolor_override"			"NegativeT4"
-					"border"					"LINE_LEFT_0_Negative_0"
+					"border"					"LINE_LEFT_Negative"
 				}
 
 				"Buttons"
@@ -151,8 +151,8 @@
 						"sound_depressed"			"UI/buttonclick.wav"
 						"sound_released"			"UI/buttonclickrelease.wav"
 						"paintbackground"			"0"
-						"border_default"			"LINE_LEFT_3_Primary_0"
-						"border_armed"				"LINE_LEFT_0_Primary_0"
+						"border_default"			"LINE_LEFT_PrimaryT3"
+						"border_armed"				"LINE_LEFT_Primary"
 					}
 					"GithubButton"
 					{
@@ -172,8 +172,8 @@
 						"sound_depressed"			"UI/buttonclick.wav"
 						"sound_released"			"UI/buttonclickrelease.wav"
 						"paintbackground"			"0"
-						"border_default"			"LINE_LEFT_3_Primary_0"
-						"border_armed"				"LINE_LEFT_0_Primary_0"
+						"border_default"			"LINE_LEFT_PrimaryT3"
+						"border_armed"				"LINE_LEFT_Primary"
 					}
 					"CustomizeButton"
 					{
@@ -195,8 +195,8 @@
 						"sound_depressed"			"UI/buttonclick.wav"
 						"sound_released"			"UI/buttonclickrelease.wav"
 						"paintbackground"			"0"
-						"border_default"			"LINE_LEFT_3_Primary_0"
-						"border_armed"				"LINE_LEFT_0_Primary_0"
+						"border_default"			"LINE_LEFT_PrimaryT3"
+						"border_armed"				"LINE_LEFT_Primary"
 					}
 				}
 

@@ -2,9 +2,9 @@
 
 "Resource/UI/Build_Menu/Base_Unavailable.res"
 {
-	"Background"
+	"Border"
 	{
-		"border"									"LINE_TOP_0_Negative_1"
+		"border"									"LINE_FULL_TOP_Negative"
 	}
 
 	"CantBuildReason"

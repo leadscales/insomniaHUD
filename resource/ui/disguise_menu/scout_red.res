@@ -34,7 +34,7 @@
 		"textAlignment"								"Center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_FULL_BOTTOM_White"
 	}
 
 	"NumberLabel"
@@ -53,7 +53,7 @@
 		"textAlignment"								"Center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_FULL_BOTTOM_White"
 	}
 
 

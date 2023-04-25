@@ -78,8 +78,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"	"LINE_TOP_3_Primary_0"
-			"border_armed"		"LINE_TOP_0_Primary_0"
+			"border_default"	"LINE_TOP_PrimaryT3"
+			"border_armed"		"LINE_TOP_Primary"
 		}
 
 		"PartySlot0"
@@ -234,7 +234,7 @@
 			"tall"					"20"
 			"visible"				"1"
 			"proportionaltoparent"	"1"
-			"border"				"LINE_TOP_3_Primary_0"
+			"border"				"LINE_TOP_PrimaryT3"
 			"mouseinputenabled"		"0"
 		}
 
@@ -352,7 +352,7 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"LINE_TOP_0_Primary_0"
+				"border_armed"		"LINE_TOP_Primary"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -388,7 +388,7 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"LINE_TOP_0_Primary_0"
+				"border_armed"		"LINE_TOP_Primary"
 
 				"defaultFgColor_override"	"Text0"
 				"armedFgColor_override"		"Text0"
@@ -532,8 +532,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"			"LINE_TOP_3_Primary_0"
-			"border_armed"				"LINE_TOP_0_Primary_0"
+			"border_default"			"LINE_TOP_PrimaryT3"
+			"border_armed"				"LINE_TOP_Primary"
 		}
 
 		"DisconnectButton"
@@ -570,8 +570,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"			"LINE_TOP_3_Primary_0"
-			"border_armed"				"LINE_TOP_0_Primary_0"
+			"border_default"			"LINE_TOP_PrimaryT3"
+			"border_armed"				"LINE_TOP_Primary"
 		}
 
 		"ResumeButton"
@@ -628,8 +628,8 @@
 			"defaultFgColor_override"	"Primary"
 			"armedFgColor_override"		"Primary"
 
-			"border_default"			"LINE_TOP_3_Primary_0"
-			"border_armed"				"LINE_TOP_0_Primary_0"
+			"border_default"			"LINE_TOP_PrimaryT3"
+			"border_armed"				"LINE_TOP_Primary"
 		}
 	}
 }

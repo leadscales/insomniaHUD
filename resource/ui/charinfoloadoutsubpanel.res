@@ -2310,8 +2310,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 
 			"Soldier"
@@ -2339,8 +2339,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Scout"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2372,8 +2372,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Soldier"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2405,8 +2405,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Pyro"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2438,8 +2438,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Demoman"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2471,8 +2471,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Heavyweapons"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2504,8 +2504,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Engineer"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2537,8 +2537,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Medic"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"
@@ -2570,8 +2570,8 @@
 				"defaultFgColor_override"	"White"
 				"armedFgColor_override"		"White"
 
-				"border_default"			"LINE_BOTTOM_3_Primary_0"
-				"border_armed"				"LINE_BOTTOM_0_Primary_0"
+				"border_default"			"LINE_BOTTOM_PrimaryT3"
+				"border_armed"				"LINE_BOTTOM_Primary"
 
 				"pin_to_sibling"			"Sniper"
 				"pin_corner_to_sibling"		"PIN_TOPLEFT"

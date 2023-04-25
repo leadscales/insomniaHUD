@@ -12,8 +12,26 @@
 		"visible"		        					"1"
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
-		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"paintbackground"							"1"
+		"border"									"NoBorder"
+		"bgcolor_override"							"PanelT1"
+	}
+
+	"Border"
+	{
+		"ControlName"		     					"EditablePanel"
+		"fieldName"									"Border"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"10"
+		"wide"										"f0"
+		"tall"										"f0"
+		"visible"		        					"1"
+		"enabled"	          						"1"
+		"proportionaltoparent"						"1"
+		"paintbackground"							"1"
+		"border"									"LINE_FULL_TOP_White"
+		"bgcolor_override"							"Blank"
 	}
 
 	"BuildingIcon"
@@ -49,7 +67,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"%metal%"
 		"textAlignment"								"Center"
-		"border"									"FLAT_Black_3"
+		"bgcolor_override"							"PanelT4"
+		"fgcolor_override"							"Text0"
 	}
 
 	"CantBuildReason"
@@ -61,13 +80,13 @@
 		"ypos"										"rs1"
 		"zpos"										"5"
 		"wide"										"f10"
-		"tall"										"f20"
+		"tall"										"f10"
 		"visible"									"0"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									""
-		"wrap"										"1"
-		"textAlignment"								"west"
+		"centerwrap"								"1"
+		"textAlignment"								"center"
 		"fgcolor"									"Negative"
 	}
 
@@ -81,13 +100,13 @@
 		"ypos"										"0"
 		"zpos"										"6"
 		"wide"										"f0"
-		"tall"										"20"
+		"tall"										"15"
 		"visible"									"0"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"labelText"									"~"
 		"textAlignment"								"center"
-		"border"									"NoBorder"
+		"bgcolor_override"							"NegativeT4"
 	}
 
 	"NumberLabel"
@@ -106,7 +125,8 @@
 		"proportionaltoparent"						"1"
 		"labelText"									"1"
 		"textAlignment"								"center"
-		"border"									"FLAT_Black_2"
+		"bgcolor_override"							"PanelAT3"
+		"fgcolor_override"							"Black"
 	}
 
 

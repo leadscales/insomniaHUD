@@ -2,9 +2,9 @@
 
 "Resource/UI/Destroy_Menu/Base_Inactive.res"
 {
-	"Background"
+	"Border"
 	{
-		"border"									"LINE_TOP_0_Negative_1"
+		"border"									"LINE_FULL_TOP_Negative"
 	}
 
 	"DestroyIcon"

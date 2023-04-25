@@ -2,9 +2,9 @@
 
 "Resource/UI/Build_Menu/Base_Cant_Afford.res"
 {
-	"Background"
+	"Border"
 	{
-		"border"									"LINE_TOP_0_Warning_1"
+		"border"									"LINE_FULL_TOP_Warning"
 	}
 
 	"CantBuildReason"
@@ -33,6 +33,7 @@
 	{
 		"visible"									"1"
 		"fgcolor"									"Warning"
+		"bgcolor_override"							"WarningT4"
 		"labeltext"									"!"
 	}
 }

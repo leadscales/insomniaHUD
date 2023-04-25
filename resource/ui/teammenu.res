@@ -98,8 +98,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_3_m0reBlue_0"
-		"border_armed"								"LINE_TOP_0_m0reBlue_0"
+		"border_default"							"LINE_TOP_m0reBlueT3"
+		"border_armed"								"LINE_TOP_m0reBlue"
 
 		"defaultfgcolor_override"					"m0reBlue"
 		"armedfgcolor_override"						"m0reBlue"
@@ -183,8 +183,8 @@
 		"paintborder"								"1"
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_3_m0reRed_0"
-		"border_armed"								"LINE_TOP_0_m0reRed_0"
+		"border_default"							"LINE_TOP_m0reRedT3"
+		"border_armed"								"LINE_TOP_m0reRed"
 
 		"defaultfgcolor_override"					"m0reRed"
 		"armedfgcolor_override"						"m0reRed"
@@ -265,8 +265,8 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_3_White_0"
-		"border_armed"								"LINE_TOP_0_White_0"
+		"border_default"							"LINE_TOP_WhiteT3"
+		"border_armed"								"LINE_TOP_White"
 
 		"pin_to_sibling"							"Bar"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -295,8 +295,8 @@
 
 		"paintbackground"							"0"
 
-		"border_default"							"LINE_TOP_3_White_0"
-		"border_armed"								"LINE_TOP_0_White_0"
+		"border_default"							"LINE_TOP_WhiteT3"
+		"border_armed"								"LINE_TOP_White"
 
 		"pin_to_sibling"							"Bar"
 		"pin_corner_to_sibling"						"PIN_TOPRIGHT"

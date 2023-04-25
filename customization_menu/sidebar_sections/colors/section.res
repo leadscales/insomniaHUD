@@ -16,7 +16,7 @@
 					"wide"					"f0"
 					"tall"					"40"
 					"proportionaltoparent"	"1"
-					"border"				"LINE_LEFT_3_Primary_0"
+					"border"				"LINE_LEFT_PrimaryT3"
 
 					"TitleText"
 					{
@@ -67,7 +67,7 @@
 							"defaultfgcolor_override"	"PrimaryT4"
 							"armedfgcolor_override"		"PrimaryT2"
 							"border_default"			"NoBorder"
-							"border_armed"				"LINE_LEFT_0_Primary_0"
+							"border_armed"				"LINE_LEFT_Primary"
 							"sound_depressed"			"UI/buttonclick.wav"
 							"sound_released"			"UI/buttonclickrelease.wav"
 						}

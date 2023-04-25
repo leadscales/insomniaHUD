@@ -81,8 +81,8 @@
 
 			"stay_armed_on_click"	"1"
 
-			"border_default"	"LINE_LEFT_3_Primary_0"
-			"border_armed"		"LINE_LEFT_0_Primary_0"
+			"border_default"	"LINE_LEFT_PrimaryT3"
+			"border_armed"		"LINE_LEFT_Primary"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -247,7 +247,7 @@
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
 
-		"border"		"LINE_LEFT_3_Primary_0"
+		"border"		"LINE_LEFT_PrimaryT3"
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
