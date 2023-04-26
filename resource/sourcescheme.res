@@ -114,11 +114,6 @@
 					"color"			"Primary"
 					"offset"		"0 0"
 				}
-				"3"
-				{
-					"color"			"Primary"
-					"offset"		"0 0"
-				}
 			}
 		}
 	}

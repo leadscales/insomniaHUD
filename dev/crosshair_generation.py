@@ -1,7 +1,8 @@
 import pathlib
 
-import insomniahud
 import vdf
+
+import insomniahud
 
 
 def generate_aliases(chars: list[str], sizes: range) -> dict[str, dict[str, list[str]]]:

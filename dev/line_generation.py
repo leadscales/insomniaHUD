@@ -1,6 +1,8 @@
 import pathlib
-import insomniahud
+
 import vdf
+
+import insomniahud
 
 
 def generate_borders(directions: list[str], colors: list[str], offset: tuple[int, int]) -> dict:

@@ -1,7 +1,8 @@
+import datetime
 import pathlib
 import typing
+
 import vdf
-import datetime
 
 import insomniahud
 
