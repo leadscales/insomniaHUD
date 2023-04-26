@@ -108,8 +108,8 @@
 
 		"ItemAttribLevel"									"128 128 128 255"
 		"ItemAttribNeutral"									"192 192 192 255"
-		"ItemAttribPositive"								"64 224 255 255"
-		"ItemAttribNegative"								"255 64 80 255"
+		"ItemAttribPositive"								"64 255 160 255"
+		"ItemAttribNegative"								"255 96 64 255"
 
 		"ItemSetName"										"64 128 255 255"
 		"ItemSetItemEquipped"								"160 160 160 255"
@@ -118,7 +118,7 @@
 		"ItemBundleItem"									"255 255 255 255"
 		"ItemLimitedUse"									"255 255 255 255"
 		"ItemFlags"											"96 96 96 255"
-		"ItemLimitedQuantity"								"255 64 80 255"
+		"ItemLimitedQuantity"								"255 96 64 255"
 
 		"QualityColorNormal"								"178 178 178 255"
 		"QualityColorrarity1"								"77 116 85 255"
