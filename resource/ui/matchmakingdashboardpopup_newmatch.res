@@ -49,8 +49,9 @@
 				"wide"						"f0"
 				"tall"						"f5"
 				"visible"					"1"
-				"paintbackground"			"0"
-				"border"					"FLAT_PanelO1_0"
+				"paintbackground"			"1"
+				"bgcolor_override"			"PanelT1"
+				"border"					"NoBorder"
 				"proportionaltoparent"		"1"
 			}
 
@@ -124,11 +125,11 @@
 				"sound_depressed"			"UI/buttonclick.wav"
 				"sound_released"			"UI/buttonclickrelease.wav"
 
-				"border_default"			"FLAT_PanelO1_0"
-				"border_armed"				"FLAT_PanelO2_0"
+				"border_default"			"LINE_FULL_BOTTOM_Negative"
+				"border_armed"				"LINE_FULL_BOTTOM_Negative"
 
-				"fgcolor"					"Negative"
-				"defaultfgcolor_override"	"Negative"
+				"fgcolor"					"NegativeT4"
+				"defaultfgcolor_override"	"NegativeT4"
 				"armedfgcolor_override"		"Negative"
 			}
 			"SmallJoinButton"
@@ -159,11 +160,11 @@
 				"sound_depressed"				"UI/buttonclick.wav"
 				"sound_released"				"UI/buttonclickrelease.wav"
 
-				"border_default"			"FLAT_PanelO1_0"
-				"border_armed"				"FLAT_PanelO2_0"
+				"border_default"			"LINE_FULL_BOTTOM_Positive"
+				"border_armed"				"LINE_FULL_BOTTOM_Positive"
 
-				"fgcolor"					"Positive"
-				"defaultfgcolor_override"	"Positive"
+				"fgcolor"					"PositiveT4"
+				"defaultfgcolor_override"	"PositiveT4"
 				"armedfgcolor_override"		"Positive"
 			}
 			"WideJoinButton"
@@ -194,11 +195,11 @@
 				"sound_depressed"				"UI/buttonclick.wav"
 				"sound_released"				"UI/buttonclickrelease.wav"
 
-				"border_default"			"FLAT_PanelO1_0"
-				"border_armed"				"FLAT_PanelO2_0"
+				"border_default"			"LINE_FULL_BOTTOM_Positive"
+				"border_armed"				"LINE_FULL_BOTTOM_Positive"
 
-				"fgcolor"					"Positive"
-				"defaultfgcolor_override"	"Positive"
+				"fgcolor"					"PositiveT4"
+				"defaultfgcolor_override"	"PositiveT4"
 				"armedfgcolor_override"		"Positive"
 			}
 			"JoiningLabel"
