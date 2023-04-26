@@ -3502,13 +3502,12 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"Color"											"Primary"
-
-			"image"											"replay/thumbnails/panels/misc/modal"
-			"src_corner_height"								"12"
+			"color"											"PanelO2"
+			"image"											"replay/thumbnails/panels/FLAT_0"
 			"src_corner_width"								"12"
+			"src_corner_height"								"12"
 			"draw_corner_width"								"2"
-			"draw_corner_height" 							"2"
+			"draw_corner_height"							"2"
 		}
 
 		"StoreFreeTrialBorder"
@@ -3564,12 +3563,12 @@
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"Primary"
-			"image"					"replay/thumbnails/panels/misc/modal"
-			"src_corner_height"		"12"
+			"color"					"PanelO2"
+			"image"					"replay/thumbnails/panels/FLAT_0"
 			"src_corner_width"		"12"
+			"src_corner_height"		"12"
 			"draw_corner_width"		"2"
-			"draw_corner_height" 	"2"
+			"draw_corner_height"	"2"
 		}
 
 		BackpackItemGrayedOut
@@ -4836,12 +4835,12 @@
 		{
 			"bordertype"									"scalable_image"
 			"backgroundtype"								"0"
-			"color"											"Primary"
-			"image"											"replay/thumbnails/panels/misc/modal"
-			"src_corner_height"								"12"
+			"color"											"PanelO2"
+			"image"											"replay/thumbnails/panels/FLAT_0"
 			"src_corner_width"								"12"
+			"src_corner_height"								"12"
 			"draw_corner_width"								"2"
-			"draw_corner_height" 							"2"
+			"draw_corner_height"							"2"
 		}
 
 		"MainMenuBGBorderAlpha"

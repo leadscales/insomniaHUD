@@ -266,7 +266,8 @@
 		"zpos"										"51"
 		"wide"										"200"
 		"tall"										"20"
-		"bgcolor_override"							"PanelT4"
+		"bgcolor_override"							"PanelT3"
+		"border"									"LINE_FULL_BOTTOM_Primary"
 
 		"pin_to_sibling" 							"PrimaryPanel"
 		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
@@ -630,7 +631,7 @@
 				"xpos"								"rs1-5"
 				"ypos"								"0"
 				"tall"								"f0"
-				"wide"								"3"
+				"wide"								"0"
 				"zpos"								"1000"
 				"nobuttons"							"1"
 				"proportionaltoparent"				"1"
@@ -683,8 +684,8 @@
 
 			"command"								"engine ih_info"
 
-			"border_default"						"LINE_TOP_PrimaryT3"
-			"border_armed"							"LINE_TOP_Primary"
+			"border_default"						"LINE_FULL_TOP_PrimaryT3"
+			"border_armed"							"LINE_FULL_TOP_Primary"
 		}
 
 		"ConsoleButton"
@@ -709,8 +710,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_PrimaryT3"
-			"border_armed"							"LINE_TOP_Primary"
+			"border_default"						"LINE_FULL_TOP_PrimaryT3"
+			"border_armed"							"LINE_FULL_TOP_Primary"
 
 			"pin_to_sibling"						"InfoButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -739,8 +740,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_PrimaryT3"
-			"border_armed"							"LINE_TOP_Primary"
+			"border_default"						"LINE_FULL_TOP_PrimaryT3"
+			"border_armed"							"LINE_FULL_TOP_Primary"
 
 			"pin_to_sibling"						"ConsoleButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -769,8 +770,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_PrimaryT3"
-			"border_armed"							"LINE_TOP_Primary"
+			"border_default"						"LINE_FULL_TOP_PrimaryT3"
+			"border_armed"							"LINE_FULL_TOP_Primary"
 
 			"pin_to_sibling"						"DemoUIButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"
@@ -799,8 +800,8 @@
 			"defaultfgcolor_override"				"Text0"
 			"armedfgcolor_override"					"Text0"
 
-			"border_default"						"LINE_TOP_PrimaryT3"
-			"border_armed"							"LINE_TOP_Primary"
+			"border_default"						"LINE_FULL_TOP_PrimaryT3"
+			"border_armed"							"LINE_FULL_TOP_Primary"
 
 			"pin_to_sibling"						"AchievementsButton"
 			"pin_corner_to_sibling"					"PIN_TOPLEFT"

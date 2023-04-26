@@ -232,11 +232,11 @@
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
-			"tall"									"18"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"font"									"regular14"
-			"fgcolor_override"						"Text0"
+			"fgcolor_override"						"Primary"
 			"textAlignment"							"west"
 			"labelText"								"%desc1%"
 			"textinsetx"							"5"
@@ -265,7 +265,7 @@
 			"ypos"									"0"
 			"wide"									"f0"
 			"zpos"									"100"
-			"tall"									"18"
+			"tall"									"20"
 			"visible"								"1"
 			"enabled"								"1"
 			"font"									"regular14"
@@ -368,7 +368,7 @@
 			"ControlName"							"EditablePanel"
 			"fieldName"								"StatsContainer"
 			"xpos"									"0"
-			"ypos"									"18"
+			"ypos"									"0"
 			"wide"									"f0"
 			"tall"									"480"
 			"proportionaltoparent"					"1"
@@ -388,7 +388,7 @@
 				"xpos"								"0"
 				"ypos"								"0"
 				"wide"								"f0"
-				"tall"								"2"
+				"tall"								"f0"
 				"proportionaltoparent"				"1"
 				"bgcolor_override"					"Blank"
 
@@ -397,7 +397,7 @@
 					"xpos"							"cs-0.5"
 					"ypos"							"rs1-3"
 					"wide"							"p1"
-					"tall"							"30"
+					"tall"							"10"
 				}
 
 				"CurrentXPLabel"
@@ -488,8 +488,8 @@
 						"proportionaltoparent"		"1"
 						"progress"					"0"
 
-						"fgcolor_override"			"Primary"
-						"bgcolor_override"			"PrimaryT4"
+						"fgcolor_override"			"PrimaryT4"
+						"bgcolor_override"			"Blank"
 
 						"if_mini"
 						{

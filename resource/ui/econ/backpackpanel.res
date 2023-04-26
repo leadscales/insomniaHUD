@@ -389,9 +389,10 @@
 		"wide"										"300"
 		"tall"										"300"
 		"visible"									"0"
-		"bgcolor_override"							"Blank"
+		"bgcolor_override"							"PanelT0"
 		"noitem_textcolor"							"117 107 94 255"
-		"PaintBackgroundType"						"2"
+		"PaintBackgroundType"						"0"
+		"paintBackground"							"1"
 		"paintborder"								"1"
 
 		"text_center"								"1"

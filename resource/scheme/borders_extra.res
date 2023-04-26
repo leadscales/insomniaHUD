@@ -4,14 +4,20 @@
 	{
 		"Modal_0"
 		{
-			"bordertype"				"scalable_image"
-			"background_type"			"0"
-			"color"						"Primary"
-			"image"						"replay/thumbnails/panels/misc/modal"
-			"src_corner_width"			"12"
-			"src_corner_height"			"12"
-			"draw_corner_width"			"2"
-			"draw_corner_height"		"2"
+			"inset"		"0 0 0 0"
+			"Top"
+			{
+				"1"
+				{
+					"color"			"Primary"
+					"offset"		"0 0"
+				}
+				"2"
+				{
+					"color"			"Primary"
+					"offset"		"0 0"
+				}
+			}
 		}
 	}
 }
