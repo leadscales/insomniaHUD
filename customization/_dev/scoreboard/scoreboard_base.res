@@ -23,15 +23,79 @@
 		"killstreak_image_width" 					"12"
 	}
 
+	"TopPanel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"TopPanel"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"20"
+		"proportionaltoparent"						"1"
+		"bgcolor_override"							"PanelT1"
+	}
+
+	"BottomPanel"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BottomPanel"
+		"xpos"										"0"
+		"ypos"										"rs1"
+		"zpos"										"1"
+		"wide"										"f0"
+		"tall"										"20"
+		"proportionaltoparent"						"1"
+		"bgcolor_override"							"PanelT1"
+	}
+
+	"AlignmentHelper"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"AlignmentHelper"
+		"xpos"										"0"
+		"ypos"										"0"
+		"wide"										"f0"
+		"tall"										"480"
+		"proportionaltoparent"						"1"
+		"bgcolor_override"							"Blank"
+
+		"visible"									"0"
+
+		"Top"
+		{
+			"ControlName"							"EditablePanel"
+			"fieldName"								"Top"
+			"xpos"									"0"
+			"ypos"									"0"
+			"wide"									"f0"
+			"tall"									"80"
+			"proportionaltoparent"					"1"
+			"bgcolor_override"						"255 0 0 128"
+		}
+
+		"Bottom"
+		{
+			"ControlName"							"EditablePanel"
+			"fieldName"								"Bottom"
+			"xpos"									"0"
+			"ypos"									"rs1"
+			"wide"									"f0"
+			"tall"									"80"
+			"proportionaltoparent"					"1"
+			"bgcolor_override"						"255 0 0 128"
+		}
+	}
+
 	"BluePlayerList"
 	{
 		"ControlName"	        					"SectionedListPanel"
 		"fieldName"		        					"BluePlayerList"
 		"xpos"			          					"c0-s1-5"
-		"ypos"			          					"80"
+		"ypos"			          					"102"
 		"zpos"			          					"20"
 		"wide"			          					"240"
-		"tall"			          					"252"
+		"tall"			          					"f0"
 		"visible"		          					"1"
 		"enabled"		          					"1"
 		"linespacing"       						"20"
@@ -45,10 +109,10 @@
 		"ControlName"								"SectionedListPanel"
 		"fieldName"									"RedPlayerList"
 		"xpos"			         					"c5"
-		"ypos"			          					"80"
+		"ypos"			          					"102"
 		"zpos"			          					"20"
 		"wide"			          					"240"
-		"tall"			          					"252"
+		"tall"			          					"f0"
 		"visible"		          					"1"
 		"enabled"		          					"1"
 		"linespacing"       						"20"
@@ -65,12 +129,13 @@
 		"ypos"										"0"
 		"zpos"										"2"
 		"wide"										"500"
-		"tall"										"310"
+		"tall"										"280"
 		"visible"									"1"
 		"enabled"									"1"
 
-		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelT1"
+		"border"									"LINE_FULL_BOTTOM_White"
 		
 		"pin_to_sibling"							"BlueScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -78,6 +143,7 @@
 
 		"if_mvm"
 		{
+			"bgcolor_override"						"Blank"
 			"border"								"NoBorder"
 		}
 	}
@@ -91,16 +157,42 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"BlueScoreBG"
 		"xpos"										"c0-s1"
-		"ypos"										"40"
+		"ypos"										"80"
 		"zpos"										"3"
 		"wide"										"250"
-		"tall"										"40"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+
+		"proportionaltoparent"		    			"1"
+		"PaintBackground"		    				"1"
+		"bgcolor_override"							"m0reBlueT4"
+
+		"if_mvm"
+		{
+			"visible"								"0"
+		}
+	}
+
+	"BlueScoreBorder"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"BlueScoreBorder"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"10"
+		"wide"										"250"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"FLAT_m0reBlue_4"
+		"border"									"LINE_FULL_TOP_m0reBlue"
+
+		"pin_to_sibling"							"BlueScoreBG"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 
 		"if_mvm"
 		{
@@ -115,22 +207,22 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"250"
-		"tall"										"40"
+		"wide"										"40"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
-		"font"										"bold18"
+		"font"										"regular14"
 		"fgcolor"   								"m0reBlue"
 		"labelText"									"%blueteamname%"
 		"textAlignment"								"center"
 
-		"paintbackground"							"0"
-		"border"									"NoBorder"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelT4"
 
 		"pin_to_sibling"							"BlueScoreBG"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 
 		"if_mvm"
 		{
@@ -145,8 +237,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"40"
-		"tall"										"40"
+		"wide"										"20"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"font"										"bold18"
@@ -154,12 +246,12 @@
 		"labelText"									"%blueteamscore%"
 		"textAlignment"								"center"
 
-		"paintbackground"							"0"
-		"border"									"NoBorder"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelT3"
 
 		"pin_to_sibling"							"BlueScoreBG"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 
 		"if_mvm"
 		{
@@ -171,20 +263,22 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"BlueTeamPlayerCount"
-		"xpos"										"0"
+		"xpos"										"-40"
 		"ypos"										"0"
-		"zpos"										"1"
-		"wide"										"250"
+		"zpos"										"5"
+		"wide"										"190"
 		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"font"										"regular14"
-		"fgcolor"  									"Text0"
+		"fgcolor"  									"m0reBlueT2"
 		"labelText"									"%blueteamplayercount%"
 		"textAlignment"								"west"
+		"textinsetx"								"5"
+		"use_proportional_insets"					"1"
 
 		"pin_to_sibling"							"BlueScoreBG"
-		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 
 		"if_mvm"
@@ -205,17 +299,43 @@
 		"ypos"										"0"
 		"zpos"										"3"
 		"wide"										"250"
-		"tall"										"40"
+		"tall"										"20"
+		"visible"									"1"
+		"enabled"									"1"
+
+		"proportionaltoparent"		    			"1"
+		"PaintBackground"		    				"1"
+		"bgcolor_override"							"m0reRedT4"
+
+		"pin_to_sibling"							"BlueScoreBG"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+
+		"if_mvm"
+		{
+			"visible"								"0"
+		}
+	}
+
+	"RedScoreBorder"
+	{
+		"ControlName"								"EditablePanel"
+		"fieldName"									"RedScoreBorder"
+		"xpos"										"0"
+		"ypos"										"0"
+		"zpos"										"10"
+		"wide"										"250"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 
 		"proportionaltoparent"		    			"1"
 		"PaintBackground"		    				"0"
-		"border"									"FLAT_m0reRed_4"
+		"border"									"LINE_FULL_TOP_m0reRed"
 
-		"pin_to_sibling"							"BlueScoreBG"
+		"pin_to_sibling"							"RedScoreBG"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 
 		"if_mvm"
 		{
@@ -230,21 +350,21 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"250"
-		"tall"										"40"
+		"wide"										"40"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
-		"font"										"bold18"
+		"font"										"regular14"
 		"fgcolor"   								"m0reRed"
 		"labelText"									"%redteamname%"
 		"textAlignment"								"center"
 
-		"paintbackground"							"0"
-		"border"									"NoBorder"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelT4"
 
 		"pin_to_sibling"							"RedScoreBG"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
+		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 
 		"if_mvm"
 		{
@@ -259,8 +379,8 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"5"
-		"wide"										"40"
-		"tall"										"40"
+		"wide"										"20"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"font"										"bold18"
@@ -268,12 +388,12 @@
 		"labelText"									"%redteamscore%"
 		"textAlignment"								"center"
 
-		"paintbackground"							"0"
-		"border"									"NoBorder"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelT3"
 
 		"pin_to_sibling"							"RedScoreBG"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 
 		"if_mvm"
 		{
@@ -285,19 +405,22 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"RedTeamPlayerCount"
-		"xpos"										"0"
+		"xpos"										"-40"
 		"ypos"										"0"
-		"wide"										"250"
+		"zpos"										"5"
+		"wide"										"190"
 		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 		"font"										"regular14"
-		"fgcolor"   								"Text0"
+		"fgcolor"   								"m0reRedT2"
 		"labelText"									"%redteamplayercount%"
 		"textAlignment"								"east"
+		"textinsetx"								"5"
+		"use_proportional_insets"					"1"
 
 		"pin_to_sibling"							"RedScoreBG"
-		"pin_corner_to_sibling"						"PIN_BOTTOMRIGHT"
+		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
 		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
 
 		"if_mvm"
@@ -312,8 +435,9 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"ServerLabel"
-		"xpos"										"0"
+		"xpos"										"5"
 		"ypos"										"0"
+		"zpos"										"2"
 		"wide"										"f0"
 		"tall"										"20"
 		"visible"									"1"
@@ -321,15 +445,16 @@
 		"font"										"regular14"
 		"fgcolor"									"Text0"
 		"labelText"									"%server%"
-		"textAlignment"								"center"
+		"textAlignment"								"west"
 	}
 
 	"ServerTimeLeft"
 	{
 		"ControlName"		       					"CExLabel"
 		"fieldName"		          					"ServerTimeLeft"
-		"xpos"			           					"0"
+		"xpos"			           					"-5"
 		"ypos"			           					"0"
+		"zpos"										"2"
 		"wide"			            				"f0"
 		"tall"			           					"20"
 		"visible"									"1"
@@ -337,11 +462,7 @@
 		"font"			            				"regular14"
 		"fgcolor"               					"Text0"
 		"labelText"		        					"%servertimeleft%"
-		"textAlignment"     						"center"
-
-		"pin_to_sibling"							"ServerLabel"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"textAlignment"     						"east"
 
 		"if_mvm"
 		{
@@ -353,23 +474,17 @@
 	{
 		"ControlName"	  	     					"CExLabel"
 		"fieldName"	    	      					"Spectators"
-		"xpos"          							"0"
-		"ypos" 		     							"0"
-		"zpos"		      	     					"6"
-		"wide"		      	      					"500"
+		"xpos"          							"5"
+		"ypos" 		     							"rs1"
+		"zpos"		      	     					"2"
+		"wide"		      	      					"f0"
 		"tall"		      	      					"20"
 		"visible"		           					"1"
 		"enabled"	              					"1"
 		"font"		            					"regular14"
 		"fgcolor"              						"Text0"
 		"labelText"		          					"%spectators%"
-		"textAlignment"								"center"
-
-		"border"									"NoBorder"
-
-		"pin_to_sibling"							"ScoreBG"
-		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
-		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
+		"textAlignment"								"west"
 
 		"if_mvm"
 		{
@@ -381,16 +496,16 @@
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"SpectatorsInQueue"
-		"xpos"          							"0"
+		"xpos"          							"5"
 		"ypos" 		     							"rs2"
-		"zpos"		      	     					"4"
+		"zpos"		      	     					"2"
 		"wide"		      	      					"f0"
 		"tall"		      	      					"20"
 		"visible"		           					"1"
 		"enabled"	              					"1"
 		"font"										"regular14"
 		"labelText"									"%waitingtoplay%"
-		"textAlignment"								"center"
+		"textAlignment"								"west"
 		"fgcolor"              						"Text0"
 
 		"if_mvm"
@@ -399,25 +514,11 @@
 		}
 	}
 
-	"ShadedBar"
-	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"ShadedBar"
-		"xpos"										"9999"
-	}
-
-	"HorizontalLine"
-	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"HorizontalLine"
-		"xpos"										"9999"
-	}
-
 	"MapName"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"MapName"
-		"xpos"										"0"
+		"xpos"										"-5"
 		"ypos"										"rs1"
 		"zpos"										"3"
 		"wide"										"f0"
@@ -427,7 +528,7 @@
 		"fgcolor"									"Text0"
 		"font"										"regular14"
 		"labelText"									"%mapname%"
-		"textAlignment"								"center"
+		"textAlignment"								"east"
 
 		"if_mvm"
 		{
@@ -452,7 +553,8 @@
 
 		"if_mvm"
 		{
-			"ypos"									"-65"
+			"ypos"									"-40"
+			"border"								"LINE_FULL_BOTTOM_White"
 		}
 
 		"pin_to_sibling"							"ScoreBG"
@@ -471,12 +573,8 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"FLAT_Black_1"
-
-			"if_mvm"
-			{
-				"border"								"FLAT_Black_1"
-			}
+			"border"									"NoBorder"
+			"bgcolor_override"							"PanelT1"
 		}
 
 		"KillsWhite"
@@ -531,17 +629,12 @@
 			"visible"									"1"
 			"enabled"									"1"
 			"proportionaltoparent"						"1"
-			"border"									"FLAT_Black_2"
+			"border"									"NoBorder"
 			"bgcolor_override"							"Blank"
 
 			"pin_to_sibling"							"KDPanel"
 			"pin_corner_to_sibling"						"PIN_TOPLEFT"
 			"pin_to_sibling_corner"						"PIN_TOPRIGHT"
-
-			"if_mvm"
-			{
-				"border"								"FLAT_Black_2"
-			}
 		}
 
 		// G1: Assists, Damage, Dom, Revenge
@@ -579,8 +672,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 			}
 
 			"S1_Value"
@@ -595,8 +689,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S1_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -615,8 +710,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S1_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -635,8 +731,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S2_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -655,8 +752,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S2_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -675,8 +773,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S3_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -695,8 +794,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S3_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -715,8 +815,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S4_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -755,8 +856,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 			}
 
 			"S1_Value"
@@ -771,8 +873,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S1_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -791,8 +894,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S1_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -811,8 +915,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S2_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -831,8 +936,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S2_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -851,8 +957,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S3_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -871,8 +978,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S3_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -891,8 +999,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S4_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -931,8 +1040,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 			}
 
 			"S1_Value"
@@ -947,8 +1057,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S1_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -967,8 +1078,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S1_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -987,8 +1099,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S2_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1007,8 +1120,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S2_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1027,8 +1141,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_2"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S3_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1047,8 +1162,9 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT2"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S3_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1067,17 +1183,13 @@
 				"visible"									"1"
 				"enabled"									"1"
 				"proportionaltoparent"						"0"
-				"border"									"FLAT_Black_3"
-				"paintbackground"							"0"
+				"border"									"NoBorder"
+				"bgcolor_override"							"PanelT1"
+				"paintbackground"							"1"
 
 				"pin_to_sibling"							"S4_Label"
 				"pin_corner_to_sibling"						"PIN_TOPLEFT"
 				"pin_to_sibling_corner"						"PIN_TOPRIGHT"
-
-				"if_mvm"
-				{
-					"border"								"FLAT_Black_3"
-				}
 			}
 		}
 
@@ -1703,7 +1815,8 @@
 		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
+		"bgcolor_override"							"PanelT1"
 
 		"pin_to_sibling"							"LocalPlayerStatsPanel"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -1996,5 +2109,17 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"PlayerScoreLabel"
 		"xpos"			         					"9999"
+	}
+	"ShadedBar"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"ShadedBar"
+		"xpos"										"9999"
+	}
+	"HorizontalLine"
+	{
+		"ControlName"								"ImagePanel"
+		"fieldName"									"HorizontalLine"
+		"xpos"										"9999"
 	}
 }

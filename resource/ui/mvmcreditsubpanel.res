@@ -11,7 +11,7 @@
 		"tall"				"40"
 		"visible"			"1"
 		"paintbackground"	"0"
-		"border"			"FLAT_Black_2"
+		"border"			"NoBorder"
 	}
 
 	"HeaderLabelBG"
@@ -24,8 +24,9 @@
 		"wide"				"250"
 		"tall"				"10"
 		"visible"			"1"
-		"paintbackground"	"0"
-		"border"			"FLAT_Black_2"
+		"paintbackground"	"1"
+		"border"			"NoBorder"
+		"bgcolor_override"	"PanelT1"
 	}
 
 	"HeaderLabel"
@@ -55,8 +56,9 @@
 		"wide"				"85"
 		"tall"				"10"
 		"visible"			"1"
-		"paintbackground"	"0"
-		"border"			"FLAT_Black_3"
+		"paintbackground"	"1"
+		"border"			"NoBorder"
+		"bgcolor_override"	"PanelT2"
 	}
 
 	"CreditCollectedTextLabel"
@@ -85,7 +87,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Positive"
-		"border"			"FLAT_Black_3"
+		"bgcolor_override"	"PanelT3"
 	}
 
 	"CreditMissedTextLabelBG"
@@ -98,8 +100,9 @@
 		"wide"				"85"
 		"tall"				"10"
 		"visible"			"1"
-		"paintbackground"	"0"
-		"border"			"FLAT_Black_4"
+		"paintbackground"	"1"
+		"border"			"NoBorder"
+		"bgcolor_override"	"PanelT2"
 	}
 
 	"CreditMissedTextLabel"
@@ -128,7 +131,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Negative"
-		"border"			"FLAT_Black_4"
+		"bgcolor_override"	"PanelT3"
 	}
 
 	"CreditBonusTextLabelBG"
@@ -141,8 +144,9 @@
 		"wide"				"85"
 		"tall"				"10"
 		"visible"			"1"
-		"paintbackground"	"0"
-		"border"			"FLAT_Black_3"
+		"paintbackground"	"1"
+		"border"			"NoBorder"
+		"bgcolor_override"	"PanelT2"
 	}
 
 	"CreditBonusTextLabel"
@@ -171,7 +175,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Positive"
-		"border"			"FLAT_Black_3"
+		"bgcolor_override"	"PanelT3"
 	}
 
 	"CreditRatingLabel"
@@ -187,6 +191,6 @@
 		"wide"				"10"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"border"			"FLAT_Black_4"
+		"bgcolor_override"	"PanelT4"
 	}
 }

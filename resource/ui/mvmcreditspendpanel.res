@@ -24,8 +24,9 @@
 		"wide"				"85"
 		"tall"				"10"
 		"visible"			"1"
-		"paintbackground"	"0"
-		"border"			"FLAT_Black_3"
+		"paintbackground"	"1"
+		"border"			"NoBorder"
+		"bgcolor_override"	"PanelT2"
 	}
 
 	"UpgradesLabel"
@@ -54,7 +55,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"border"			"FLAT_Black_3"
+		"bgcolor_override"	"PanelT3"
 	}
 
 	"BuyBackLabelBG"
@@ -67,8 +68,9 @@
 		"wide"				"85"
 		"tall"				"10"
 		"visible"			"1"
-		"paintbackground"	"0"
-		"border"			"FLAT_Black_4"
+		"paintbackground"	"1"
+		"border"			"NoBorder"
+		"bgcolor_override"	"PanelT2"
 	}
 
 	"BuyBackLabel"
@@ -97,7 +99,7 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"border"			"FLAT_Black_4"
+		"bgcolor_override"	"PanelT3"
 	}
 
 	"BottleLabelBG"
@@ -110,8 +112,9 @@
 		"wide"				"85"
 		"tall"				"10"
 		"visible"			"1"
-		"paintbackground"	"0"
-		"border"			"FLAT_Black_3"
+		"paintbackground"	"1"
+		"border"			"NoBorder"
+		"bgcolor_override"	"PanelT2"
 	}
 
 	"BottleLabel"
@@ -140,6 +143,6 @@
 		"wide"				"40"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"border"			"FLAT_Black_3"
+		"bgcolor_override"	"PanelT3"
 	}
 }

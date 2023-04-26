@@ -2,27 +2,25 @@
 {
 	"BluePlayerList"
 	{
-		"ypos"		"100"
-		"tall"		"192"
+		"ypos"		"132"
 	}
 	"RedPlayerList"
 	{
-		"ypos"		"100"
-		"tall"		"192"
+		"ypos"		"132"
 	}
 	"ScoreBG"
 	{
-		"tall"		"250"
+		"tall"		"220"
 	}
 	"BlueScoreBG"
 	{
-		"ypos"		"60"
+		"ypos"		"110"
 	}
 	"LocalPlayerStatsPanel"
 	{
 		"if_mvm"
 		{
-			"ypos"		"-25"
+			"ypos"		"-10"
 		}
 	}
 }
