@@ -6,27 +6,28 @@
 		"fieldName"									"BuildingStatusItem"
 		"xpos"										"0"
 		"ypos"										"0"
-		"wide"										"150"
-		"tall"										"35"
+		"wide"										"160"
+		"tall"										"40"
 		"visible"									"1"
 		"enabled"									"1"
+		"border"									"LINE_LEFT_WhiteT4"
 	}
 
 	"Icon_Teleport_Entrance"
 	{
 		"ControlName"								"CIconPanel"
 		"fieldName"									"Icon_Teleport_Entrance"
-		"xpos"										"12"
-		"ypos"										"0"
-		"wide"										"28"
-		"tall"										"28"
+		"xpos"										"5"
+		"ypos"										"rs1"
+		"wide"										"o1"
+		"tall"										"f6"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
 		"scaleImage"								"1"
 		"icon"										"obj_status_tele_entrance"
 		"iconColor"									"White"
-		"alpha" 									"150"
+		"alpha" 									"255"
 	}
 
 	"BuiltPanel"
@@ -36,96 +37,97 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"wide"										"f0"
-		"tall"										"f5"
+		"tall"										"f0"
 		"zpos"										"1"
 		"visible"									"0"
 		"proportionaltoparent"						"1"
+		"border"									"LINE_LEFT_White"
 
 		"Icon_Upgrade_1"
 		{
 			"ControlName"							"CIconPanel"
 			"fieldName"								"Icon_Upgrade_1"
-			"xpos"									"9"
-			"ypos"									"0"
+			"xpos"									"26"
+			"ypos"									"1"
 			"zpos"									"1"
-			"wide"									"8"
-			"tall"									"8"
+			"wide"									"10"
+			"tall"									"10"
 			"visible"								"0"
 			"enabled"								"1"
 			"scaleImage"							"1"
 			"proportionaltoparent"					"1"
 			"icon"									"obj_status_upgrade_1"
 			"iconColor"								"White"
-			"alpha" 								"150"
+			"alpha" 								"255"
 		}
 
 		"Icon_Upgrade_2"
 		{
 			"ControlName"							"CIconPanel"
 			"fieldName"								"Icon_Upgrade_2"
-			"xpos"									"9"
-			"ypos"									"0"
+			"xpos"									"26"
+			"ypos"									"1"
 			"zpos"									"1"
-			"wide"									"8"
-			"tall"									"8"
+			"wide"									"10"
+			"tall"									"10"
 			"visible"								"0"
 			"enabled"								"1"
 			"scaleImage"							"1"
 			"proportionaltoparent"					"1"
 			"icon"									"obj_status_upgrade_2"
 			"iconColor"								"White"
-			"alpha" 								"150"
+			"alpha" 								"255"
 		}
 
 		"Icon_Upgrade_3"
 		{
 			"ControlName"							"CIconPanel"
 			"fieldName"								"Icon_Upgrade_3"
-			"xpos"									"9"
-			"ypos"									"0"
+			"xpos"									"26"
+			"ypos"									"1"
 			"zpos"									"1"
-			"wide"									"8"
-			"tall"									"8"
+			"wide"									"10"
+			"tall"									"10"
 			"visible"								"0"
 			"enabled"								"1"
 			"scaleImage"							"1"
 			"proportionaltoparent"					"1"
 			"icon"									"obj_status_upgrade_3"
 			"iconColor"								"White"
-			"alpha" 								"150"
+			"alpha" 								"255"
 		}
 
 		"SapperIcon"
 		{
 			"ControlName"							"CIconPanel"
 			"fieldName"								"SapperIcon"
-			"xpos"									"10"
-			"ypos"									"cs-0.5"
+			"xpos"									"8"
+			"ypos"									"0"
 			"zpos"									"10"
-			"wide"									"30"
-			"tall"									"29"
+			"wide"									"o1"
+			"tall"									"15"
 			"visible"								"0"
 			"enabled"								"1"
 			"scaleImage"							"1"
 			"proportionaltoparent"					"1"
 			"icon"									"obj_status_icon_sapper"
 			"iconColor"								"White"
-			"paintbackground"						"1"
-			"bgcolor_override"						"200 0 0 150"
+			"paintbackground"						"0"
+			"bgcolor_override"						"Blank"
 		}
 
 		"Health"
 		{
 			"ControlName"							"CBuildingHealthBar"
 			"fieldName"								"Health"
-			"xpos"									"0"
-			"ypos"									"0"
-			"wide"									"8"
+			"xpos"									"2"
+			"ypos"									"cs-0.5"
+			"wide"									"4"
 			"tall"									"f0"
 			"visible"								"1"
 			"enabled"								"1"
 			"proportionaltoparent"					"1"
-			"alpha" 								"150"
+			"alpha" 								"255"
 		}
 
 		"BuildingPanel"
@@ -150,7 +152,7 @@
 				"visible"							"1"
 				"enabled"							"1"
 				"proportionaltoparent"				"1"
-				"alpha" 							"150"
+				"alpha" 							"255"
 			}
 			"BuildingLabel"
 			{
@@ -184,9 +186,9 @@
 				"enabled"							"1"
 				"proportionaltoparent"				"1"
 				"image"								"../hud/hud_obj_status_teleport_64"
-				"drawcolor"							"ProgressOffWhite"
+				"drawcolor"							"White"
 				"scaleImage"						"1"
-				"alpha" 							"150"
+				"alpha" 							"255"
 			}
 
 			"ChargingPanel"
@@ -199,7 +201,7 @@
 				"tall"								"f0"
 				"visible"							"0"
 				"proportionaltoparent"				"1"
-				"alpha" 							"150"
+				"alpha" 							"255"
 
 				"Recharge"
 				{
@@ -212,8 +214,8 @@
 					"visible"						"1"
 					"enabled"						"1"
 					"proportionaltoparent"			"1"
-					"alpha" 						"150"
-					"fgcolor_override"				"ProgressOffWhite"
+					"alpha" 						"255"
+					"fgcolor_override"				"White"
 				}
 			}
 
@@ -242,8 +244,8 @@
 					"proportionaltoparent"			"1"
 					"labelText"						"%timesused%"
 					"textAlignment"					"west"
-					"alpha" 						"150"
-					"fgcolor" 						"ProgressOffWhite"
+					"alpha" 						"255"
+					"fgcolor" 						"White"
 				}
 			}
 
@@ -261,8 +263,8 @@
 				"scaleImage"						"1"
 				"proportionaltoparent"				"1"
 				"icon"								"ico_metal"
-				"iconColor"							"ProgressOffWhite"
-				"alpha" 							"150"
+				"iconColor"							"White"
+				"alpha" 							"255"
 			}
 			"Upgrade"
 			{
@@ -275,8 +277,8 @@
 				"visible"							"1"
 				"enabled"							"1"
 				"proportionaltoparent"				"1"
-				"alpha" 							"150"
-				"fgcolor_override"					"ProgressOffWhite"
+				"alpha" 							"255"
+				"fgcolor_override"					"White"
 			}
 		}
 

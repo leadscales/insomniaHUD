@@ -84,11 +84,11 @@
 		"StoreGreen"										"76 107 34 255"
 
 		"LowHealthRed"										"255 0 0 255"
-		"ProgressOffWhite"									"251 235 202 255"
+		"ProgressOffWhite"									"255 255 255 255"
 		"ProgressBackground"								"250 234 201 51"
 		"HealthBgGrey"										"72 71 69 255"
 
-		"ProgressOffWhiteTransparent"						"251 235 202 128"
+		"ProgressOffWhiteTransparent"						"255 255 255 128"
 
 		"LabelDark"											"48 48 48 255"
 		"LabelTransparent"									"128 128 128 192"
@@ -302,9 +302,9 @@
 		"CircularProgressBar.FgColor"						"White"
 		"CircularProgressBar.BgColor"						"White"
 
-		"BuildingHealthBar.BgColor"							"HealthBgGrey"
-		"BuildingHealthBar.Health"							"ProgressOffWhite"
-		"BuildingHealthBar.LowHealth"						"LowHealthRed"
+		"BuildingHealthBar.BgColor"							"Blank"
+		"BuildingHealthBar.Health"							"White"
+		"BuildingHealthBar.LowHealth"						"Negative"
 
 		"PropertySheet.TextColor"							"Orange"
 		"PropertySheet.SelectedTextColor"					"Orange"
