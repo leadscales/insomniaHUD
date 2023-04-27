@@ -17,8 +17,9 @@
 		"visible"		        					"1"
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
-		"paintbackground"							"0"
-		"border"									"FLAT_Black_3"
+		"paintbackground"							"1"
+		"bgcolor_override"							"PanelT1"
+		"border"									"LINE_FULL_TOP_White"
 	}
 
 	"Taunt1"
@@ -34,7 +35,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 	}
 
 	"Taunt2"
@@ -50,7 +51,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Taunt1"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -70,7 +71,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Taunt2"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -90,7 +91,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Taunt3"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -110,7 +111,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Taunt4"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -130,7 +131,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Taunt5"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -150,7 +151,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Taunt6"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -170,7 +171,7 @@
 		"enabled"	          						"1"
 		"proportionaltoparent"						"1"
 		"paintbackground"							"0"
-		"border"									"FLAT_Black_1"
+		"border"									"NoBorder"
 
 		"pin_to_sibling"							"Taunt7"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
@@ -231,7 +232,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt1"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -292,7 +293,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt2"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -353,7 +354,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt3"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -414,7 +415,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt4"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -475,7 +476,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt5"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -536,7 +537,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt6"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -597,7 +598,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt7"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
@@ -658,7 +659,7 @@
 		"textAlignment"								"center"
 		"font"										"regular14"
 		"fgcolor"									"Text0"
-		"border"									"FLAT_Black_2"
+		"border"									"LINE_BOTTOM_White"
 
 		"pin_to_sibling"							"Taunt8"
 		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
