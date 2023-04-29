@@ -1,4 +1,4 @@
-![logo](./assets/logo_partial.png)
+![logo](./assets/logo_partial.webp)
 
 ---
 
