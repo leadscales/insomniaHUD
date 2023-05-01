@@ -14,19 +14,15 @@
 		"xpos"										"9999"
 	}
 
-	"UpgradesLabelBG"
+	"ValuesBG"
 	{
 		"ControlName"		"EditablePanel"
-		"fieldName"			"UpgradesLabelBG"
-		"xpos"				"125"
+		"fieldName"			"ValuesBG"
+		"xpos"				"210"
 		"ypos"				"10"
-		"zpos"				"0"
-		"wide"				"85"
-		"tall"				"10"
-		"visible"			"1"
-		"paintbackground"	"1"
-		"border"			"NoBorder"
-		"bgcolor_override"	"PanelT2"
+		"wide"				"70"
+		"tall"				"30"
+		"bgcolor_override"	"PanelT3"
 	}
 
 	"UpgradesLabel"
@@ -36,9 +32,11 @@
 		"font"				"regular12"
 		"labelText"			"#TF_PVE_Upgrades"
 		"textAlignment"		"west"
-		"xpos"				"130"
+		"textinsetx"		"5"
+		"use_proportional_insets"	"1"
+		"xpos"				"140"
 		"ypos"				"10"
-		"wide"				"80"
+		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
 	}
@@ -52,25 +50,10 @@
 		"textAlignment"		"center"
 		"xpos"				"210"
 		"ypos"				"10"
-		"wide"				"40"
+		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"PanelT3"
-	}
-
-	"BuyBackLabelBG"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"BuyBackLabelBG"
-		"xpos"				"125"
-		"ypos"				"20"
-		"zpos"				"0"
-		"wide"				"85"
-		"tall"				"10"
-		"visible"			"1"
-		"paintbackground"	"1"
-		"border"			"NoBorder"
-		"bgcolor_override"	"PanelT2"
+		"bgcolor_override"	"Blank"
 	}
 
 	"BuyBackLabel"
@@ -80,9 +63,11 @@
 		"font"				"regular12"
 		"labelText"			"#TF_PVE_Buybacks"
 		"textAlignment"		"west"
-		"xpos"				"130"
+		"textinsetx"		"5"
+		"use_proportional_insets"	"1"
+		"xpos"				"140"
 		"ypos"				"20"
-		"wide"				"80"
+		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
 	}
@@ -96,25 +81,10 @@
 		"textAlignment"		"center"
 		"xpos"				"210"
 		"ypos"				"20"
-		"wide"				"40"
+		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"PanelT3"
-	}
-
-	"BottleLabelBG"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"BottleLabelBG"
-		"xpos"				"125"
-		"ypos"				"30"
-		"zpos"				"0"
-		"wide"				"85"
-		"tall"				"10"
-		"visible"			"1"
-		"paintbackground"	"1"
-		"border"			"NoBorder"
-		"bgcolor_override"	"PanelT2"
+		"bgcolor_override"	"Blank"
 	}
 
 	"BottleLabel"
@@ -124,9 +94,11 @@
 		"font"				"regular12"
 		"labelText"			"#TF_PVE_Bottles"
 		"textAlignment"		"west"
-		"xpos"				"130"
+		"textinsetx"		"5"
+		"use_proportional_insets"	"1"
+		"xpos"				"140"
 		"ypos"				"30"
-		"wide"				"80"
+		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
 	}
@@ -140,9 +112,9 @@
 		"textAlignment"		"center"
 		"xpos"				"210"
 		"ypos"				"30"
-		"wide"				"40"
+		"wide"				"70"
 		"tall"				"10"
 		"fgcolor"			"Text0"
-		"bgcolor_override"	"PanelT3"
+		"bgcolor_override"	"Blank"
 	}
 }

@@ -3,10 +3,12 @@
 	"BluePlayerList"
 	{
 		"ypos"		"162"
+		"tall"		"132"
 	}
 	"RedPlayerList"
 	{
 		"ypos"		"162"
+		"tall"		"132"
 	}
 	"ScoreBG"
 	{
