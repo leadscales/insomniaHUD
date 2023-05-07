@@ -28,11 +28,11 @@
 		"roundedcorners"							"0"
 		"paintbackground"							"1"
 
-		"defaultBgColor_override"					"0 0 0 0"
-		"armedBgColor_override"						"0 0 0 0"
+		"defaultBgColor_override"					"Blank"
+		"armedBgColor_override"						"PanelT3"
 		
 		"border_default"							"NoBorder"
-		"border_armed"								"LINE_LEFT_Primary"
+		"border_armed"								"LINE_FULL_LEFT_Primary"
 	}
 
 	"NameLabel"
