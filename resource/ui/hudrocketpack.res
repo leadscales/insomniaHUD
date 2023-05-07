@@ -4,31 +4,31 @@
 {
 	"HudItemEffectMeter"
 	{
-		"ypos"										"c172"
+		"ypos"										"c70"
 	}
 
 	"ItemEffectMeter"
 	{
 		"xpos"										"0"
-		"wide"										"p0.497"
+		"wide"										"40"
 	}
 
 	"ItemEffectMeter2"
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ItemEffectMeter2"
-		"xpos"										"rs1"
+		"xpos"										"40"
 		"ypos"										"0"
 		"zpos"										"2"
-		"wide"										"p0.497"
-		"tall"										"2"
+		"wide"										"40"
+		"tall"										"f1"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
+		"bgcolor_override"							"PanelAT4"
 		"fgcolor"									"White"
+		"alpha"										"153" // Alpha of PanelAT3
 	}
-
-
 
 	//==================================================================================================================================================
 	// REMOVED ELEMENTS

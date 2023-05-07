@@ -9,8 +9,9 @@
 		"ypos"										"c80"
 		"wide"										"80"
 		"tall"										"10"
-		"MeterFG"									"White"
-		"MeterBG"									"Gray"
+		"MeterFG"									"PanelAT2"
+		"MeterBG"									"Blank"
+		"border"									"LINE_FULL_TOP_White"
 		"bgcolor_override"							"Blank"
 	}
 
@@ -19,31 +20,34 @@
 		"ControlName"								"CExLabel"
 		"fieldName"									"ItemEffectMeterLabel"
 		"xpos"										"cs-0.5"
-		"ypos"										"rs1"
-		"zpos"										"2"
+		"ypos"										"0"
+		"zpos"										"3"
 		"wide"										"f0"
-		"tall"										"9"
+		"tall"										"f0"
 		"visible"									"1"
-		"enabled"									"1"
+		"enabled"									"0"
 		"proportionaltoparent"						"1"
 		"labelText"									"#TF_Ball"
 		"textAlignment"								"center"
 		"font"										"regular11"
-		"fgcolor"									"White"
+		"disabledfgcolor2_override"					"Black"
 	}
 
 	"ItemEffectMeter"
 	{
 		"ControlName"								"ContinuousProgressBar"
 		"fieldName"									"ItemEffectMeter"
-		"xpos"										"cs-0.5"
+		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"2"
 		"wide"										"f0"
-		"tall"										"1"
+		"tall"										"f1"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
+		"bgcolor_override"							"PanelAT4"
+		"fgcolor_override"							"White"
+		"alpha"										"153" // Alpha of PanelAT3
 	}
 
 
