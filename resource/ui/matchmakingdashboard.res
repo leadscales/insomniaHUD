@@ -73,10 +73,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Primary"
-			"fgcolor"					"Primary"
-			"defaultFgColor_override"	"Primary"
-			"armedFgColor_override"		"Primary"
+			"fgcolor_override"			"Text0"
+			"fgcolor"					"Text0"
+			"defaultFgColor_override"	"Text0"
+			"armedFgColor_override"		"Text0"
 
 			"border_default"	"LINE_TOP_PrimaryT3"
 			"border_armed"		"LINE_TOP_Primary"
@@ -272,36 +272,19 @@
 				"xpos"			"9999"
 			}
 
-			"QueueImage"
-			{
-				"ControlName"				"CTFImagePanel"
-				"fieldName"					"QueueImage"
-				"xpos"						"3"
-				"ypos"						"3"
-				"zpos"						"11"
-				"wide"						"14"
-				"tall"						"14"
-				"image"						"replay/thumbnails/ui_effects/loading_animation_small"
-				"drawcolor"					"Primary"
-				"scaleImage"				"1"
-				"mouseinputenabled"			"0"
-				"proportionaltoparent"		"1"
-			}
-
 			"QueueText"
 			{
 				"ControlName"	"CAutoFittingLabel"
 				"fieldName"		"QueueText"
-				"xpos"			"20"
+				"xpos"			"0"
 				"ypos"			"0"
-				"wide"			"f40"
 				"zpos"			"100"
+				"wide"			"f0"
 				"tall"			"f0"
 				"visible"		"1"
 				"enabled"		"1"
-				"font"			"regular14"
 				"fgcolor_override"	"Text0"
-				"textAlignment"	"west"
+				"textAlignment"	"center"
 				"labelText"		"%queue_state%"
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -315,11 +298,11 @@
 					}
 					"1"
 					{
-						"font"	"regular12" // TF2 Build 10
+						"font"	"regular14" // TF2 Build 10
 					}
 					"2"
 					{
-						"font"	"regular10" // TF2 Build 9
+						"font"	"regular14" // TF2 Build 9
 					}
 				}
 			}
@@ -328,17 +311,17 @@
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"MultiQueuesManageButton"
-				"xpos"			"rs1"
+				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"10"
-				"wide"			"20"
-				"tall"			"20"
+				"wide"			"f0"
+				"tall"			"f0"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labeltext"		"."
+				"labeltext"		""
 				"font"			"iconsSmall"
 				"textAlignment"	"center"
 				"dulltext"		"0"
@@ -353,28 +336,28 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"LINE_TOP_Primary"
+				"border_armed"		"LINE_TOP_Negative"
 
-				"defaultFgColor_override"	"Primary"
-				"armedFgColor_override"		"Primary"
-				"fgcolor"					"Primary"
+				"defaultFgColor_override"	"Blank"
+				"armedFgColor_override"		"Blank"
+				"fgcolor"					"Blank"
 			}		
 
 			"CloseButton"
 			{
 				"ControlName"	"CExImageButton"
 				"fieldName"		"CloseButton"
-				"xpos"			"rs1"
+				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"10"
-				"wide"			"20"
-				"tall"			"20"
+				"wide"			"f0"
+				"tall"			"f0"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"tabPosition"	"0"
-				"labeltext"		"x"
+				"labeltext"		""
 				"font"			"iconsSmall"
 				"textAlignment"	"center"
 				"dulltext"		"0"
@@ -389,11 +372,11 @@
 				"paintbackground"	"0"
 			
 				"border_default"	"NoBorder"
-				"border_armed"		"LINE_TOP_Primary"
+				"border_armed"		"LINE_TOP_Negative"
 
-				"defaultFgColor_override"	"Primary"
-				"armedFgColor_override"		"Primary"
-				"fgcolor"					"Primary"
+				"defaultFgColor_override"	"Blank"
+				"armedFgColor_override"		"Blank"
+				"fgcolor"					"Blank"
 			}		
 		}
 
@@ -528,10 +511,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Primary"
-			"fgcolor"					"Primary"
-			"defaultFgColor_override"	"Primary"
-			"armedFgColor_override"		"Primary"
+			"fgcolor_override"			"Text0"
+			"fgcolor"					"Text0"
+			"defaultFgColor_override"	"Text0"
+			"armedFgColor_override"		"Text0"
 
 			"border_default"			"LINE_TOP_PrimaryT3"
 			"border_armed"				"LINE_TOP_Primary"
@@ -566,10 +549,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Primary"
-			"fgcolor"					"Primary"
-			"defaultFgColor_override"	"Primary"
-			"armedFgColor_override"		"Primary"
+			"fgcolor_override"			"Text0"
+			"fgcolor"					"Text0"
+			"defaultFgColor_override"	"Text0"
+			"armedFgColor_override"		"Text0"
 
 			"border_default"			"LINE_TOP_PrimaryT3"
 			"border_armed"				"LINE_TOP_Primary"
@@ -624,10 +607,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"fgcolor_override"			"Primary"
-			"fgcolor"					"Primary"
-			"defaultFgColor_override"	"Primary"
-			"armedFgColor_override"		"Primary"
+			"fgcolor_override"			"Text0"
+			"fgcolor"					"Text0"
+			"defaultFgColor_override"	"Text0"
+			"armedFgColor_override"		"Text0"
 
 			"border_default"			"LINE_TOP_PrimaryT3"
 			"border_armed"				"LINE_TOP_Primary"

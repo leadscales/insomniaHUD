@@ -27,7 +27,7 @@
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"Blank"
-		"fgcolor_override"	"Primary"
+		"fgcolor_override"	"Text0"
 		"labeltext"		"+"
 		"font"			"iconsSmall"
 		"textAlignment"	"center"
