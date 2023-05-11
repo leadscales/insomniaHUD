@@ -12,6 +12,14 @@
 		"enabled"									"1"
 	}
 
+	"EscortHilightSwoop"
+	{
+		"ControlName"								"CControlPointIconSwoop"
+		"fieldName"									"EscortHilightSwoop"
+		"xpos"										"9999"
+		"alpha"										"0"
+	}
+
 	"BlueEscortPanel"
 	{
 		"ControlName"								"CTFHudEscort"
