@@ -2,6 +2,7 @@
 #base "../../scripts/preload.res"
 #base "../../setup/setup_menu.res"
 #base "../../../../cfg/ih_custom.txt"
+#base "../../../../cfg/ih_devpanel.txt"
 
 "Resource/UI/MainMenuOverride.res"
 {
@@ -233,7 +234,7 @@
 	{
 		"ControlName"								"CExButton"
 		"fieldName"									"BetaButton"
-		"xpos"										"rs1"
+		"xpos"										"cs-0.5"
 		"ypos"										"rs1-20"
 		"zpos"										"100"
 		"wide"										"40"
@@ -323,12 +324,13 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"mouseinputenabled"							"0"
-		"font"										"iconsLarge"
+		"font"										"iconsMedium"
 		"labelText"									"!"
 		"textAlignment"								"center"
 
 		"bgcolor_override"							"NegativeT4"
 		"fgcolor"									"Negative"
+		"border"									"LINE_FULL_BOTTOM_Negative"
 
 		"pin_to_sibling" 							"RankContainer"
 	}
