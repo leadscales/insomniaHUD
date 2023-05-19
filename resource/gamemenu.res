@@ -5,29 +5,28 @@
 		"label"										"c"
 		"command" 									"callvote"
 		"OnlyInGame"								"1"
+		"tooltip"									"#MMenu_CallVote"
 	}
     "MutePlayersButton"
 	{
 		"label"										"M"
 		"command" 									"OpenMutePlayerDialog"
 		"OnlyInGame"								"1"
+		"tooltip"									"#MMenu_MutePlayers"
 	}
     "ReportPlayerButton"
 	{
 		"label"										"!"
 		"command" 									"OpenReportPlayerDialog"
 		"OnlyInGame"								"1"
+		"tooltip"									"#MMenu_ReportPlayer"
 	}
 	"FixIssuesButton"
 	{
 		"label"										"w"
 		"command" 									"engine ih_fix"
 		"OnlyInGame"								"1"
-	}
-	"AtMenuExtension"
-	{
-		"command"									"engine"
-		"OnlyAtMenu"								"1"
+		"tooltip"									"Attempt to fix in-game issues (Will cause temporary lag)"
 	}
 	"InGameDarkener"
 	{

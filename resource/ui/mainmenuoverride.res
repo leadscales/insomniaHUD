@@ -377,44 +377,19 @@
 		"xpos"										"0"
 		"ypos"										"rs1"
 		"zpos"										"51"
-		"wide"										"f80"
+		"wide"										"f0"
 		"tall"										"20"
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
-
-		"CustomizeButton"
-		{
-			"ControlName"							"CExButton"
-			"fieldName"								"CustomizeButton"
-			"xpos"									"0"
-			"ypos"									"0"
-			"zpos"									"16"
-			"wide"									"20"
-			"tall"									"f0"
-			"proportionaltoparent"					"1"
-
-			"labelText"								"s"
-			"actionsignallevel"						"2"
-			"font"									"iconsSmall"
-			"textalignment"							"center"
-			"use_proportional_insets"				"1"
-			"command"								"engine ih_custom_on; ih_reloadmenus"
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
-
-			"paintbackground"						"0"
-			"border_default"						"LINE_BOTTOM_PrimaryT3"
-			"border_armed"							"LINE_BOTTOM_Primary"
-		}
 
 		"ButtonsContainer"
 		{
 			"ControlName"								"EditablePanel"
 			"fieldName"									"ButtonsContainer"
-			"xpos"										"20"
+			"xpos"										"0"
 			"ypos"										"0"
 			"zpos"										"51"
-			"wide"										"f20"
+			"wide"										"f0"
 			"tall"										"f0"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"Blank"
@@ -427,33 +402,51 @@
 				"xpos"										"0"
 				"ypos"										"0"
 				"zpos"										"15"
-				"wide"										"p0.25"
+				"wide"										"p0.2"
 				"tall"										"20"
 				"proportionaltoparent"						"1"
 				"paintbackground"							"0"
 
-				"ItemsButton"
+				"Icon"
 				{
-					"ControlName"							"CExButton"
-					"fieldName"								"ItemsButton"
+					"ControlName"							"CExLabel"
+					"fieldName"								"Icon"
 					"xpos"									"0"
 					"ypos"									"0"
-					"zpos"									"16"
+					"wide"									"20"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+					"mouseinputenabled"						"0"
+					
+					"labelText"								"b"
+					"textAlignment"							"center"
+					"font"									"iconsSmall"
+				}
+
+				"Button"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"Button"
+					"xpos"									"0"
+					"ypos"									"0"
 					"wide"									"f0"
 					"tall"									"f0"
 					"proportionaltoparent"					"1"
 
 					"labelText"								"#MMenu_CharacterSetup"
-					"allcaps"								"1"
-					"actionsignallevel"						"4"
+					"textAlignment"							"west"
 					"font"									"regular14"
-					"textalignment"							"center"
+					"allcaps"								"1"
+					"textinsetx"							"20"
 					"use_proportional_insets"				"1"
+					
 					"command"								"engine open_charinfo"
+					"actionsignallevel"						"4"
 					"sound_depressed"						"UI/buttonclick.wav"
 					"sound_released"						"UI/buttonclickrelease.wav"
 
-					"paintbackground"						"0"
+					"defaultbgcolor_override"				"Blank"
+					"armedbgcolor_override"					"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -463,36 +456,54 @@
 			{
 				"ControlName"								"EditablePanel"
 				"fieldname"									"Options"
-				"xpos"										"p0.25"
+				"xpos"										"p0.2"
 				"ypos"										"0"
 				"zpos"										"15"
-				"wide"										"p0.25"
+				"wide"										"p0.2"
 				"tall"										"20"
 				"proportionaltoparent"						"1"
 				"paintbackground"							"0"
 
-				"OptionsButton"
+				"Icon"
 				{
-					"ControlName"							"CExButton"
-					"fieldName"								"OptionsButton"
+					"ControlName"							"CExLabel"
+					"fieldName"								"Icon"
 					"xpos"									"0"
 					"ypos"									"0"
-					"zpos"									"16"
+					"wide"									"20"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+					"mouseinputenabled"						"0"
+					
+					"labelText"								"s"
+					"textAlignment"							"center"
+					"font"									"iconsSmall"
+				}
+
+				"Button"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"Button"
+					"xpos"									"0"
+					"ypos"									"0"
 					"wide"									"f0"
 					"tall"									"f0"
 					"proportionaltoparent"					"1"
 
 					"labelText"								"#MMenu_Tooltip_Options"
-					"allcaps"								"1"
-					"actionsignallevel"						"4"
+					"textAlignment"							"west"
 					"font"									"regular14"
-					"textalignment"							"center"
+					"allcaps"								"1"
+					"textinsetx"							"20"
 					"use_proportional_insets"				"1"
-					"command"								"OpenOptionsDialog"
+					
+					"command"								"openoptionsdialog"
+					"actionsignallevel"						"4"
 					"sound_depressed"						"UI/buttonclick.wav"
 					"sound_released"						"UI/buttonclickrelease.wav"
 
-					"paintbackground"						"0"
+					"defaultbgcolor_override"				"Blank"
+					"armedbgcolor_override"					"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -502,36 +513,54 @@
 			{
 				"ControlName"								"EditablePanel"
 				"fieldname"									"Advanced"
-				"xpos"										"p0.5"
+				"xpos"										"p0.4"
 				"ypos"										"0"
 				"zpos"										"15"
-				"wide"										"p0.25"
+				"wide"										"p0.2"
 				"tall"										"20"
 				"proportionaltoparent"						"1"
 				"paintbackground"							"0"
 
-				"AdvancedButton"
+				"Icon"
 				{
-					"ControlName"							"CExButton"
-					"fieldName"								"AdvancedButton"
+					"ControlName"							"CExLabel"
+					"fieldName"								"Icon"
 					"xpos"									"0"
 					"ypos"									"0"
-					"zpos"									"16"
+					"wide"									"20"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+					"mouseinputenabled"						"0"
+					
+					"labelText"								"T"
+					"textAlignment"							"center"
+					"font"									"iconsSmall"
+				}
+
+				"Button"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"Button"
+					"xpos"									"0"
+					"ypos"									"0"
 					"wide"									"f0"
 					"tall"									"f0"
 					"proportionaltoparent"					"1"
 
 					"labelText"								"ADVANCED"
-					"allcaps"								"1"
-					"actionsignallevel"						"4"
+					"textAlignment"							"west"
 					"font"									"regular14"
-					"textalignment"							"center"
+					"allcaps"								"1"
+					"textinsetx"							"20"
 					"use_proportional_insets"				"1"
+					
 					"command"								"engine opentf2options"
+					"actionsignallevel"						"4"
 					"sound_depressed"						"UI/buttonclick.wav"
 					"sound_released"						"UI/buttonclickrelease.wav"
 
-					"paintbackground"						"0"
+					"defaultbgcolor_override"				"Blank"
+					"armedbgcolor_override"					"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -541,37 +570,111 @@
 			{
 				"ControlName"								"EditablePanel"
 				"fieldname"									"Store"
-				"xpos"										"p0.75"
+				"xpos"										"p0.6"
 				"ypos"										"0"
 				"zpos"										"15"
-				"wide"										"p0.25"
+				"wide"										"p0.2"
 				"tall"										"20"
 				"proportionaltoparent"						"1"
 				"paintbackground"							"0"
 
-
-				"StoreButton"
+				"Icon"
 				{
-					"ControlName"							"CExButton"
-					"fieldName"								"StoreButton"
+					"ControlName"							"CExLabel"
+					"fieldName"								"Icon"
 					"xpos"									"0"
 					"ypos"									"0"
-					"zpos"									"16"
+					"wide"									"20"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+					"mouseinputenabled"						"0"
+					
+					"labelText"								"g"
+					"textAlignment"							"center"
+					"font"									"iconsSmall"
+				}
+
+				"Button"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"Button"
+					"xpos"									"0"
+					"ypos"									"0"
 					"wide"									"f0"
 					"tall"									"f0"
 					"proportionaltoparent"					"1"
 
 					"labelText"								"#MMenu_Shop"
-					"allcaps"								"1"
-					"actionsignallevel"						"4"
+					"textAlignment"							"west"
 					"font"									"regular14"
-					"textalignment"							"center"
+					"allcaps"								"1"
+					"textinsetx"							"20"
 					"use_proportional_insets"				"1"
+					
 					"command"								"engine open_store"
+					"actionsignallevel"						"4"
 					"sound_depressed"						"UI/buttonclick.wav"
 					"sound_released"						"UI/buttonclickrelease.wav"
 
-					"paintbackground"						"0"
+					"defaultbgcolor_override"				"Blank"
+					"armedbgcolor_override"					"Blank"
+					"border_default"						"LINE_BOTTOM_PrimaryT3"
+					"border_armed"							"LINE_BOTTOM_Primary"
+				}
+			}
+
+			"Customize"
+			{
+				"ControlName"								"EditablePanel"
+				"fieldname"									"Customize"
+				"xpos"										"p0.8"
+				"ypos"										"0"
+				"zpos"										"15"
+				"wide"										"p0.2"
+				"tall"										"20"
+				"proportionaltoparent"						"1"
+				"paintbackground"							"0"
+
+				"Icon"
+				{
+					"ControlName"							"CExLabel"
+					"fieldName"								"Icon"
+					"xpos"									"0"
+					"ypos"									"0"
+					"wide"									"20"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+					"mouseinputenabled"						"0"
+					
+					"labelText"								"P"
+					"textAlignment"							"center"
+					"font"									"iconsSmall"
+				}
+
+				"Button"
+				{
+					"ControlName"							"CExButton"
+					"fieldName"								"Button"
+					"xpos"									"0"
+					"ypos"									"0"
+					"wide"									"f0"
+					"tall"									"f0"
+					"proportionaltoparent"					"1"
+
+					"labelText"								"#MMenu_Customize"
+					"textAlignment"							"west"
+					"font"									"regular14"
+					"allcaps"								"1"
+					"textinsetx"							"20"
+					"use_proportional_insets"				"1"
+					
+					"command"								"engine ih_custom_on; ih_reloadmenus"
+					"actionsignallevel"						"4"
+					"sound_depressed"						"UI/buttonclick.wav"
+					"sound_released"						"UI/buttonclickrelease.wav"
+
+					"defaultbgcolor_override"				"Blank"
+					"armedbgcolor_override"					"Blank"
 					"border_default"						"LINE_BOTTOM_PrimaryT3"
 					"border_armed"							"LINE_BOTTOM_Primary"
 				}
@@ -819,13 +922,17 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"GameButtons"
-		"xpos"										"rs1"
-		"ypos"										"rs1"
+		"xpos"										"0"
+		"ypos"										"0"
 		"zpos"										"10"
-		"wide"										"80"
-		"tall"										"20"
+		"wide"										"20"
+		"tall"										"80"
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
+
+		"pin_to_sibling"							"DiscordHelpButton"
+		"pin_corner_to_sibling"						"PIN_TOPLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
 		"CallVoteButton"
 		{
@@ -865,14 +972,11 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"defaultFgColor_override" 	"PrimaryT4"
+				"armedFgColor_override" 	"Primary"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
-
-				"border_default"			"LINE_BOTTOM_PrimaryT3"
-				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
 
@@ -890,7 +994,7 @@
 
 			"pin_to_sibling"	"CallVoteButton"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 			"SubButton"
 			{
@@ -918,14 +1022,11 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"defaultFgColor_override" 	"PrimaryT4"
+				"armedFgColor_override" 	"Primary"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
-
-				"border_default"			"LINE_BOTTOM_PrimaryT3"
-				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
 
@@ -943,7 +1044,7 @@
 
 			"pin_to_sibling"	"MutePlayersButton"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 			"SubButton"
 			{
@@ -972,14 +1073,11 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"defaultFgColor_override" 	"PrimaryT4"
+				"armedFgColor_override" 	"Primary"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
-
-				"border_default"			"LINE_BOTTOM_PrimaryT3"
-				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
 
@@ -997,7 +1095,7 @@
 
 			"pin_to_sibling"	"ReportPlayerButton"
 			"pin_corner_to_sibling"	"PIN_TOPLEFT"
-			"pin_to_sibling_corner"	"PIN_TOPRIGHT"
+			"pin_to_sibling_corner"	"PIN_BOTTOMLEFT"
 
 			"SubButton"
 			{
@@ -1025,29 +1123,16 @@
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
 
-				"defaultFgColor_override" 	"White"
-				"armedFgColor_override" 	"White"
+				"sound_depressed"	"UI/buttonclick.wav"
+				"sound_released"	"UI/buttonclickrelease.wav"
+
+				"defaultFgColor_override" 	"PrimaryT4"
+				"armedFgColor_override" 	"Primary"
 
 				"defaultBgColor_override" 	"Blank"
 				"armedBgColor_override" 	"Blank"
-
-				"border_default"			"LINE_BOTTOM_PrimaryT3"
-				"border_armed"				"LINE_BOTTOM_Primary"
 			}
 		}
-	}
-
-	"AtMenuExtension"
-	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"AtMenuExtension"
-		"xpos"										"rs1"
-		"ypos"										"rs1"
-		"zpos"										"10"
-		"wide"										"80"
-		"tall"										"20"
-		"bgcolor_override"							"Blank"
-		"border"									"LINE_BOTTOM_PrimaryT3"
 	}
 
 	//==================================================================================================================================================
@@ -1195,15 +1280,15 @@
 		"ControlName"								"EditablePanel"
 		"fieldname"									"Notifications_ShowButtonPanel"
 		"xpos"										"0"
-		"ypos"										"0"
+		"ypos"										"-20"
 		"zpos"										"15"
 		"wide"										"20"
 		"tall"										"20"
 		"visible"									"1"
 
-		"pin_to_sibling" 							"DiscordHelpButton"
-		"pin_corner_to_sibling" 					"PIN_TOPLEFT"
-		"pin_to_sibling_corner" 					"PIN_BOTTOMLEFT"
+		"pin_to_sibling"							"PrimaryPanel"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMRIGHT"
 
 		"Notifications_CountLabel"
 		{
@@ -1250,7 +1335,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"Notifications_Panel"
 		"xpos"										"5"
-		"ypos"										"-80"
+		"ypos"										"-40"
 		"zpos"										"17"
 		"wide"										"210"
 		"tall"										"80"
@@ -1260,8 +1345,8 @@
 		"border"									"MainMenuHighlightBorder"
 
 		"pin_to_sibling"							"PrimaryPanel"
-		"pin_corner_to_sibling"						"PIN_TOPLEFT"
-		"pin_to_sibling_corner"						"PIN_TOPRIGHT"
+		"pin_corner_to_sibling"						"PIN_BOTTOMLEFT"
+		"pin_to_sibling_corner"						"PIN_BOTTOMRIGHT"
 
 		"Notifications_CloseButton"
 		{
@@ -1362,7 +1447,7 @@
 		"xpos"										"0"
 		"ypos"										"0"
 		"zpos"										"10000"
-		"wide"										"140"
+		"wide"										"200"
 		"tall"										"20"
 		"visible"									"0"
 		"PaintBackground"							"0"
