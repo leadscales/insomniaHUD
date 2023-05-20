@@ -930,7 +930,7 @@
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
 
-		"pin_to_sibling"							"DiscordHelpButton"
+		"pin_to_sibling"							"EnableDevmodeButton"
 		"pin_corner_to_sibling"						"PIN_TOPLEFT"
 		"pin_to_sibling_corner"						"PIN_BOTTOMLEFT"
 
@@ -1240,6 +1240,50 @@
 		"proportionaltoparent"		"1"
 
 		"pin_to_sibling"			"DiscordButton"
+		"pin_corner_to_sibling"		"PIN_TOPLEFT"
+		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
+
+		"SubButton"
+		{
+			"ControlName"				"CExImageButton"
+			"fieldName"					"SubButton"
+			"xpos"						"0"
+			"ypos"						"0"
+			"wide"						"f0"
+			"tall"						"f0"
+			"autoResize"				"0"
+			"visible"					"1"
+			"enabled"					"1"
+			"font"						"iconsSmall"
+			"textAlignment"				"center"
+			"use_proportional_insets"	"1"
+			"proportionaltoparent"		"1"
+			"default"					"1"
+			"actionsignallevel" 		"2"
+			"paintbackground"			"0"
+			"textinsety"				"0"
+
+			"sound_depressed"			"UI/buttonclick.wav"
+			"sound_released"			"UI/buttonclickrelease.wav"
+
+			"defaultFgColor_override" 	"PrimaryT4"
+			"armedFgColor_override" 	"Primary"
+		}
+	}
+
+	"EnableDevmodeButton"
+	{
+		"ControlName"				"EditablePanel"
+		"fieldname"					"EnableDevmodeButton"
+		"xpos"						"0"
+		"ypos"						"0"
+		"zpos"						"50"
+		"wide"						"20"
+		"tall"						"20"
+		"visible"					"1"
+		"proportionaltoparent"		"1"
+
+		"pin_to_sibling"			"DiscordHelpButton"
 		"pin_corner_to_sibling"		"PIN_TOPLEFT"
 		"pin_to_sibling_corner"		"PIN_BOTTOMLEFT"
 

@@ -7,10 +7,10 @@
 		"visible" 		        					"1"
 		"enabled" 		        					"1"
 		"xpos"			          					"5"
-		"ypos"			          					"180"
+		"ypos"			          					"rs1-60"
 		"wide"	 		          					"260"
 		"tall"	 		         					"120"
-		"PaintBackgroundType"						"2"
+		"PaintBackgroundType"						"0"
 	}
 
 	"ChatInputLine"

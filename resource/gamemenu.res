@@ -51,4 +51,10 @@
 		"command"									"url https://discord.gg/RKRrSEAshs"
 		"tooltip"									"Join our Discord server's help channel"
 	}
+	"EnableDevmodeButton"
+	{
+		"label"										"p"
+		"command"									"engine ih_devpanel_on; ih_reloadmenus"
+		"tooltip"									"Toggle the developer panel"
+	}
 }
