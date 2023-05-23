@@ -54,7 +54,7 @@ insomniaHUD is a work-in-progress HUD designed for long play sessions. It is sti
 ## Customization
 
 ### Through the In-Game menu
-In the main menu, there is a button with a **Gear icon** on it. This will enable Customization mode. The options are self explanitory.
+In the main menu, there is a button labeled **CUSTOMIZE** with a paint palette icon next to it. This will enable Customization mode. The options are self explanitory.
 
 ---
 
