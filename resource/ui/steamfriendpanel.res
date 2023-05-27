@@ -29,7 +29,7 @@
 		"paintbackground"							"1"
 
 		"defaultBgColor_override"					"Blank"
-		"armedBgColor_override"						"PanelT3"
+		"armedBgColor_override"						"PrimaryT4"
 		
 		"border_default"							"NoBorder"
 		"border_armed"								"LINE_FULL_LEFT_Primary"
@@ -43,8 +43,8 @@
 		"ypos"										"0"
 		"zpos"										"100"
 		"wide"										"f30"
-		"tall"										"10"
-		"textAlignment"								"west"
+		"tall"										"20"
+		"textAlignment"								"north-west"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
@@ -59,11 +59,11 @@
 	{
 		"fieldName"									"StatusLabel"
 		"xpos"										"rs1"
-		"ypos"										"rs1"
+		"ypos"										"0"
 		"zpos"										"100"
 		"wide"										"f30"
-		"tall"										"10"
-		"textAlignment"								"west"
+		"tall"										"20"
+		"textAlignment"								"south-west"
 		"visible"									"1"
 		"enabled"									"1"
 		"proportionaltoparent"						"1"
@@ -72,6 +72,7 @@
 		"proportionaltoparent"						"1"
 		"font"										"regular9"
 		"fgcolor_override"							"Text0"
+		"alpha"										"102"
 		"mouseinputenabled"							"0"
 	}
 }

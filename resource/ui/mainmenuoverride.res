@@ -237,11 +237,14 @@
 		"xpos"										"cs-0.5"
 		"ypos"										"rs1-20"
 		"zpos"										"100"
-		"wide"										"40"
+		"wide"										"100"
 		"tall"										"20"
 		"proportionaltoparent"						"1"	
 		"mouseinputenabled"							"1"
-		"labeltext"									"BETA"
+		"labeltext"									"BETA : WINDOWS" [$WINDOWS]
+		"labeltext"									"BETA : OSX" [$OSX]
+		"labeltext"									"BETA : LINUX" [$LINUX]
+		"labeltext"									"BETA : UNKNOWN" [$WIN32]
 		"command"									"engine clear; showconsole; ih_version"
 		"font"										"regular14"
 		"border_default"							"NoBorder"
@@ -382,14 +385,40 @@
 		"bgcolor_override"							"Blank"
 		"border"									"NoBorder"
 
+		"ButtonsContainerLeftMargin"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"ButtonsContainerLeftMargin"
+			"xpos"										"0"
+			"ypos"										"0"
+			"wide"										"20"
+			"tall"										"f0"
+			"proportionaltoparent"						"1"
+			"bgcolor_override"							"Blank"
+			"border"									"LINE_BOTTOM_PrimaryT3"
+		}
+
+		"ButtonsContainerRightMargin"
+		{
+			"ControlName"								"EditablePanel"
+			"fieldName"									"ButtonsContainerRightMargin"
+			"xpos"										"rs1"
+			"ypos"										"0"
+			"wide"										"20"
+			"tall"										"f0"
+			"proportionaltoparent"						"1"
+			"bgcolor_override"							"Blank"
+			"border"									"LINE_BOTTOM_PrimaryT3"
+		}
+
 		"ButtonsContainer"
 		{
 			"ControlName"								"EditablePanel"
 			"fieldName"									"ButtonsContainer"
-			"xpos"										"0"
+			"xpos"										"cs-0.5"
 			"ypos"										"0"
 			"zpos"										"51"
-			"wide"										"f0"
+			"wide"										"f40"
 			"tall"										"f0"
 			"proportionaltoparent"						"1"
 			"bgcolor_override"							"Blank"
@@ -434,11 +463,9 @@
 					"proportionaltoparent"					"1"
 
 					"labelText"								"#MMenu_CharacterSetup"
-					"textAlignment"							"west"
+					"textAlignment"							"center"
 					"font"									"regular14"
 					"allcaps"								"1"
-					"textinsetx"							"20"
-					"use_proportional_insets"				"1"
 					
 					"command"								"engine open_charinfo"
 					"actionsignallevel"						"4"
@@ -491,11 +518,9 @@
 					"proportionaltoparent"					"1"
 
 					"labelText"								"#MMenu_Tooltip_Options"
-					"textAlignment"							"west"
+					"textAlignment"							"center"
 					"font"									"regular14"
 					"allcaps"								"1"
-					"textinsetx"							"20"
-					"use_proportional_insets"				"1"
 					
 					"command"								"openoptionsdialog"
 					"actionsignallevel"						"4"
@@ -548,11 +573,9 @@
 					"proportionaltoparent"					"1"
 
 					"labelText"								"ADVANCED"
-					"textAlignment"							"west"
+					"textAlignment"							"center"
 					"font"									"regular14"
 					"allcaps"								"1"
-					"textinsetx"							"20"
-					"use_proportional_insets"				"1"
 					
 					"command"								"engine opentf2options"
 					"actionsignallevel"						"4"
@@ -605,11 +628,9 @@
 					"proportionaltoparent"					"1"
 
 					"labelText"								"#MMenu_Shop"
-					"textAlignment"							"west"
+					"textAlignment"							"center"
 					"font"									"regular14"
 					"allcaps"								"1"
-					"textinsetx"							"20"
-					"use_proportional_insets"				"1"
 					
 					"command"								"engine open_store"
 					"actionsignallevel"						"4"
@@ -662,11 +683,9 @@
 					"proportionaltoparent"					"1"
 
 					"labelText"								"#MMenu_Customize"
-					"textAlignment"							"west"
+					"textAlignment"							"center"
 					"font"									"regular14"
 					"allcaps"								"1"
-					"textinsetx"							"20"
-					"use_proportional_insets"				"1"
 					
 					"command"								"engine ih_custom_on; ih_reloadmenus"
 					"actionsignallevel"						"4"
